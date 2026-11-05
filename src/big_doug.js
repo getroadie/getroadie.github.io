@@ -31,7 +31,7 @@ function bigDoug(mood, cls) {
   const headset = `<path d="M64 98 C52 126 56 168 92 190" fill="none" stroke="#16202e" stroke-width="3.4" stroke-linecap="round"/><circle cx="94" cy="191" r="5" fill="#16202e"/>
     <circle cx="64" cy="94" r="9.5" fill="#16202e" stroke="#3a4356" stroke-width="2.5"/>`;
   const badge = `<path d="M108 210 L114 244 M132 210 L126 244" stroke="#f5b301" stroke-width="4"/>
-    <g transform="rotate(-4 120 252)"><rect x="100" y="240" width="40" height="26" rx="4" fill="#fff" stroke="${O}" stroke-width="2.4"/><rect x="100" y="240" width="40" height="8" rx="3" fill="#f5b301"/><text x="120" y="261" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="10" text-anchor="middle" fill="#16202e">CREW</text></g>`;
+    <g transform="rotate(-4 120 252)"><rect x="94" y="240" width="52" height="26" rx="4" fill="#fff" stroke="${O}" stroke-width="2.4"/><rect x="94" y="240" width="52" height="8" rx="3" fill="#f5b301"/><text x="120" y="260.5" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="8.6" text-anchor="middle" fill="#16202e">CO-PILOT</text></g>`;
   let eyes, mouth, extra = "";
   if (mood === "panic") {
     eyes = `<ellipse cx="100" cy="106" rx="14" ry="15" fill="#fff" stroke="${O}" stroke-width="2"/><ellipse cx="140" cy="106" rx="14" ry="15" fill="#fff" stroke="${O}" stroke-width="2"/>
@@ -56,5 +56,5 @@ function bigDoug(mood, cls) {
   }
   return `<svg class="${cls || "doug"}" viewBox="0 0 240 272" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Big Doug the moose">${defs}
     ${body}${antler}<g transform="translate(240 0) scale(-1 1)">${antler}</g>${ear}<g transform="translate(240 0) scale(-1 1)">${ear}</g>
-    ${head}${eyes}${muzzle}${mouth}${cap}${headset}${badge}${extra}</svg>`;
+    ${head}${eyes}${muzzle}${mouth}${cap}${badge}${extra}</svg>`;
 }
