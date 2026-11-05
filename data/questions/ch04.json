@@ -1,0 +1,482 @@
+[
+{
+  "id": "c04-001", "ch": 4, "sec": "s057", "page": 60, "type": "rule", "img": null,
+  "q": "Even when you have the right-of-way, what are you still responsible for?",
+  "choices": ["Proceeding first so other drivers know what to expect", "Doing everything you can to prevent a collision", "Sounding your horn before entering the intersection", "Nothing more, since the other driver must yield"],
+  "answer": 1,
+  "hint": "Having the right-of-way does not end your duty to drive safely.",
+  "explain": "Right-of-way rules tell you who should yield, but you must still do everything you can to avoid a collision.",
+  "quote": "However, even if you have the right-of-way, you are still responsible to do everything you can to prevent a collision.",
+  "topic": "Right-of-way general principles"
+},
+{
+  "id": "c04-002", "ch": 4, "sec": "s058", "page": 60, "type": "rule", "img": null,
+  "q": "Your traffic light is green, but a police officer directing traffic signals you to stop. What must you do?",
+  "choices": ["Proceed, because the green light comes first", "Proceed slowly and sound your horn", "Stop, because the officer's direction comes before the signal", "Stop only if other vehicles are in the intersection"],
+  "answer": 2,
+  "hint": "Think about who outranks a sign or a light.",
+  "explain": "Directions given by a peace officer or police officer must be followed over traffic signs or signals.",
+  "quote": "Directions given by a peace officer or police officer must be followed over traffic signs or signals.",
+  "topic": "Police directing traffic"
+},
+{
+  "id": "c04-003", "ch": 4, "sec": "s058", "page": 60, "type": "rule", "img": null,
+  "q": "What does a stop sign require you to do?",
+  "choices": ["Come to a complete stop, check for pedestrians and traffic, then go when safe", "Slow down, and continue without stopping if no one is coming", "Stop only if there are vehicles on the cross street", "Stop only if a pedestrian is waiting to cross the street"],
+  "answer": 0,
+  "hint": "A rolling stop is not a stop.",
+  "explain": "At a stop sign you must come to a complete stop, check the intersection carefully, and go only when it is safe.",
+  "quote": "A stop sign indicates that your vehicle must come to a complete stop. After stopping, check the intersection carefully for pedestrians and other traffic. When safe, you may proceed.",
+  "topic": "Stop sign"
+},
+{
+  "id": "c04-004", "ch": 4, "sec": "s058", "page": 60, "type": "rule", "img": null,
+  "q": "You come to a stop sign where a stop line is painted on the road. Where must your vehicle stop?",
+  "choices": ["With the front wheels on the stop line", "Past the stop line, at the edge of the cross street", "Before the stop line", "Anywhere within 15 metres of the stop line"],
+  "answer": 2,
+  "hint": "The painted line marks a limit you should not cross.",
+  "explain": "Where a stop line is marked, you must come to a complete stop before it.",
+  "quote": "Where a stop line has been marked, bring your vehicle to a complete stop before the stop line.",
+  "topic": "Stop sign: where to stop"
+},
+{
+  "id": "c04-005", "ch": 4, "sec": "s058", "page": 60, "type": "rule", "img": null,
+  "q": "At a stop sign there is no stop line, but there is a marked crosswalk. Where do you stop?",
+  "choices": ["In the marked crosswalk, so you can see better", "Past the crosswalk, at the edge of the cross street", "Within 30 metres of the crosswalk", "Before the marked crosswalk"],
+  "answer": 3,
+  "hint": "Pedestrians need that painted area kept clear.",
+  "explain": "When there is no stop line, you must stop before the marked crosswalk.",
+  "quote": "Where there is no stop line, stop before the marked crosswalk.",
+  "topic": "Stop sign: where to stop"
+},
+{
+  "id": "c04-006", "ch": 4, "sec": "s058", "page": 61, "type": "rule", "img": null,
+  "q": "At a stop sign with no stop line and no marked crosswalk, the rule says you must stop within what distance of the intersecting road?",
+  "choices": ["Within 3 metres", "Within 10 metres", "Within 15 metres", "Within 30 metres"],
+  "answer": 0,
+  "hint": "Close enough to see cross traffic, but not blocking people who are crossing.",
+  "explain": "With no stop line or marked crosswalk, you must stop within three metres (10 feet) of the intersecting roadway, where you will not block pedestrians.",
+  "quote": "If there is no stop line or marked crosswalk at the intersection, you must stop within three metres (10 feet) of the intersecting roadway.",
+  "topic": "Stop sign: where to stop"
+},
+{
+  "id": "c04-007", "ch": 4, "sec": "s058", "page": 61, "type": "rule", "img": null,
+  "q": "At a four-way stop, several vehicles arrive at different times. Which vehicle should go first?",
+  "choices": ["The vehicle on the far left", "The vehicle going straight through", "The largest vehicle", "The vehicle that arrived first"],
+  "answer": 3,
+  "hint": "Think first come, first served.",
+  "explain": "At three- and four-way stops, courtesy is to let the vehicle that arrived first go first.",
+  "quote": "Courtesy is to allow the vehicle that arrived first to proceed first.",
+  "topic": "Four-way stop order"
+},
+{
+  "id": "c04-008", "ch": 4, "sec": "s058", "page": 61, "type": "rule", "img": null,
+  "q": "You and another driver arrive at a four-way stop at the same time. The other vehicle is on your right. Who should go first?",
+  "choices": ["You, because you are on the left", "The vehicle on your right", "Whichever driver signals first", "Whichever driver is going straight"],
+  "answer": 1,
+  "hint": "The same side gets priority at intersections that have no signs at all.",
+  "explain": "If two vehicles arrive at the same time, courtesy allows the vehicle on the right to go first.",
+  "quote": "If two vehicles arrive at the same time, courtesy allows the vehicle on the right to proceed first.",
+  "topic": "Four-way stop order"
+},
+{
+  "id": "c04-009", "ch": 4, "sec": "s058", "page": 61, "type": "rule", "img": null,
+  "q": "What does a yield sign mean?",
+  "choices": ["You must let vehicles that do not face a yield sign go first", "You must always come to a complete stop", "You have the right-of-way over cross traffic", "You must speed up to merge ahead of traffic"],
+  "answer": 0,
+  "hint": "The sign is about giving way, not about being in charge.",
+  "explain": "A yield sign means you must let vehicles that do not face a yield sign proceed first. Slow down and be ready to stop.",
+  "quote": "A yield sign means that you must allow other vehicles that do not face a yield sign the right-of-way to proceed.",
+  "topic": "Yield sign"
+},
+{
+  "id": "c04-010", "ch": 4, "sec": "s058", "page": 61, "type": "rule", "img": null,
+  "q": "You reach a yield sign and there is no traffic and no pedestrians you need to yield to. What may you do?",
+  "choices": ["You must still come to a complete stop", "Stop and count to three before going", "Go through without coming to a complete stop", "Sound your horn, then go"],
+  "answer": 2,
+  "hint": "A yield sign is not the same as a stop sign.",
+  "explain": "If there is no one you must yield to, you may go through without a complete stop, at a speed that still lets you stop easily.",
+  "quote": "If there are no pedestrians or traffic that you are required to yield to, you may proceed through the intersection without coming to a complete stop.",
+  "topic": "Yield sign"
+},
+{
+  "id": "c04-011", "ch": 4, "sec": "s059", "page": 61, "type": "rule", "img": null,
+  "q": "At an intersection with no signs and no traffic lights, which vehicle must you yield to?",
+  "choices": ["A vehicle on your left", "The vehicle travelling faster", "The vehicle on the wider road", "A vehicle on your right"],
+  "answer": 3,
+  "hint": "It is the same side that gets courtesy when two vehicles reach a four-way stop together.",
+  "explain": "At uncontrolled intersections, you must yield the right-of-way to a vehicle on your right.",
+  "quote": "Some intersections have no traffic signs and no traffic signal lights. At these intersections, you must yield the right-of-way to a vehicle on your right.",
+  "topic": "Uncontrolled intersection: yield to vehicle on the right"
+},
+{
+  "id": "c04-012", "ch": 4, "sec": "s059", "page": 61, "type": "rule", "img": null,
+  "q": "You are approaching an intersection with no signs or signals, and parked cars block your view of the cross street. What should you do?",
+  "choices": ["Keep your speed so you clear the intersection quickly", "Speed up to get through before anyone arrives", "Sound your horn and keep going at the same speed", "Reduce your speed enough to be able to stop easily"],
+  "answer": 3,
+  "hint": "If you cannot see what is coming, you need room to react.",
+  "explain": "When your view is blocked, you must slow down enough to stop your vehicle easily. Slow down even more on slippery roads.",
+  "quote": "Your view may be obstructed by fences, trees, or parked cars. You must reduce your speed enough to be able to stop your vehicle easily.",
+  "topic": "Uncontrolled intersection"
+},
+{
+  "id": "c04-013", "ch": 4, "sec": "s059", "page": 62, "type": "rule", "img": null,
+  "q": "At a T intersection with no signs or signals, you are driving straight through along the top of the T. A vehicle is approaching on the side road to your right. Who has the right-of-way?",
+  "choices": ["You do, because you are going straight through", "The driver on the side road, who is on your right", "You do, because you are on the through road", "Whichever driver is moving faster"],
+  "answer": 1,
+  "hint": "There are no signs here, so the usual rule for uncontrolled intersections applies.",
+  "explain": "With no signs or signals, the driver on the right has the right-of-way, even at a T intersection. The driver going straight must not assume they have it.",
+  "quote": "There are no traffic control signs or signals, therefore the driver on the right (vehicle B) has the right-of-way. Be careful in this situation in case the driver going straight through (vehicle A) incorrectly assumes the right-of-way.",
+  "topic": "T intersection without signs"
+},
+{
+  "id": "c04-014", "ch": 4, "sec": "s059", "page": 62, "type": "rule", "img": null,
+  "q": "At an intersection with no signs or signals, you want to turn left. A car is coming straight toward you from the opposite direction. Who must yield?",
+  "choices": ["The oncoming car, because you signalled first", "The oncoming car, because you arrived first", "You, because you would be crossing its path", "Neither, since you are not on each other's right"],
+  "answer": 2,
+  "hint": "The driver whose turn cuts across the other's lane has to wait.",
+  "explain": "A driver turning left across the path of an approaching vehicle must wait until it is safe. Neither vehicle is to the right of the other, so the turning driver yields.",
+  "quote": "A yields to B: A would be crossing B's path and neither is to the right of the other. ... A driver turning left across the path of an approaching vehicle cannot turn left until it is safe.",
+  "topic": "Left turns: yield to oncoming traffic"
+},
+{
+  "id": "c04-015", "ch": 4, "sec": "s059", "page": 62, "type": "rule", "img": null,
+  "q": "You are driving out of an alley onto a main street, and a sidewalk crosses the alley exit. What must you do?",
+  "choices": ["Stop before the sidewalk, stop again before the street, and yield to pedestrians", "Slow down at the sidewalk, and come to a full stop only at the street", "Stop at the sidewalk only if a pedestrian is walking on it", "Sound your horn and enter the street slowly without stopping"],
+  "answer": 0,
+  "hint": "Think about both the people walking and the traffic on the street.",
+  "explain": "When leaving an alley, driveway, parking lot or service road, you must stop before any sidewalk crossing, stop before entering the main street, and yield to pedestrians.",
+  "quote": "When exiting from service roads, alleys, parking lots, and driveways, you must: stop before any sidewalk crossing stop before entering a main street yield to pedestrians.",
+  "topic": "Entering roadway from driveway/alley"
+},
+{
+  "id": "c04-016", "ch": 4, "sec": "s059", "page": 62, "type": "rule", "img": null,
+  "q": "Do right-of-way rules apply in a parking lot?",
+  "choices": ["No, parking lots are private property", "Only where a stop sign is posted", "Yes, parking lot intersections without signs follow the right-of-way rules", "Only when a parking attendant is present"],
+  "answer": 2,
+  "hint": "Where two parking lot lanes cross, that is still an intersection.",
+  "explain": "Parking lots have intersections without signs or signals, and the normal right-of-way rules apply.",
+  "quote": "Parking lots have intersections without signs or signals, and the right-of-way rules apply.",
+  "topic": "Right-of-way in parking lots"
+},
+{
+  "id": "c04-017", "ch": 4, "sec": "s059", "page": 62, "type": "rule", "img": null,
+  "q": "The car in the lane beside you stops at an intersection to let a pedestrian cross. There is no painted crosswalk. What must you do?",
+  "choices": ["Pass it carefully, since the crosswalk is not marked", "Stay behind it and do not pass it", "Pass it if the pedestrian is not yet in your lane", "Sound your horn and pass slowly"],
+  "answer": 1,
+  "hint": "Every intersection has crosswalks, even ones without paint.",
+  "explain": "All intersections have crosswalks, marked or unmarked, and you must not pass a vehicle that has stopped for a pedestrian.",
+  "quote": "All intersections have crosswalks that may be marked or unmarked and you must not pass another vehicle that has stopped for a pedestrian.",
+  "topic": "Do not pass a vehicle stopped for a pedestrian"
+},
+{
+  "id": "c04-018", "ch": 4, "sec": "s060", "page": 62, "type": "rule", "img": null,
+  "q": "Your light is green, but traffic on the far side of the intersection is backed up. When should you enter the intersection?",
+  "choices": ["Right away, because your light is green", "When you can get at least halfway across", "As soon as the car ahead of you starts moving", "Only when you can completely clear the intersection and the far crosswalk"],
+  "answer": 3,
+  "hint": "Think about the cross traffic when your light turns red.",
+  "explain": "Do not enter an intersection until you can completely clear it and the crosswalk on the other side. Stopping inside blocks cross traffic and pedestrians.",
+  "quote": "If traffic is delayed at an intersection, do not enter the intersection until you can completely clear the intersection and crosswalk on the other side.",
+  "topic": "Do not enter intersection unless you can clear it"
+},
+{
+  "id": "c04-019", "ch": 4, "sec": "s061", "page": 63, "type": "rule", "img": null,
+  "q": "In which direction does traffic travel around a roundabout or traffic circle?",
+  "choices": ["Clockwise", "Counterclockwise", "Either direction, whichever is shorter", "Clockwise for cars and counterclockwise for trucks"],
+  "answer": 1,
+  "hint": "Picture the hands of a clock, then think about which way you circle the island.",
+  "explain": "Traffic always circulates counterclockwise around the centre island.",
+  "quote": "Traffic always circulates in a counterclockwise direction around a centre island.",
+  "topic": "Roundabouts: counterclockwise"
+},
+{
+  "id": "c04-020", "ch": 4, "sec": "s061", "page": 63, "type": "rule", "img": null,
+  "q": "You are entering a roundabout. Who must you yield to?",
+  "choices": ["Traffic waiting to enter on your right", "No one, because traffic in the circle must yield to you", "Traffic already in the circle", "Only large trucks in the circle"],
+  "answer": 2,
+  "hint": "Think about who is already moving around the island.",
+  "explain": "Vehicles entering a roundabout or traffic circle must yield to traffic already in the circle.",
+  "quote": "Vehicles entering the intersection must yield to traffic already in the circle.",
+  "topic": "Roundabouts: yield to traffic in circle"
+},
+{
+  "id": "c04-021", "ch": 4, "sec": "s061", "page": 63, "type": "rule", "img": null,
+  "q": "How is a roundabout different from a traffic circle?",
+  "choices": ["It has a larger centre island so traffic can go faster", "It has a smaller centre island and a tighter curve to keep speeds lower", "Traffic in it travels clockwise instead of counterclockwise", "Drivers entering it have the right-of-way over drivers in it"],
+  "answer": 1,
+  "hint": "The design is meant to slow you down.",
+  "explain": "A roundabout has a smaller centre island than a traffic circle and a tighter curve that encourages lower speeds.",
+  "quote": "The centre island of a roundabout is smaller than the centre island of a traffic circle. The roundabout has been designed with a tighter curve around the island to encourage lower speeds",
+  "topic": "Roundabouts vs traffic circles"
+},
+{
+  "id": "c04-022", "ch": 4, "sec": "s061", "page": 63, "type": "rule", "img": null,
+  "q": "You are in a roundabout and plan to leave at the third exit. When should you turn on your right signal?",
+  "choices": ["Before you enter the circle", "As soon as you are in the circle", "After you pass the exit just before the one you want", "After you have left the circle"],
+  "answer": 2,
+  "hint": "The signal should tell others you are leaving at the very next exit.",
+  "explain": "Wait until you have passed the exit before your intended exit, then signal right. This tells others you will leave at the next exit.",
+  "quote": "Always wait to activate your right turn signal after passing the exit that is before your intended exit. This tells other drivers that you intend to leave the circle at the next exit.",
+  "topic": "Roundabouts: exit signal"
+},
+{
+  "id": "c04-023", "ch": 4, "sec": "s061", "page": 63, "type": "rule", "img": null,
+  "q": "You will take the first exit from a one-lane roundabout. How should you signal?",
+  "choices": ["Signal right as you approach and leave it on until you have exited", "Signal left as you approach, then right once inside", "Do not signal at all, since it is the first exit", "Signal right only after you pass the first exit"],
+  "answer": 0,
+  "hint": "You are leaving almost as soon as you enter.",
+  "explain": "For the first exit, use your right signal as you approach and keep it on until you have left the circle.",
+  "quote": "When you intend to exit at the first available exit: Use your right signal as you approach. Leave it on until you have exited the circle.",
+  "topic": "Roundabouts: exit signal"
+},
+{
+  "id": "c04-024", "ch": 4, "sec": "s061", "page": 64, "type": "rule", "img": null,
+  "q": "In a two-lane roundabout, which lane should you use to enter if you plan to go past the first exit?",
+  "choices": ["The right lane", "The left lane", "Either lane, then switch lanes inside the circle", "The right lane, then move left once inside"],
+  "answer": 1,
+  "hint": "Your lane choice depends on how far around the circle you are going.",
+  "explain": "Drivers planning to travel past the first exit should use the left lane to enter and exit.",
+  "quote": "Drivers planning to travel past the first exit should use the left lane to enter and exit.",
+  "topic": "Roundabouts: lane choice"
+},
+{
+  "id": "c04-025", "ch": 4, "sec": "s061", "page": 65, "type": "rule", "img": null,
+  "q": "In a two-lane roundabout, you want to take the first exit. Which lane should you approach and exit in?",
+  "choices": ["The left lane", "Either lane", "Enter in the left lane and exit in the right lane", "The right lane"],
+  "answer": 3,
+  "hint": "The first exit is the closest one.",
+  "explain": "For the first exit, approach the circle using the right lane, yield to traffic in the circle, and exit using the right lane.",
+  "quote": "Approach the circle using the right lane. ... Exit the circle using the right lane.",
+  "topic": "Roundabouts: lane choice"
+},
+{
+  "id": "c04-026", "ch": 4, "sec": "s061", "page": 64, "type": "rule", "img": null,
+  "q": "You are driving in the right lane of a two-lane roundabout and want to move into the left lane. What should you do?",
+  "choices": ["Signal and change to the left lane when there is a gap", "Stay in your lane, because you must not change lanes in the circle", "Stop in the circle, then move over when the left lane is clear", "Speed up and cut into the left lane"],
+  "answer": 1,
+  "hint": "Lane choice in a roundabout is made before you enter.",
+  "explain": "Do not change lanes in the circle. Pick your lane before you enter, and stay in it until you exit.",
+  "quote": "Do not change lanes in the circle.",
+  "topic": "Roundabouts: lane choice"
+},
+{
+  "id": "c04-027", "ch": 4, "sec": "s061", "page": 64, "type": "rule", "img": null,
+  "q": "Inside a two-lane roundabout, which drivers must yield?",
+  "choices": ["Drivers in the right lane yield to drivers in the left lane", "Drivers in the left lane yield to drivers in the right lane", "Drivers in the circle yield to drivers entering it", "No one yields once inside the circle"],
+  "answer": 0,
+  "hint": "Inside-lane drivers must cross the outside lane to leave.",
+  "explain": "While in the circle, drivers on the right must yield to drivers on the left. Left-lane drivers exit across the right lane, so use caution.",
+  "quote": "While in the circle, the drivers on the right must yield to the drivers on the left.",
+  "topic": "Roundabouts: yield inside the circle"
+},
+{
+  "id": "c04-028", "ch": 4, "sec": "s061", "page": 65, "type": "rule", "img": null,
+  "q": "You are in a roundabout and cannot exit safely at your planned exit. What should you do?",
+  "choices": ["Turn around and drive clockwise back to it", "Change lanes quickly and exit anyway", "Back up to the exit you missed", "Stay in your lane and go around the circle again"],
+  "answer": 3,
+  "hint": "A circle has no end, so there is always another chance.",
+  "explain": "If you cannot stop or exit safely, stay in your lane and travel around the circle again.",
+  "quote": "If you cannot stop or exit safely, stay in your lane and travel around the circle/ roundabout again.",
+  "topic": "Roundabouts: missed exit"
+},
+{
+  "id": "c04-029", "ch": 4, "sec": "s062", "page": 65, "type": "rule", "img": null,
+  "q": "How far before an intersection should you be in the proper lane for your turn?",
+  "choices": ["At least 3 metres", "At least 150 metres", "At least 300 metres", "At least 15 metres"],
+  "answer": 3,
+  "hint": "It is the same distance for both left and right turns.",
+  "explain": "Prepare for a turn well in advance. You should be in your proper turning lane at least 15 metres (50 feet) before the intersection.",
+  "quote": "You should be in your proper turning lane at least 15 metres (50 feet) before the intersection.",
+  "topic": "Lane to start turns"
+},
+{
+  "id": "c04-030", "ch": 4, "sec": "s062", "page": 66, "type": "rule", "img": null,
+  "q": "When turning right from a two-way road onto another two-way road, where should your vehicle be?",
+  "choices": ["Centred in the lane, not more than 1 metre from the curb or road's edge", "Straddling the curb lane and the lane beside it", "In the left part of the lane, about 3 metres from the curb", "Near the centre of the road, close to the yellow line"],
+  "answer": 0,
+  "hint": "Stay close to the right side of the road through the whole turn.",
+  "explain": "Stay centred in the turning lane, not more than one metre (three feet) from the curb or road's edge, before, during, and after the turn.",
+  "quote": "When making a right turn from a two-way road onto another two-way road, stay centred in the turning lane, not more than one metre (three feet) away from the curb or road's edge.",
+  "topic": "Right turns: position near curb"
+},
+{
+  "id": "c04-031", "ch": 4, "sec": "s062", "page": 66, "type": "rule", "img": null,
+  "q": "You are turning right and pedestrians are crossing the street you are turning onto. When may you enter that crosswalk?",
+  "choices": ["When the pedestrians reach the middle of the road", "As soon as your light turns green", "When the pedestrians are safely out of the intersection", "After you sound your horn and they stop"],
+  "answer": 2,
+  "hint": "Pedestrians in the crosswalk come first.",
+  "explain": "Yield to pedestrians in the crosswalk, and do not enter the crosswalk to turn until they are safely out of the intersection.",
+  "quote": "Yield to pedestrians crossing in the crosswalk. Do not enter the crosswalk to turn until pedestrians are safely out of the intersection.",
+  "topic": "Yield to pedestrians when turning"
+},
+{
+  "id": "c04-032", "ch": 4, "sec": "s062", "page": 66, "type": "rule", "img": null,
+  "q": "You are turning right, and a car is parked in the curb lane close to the corner of the street you are turning onto. Where should you turn?",
+  "choices": ["Into the curb lane, then stop behind the parked car", "Into the first available lane to the left of the parked car", "Into the far left lane of the new street", "Into the curb lane, then swerve around the parked car"],
+  "answer": 1,
+  "hint": "There is no room to finish the turn in the first lane.",
+  "explain": "If the first lane has a parked car or obstruction close to the corner, turn into the first available lane to the left of it. Yield to traffic coming from your left in that lane.",
+  "quote": "If the first lane on the street you are turning onto has a parked car or obstruction close to the corner, turn into the first available lane to the left of the parked vehicle.",
+  "topic": "Right turns"
+},
+{
+  "id": "c04-033", "ch": 4, "sec": "s062", "page": 66, "type": "rule", "img": null,
+  "q": "Unless a sign prohibits it, when may you turn right on a red light?",
+  "choices": ["After coming to a complete stop at the stop line or crosswalk", "After slowing down and checking for traffic", "Only when a green arrow is showing", "Never, you must wait for a green light"],
+  "answer": 0,
+  "hint": "A red light still means stop first.",
+  "explain": "Unless a sign prohibits it, you may turn right on a red light after a complete stop at the proper stopping point, when it is safe.",
+  "quote": "Unless prohibited by a sign, you may turn right on a red light after you come to a complete stop at the proper stopping point (stop line or crosswalk).",
+  "topic": "Turning on a red light"
+},
+{
+  "id": "c04-034", "ch": 4, "sec": "s062", "page": 67, "type": "rule", "img": null,
+  "q": "You have moved into the intersection and are waiting for a chance to turn left. How should your front wheels be pointed?",
+  "choices": ["Turned to the left, ready to go", "Turned to the right, toward the curb", "Straight ahead", "Turned slightly left so others know you are turning"],
+  "answer": 2,
+  "hint": "Think about what would happen if someone hit you from behind.",
+  "explain": "Stay to the right of the yellow line with your front wheels straight. If you are hit from behind, you will not be pushed into oncoming traffic.",
+  "quote": "If you must stop in the intersection prior to completing a left turn, stay to the right of the yellow line and keep your front wheels pointed straight ahead. Doing so prevents the vehicle from being pushed into oncoming traffic if you are hit from behind.",
+  "topic": "Left turns: wheels straight while waiting"
+},
+{
+  "id": "c04-035", "ch": 4, "sec": "s062", "page": 67, "type": "rule", "img": null,
+  "q": "Before you turn left off a two-lane highway, what check should you make?",
+  "choices": ["A right shoulder check for cyclists", "A look at the oncoming lane only, with no shoulder check", "A shoulder check to the left, to be sure no one is passing you", "A glance at the rear-view mirror only"],
+  "answer": 2,
+  "hint": "On a highway, someone may be overtaking you on the side you are turning toward.",
+  "explain": "Before turning left off a two-lane highway, do a left shoulder check to be sure another vehicle is not passing you on your left.",
+  "quote": "Before turning left off a two-lane highway, do a shoulder check to the left to be sure you are not being passed by another vehicle on your left.",
+  "topic": "Left turns: shoulder check"
+},
+{
+  "id": "c04-036", "ch": 4, "sec": "s062", "page": 67, "type": "rule", "img": null,
+  "q": "You are turning left from a two-way road onto another two-way road. Which lane should you turn into?",
+  "choices": ["The lane nearest the right curb", "The lane nearest and to the right of the yellow line", "The first lane on the left side of the road", "Any lane that happens to be clear"],
+  "answer": 1,
+  "hint": "Finish on the correct side of the centre line, in the closest lane.",
+  "explain": "Turn from the lane nearest and to the right of the yellow line, into the lane nearest and to the right of the yellow line.",
+  "quote": "When it is safe and legal, turn from the lane nearest and to the right of the yellow line. Turn into the lane nearest and to the right of the yellow line.",
+  "topic": "Lane to start/end turns"
+},
+{
+  "id": "c04-037", "ch": 4, "sec": "s062", "page": 67, "type": "rule", "img": null,
+  "q": "You are turning left from a two-way road onto a one-way road. Which lane should you turn into?",
+  "choices": ["The lane nearest the right side of the road", "The middle lane", "The first available lane on the left side of the road", "Any lane, as long as you signal"],
+  "answer": 2,
+  "hint": "Pick the lane closest to where your turn begins.",
+  "explain": "Turn from the lane nearest the yellow line into the first available lane on the left side of the one-way road.",
+  "quote": "When it is safe and legal, turn from the lane nearest the yellow line. Turn into the first available lane on the left side of the road.",
+  "topic": "Lane to start/end turns"
+},
+{
+  "id": "c04-038", "ch": 4, "sec": "s062", "page": 68, "type": "rule", "img": null,
+  "q": "You are on a one-way street and want to turn left onto a two-way street. Which lane should you turn from?",
+  "choices": ["The lane nearest the left side of the road", "The lane nearest the right side of the road", "The middle lane", "Any lane, as long as you signal"],
+  "answer": 0,
+  "hint": "Start the turn as close as you can to the side you are turning toward.",
+  "explain": "Turn from the lane nearest the left side of the one-way road, into the nearest lane to the right of the yellow line.",
+  "quote": "When it is safe and legal, turn from the lane nearest the left side of the road. Turn into the nearest lane to the right of the yellow line.",
+  "topic": "Lane to start/end turns"
+},
+{
+  "id": "c04-039", "ch": 4, "sec": "s062", "page": 68, "type": "rule", "img": null,
+  "q": "You are turning left from a one-way street onto another one-way street. Which lane should you turn into?",
+  "choices": ["The lane nearest the right side of the road", "The lane nearest the left side of the road", "The middle lane", "Whichever lane has the least traffic"],
+  "answer": 1,
+  "hint": "Both the start and the end of this turn hug the same side.",
+  "explain": "Turn from the lane nearest the left side of the road into the lane nearest the left side of the new road.",
+  "quote": "When it is safe and legal, turn from the lane nearest the left side of the road. Turn into the lane nearest to the left side of the road.",
+  "topic": "Lane to start/end turns"
+},
+{
+  "id": "c04-040", "ch": 4, "sec": "s062", "page": 68, "type": "rule", "img": null,
+  "q": "If no sign prohibits it, when may you turn left on a red light?",
+  "choices": ["From a two-way street onto a one-way street, after a complete stop", "From a one-way street onto another one-way street, after a complete stop", "From a two-way street onto a two-way street, after a complete stop", "From any street, if you slow down and no traffic is coming"],
+  "answer": 1,
+  "hint": "Both the street you leave and the street you enter matter.",
+  "explain": "If no sign prohibits it, you may turn left on red from a one-way onto another one-way after a complete stop at the proper stopping point, when it is safe. Yield to pedestrians crossing to your left.",
+  "quote": "When the light is red, if there are no signs prohibiting turning, you may turn left from a one-way onto another one-way after coming to a complete stop at the proper stopping location (stop line or crosswalk) and the turn can be completed safely.",
+  "topic": "Turning on a red light"
+},
+{
+  "id": "c04-041", "ch": 4, "sec": "s063", "page": 68, "type": "rule", "img": null,
+  "q": "You are making a left turn at an intersection with dual left turn lanes. What should you do?",
+  "choices": ["Swing wide to give the vehicle beside you more room", "Change to the other lane during the turn if it looks clearer", "Turn into whichever lane on the new street is emptiest", "Turn into the lane that corresponds to the lane you turned from"],
+  "answer": 3,
+  "hint": "Another vehicle may be turning alongside you.",
+  "explain": "At dual lane turns, approach in one of the marked lanes and turn into the corresponding lane. Never swing wide or change lanes, as another vehicle could be turning beside you.",
+  "quote": "approach the intersection in one of the marked lanes and turn into the corresponding lane. ... Never swing wide or change lanes in dual lane turn intersections as another vehicle could be turning beside you.",
+  "topic": "Dual turn lanes"
+},
+{
+  "id": "c04-042", "ch": 4, "sec": "s063", "page": 68, "type": "rule", "img": null,
+  "q": "After a dual lane turn, the two turning lanes merge into one. Who must change lanes?",
+  "choices": ["The driver in the lane that continues", "The driver in the lane that ends", "Whichever driver is going slower", "Whichever driver turned second"],
+  "answer": 1,
+  "hint": "Think about whose lane runs out.",
+  "explain": "The driver in the lane that ends must move into the available lane using the proper steps for a lane change.",
+  "quote": "After completing a turn, dual turn lanes may converge into one lane. The driver in the lane that ends must change to the available lane by following the proper steps for a lane change.",
+  "topic": "Dual turn lanes"
+},
+{
+  "id": "c04-043", "ch": 4, "sec": "s063", "page": 69, "type": "rule", "img": null,
+  "q": "You plan to turn left using a two-way left turn lane. Which of these is correct?",
+  "choices": ["Enter it close to your turn and watch for oncoming vehicles in it", "Enter it well before your turn to get out of the through lanes early", "Expect no oncoming vehicles in it, since only your direction may use it", "Drive in it for a few blocks to get past slower vehicles"],
+  "answer": 0,
+  "hint": "Think about who else may be in this lane, and how long you should be in it.",
+  "explain": "Only enter a two-way left turn lane close to where you will be turning. Drivers from both directions share it, so watch for oncoming vehicles in your lane.",
+  "quote": "Vehicles from both directions share this centre lane to turn left. ... Only enter the turning lane close to where you will be turning. Watch for oncoming vehicles in your lane.",
+  "topic": "Two-way left turn lane"
+},
+{
+  "id": "c04-044", "ch": 4, "sec": "s063", "page": 69, "type": "rule", "img": null,
+  "q": "A two-way left turn lane is separated from your lane by a solid yellow line. May you cross that line to enter the turn lane?",
+  "choices": ["No, you may never cross a solid yellow line", "Only if a police officer waves you through", "Only at night when traffic is light", "Yes, you may cross it to enter the shared turn lane"],
+  "answer": 3,
+  "hint": "This lane is meant to be entered from the through lanes.",
+  "explain": "It is permitted to cross the solid yellow line to enter a shared two-way left turn lane. Enter it only close to where you will turn, and watch for oncoming vehicles in it.",
+  "quote": "It is permissible to cross the solid yellow line to enter the shared turn lane. Only enter the turning lane close to where you will be turning.",
+  "topic": "Two-way left turn lane"
+},
+{
+  "id": "c04-045", "ch": 4, "sec": "s064", "page": 69, "type": "rule", "img": null,
+  "q": "May you make a U-turn at an intersection controlled by traffic lights?",
+  "choices": ["Yes, whenever your light is green", "Yes, on a red light after a complete stop", "Only if a traffic control device permits it", "Yes, if no pedestrians are crossing"],
+  "answer": 2,
+  "hint": "The lights alone do not give you permission.",
+  "explain": "U-turns are not permitted at an intersection controlled by traffic lights unless a traffic control device permits it.",
+  "quote": "U-turns are not permitted: at an intersection controlled by a traffic control signal (traffic lights) unless permitted by a traffic control device",
+  "topic": "U-turns"
+},
+{
+  "id": "c04-046", "ch": 4, "sec": "s064", "page": 69, "type": "rule", "img": null,
+  "q": "In a city, may you make a U-turn in the middle of a block, between intersections?",
+  "choices": ["Yes, if no traffic is coming", "Yes, if you signal first", "Yes, if the road is wide enough", "No, it is not permitted in urban areas"],
+  "answer": 3,
+  "hint": "Think about where U-turns are banned in towns and cities.",
+  "explain": "In urban areas, U-turns are not permitted on a roadway between intersections, at an alley intersection, or at an intersection with a public parking lot access.",
+  "quote": "In urban areas U-turns are not permitted: on a roadway between intersections",
+  "topic": "U-turns"
+},
+{
+  "id": "c04-047", "ch": 4, "sec": "s064", "page": 69, "type": "rule", "img": null,
+  "q": "On a rural road, a U-turn is not permitted near the crest of a hill if a driver approaching within what distance cannot see you?",
+  "choices": ["15 metres", "50 metres", "150 metres", "300 metres"],
+  "answer": 2,
+  "hint": "It is about one and a half city blocks.",
+  "explain": "Outside urban areas, U-turns are not permitted on a curve, or on the approach to or near the crest of a hill where a driver within 150 metres cannot see you.",
+  "quote": "on an approach to or near the crest of a hill where the driver of another vehicle cannot see you that is within 150 metres approaching from either direction.",
+  "topic": "U-turns"
+},
+{
+  "id": "c04-048", "ch": 4, "sec": "s064", "page": 69, "type": "rule", "img": null,
+  "q": "On a rural highway, may you make a U-turn on a curve?",
+  "choices": ["Yes, if you can see 150 metres ahead", "Yes, if you turn on your hazard lights", "No, U-turns are not permitted on a curve outside urban areas", "Yes, if no sign prohibits it"],
+  "answer": 2,
+  "hint": "Drivers coming around the bend may not see you in time.",
+  "explain": "Outside urban areas, U-turns are not permitted on a curve.",
+  "quote": "Outside urban areas (rural) U-turns are not permitted: on a curve",
+  "topic": "U-turns"
+}
+]

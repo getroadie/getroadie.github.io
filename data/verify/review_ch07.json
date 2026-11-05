@@ -1,0 +1,132 @@
+[
+ {
+  "id": "c07-001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-002",
+  "verdict": "ok",
+  "note": "fixed: stem asks for the minimum and 'At least' removed from choices; weaker ranges were technically true under 'at least' reading"
+ },
+ {
+  "id": "c07-003",
+  "verdict": "ok",
+  "note": "fixed: same minimum-framing fix as c07-002"
+ },
+ {
+  "id": "c07-004",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-005",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-006",
+  "verdict": "ok",
+  "note": "fixed: 'tap your brakes' distractor not contradicted by guide; replaced with 'keep your speed steady and ignore them'"
+ },
+ {
+  "id": "c07-007",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-008",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-009",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-010",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-011",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-012",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-013",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-014",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-015",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-016",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-017",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-018",
+  "verdict": "ok",
+  "note": "fixed: distractor 'under 2 and 10 kg' was a subset of the rule, so arguably true; replaced with 'under 4 and 25 kg'; explanation apostrophe"
+ },
+ {
+  "id": "c07-019",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-020",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-021",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-022",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-023",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-024",
+  "verdict": "ok",
+  "note": "fixed: explanation now keeps flag 'should' vs size 'must' distinction"
+ },
+ {
+  "id": "c07-025",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c07-026",
+  "verdict": "ok",
+  "note": ""
+ }
+]

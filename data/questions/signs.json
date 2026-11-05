@@ -1,0 +1,1942 @@
+[
+ {
+  "id": "c02-s001",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "sign",
+  "img": "p024_f2",
+  "q": "What must you do when you face this traffic signal?",
+  "choices": [
+   "Speed up to clear the intersection before it changes",
+   "Stop completely before the stop line or crosswalk",
+   "Slow down and go through if the way is clear",
+   "Proceed with caution after yielding to pedestrians"
+  ],
+  "answer": 1,
+  "hint": "Look at which colour is lit and whether it is steady or flashing.",
+  "explain": "A steady red light means you must come to a complete stop before the stop line or crosswalk and stay stopped until it turns green, unless you are safely turning right after stopping.",
+  "quote": "Drivers facing a traffic control signal displaying a solid red light must bring their vehicles to a complete stop before the stop line or crosswalk that is directly in front of the vehicle.",
+  "topic": "Steady red / green light basics"
+ },
+ {
+  "id": "c02-s002",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "sign",
+  "img": "p024_f2",
+  "q": "You want to turn right at this light and no sign prohibits the turn. What must you do first?",
+  "choices": [
+   "Come to a complete stop before the stop line or crosswalk",
+   "Slow down and check for traffic, without stopping",
+   "Wait for the light to turn green",
+   "Move into the crosswalk so you can see better"
+  ],
+  "answer": 0,
+  "hint": "A right turn here is allowed, but only after one required step.",
+  "explain": "Unless a sign prohibits it, you may turn right at a red light after a complete stop before the stop line or crosswalk, and only when it is safe after yielding to other traffic.",
+  "quote": "Turning right at a red light is permitted provided that there is no sign prohibiting the turn. Before making the turn the vehicle must come to a complete stop before the stop line or crosswalk.",
+  "topic": "Turning on a red light"
+ },
+ {
+  "id": "c02-s003",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "sign",
+  "img": "p024_f3",
+  "q": "You are approaching an intersection and this light comes on. What must you do?",
+  "choices": [
+   "Speed up so you get through before it turns red",
+   "Stop, then go when the way is clear, as at a stop sign",
+   "Slow down and go through after yielding to pedestrians",
+   "Stop before the stop line or crosswalk, unless you can no longer stop safely"
+  ],
+  "answer": 3,
+  "hint": "This light warns that the signal is about to change to red.",
+  "explain": "A steady yellow means the light will turn red right away. You must stop before the stop line or crosswalk unless you are too close to stop safely.",
+  "quote": "Drivers approaching an intersection with a solid (not flashing) yellow traffic control light must bring their vehicles to a complete stop before the stop line or crosswalk, unless a point has been reached at the intersection where stopping cannot be done safely.",
+  "topic": "Steady yellow light: stop if safe to do so"
+ },
+ {
+  "id": "c02-s004",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "sign",
+  "img": "p024_f4",
+  "q": "You face this light and want to turn left. What must you do?",
+  "choices": [
+   "Stop completely first, then turn when it is safe",
+   "Wait, because left turns are not allowed on a solid green",
+   "Yield to oncoming traffic and to pedestrians in the crosswalk",
+   "Turn without yielding, because oncoming traffic has a red light"
+  ],
+  "answer": 2,
+  "hint": "A steady green lets you go, but it does not put you ahead of everyone.",
+  "explain": "A solid green lets you go through the intersection, but when turning left you must yield to oncoming traffic and to pedestrians in the crosswalk.",
+  "quote": "Drivers facing a solid green traffic control light are permitted to travel through the intersection without stopping, unless required to yield to oncoming traffic when turning left or to pedestrians in the crosswalk when turning right or left.",
+  "topic": "Steady red / green light basics"
+ },
+ {
+  "id": "c02-s005",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "sign",
+  "img": "p025_f1",
+  "q": "What does this signal allow you to do?",
+  "choices": [
+   "Prepare to stop, because the light is about to turn red",
+   "Go in the direction of the arrow without yielding",
+   "Go in the direction of the arrow only after stopping",
+   "Go only in the direction of the arrow and nowhere else"
+  ],
+  "answer": 1,
+  "hint": "Notice that both the arrow and the round green light are lit.",
+  "explain": "With a green arrow and a green light, you may go in the arrow's direction without yielding. You may also go in other directions when it is safe and legal.",
+  "quote": "Drivers facing a traffic control light with a green arrow and solid green traffic control light may enter the intersection and proceed without yielding in the direction indicated by the arrow.",
+  "topic": "Green/yellow turn arrows (protected vs permissive turns)"
+ },
+ {
+  "id": "c02-s006",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "sign",
+  "img": "p025_f2",
+  "q": "What may you do when you face this signal?",
+  "choices": [
+   "Go without stopping, but only in the direction of the arrow",
+   "Go in any direction, because the arrow cancels the red light",
+   "Stay stopped until the round light turns green",
+   "Stop first, then go in any direction when it is safe"
+  ],
+  "answer": 0,
+  "hint": "The red light still applies to every movement the arrow does not show.",
+  "explain": "With a green arrow and a red light, you may enter the intersection without stopping, but only in the direction the arrow points.",
+  "quote": "Drivers facing a traffic control light with a green arrow and a red control light may enter the intersection and proceed without stopping only in the direction indicated by the arrow.",
+  "topic": "Green/yellow turn arrows (protected vs permissive turns)"
+ },
+ {
+  "id": "c02-s007",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "sign",
+  "img": "p025_f3",
+  "q": "What does this flashing light mean?",
+  "choices": [
+   "Slow down and proceed with caution without stopping",
+   "Oncoming traffic has a red light, so you may go",
+   "The light is about to turn green, so get ready",
+   "Treat it like a stop sign"
+  ],
+  "answer": 3,
+  "hint": "Compare it with a flashing yellow light; this colour asks for more.",
+  "explain": "A flashing red light is treated like a stop sign. Stop before the stop line or crosswalk, and go only when it is safe after yielding.",
+  "quote": "The flashing red light is treated like a stop sign.",
+  "topic": "Flashing red light = treat as stop sign"
+ },
+ {
+  "id": "c02-s008",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "sign",
+  "img": "p025_f4",
+  "q": "What does this flashing light tell you?",
+  "choices": [
+   "The light is about to turn red, so speed up",
+   "Oncoming traffic has a red light, so you may turn freely",
+   "You may proceed with caution after yielding to pedestrians and other vehicles",
+   "You must come to a complete stop, as at a stop sign"
+  ],
+  "answer": 2,
+  "hint": "Compare it with a flashing red; this colour asks for less.",
+  "explain": "A flashing yellow light lets you proceed with caution after yielding to pedestrians and other vehicles within the intersection.",
+  "quote": "Drivers facing a flashing yellow traffic control light may proceed with caution after yielding to pedestrians and other vehicles within the intersection.",
+  "topic": "Flashing yellow/amber light = slow, proceed with caution"
+ },
+ {
+  "id": "c02-s009",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "sign",
+  "img": "p025_f5",
+  "q": "You face this flashing green light and want to turn left. What is true?",
+  "choices": [
+   "Left turns are not allowed until the light stops flashing",
+   "Oncoming traffic faces a red light, so you may turn without stopping",
+   "Oncoming traffic also has a green light, so wait for a gap",
+   "You must stop first, then turn when the way is clear"
+  ],
+  "answer": 1,
+  "hint": "Think about what the drivers coming toward you are facing.",
+  "explain": "A flashing green lets you go through, turn left or turn right without stopping because opposing traffic faces a red light. You must still yield to pedestrians or vehicles lawfully in the intersection.",
+  "quote": "Drivers facing a flashing green traffic control light are permitted to go through, turn left or turn right without stopping. Opposing traffic will be facing a red light; however a driver must still yield to pedestrians or other vehicles lawfully in the intersection.",
+  "topic": "Flashing green / advance green: protected turn"
+ },
+ {
+  "id": "c02-s010",
+  "ch": 2,
+  "sec": "s026",
+  "page": 26,
+  "type": "sign",
+  "img": "p026_f3",
+  "q": "What does this sign mark?",
+  "choices": [
+   "A pedestrian crossing",
+   "A road where pedestrians are not permitted",
+   "A school area where children may be walking",
+   "A playground zone with a 30 km/h limit"
+  ],
+  "answer": 0,
+  "hint": "There is no red circle on this sign, so nothing is being prohibited.",
+  "explain": "This white sign with a walking person and a line under the feet is a pedestrian crossing sign.",
+  "quote": "Pedestrian crossing signs without yellow lights.",
+  "topic": "Pedestrian crosswalk / pedestrian-related signs"
+ },
+ {
+  "id": "c02-s011",
+  "ch": 2,
+  "sec": "s027",
+  "page": 26,
+  "type": "sign",
+  "img": "p026_f4",
+  "q": "This signal is shown over a driving lane. What does it mean?",
+  "choices": [
+   "The lane is closed only to trucks and buses",
+   "You may use the lane, but only to pass",
+   "A railway crossing is ahead in that lane",
+   "Do not enter or stay in that lane; oncoming traffic is using it"
+  ],
+  "answer": 3,
+  "hint": "These signals are used on lanes that change direction at different times of day.",
+  "explain": "A red X over a lane means do not enter or remain in that lane, because oncoming traffic is using it. Move safely into a lane with a green arrow.",
+  "quote": "When a red X is displayed over a driving lane, the driver does not enter or remain in that lane. This signal indicates that the lane is being used by oncoming traffic.",
+  "topic": "Lane control signals (red X, green arrow) / reversible lanes"
+ },
+ {
+  "id": "c02-s012",
+  "ch": 2,
+  "sec": "s027",
+  "page": 26,
+  "type": "sign",
+  "img": "p026_f6",
+  "q": "What does this signal over a lane tell you?",
+  "choices": [
+   "You must turn at the next intersection",
+   "The lane is reserved for buses and taxis",
+   "You are permitted to travel in that lane",
+   "The lane ends ahead, so merge left"
+  ],
+  "answer": 2,
+  "hint": "Lane reversal signals switch between a red X and this symbol.",
+  "explain": "A downward pointing green arrow over a lane means you are permitted to travel in that lane.",
+  "quote": "A driver facing the downward pointing green arrow is permitted to travel in that lane.",
+  "topic": "Lane control signals (red X, green arrow) / reversible lanes"
+ },
+ {
+  "id": "c02-s013",
+  "ch": 2,
+  "sec": "s028",
+  "page": 27,
+  "type": "sign",
+  "img": "p032_f12",
+  "q": "What does a sign with this shape and fluorescent yellow-green colour indicate?",
+  "choices": [
+   "A hazard such as a curve or hill",
+   "A school zone or school area",
+   "A construction area",
+   "A place for food, fuel, or lodging"
+  ],
+  "answer": 1,
+  "hint": "This five-sided shape is used for only one kind of place.",
+  "explain": "A fluorescent yellow-green, pentagon-shaped sign indicates a school zone or school area.",
+  "quote": "Indicates school zone/area. Fluorescent yellow green background Pentagon shape",
+  "topic": "Sign shapes/colours meanings"
+ },
+ {
+  "id": "c02-s014",
+  "ch": 2,
+  "sec": "s028",
+  "page": 28,
+  "type": "sign",
+  "img": "p037_f9",
+  "q": "What type of sign is a yellow diamond like this one?",
+  "choices": [
+   "A warning of a hazard shown on the sign",
+   "A regulatory sign, such as a speed limit",
+   "A sign giving construction area information",
+   "A guide sign showing distance to a destination"
+  ],
+  "answer": 0,
+  "hint": "Think about the colour and the shape together.",
+  "explain": "Yellow diamond signs give caution or warning of the hazard shown on the sign. This one warns of a bump.",
+  "quote": "Indicates caution or warning of hazard displayed on sign. Information or pictures on yellow background Diamond shape",
+  "topic": "Sign shapes/colours meanings"
+ },
+ {
+  "id": "c02-s015",
+  "ch": 2,
+  "sec": "s028",
+  "page": 27,
+  "type": "sign",
+  "img": "p039_f7",
+  "q": "What does the orange colour of this diamond sign tell you?",
+  "choices": [
+   "It warns of a school zone ahead",
+   "It shows a place for fuel, food, or lodging",
+   "It marks a route for dangerous goods",
+   "It gives construction area information"
+  ],
+  "answer": 3,
+  "hint": "Compare it with the yellow diamond signs; only the colour is different.",
+  "explain": "Orange diamond signs give construction area information. This one warns of a survey crew ahead.",
+  "quote": "Provides construction area information. Information or picture on orange background Diamond shape",
+  "topic": "Construction/temporary (orange) signs"
+ },
+ {
+  "id": "c02-s016",
+  "ch": 2,
+  "sec": "s028",
+  "page": 28,
+  "type": "sign",
+  "img": "p038_f17",
+  "q": "What does a blue sign like this one show?",
+  "choices": [
+   "The distance to a destination",
+   "A lane reserved for certain vehicles",
+   "A place for fuel, food, lodging, or assistance",
+   "A warning of a hazard ahead"
+  ],
+  "answer": 2,
+  "hint": "Look at the pictures inside the square.",
+  "explain": "White symbols on a blue square show a place for fuel, food, lodging, or assistance. This one shows food.",
+  "quote": "Indicates place for fuel, food, lodging, or assistance. White message on blue background Square shape",
+  "topic": "Information/guide/service signs"
+ },
+ {
+  "id": "c02-s017",
+  "ch": 2,
+  "sec": "s028",
+  "page": 28,
+  "type": "sign",
+  "img": "p038_f8",
+  "q": "What kind of information does a green rectangular sign like this give?",
+  "choices": [
+   "Construction area information",
+   "Information such as the distance to a destination",
+   "A warning of a hazard on the road ahead",
+   "A regulatory message such as a speed limit"
+  ],
+  "answer": 1,
+  "hint": "Think about the colour and the shape together.",
+  "explain": "White messages on a green rectangle give information such as the distance to a destination.",
+  "quote": "Provides information such as distance to destination. White message on green background Rectangle shape",
+  "topic": "Information/guide/service signs"
+ },
+ {
+  "id": "c02-s018",
+  "ch": 2,
+  "sec": "s029",
+  "page": 28,
+  "type": "sign",
+  "img": "p028_f5",
+  "q": "What must you do at this sign?",
+  "choices": [
+   "Come to a complete stop and go only when it is safe",
+   "Slow down and go through without stopping if the way is clear",
+   "Stop only if other vehicles are coming",
+   "Slow to 30 km/h and watch for children"
+  ],
+  "answer": 0,
+  "hint": "Think about whether slowing down is ever enough at this sign.",
+  "explain": "A stop sign means you must come to a complete stop and not proceed until it is safe.",
+  "quote": "Stop: Come to a complete stop and do not proceed until safe.",
+  "topic": "Stop / yield / stop-ahead / yield-ahead signs"
+ },
+ {
+  "id": "c02-s019",
+  "ch": 2,
+  "sec": "s029",
+  "page": 28,
+  "type": "sign",
+  "img": "p028_f6",
+  "q": "What does this sign mean?",
+  "choices": [
+   "You have the right-of-way over cross traffic",
+   "Traffic ahead is moving toward you in your lane",
+   "Stop at the line every time, even if the road is clear",
+   "Let traffic not facing the sign, and pedestrians, go first"
+  ],
+  "answer": 3,
+  "hint": "This sign tells you who goes first, and it is not you.",
+  "explain": "A yield sign means you must give the right-of-way to traffic not facing the sign and to pedestrians waiting to cross or already in the crosswalk or intersection.",
+  "quote": "Yield the right-of-way to traffic not facing the sign and to all pedestrians waiting to cross and within the crosswalk or intersection.",
+  "topic": "Yield sign: slow/stop as needed, yield to traffic and pedestrians"
+ },
+ {
+  "id": "c02-s020",
+  "ch": 2,
+  "sec": "s029",
+  "page": 28,
+  "type": "sign",
+  "img": "p028_f7",
+  "q": "You see this sign facing you. What does it tell you?",
+  "choices": [
+   "Two-way traffic begins ahead",
+   "A divider is ahead, so keep to the right",
+   "Traffic is moving toward you in the oncoming direction",
+   "The road ahead is one-way in your direction"
+  ],
+  "answer": 2,
+  "hint": "Think about which way you are travelling compared with the other traffic.",
+  "explain": "The guide says this sign indicates that traffic is moving in an oncoming direction.",
+  "quote": "Wrong way: Indicates traffic is moving in an oncoming direction.",
+  "topic": "Prohibitive signs (do not enter, wrong way)"
+ },
+ {
+  "id": "c02-s021",
+  "ch": 2,
+  "sec": "s029",
+  "page": 28,
+  "type": "sign",
+  "img": "p028_f8",
+  "q": "What does this sign mean?",
+  "choices": [
+   "No U-turn",
+   "Do not enter",
+   "No parking",
+   "No stopping"
+  ],
+  "answer": 1,
+  "hint": "This red circle has a white bar instead of a picture.",
+  "explain": "The red circle with a white horizontal bar is the Do not enter sign.",
+  "quote": "Do not enter:",
+  "topic": "Prohibitive signs (no left/right/U-turn, do not enter)"
+ },
+ {
+  "id": "c02-s022",
+  "ch": 2,
+  "sec": "s029",
+  "page": 28,
+  "type": "sign",
+  "img": "p028_f10",
+  "q": "What does this sign tell you?",
+  "choices": [
+   "Do not stop on the railway tracks",
+   "Stop before the tracks every time",
+   "Railway crossing ahead, so reduce speed",
+   "No stopping on the days and times shown"
+  ],
+  "answer": 0,
+  "hint": "Look at what is drawn under the red circle.",
+  "explain": "The crossed-out stop symbol above a picture of railway tracks means do not stop on tracks.",
+  "quote": "Do not stop on tracks:",
+  "topic": "Railway crossing signs"
+ },
+ {
+  "id": "c02-s023",
+  "ch": 2,
+  "sec": "s030",
+  "page": 29,
+  "type": "sign",
+  "img": "p029_f1",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Turn right only at the next intersection",
+   "Two-way traffic is ahead",
+   "Keep right of a divider ahead",
+   "Proceed only in the direction of the arrow"
+  ],
+  "answer": 3,
+  "hint": "The words and the arrow work together.",
+  "explain": "This traffic direction sign means proceed in the direction of the arrow only.",
+  "quote": "Proceed in direction of arrow only:",
+  "topic": "Lane-use / turn-control signs (one way)"
+ },
+ {
+  "id": "c02-s024",
+  "ch": 2,
+  "sec": "s030",
+  "page": 29,
+  "type": "sign",
+  "img": "p029_f3",
+  "q": "What does this sign tell you about the road?",
+  "choices": [
+   "The left lane ends ahead",
+   "A divided highway begins",
+   "Traffic travels in both directions",
+   "Traffic travels in one direction only"
+  ],
+  "answer": 2,
+  "hint": "Look at which way each arrow points.",
+  "explain": "This traffic direction sign means two-way traffic.",
+  "quote": "Two way traffic:",
+  "topic": "Divided highway, keep right, two-way traffic"
+ },
+ {
+  "id": "c02-s025",
+  "ch": 2,
+  "sec": "s030",
+  "page": 29,
+  "type": "sign",
+  "img": "p029_f4",
+  "q": "What should you do when you see this sign?",
+  "choices": [
+   "Pass on the left of the island ahead",
+   "Keep to the right of the divider ahead",
+   "Merge left because your lane is ending",
+   "Turn right at the next intersection"
+  ],
+  "answer": 1,
+  "hint": "The rounded black shape stands for something in the middle of the road.",
+  "explain": "This sign means a divider is ahead and you must keep right.",
+  "quote": "Divider ahead – keep right:",
+  "topic": "Divided highway, keep right, two-way traffic"
+ },
+ {
+  "id": "c02-s026",
+  "ch": 2,
+  "sec": "s031",
+  "page": 29,
+  "type": "sign",
+  "img": "p038_f1",
+  "q": "This route marker shows you are on a provincial highway. Unless another limit is posted, what is the maximum speed outside an urban area?",
+  "choices": [
+   "100 km/h",
+   "80 km/h",
+   "60 km/h",
+   "50 km/h"
+  ],
+  "answer": 0,
+  "hint": "Think about the default limit for highways that run between communities.",
+  "explain": "Unless otherwise posted, 100 km/h is the maximum speed limit on a provincial highway outside an urban area. Inside a city's corporate limits it is 80 km/h.",
+  "quote": "100 km/h is the maximum speed limit on a provincial highway located outside an urban area.",
+  "topic": "Speed limit signs"
+ },
+ {
+  "id": "c02-s027",
+  "ch": 2,
+  "sec": "s032",
+  "page": 30,
+  "type": "sign",
+  "img": "p030_f4",
+  "q": "Which movements may you make from a lane with this sign over it?",
+  "choices": [
+   "Turn right only",
+   "Go straight or turn left",
+   "Turn left or turn right only",
+   "Go straight or turn right"
+  ],
+  "answer": 3,
+  "hint": "Follow each arrow from its base.",
+  "explain": "Designated lane signs show the direction(s) you must travel in that lane. This one allows going straight or turning right.",
+  "quote": "The message or symbol on these signs indicates the direction(s) a vehicle must travel in the lane.",
+  "topic": "Lane-use / turn-control signs"
+ },
+ {
+  "id": "c02-s028",
+  "ch": 2,
+  "sec": "s032",
+  "page": 30,
+  "type": "sign",
+  "img": "p030_f9",
+  "q": "This sign shows that two lanes may turn left at the same time. What should you do while turning?",
+  "choices": [
+   "Let the other turning lane go first, then turn",
+   "Change lanes in the middle of the turn if it is clear",
+   "Stay in your own lane during and after the turn",
+   "Move to the right lane as soon as the turn is done"
+  ],
+  "answer": 2,
+  "hint": "Picture the car turning beside you the whole way through.",
+  "explain": "Where more than one lane may turn at the same time, keep your lane position during and after the turn.",
+  "quote": "Some intersections allow more than one vehicle travelling in the same direction to turn at the same time. Maintain your lane position during and after the turn.",
+  "topic": "Dual/double turn lanes"
+ },
+ {
+  "id": "c02-s029",
+  "ch": 2,
+  "sec": "s032",
+  "page": 30,
+  "type": "sign",
+  "img": "p030_f14",
+  "q": "What does this sign over a lane mean?",
+  "choices": [
+   "The lane is a two-way left turn lane at the times shown",
+   "The lane is reserved for buses and taxis at the times shown",
+   "Buses and taxis may not use the lane at the times shown",
+   "Parking is allowed in the lane at the times shown"
+  ],
+  "answer": 1,
+  "hint": "The diamond and the pictures tell you who the lane is for.",
+  "explain": "Reserved lane signs use symbols to show which vehicles may use the lane. Lanes reserved only part of the time show the hours and days.",
+  "quote": "Indicated lanes are reserved for specific vehicles such as buses, taxis, and bicycles. The symbol on the sign will identify the vehicles permitted to travel in this lane.",
+  "topic": "Reserved lanes (HOV diamond, bus, bicycle lanes)"
+ },
+ {
+  "id": "c02-s030",
+  "ch": 2,
+  "sec": "s033",
+  "page": 31,
+  "type": "sign",
+  "img": "p031_f1",
+  "q": "What does this sign mean?",
+  "choices": [
+   "You may only turn left",
+   "Left turns are not allowed",
+   "A sharp turn to the left is ahead",
+   "The left lane ends ahead"
+  ],
+  "answer": 0,
+  "hint": "Green circles and red circles mean opposite things.",
+  "explain": "A green circle means the action inside is permitted. This sign means turn left only.",
+  "quote": "Permission signs are a green circle on a white square. The action within the green circle is permitted. Turn left only:",
+  "topic": "Lane-use / turn-control signs"
+ },
+ {
+  "id": "c02-s031",
+  "ch": 2,
+  "sec": "s033",
+  "page": 31,
+  "type": "sign",
+  "img": "p031_f8",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Passing is not permitted",
+   "Two-way traffic is ahead",
+   "A divided highway begins",
+   "Passing is permitted"
+  ],
+  "answer": 3,
+  "hint": "Check the colour of the circle.",
+  "explain": "A green circle means the action shown is permitted, so this sign means passing is permitted.",
+  "quote": "Permission signs are a green circle on a white square. The action within the green circle is permitted. ... Passing permitted:",
+  "topic": "Passing permitted / do not pass signs"
+ },
+ {
+  "id": "c02-s032",
+  "ch": 2,
+  "sec": "s034",
+  "page": 31,
+  "type": "sign",
+  "img": "p031_f9",
+  "q": "What does this sign mean?",
+  "choices": [
+   "A sharp turn to the left ahead",
+   "No U-turn",
+   "No left turn",
+   "Left turn only"
+  ],
+  "answer": 2,
+  "hint": "Think about what a red slash does to the picture under it.",
+  "explain": "The red circle and slash mean the action shown is not permitted. This sign means no left turn.",
+  "quote": "The action within the red circle is not permitted. No left turn:",
+  "topic": "Prohibitive signs (no left/right/U-turn, do not enter)"
+ },
+ {
+  "id": "c02-s033",
+  "ch": 2,
+  "sec": "s034",
+  "page": 31,
+  "type": "sign",
+  "img": "p031_f10",
+  "q": "What does the red circle and slash on this sign tell you?",
+  "choices": [
+   "The action shown is a hazard ahead",
+   "The action shown inside the circle is not permitted",
+   "The action shown inside the circle is permitted",
+   "The action shown is allowed only at certain times"
+  ],
+  "answer": 1,
+  "hint": "Compare it with signs that use a green circle.",
+  "explain": "A red circle with a diagonal red bar on a white square means the action within the circle is not permitted. This sign means no right turn.",
+  "quote": "The symbol prohibiting an action is a red circle and diagonal red bar on a white square. The action within the red circle is not permitted.",
+  "topic": "Prohibitive signs (no left/right/U-turn, do not enter)"
+ },
+ {
+  "id": "c02-s034",
+  "ch": 2,
+  "sec": "s034",
+  "page": 31,
+  "type": "sign",
+  "img": "p031_f11",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Do not pass",
+   "Passing permitted",
+   "Do not pass bicycles",
+   "Two-way traffic ahead"
+  ],
+  "answer": 0,
+  "hint": "Check the colour of the circle and what is inside it.",
+  "explain": "A red circle and slash over two cars means do not pass.",
+  "quote": "The action within the red circle is not permitted. ... Do not pass:",
+  "topic": "Passing permitted / do not pass signs"
+ },
+ {
+  "id": "c02-s035",
+  "ch": 2,
+  "sec": "s034",
+  "page": 31,
+  "type": "sign",
+  "img": "p031_f13",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Do not pass any vehicle",
+   "Bicycles are not permitted",
+   "Bicycle crossing ahead",
+   "Do not pass bicycles"
+  ],
+  "answer": 3,
+  "hint": "Look closely at what the car is beside.",
+  "explain": "This prohibitive sign shows a car beside a cyclist inside a red circle and slash: do not pass bicycles.",
+  "quote": "Do not pass bicycles:",
+  "topic": "Passing permitted / do not pass signs"
+ },
+ {
+  "id": "c02-s036",
+  "ch": 2,
+  "sec": "s034",
+  "page": 31,
+  "type": "sign",
+  "img": "p032_f1",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Pedestrians are permitted to cross here",
+   "School crosswalk ahead",
+   "Pedestrians are not permitted",
+   "Pedestrian crossing ahead"
+  ],
+  "answer": 2,
+  "hint": "Think about what a red slash does to the picture under it.",
+  "explain": "The red circle and slash mean the action shown is not permitted, so pedestrians are not permitted.",
+  "quote": "The symbol prohibiting an action is a red circle and diagonal red bar on a white square. The action within the red circle is not permitted.",
+  "topic": "Prohibitive signs"
+ },
+ {
+  "id": "c02-s037",
+  "ch": 2,
+  "sec": "s034",
+  "page": 32,
+  "type": "sign",
+  "img": "p032_f3",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Dangerous goods are not permitted",
+   "Trucks are not permitted",
+   "Trucks are permitted",
+   "Trucks entering from the right ahead"
+  ],
+  "answer": 1,
+  "hint": "Check the colour of the circle and the picture inside it.",
+  "explain": "A truck inside a red circle and slash means no trucks.",
+  "quote": "No trucks:",
+  "topic": "Prohibitive signs (no trucks/bicycles)"
+ },
+ {
+  "id": "c02-s038",
+  "ch": 2,
+  "sec": "s034",
+  "page": 32,
+  "type": "sign",
+  "img": "p032_f5",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Vehicles carrying dangerous goods are not permitted",
+   "Vehicles carrying dangerous goods are permitted",
+   "The lane is reserved for buses and taxis",
+   "Hazard marker: an object is on the right"
+  ],
+  "answer": 0,
+  "hint": "The black diamond inside a circle stands for a certain kind of cargo.",
+  "explain": "The diamond symbol inside a red circle and slash means no dangerous goods.",
+  "quote": "No dangerous goods:",
+  "topic": "Reserved lanes, dangerous goods route"
+ },
+ {
+  "id": "c02-s039",
+  "ch": 2,
+  "sec": "s034",
+  "page": 32,
+  "type": "sign",
+  "img": "p032_f7",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Parking is allowed only in the direction of the arrow",
+   "No stopping in the direction the arrow points",
+   "Turn right to find parking",
+   "No parking in the direction the arrow points"
+  ],
+  "answer": 3,
+  "hint": "The letter in the circle tells you which action is limited, and the arrow tells you where.",
+  "explain": "The P in a red circle and slash means no parking. The arrow under the symbol shows where parking is not permitted.",
+  "quote": "The arrow under the symbol indicates where the action indicated on the sign is not permitted.",
+  "topic": "Parking / no parking / no stopping signs"
+ },
+ {
+  "id": "c02-s040",
+  "ch": 2,
+  "sec": "s034",
+  "page": 32,
+  "type": "sign",
+  "img": "p032_f8",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Stop sign ahead in both directions",
+   "Do not stop on the railway tracks",
+   "No stopping on either side of the sign",
+   "No stopping to the right of the sign only"
+  ],
+  "answer": 2,
+  "hint": "Look at the shape inside the red circle, then at the arrows.",
+  "explain": "A stop-sign shape inside a red circle and slash means no stopping. The arrows show it applies on both sides of the sign.",
+  "quote": "Parking and stopping not permitted: The arrow under the symbol indicates where the action indicated on the sign is not permitted.",
+  "topic": "Parking / no parking / no stopping signs"
+ },
+ {
+  "id": "c02-s041",
+  "ch": 2,
+  "sec": "s034",
+  "page": 32,
+  "type": "sign",
+  "img": "p032_f10",
+  "q": "When are you not allowed to park near this sign?",
+  "choices": [
+   "Any time outside 9:00 to 16:00, Monday to Friday",
+   "From 9:00 to 16:00, Monday to Friday",
+   "At all times, every day of the week",
+   "From 9:00 to 16:00 on weekends only"
+  ],
+  "answer": 1,
+  "hint": "Read the times and days printed under the symbol.",
+  "explain": "This sign means no parking on the days and times shown: 9:00 to 16:00, Monday to Friday.",
+  "quote": "No parking on the days and times shown:",
+  "topic": "Parking / no parking / no stopping signs"
+ },
+ {
+  "id": "c02-s042",
+  "ch": 2,
+  "sec": "s035",
+  "page": 32,
+  "type": "sign",
+  "img": "p032_f12",
+  "q": "This school sign has a maximum speed sign posted with it. Unless other times are posted, when is the school zone in effect?",
+  "choices": [
+   "School days only: 8:00 to 9:30 a.m., 11:30 a.m. to 1:30 p.m., and 3:00 to 4:30 p.m.",
+   "Every day from 8:30 a.m. to one hour after sunset",
+   "School days only, from 7:00 a.m. to 6:00 p.m. without a break",
+   "Every day of the week, at all hours of the day and night"
+  ],
+  "answer": 0,
+  "hint": "School zones and playground zones run on different schedules.",
+  "explain": "Unless a municipality posts different times, school zones are in effect on school days only, from 8:00 to 9:30 a.m., 11:30 a.m. to 1:30 p.m., and 3:00 to 4:30 p.m.",
+  "quote": "The times that the school zone is in effect are on school days only and are as follows: 8:00 a.m. – 9:30 a.m. 11:30 a.m. – 1:30 p.m. 3:00 p.m. – 4:30 p.m.",
+  "topic": "School zone: 30 km/h and default hours on school days"
+ },
+ {
+  "id": "c02-s043",
+  "ch": 2,
+  "sec": "s035",
+  "page": 33,
+  "type": "sign",
+  "img": "p033_f3",
+  "q": "This school sign has no speed sign attached to it. What does it mean?",
+  "choices": [
+   "A school zone: do not exceed 30 km/h while it is in effect",
+   "A playground area: children may be playing nearby",
+   "The end of a school zone: return to the posted speed",
+   "A school area: use caution, children may be walking or crossing"
+  ],
+  "answer": 3,
+  "hint": "Whether a speed sign is attached decides between a zone and an area.",
+  "explain": "A school sign without a speed sign marks a school area. It alerts you that children may be walking or crossing the road, so use caution.",
+  "quote": "When you approach a school sign without a speed sign attached to it, you are entering a school area. This sign is to alert drivers that children may be walking or crossing the road and you must use caution when driving through the school area.",
+  "topic": "School zone / school crosswalk signs"
+ },
+ {
+  "id": "c02-s044",
+  "ch": 2,
+  "sec": "s035",
+  "page": 33,
+  "type": "sign",
+  "img": "p033_f2",
+  "q": "You are driving through a school zone and pass this sign. What does it mean?",
+  "choices": [
+   "A playground zone begins here",
+   "You may pass, but the school zone continues",
+   "The school zone has ended",
+   "The school zone limit is now 50 km/h"
+  ],
+  "answer": 2,
+  "hint": "Compare this number with the school zone speed limit.",
+  "explain": "A school zone ends where a sign shows a higher maximum speed or the end of the school zone.",
+  "quote": "A school zone ends where a traffic sign indicates: 1. a higher maximum speed, or 2. the end of the school zone.",
+  "topic": "School zone"
+ },
+ {
+  "id": "c02-s045",
+  "ch": 2,
+  "sec": "s035",
+  "page": 33,
+  "type": "sign",
+  "img": "p033_f5",
+  "q": "What does this sign alert you to do?",
+  "choices": [
+   "Keep off the road, which is for pedestrians only",
+   "Watch for pedestrians at a school crosswalk",
+   "Slow to 30 km/h every day until one hour after sunset",
+   "Get ready to stop for a school bus ahead"
+  ],
+  "answer": 1,
+  "hint": "Notice the line under the children's feet.",
+  "explain": "This is the school crosswalk sign. It alerts drivers to watch for pedestrians.",
+  "quote": "School crosswalk: This sign alerts drivers to watch for pedestrians.",
+  "topic": "School zone / school crosswalk signs"
+ },
+ {
+  "id": "c02-s046",
+  "ch": 2,
+  "sec": "s036",
+  "page": 33,
+  "type": "sign",
+  "img": "p033_f6",
+  "q": "This playground sign has a maximum speed sign attached. Unless other times are posted, when is the playground zone in effect?",
+  "choices": [
+   "Every day from 8:30 a.m. to one hour after sunset",
+   "School days only, from 8:00 a.m. to 4:30 p.m.",
+   "Weekdays only, from 8:30 a.m. to sunset",
+   "Every day from 7:00 a.m. to 9:00 p.m."
+  ],
+  "answer": 0,
+  "hint": "Playgrounds are used on weekends and in the evening too.",
+  "explain": "Playground zone restrictions are in effect every day from 8:30 a.m. to one hour after sunset, unless the municipality posts different times.",
+  "quote": "Playground restrictions are in effect every day from 8:30 a.m. to one hour after sunset.",
+  "topic": "Playground zone: 30 km/h, 8:30 a.m. to 1 hr after sunset, every day"
+ },
+ {
+  "id": "c02-s047",
+  "ch": 2,
+  "sec": "s036",
+  "page": 34,
+  "type": "sign",
+  "img": "p034_f3",
+  "q": "This playground sign has no speed limit sign attached. What does it tell you?",
+  "choices": [
+   "Do not exceed 30 km/h from 8:30 a.m. to one hour after sunset",
+   "A school zone is in effect on school days",
+   "Pedestrians are not permitted on the road",
+   "Children may be near, so use caution"
+  ],
+  "answer": 3,
+  "hint": "Without a speed sign, this is an area rather than a zone.",
+  "explain": "A playground sign without a speed limit sign marks a playground area. Children may be near, so use caution.",
+  "quote": "When you approach a playground sign without a speed limit sign attached to it, you are entering a playground area. This sign is to alert drivers that children may be near and you must use caution when driving through the playground area.",
+  "topic": "Playground zone / playground ahead signs"
+ },
+ {
+  "id": "c02-s048",
+  "ch": 2,
+  "sec": "s037",
+  "page": 34,
+  "type": "sign",
+  "img": "p034_f4",
+  "q": "Which vehicles may park or stop in a stall marked with this sign?",
+  "choices": [
+   "Any vehicle, for up to 15 minutes",
+   "Any vehicle picking up or dropping off a passenger",
+   "Only vehicles with a disability parking placard or licence plate",
+   "Any vehicle, if the driver stays inside"
+  ],
+  "answer": 2,
+  "hint": "Being there only briefly does not change the rule.",
+  "explain": "It is illegal for any vehicle to park or stop in a stall reserved for persons with disabilities unless it has an identifying parking placard or licence plate.",
+  "quote": "It is illegal for any vehicle to park or stop in a parking stall reserved for persons with disabilities unless the vehicle has an identifying parking placard or licence plate.",
+  "topic": "Parking / disabled parking signs"
+ },
+ {
+  "id": "c02-s049",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f2",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A railway crossing is ahead",
+   "A stop sign is ahead",
+   "A yield sign is ahead",
+   "Traffic control signals are ahead"
+  ],
+  "answer": 1,
+  "hint": "Look at the shape and colour of the symbol under the arrow.",
+  "explain": "This yellow warning sign gives advance notice of a stop sign ahead.",
+  "quote": "Traffic regulations: Stop ahead",
+  "topic": "Stop / yield / stop-ahead / yield-ahead signs"
+ },
+ {
+  "id": "c02-s050",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f1",
+  "q": "What does this yellow sign warn you about?",
+  "choices": [
+   "A yield sign is ahead",
+   "A stop sign is ahead",
+   "Merging traffic is ahead",
+   "A school bus stop is ahead"
+  ],
+  "answer": 0,
+  "hint": "Look at the shape of the symbol under the arrow.",
+  "explain": "This yellow warning sign gives advance notice of a yield sign ahead.",
+  "quote": "Yield ahead",
+  "topic": "Stop / yield / stop-ahead / yield-ahead signs"
+ },
+ {
+  "id": "c02-s051",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f3",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A railway crossing with lights is ahead",
+   "A stop sign is ahead",
+   "A pedestrian crossing is ahead",
+   "Traffic control signals are ahead"
+  ],
+  "answer": 3,
+  "hint": "Count the lights and look at their colours.",
+  "explain": "This warning sign means traffic control signals are ahead.",
+  "quote": "Traffic control signals ahead",
+  "topic": "Intersection-ahead warnings"
+ },
+ {
+  "id": "c02-s052",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f4",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A bus lane begins ahead",
+   "A school crosswalk is ahead",
+   "A school bus stop is ahead",
+   "A school zone begins ahead"
+  ],
+  "answer": 2,
+  "hint": "Look at the vehicle in the picture and who is beside it.",
+  "explain": "This warning sign means a school bus stop is ahead.",
+  "quote": "School bus stop ahead",
+  "topic": "School zone / school bus stop ahead signs"
+ },
+ {
+  "id": "c02-s053",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f5",
+  "q": "The yellow lights on this sign are flashing. What should you do?",
+  "choices": [
+   "Stop beside the sign until the lights stop flashing",
+   "Prepare to stop, because the signal ahead is changing to red or is red",
+   "Speed up to get through the green light ahead",
+   "Slow to 30 km/h for a school zone"
+  ],
+  "answer": 1,
+  "hint": "The sign shows what the traffic light ahead is about to do.",
+  "explain": "This sign is placed before some signalized intersections. When its yellow lights flash, the signal ahead is turning from green to yellow or yellow to red, or is already red, so prepare to stop.",
+  "quote": "When the yellow lights are flashing, drivers approaching the intersection must prepare to stop because the traffic control signal light will be turning from green to yellow or yellow to red, or is currently red.",
+  "topic": "Intersection-ahead warnings"
+ },
+ {
+  "id": "c02-s054",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f6",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A sharp turn to the right",
+   "A right turn only lane",
+   "A hidden road joining from the right",
+   "A winding road ahead"
+  ],
+  "answer": 0,
+  "hint": "Look at the angle in the arrow.",
+  "explain": "This yellow warning sign means a sharp turn to the right is ahead.",
+  "quote": "Sharp turn right",
+  "topic": "Curve, sharp turn, winding road, chevron, advisory-speed signs"
+ },
+ {
+  "id": "c02-s055",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f11",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "The road is slippery when wet",
+   "Merging traffic ahead",
+   "A divided highway begins",
+   "A winding road ahead"
+  ],
+  "answer": 3,
+  "hint": "Count how many times the arrow bends.",
+  "explain": "This yellow warning sign means a winding road is ahead.",
+  "quote": "Winding road",
+  "topic": "Curve, sharp turn, winding road, chevron, advisory-speed signs"
+ },
+ {
+  "id": "c02-s056",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "sign",
+  "img": "p035_f13",
+  "q": "This yellow sign is posted below a curve warning sign. What does the number mean?",
+  "choices": [
+   "The speed limit for the rest of the highway",
+   "The speed at which speeding fines are doubled",
+   "The recommended maximum speed through the curve in ideal conditions",
+   "The legal minimum speed on the curve"
+  ],
+  "answer": 2,
+  "hint": "This number goes with the curve sign above it.",
+  "explain": "The yellow speed sign under a curve sign is the recommended maximum speed through that curve under ideal driving conditions.",
+  "quote": "Recommended maximum speed through this curve under ideal driving conditions",
+  "topic": "Curve, sharp turn, winding road, chevron, advisory-speed signs"
+ },
+ {
+  "id": "c02-s057",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f2",
+  "q": "What does this yellow diamond sign warn you about?",
+  "choices": [
+   "A playground area ahead",
+   "A pedestrian crossing ahead",
+   "Pedestrians are not permitted ahead",
+   "A bicycle crossing ahead"
+  ],
+  "answer": 1,
+  "hint": "Look at the person and the line under their feet.",
+  "explain": "This yellow warning sign means a pedestrian crossing is ahead.",
+  "quote": "Crossings ahead: Pedestrian crossing",
+  "topic": "Pedestrian crosswalk / pedestrian-related signs"
+ },
+ {
+  "id": "c02-s058",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f3",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Moose may be crossing ahead",
+   "Falling rock ahead",
+   "Motorized snow vehicles crossing ahead",
+   "A trailer campground ahead"
+  ],
+  "answer": 0,
+  "hint": "Look at the animal in the picture.",
+  "explain": "This yellow warning sign means a moose crossing is ahead.",
+  "quote": "Moose crossing",
+  "topic": "Wildlife / snowmobile / truck crossing signs"
+ },
+ {
+  "id": "c02-s059",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f6",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Motorized snow vehicles are not permitted",
+   "Trucks entering from the right",
+   "A bridge that may be icy ahead",
+   "Motorized snow vehicles crossing ahead"
+  ],
+  "answer": 3,
+  "hint": "This is a yellow warning sign, not a red prohibition sign.",
+  "explain": "This yellow warning sign means motorized snow vehicles may be crossing ahead.",
+  "quote": "Motorized snow vehicles crossing",
+  "topic": "Wildlife / snowmobile / truck crossing signs"
+ },
+ {
+  "id": "c02-s060",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f12",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A hidden road ahead",
+   "A dead end ahead",
+   "A T intersection ahead",
+   "A Y intersection ahead"
+  ],
+  "answer": 2,
+  "hint": "Look at where the road you are on meets the crossing road.",
+  "explain": "This yellow warning sign means a T intersection is ahead.",
+  "quote": "T intersection",
+  "topic": "Intersection-ahead warnings"
+ },
+ {
+  "id": "c02-s061",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f13",
+  "q": "What does this yellow sign warn you about?",
+  "choices": [
+   "Rumble strips ahead",
+   "A railway crossing ahead",
+   "A hidden road ahead",
+   "A bridge that may be icy ahead"
+  ],
+  "answer": 1,
+  "hint": "Look at the small bars drawn across the line.",
+  "explain": "This yellow warning sign means a railway crossing is ahead.",
+  "quote": "Railway crossing",
+  "topic": "Railway crossing signs"
+ },
+ {
+  "id": "c02-s062",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f14",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Trucks entering from the right",
+   "Trucks are not permitted",
+   "A slow-moving vehicle ahead",
+   "Trucks are permitted"
+  ],
+  "answer": 0,
+  "hint": "This is a yellow warning sign, not a circle sign.",
+  "explain": "This yellow warning sign means trucks may be entering from the right.",
+  "quote": "Trucks entering from right",
+  "topic": "Wildlife / snowmobile / truck crossing signs"
+ },
+ {
+  "id": "c02-s063",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f17",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "The roadways ahead run side by side but do not join",
+   "A hidden road joins from the right",
+   "The left lane ends ahead",
+   "The roadways ahead join, so watch for merging traffic"
+  ],
+  "answer": 3,
+  "hint": "Look at whether the two lines end up as one.",
+  "explain": "This sign warns that roadways ahead join, so watch for merging traffic.",
+  "quote": "Roadways ahead that join: Merging traffic",
+  "topic": "Merge / lane ends / added lane signs"
+ },
+ {
+  "id": "c02-s064",
+  "ch": 2,
+  "sec": "s039",
+  "page": 36,
+  "type": "sign",
+  "img": "p036_f18",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "The right lane ends ahead",
+   "A divided highway ends ahead",
+   "The roadways ahead run side by side but do not join",
+   "The roadways ahead join, so watch for merging traffic"
+  ],
+  "answer": 2,
+  "hint": "Look at the dotted line between the two paths.",
+  "explain": "This free flow (added lane) sign means the roadways ahead are side by side but do not join.",
+  "quote": "Roadways ahead side-by-side but do not join: Free flow (added lane)",
+  "topic": "Merge / lane ends / added lane signs"
+ },
+ {
+  "id": "c02-s065",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f1",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A bump in the road",
+   "The road narrows on both sides",
+   "A divided highway begins",
+   "The left lane ends"
+  ],
+  "answer": 1,
+  "hint": "Look at both edges of the road in the picture.",
+  "explain": "This yellow warning sign means the road narrows on both sides.",
+  "quote": "Narrow roadways ahead: Road narrows both sides",
+  "topic": "Road narrows / narrow bridge / one-lane signs"
+ },
+ {
+  "id": "c02-s066",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f5",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "The left lane ends ahead",
+   "The right lane ends ahead",
+   "The road narrows on both sides",
+   "A divided highway ends ahead"
+  ],
+  "answer": 0,
+  "hint": "Look at which side of the road bends inward.",
+  "explain": "This yellow warning sign means the left lane ends ahead.",
+  "quote": "Left lane ends",
+  "topic": "Merge / lane ends / added lane signs"
+ },
+ {
+  "id": "c02-s067",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f7",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A divided highway ends",
+   "The road narrows on both sides",
+   "Merging traffic ahead",
+   "A divided highway begins"
+  ],
+  "answer": 3,
+  "hint": "Look at where the divider sits in the picture.",
+  "explain": "This yellow warning sign means a divided highway begins.",
+  "quote": "Divided highway: Divided highway begins",
+  "topic": "Divided highway begins/ends"
+ },
+ {
+  "id": "c02-s068",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f8",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Keep right of a divider ahead",
+   "The road narrows on both sides",
+   "A divided highway ends",
+   "A divided highway begins"
+  ],
+  "answer": 2,
+  "hint": "Look at where the divider sits in the picture.",
+  "explain": "This yellow warning sign means the divided highway ends.",
+  "quote": "Divided highway ends",
+  "topic": "Divided highway begins/ends"
+ },
+ {
+  "id": "c02-s069",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f10",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Trucks entering from the right",
+   "A hill ahead",
+   "Pavement ends ahead",
+   "Falling rock ahead"
+  ],
+  "answer": 1,
+  "hint": "Look at the slope under the truck.",
+  "explain": "This yellow warning sign means there is a hill ahead.",
+  "quote": "Changing road conditions: Hill",
+  "topic": "Hill, slippery, bump, pavement ends, falling rock signs"
+ },
+ {
+  "id": "c02-s070",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f11",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "The road is slippery when wet",
+   "A winding road ahead",
+   "A bump ahead",
+   "Pavement ends ahead"
+  ],
+  "answer": 0,
+  "hint": "Look at the marks behind the car's tires.",
+  "explain": "This yellow warning sign means the road is slippery when wet.",
+  "quote": "Slippery when wet",
+  "topic": "Hill, slippery, bump, pavement ends, falling rock signs"
+ },
+ {
+  "id": "c02-s071",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f12",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Uneven pavement in a construction zone",
+   "Rumble strips ahead",
+   "The right lane ends ahead",
+   "The pavement ends ahead"
+  ],
+  "answer": 3,
+  "hint": "Look at how the road surface changes partway up the picture.",
+  "explain": "This yellow warning sign means the pavement ends ahead.",
+  "quote": "Pavement ends",
+  "topic": "Hill, slippery, bump, pavement ends, falling rock signs"
+ },
+ {
+  "id": "c02-s072",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f15",
+  "q": "What does this hazard marker tell you?",
+  "choices": [
+   "There is a sharp bend in the road",
+   "The road is a dead end",
+   "There is an object on the right",
+   "There is an object on the left"
+  ],
+  "answer": 2,
+  "hint": "The guide shows two versions of this marker, one for each side.",
+  "explain": "The guide shows this striped marker as a hazard marker for an object on the right.",
+  "quote": "Hazard marker object on right",
+  "topic": "Hazard (object) markers"
+ },
+ {
+  "id": "c02-s073",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f13",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Rumble strips ahead",
+   "The bridge ahead may be icy",
+   "Falling rock ahead",
+   "A hill ahead"
+  ],
+  "answer": 1,
+  "hint": "Look at the thermometer on the sign.",
+  "explain": "This yellow warning sign means the bridge ahead ices.",
+  "quote": "Bridge Ices",
+  "topic": "Hill, slippery, bump, pavement ends, falling rock signs"
+ },
+ {
+  "id": "c02-s074",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f16",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Falling rock",
+   "A hill ahead",
+   "A dead end",
+   "Pavement ends"
+  ],
+  "answer": 0,
+  "hint": "Look at the small shapes coming down the slope.",
+  "explain": "This yellow warning sign warns of falling rock.",
+  "quote": "Falling rock",
+  "topic": "Hill, slippery, bump, pavement ends, falling rock signs"
+ },
+ {
+  "id": "c02-s075",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f19",
+  "q": "What does this sign indicate?",
+  "choices": [
+   "Turn right only",
+   "Keep right of a divider",
+   "A hazard marker for an object on the left",
+   "A sharp bend in the road"
+  ],
+  "answer": 3,
+  "hint": "Look at which way the arrowhead shape points.",
+  "explain": "The chevron sign indicates a sharp bend in the road.",
+  "quote": "Chevron sign indicates a sharp bend in the road",
+  "topic": "Curve, sharp turn, winding road, chevron, advisory-speed signs"
+ },
+ {
+  "id": "c02-s076",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f20",
+  "q": "What does this sign warn motorists to do?",
+  "choices": [
+   "Stay out of a reserved bicycle lane ahead",
+   "Do not pass bicycles",
+   "Provide space for cyclists",
+   "Expect a bicycle crossing ahead"
+  ],
+  "answer": 2,
+  "hint": "Picture the car and the cyclist side by side on the same road.",
+  "explain": "This shared-use sign warns motorists to provide space for cyclists.",
+  "quote": "Warns motorists to provide space for cyclists",
+  "topic": "Cyclists: passing distance, bike lanes"
+ },
+ {
+  "id": "c02-s077",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "sign",
+  "img": "p037_f21",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "Turning vehicles must yield to bicycles at the next corner",
+   "Cyclists may use the full lane, which is too narrow to share side by side",
+   "A bicycle lane separated by solid white lines begins ahead",
+   "Bicycles are not permitted on the road ahead"
+  ],
+  "answer": 1,
+  "hint": "Look at where the cyclist rides compared with the car behind.",
+  "explain": "This shared-use sign warns that cyclists are allowed full use of the lane ahead and the lane is too narrow for side-by-side driving.",
+  "quote": "Warns that cyclists are allowed full use of the lane ahead and that the lane is too narrow for side-by-side driving",
+  "topic": "Cyclists: passing distance, bike lanes"
+ },
+ {
+  "id": "c02-s078",
+  "ch": 2,
+  "sec": "s041",
+  "page": 39,
+  "type": "sign",
+  "img": "p039_f2",
+  "q": "This sign is on the back of a vehicle. What does it tell you?",
+  "choices": [
+   "The vehicle travels less than 40 km/h, so be ready to slow down",
+   "The vehicle is carrying a wide load",
+   "The vehicle must stop at every railway crossing",
+   "The vehicle is an emergency vehicle you must yield to"
+  ],
+  "answer": 0,
+  "hint": "Think about farm tractors and machinery on the highway.",
+  "explain": "A slow-moving vehicle sign is placed on the back of vehicles that travel less than 40 km/h. It warns you to be prepared to reduce your speed.",
+  "quote": "A slow-moving vehicle sign is placed on the back of vehicles that travel less than 40 km/h, such as farm tractors, machinery, or construction equipment. This sign warns drivers to be prepared to reduce their speed.",
+  "topic": "Slow-moving vehicle sign"
+ },
+ {
+  "id": "c02-s079",
+  "ch": 2,
+  "sec": "s041",
+  "page": 39,
+  "type": "sign",
+  "img": "p039_f4",
+  "q": "What should you do when passing a vehicle that displays this sign?",
+  "choices": [
+   "Pass quickly without signalling",
+   "Pass on the right shoulder",
+   "Never pass it under any conditions",
+   "Use caution, because a wide load is being transported"
+  ],
+  "answer": 3,
+  "hint": "The load may take up more room than a normal vehicle.",
+  "explain": "This sign indicates a wide load is being transported. Use caution when passing a vehicle displaying it.",
+  "quote": "This sign indicates a wide load is being transported. Use caution when passing vehicles displaying this sign.",
+  "topic": "Oversized loads"
+ },
+ {
+  "id": "c02-s080",
+  "ch": 2,
+  "sec": "s042",
+  "page": 39,
+  "type": "sign",
+  "img": "p039_f8",
+  "q": "You pass this sign in a construction zone. No people or equipment are working right now. What speed limit applies?",
+  "choices": [
+   "Any safe speed, since the signs only protect workers",
+   "The construction limit, but only from 8:30 a.m. to sunset",
+   "The construction zone speed limit, which must be obeyed at all times",
+   "The normal highway limit, because no one is working"
+  ],
+  "answer": 2,
+  "hint": "Hazards like bumps, fresh oil, and loose gravel can still be there after the crew leaves.",
+  "explain": "The construction zone speed limit must be obeyed at all times, even when people and equipment are not working, because hazards may still be present.",
+  "quote": "The speed limit in construction zones must be obeyed at all times. This applies even when people and equipment are not working, since hazards such as bumps, fresh oil, and loose gravel may be present.",
+  "topic": "Construction/temporary (orange) signs"
+ },
+ {
+  "id": "c02-s081",
+  "ch": 2,
+  "sec": "s043",
+  "page": 41,
+  "type": "sign",
+  "img": "p041_f2",
+  "q": "What does this marking painted in a lane mean?",
+  "choices": [
+   "The lane is ending soon",
+   "The lane is reserved for specific vehicles",
+   "The lane is a two-way left turn lane",
+   "A railway crossing is ahead"
+  ],
+  "answer": 1,
+  "hint": "The same symbol appears on signs for bus and bicycle lanes.",
+  "explain": "Diamond markings indicate that a lane is reserved for specific vehicles. Signs may show the times or vehicles allowed.",
+  "quote": "Diamond markings indicate that a lane is reserved for specific vehicles.",
+  "topic": "Reserved lanes (HOV diamond, bus, bicycle lanes)"
+ },
+ {
+  "id": "c02-s082",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "sign",
+  "img": "p042_f1",
+  "q": "What does this sign warn you about?",
+  "choices": [
+   "A reserved bicycle lane is ahead",
+   "A bicycle crossing is ahead",
+   "Bicycles are not permitted ahead",
+   "Passing bicycles is not allowed ahead"
+  ],
+  "answer": 0,
+  "hint": "The diamond symbol is also painted on some lanes.",
+  "explain": "This yellow warning sign means a reserved bicycle lane is ahead.",
+  "quote": "Reserved bicycle lane ahead",
+  "topic": "Reserved lanes (HOV diamond, bus, bicycle lanes)"
+ },
+ {
+  "id": "c02-s083",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "sign",
+  "img": "p042_f5",
+  "q": "What does this sign tell drivers who are turning across the bicycle lane?",
+  "choices": [
+   "Bicycles must yield to turning vehicles",
+   "Bicycles are not permitted at this intersection",
+   "Do not turn right at this intersection",
+   "Yield to bicycles in the bicycle lane"
+  ],
+  "answer": 3,
+  "hint": "Look at which path the yield symbol sits on.",
+  "explain": "This turning vehicles yield to bicycles sign appears where drivers must cross a bicycle lane. Turning drivers yield to cyclists.",
+  "quote": "The turning vehicles yield to bicycles sign may appear at conflict zones where drivers are required to cross a bicycle lane.",
+  "topic": "Cyclists: right-turn conflicts, bike lanes"
+ },
+ {
+  "id": "c02-s084",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "sign",
+  "img": "p042_f6",
+  "q": "What does the large X painted on this rural highway tell you?",
+  "choices": [
+   "You are not allowed to stop here",
+   "A school crosswalk is ahead",
+   "A railway crossing is ahead",
+   "The lane is closed ahead"
+  ],
+  "answer": 2,
+  "hint": "This marking warns of something you may have to stop for.",
+  "explain": "X markings on rural highways show the approach to a railway crossing. An advance warning sign also marks the approach.",
+  "quote": "X markings on rural highways indicate the approach to a railway crossing.",
+  "topic": "Railway crossing signs (crossbuck, advance warning, X marking)"
+ },
+ {
+  "id": "c02-s085",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "sign",
+  "img": "p042_f7",
+  "q": "What does this painted area on the road mean?",
+  "choices": [
+   "It is a lane reserved for buses and cyclists",
+   "Do not drive on it, except to enter or leave a driveway or alley",
+   "It is an extra lane for passing slower vehicles",
+   "It is a place to stop briefly to let passengers out"
+  ],
+  "answer": 1,
+  "hint": "Think about why the area is filled with stripes instead of being an open lane.",
+  "explain": "Painted islands are not to be used for travel. You may cross one only to enter or leave a driveway, alleyway, or private drive, and you must not park or stop there.",
+  "quote": "Painted islands indicate that this area is not to be used for travel by any road users. Motorists can cross painted islands for the purpose of entering or leaving a driveway, alleyway, or private drive.",
+  "topic": "Pavement markings"
+ },
+ {
+  "id": "c04-s001",
+  "ch": 4,
+  "sec": "s058",
+  "page": 61,
+  "type": "sign",
+  "img": "p060_f1",
+  "q": "You stop for this sign at an intersection with no stop line and no marked crosswalk. Where must you stop?",
+  "choices": [
+   "Within three metres of the intersecting roadway",
+   "Between five and 15 metres from the intersecting roadway",
+   "About 20 metres back from the intersecting roadway",
+   "Wherever you can see best, even partly in the intersection"
+  ],
+  "answer": 0,
+  "hint": "You need to be close enough to see, without blocking people who are crossing.",
+  "explain": "With no stop line or marked crosswalk, you must stop within three metres (10 feet) of the intersecting roadway, where you will not interfere with pedestrians.",
+  "quote": "If there is no stop line or marked crosswalk at the intersection, you must stop within three metres (10 feet) of the intersecting roadway.",
+  "topic": "Stop sign: full stop at stop line/crosswalk/edge of intersection"
+ },
+ {
+  "id": "c04-s002",
+  "ch": 4,
+  "sec": "s058",
+  "page": 61,
+  "type": "sign",
+  "img": "p061_f2",
+  "q": "You come to this sign and there are no vehicles or pedestrians you must yield to. Must you come to a complete stop?",
+  "choices": [
+   "Yes, you must always stop completely at this sign",
+   "Yes, but only between 8:30 a.m. and sunset",
+   "No, and you do not need to slow down either",
+   "No, you may proceed without a complete stop"
+  ],
+  "answer": 3,
+  "hint": "This sign asks you to give way, which is not the same as a stop sign.",
+  "explain": "At a yield sign, reduce speed and be ready to stop. If there is no traffic or pedestrians to yield to, you may go through without a complete stop.",
+  "quote": "If there are no pedestrians or traffic that you are required to yield to, you may proceed through the intersection without coming to a complete stop.",
+  "topic": "Yield sign: slow/stop as needed, yield to traffic and pedestrians"
+ },
+ {
+  "id": "c04-s003",
+  "ch": 4,
+  "sec": "s064",
+  "page": 69,
+  "type": "sign",
+  "img": "p031_f12",
+  "q": "What does this sign mean?",
+  "choices": [
+   "Left turns are not allowed",
+   "Do not enter",
+   "U-turns are not allowed",
+   "The road curves sharply ahead"
+  ],
+  "answer": 2,
+  "hint": "Follow the arrow in the picture from start to end.",
+  "explain": "The red circle and slash over a U-shaped arrow means U-turns are not allowed.",
+  "quote": "This sign means U-turns are not allowed.",
+  "topic": "Prohibitive signs (no left/right/U-turn, do not enter)"
+ },
+ {
+  "id": "c05-s001",
+  "ch": 5,
+  "sec": "s069",
+  "page": 75,
+  "type": "sign",
+  "img": "p075_f2",
+  "q": "You see this sign as you enter a highway. Who has the right-of-way where the roads join?",
+  "choices": [
+   "The vehicle on the right always goes first",
+   "Neither; merging is a shared responsibility",
+   "The merging vehicle always has the right-of-way",
+   "Vehicles on the highway, so merging vehicles must stop"
+  ],
+  "answer": 1,
+  "hint": "Merging lanes are built so you can match the speed of highway traffic.",
+  "explain": "When merging, neither the merging vehicle nor the vehicles already on the highway have the right-of-way. Both must cooperate.",
+  "quote": "Neither the merging vehicle nor the vehicles already on the highway have the right-of-way. Merging is a shared responsibility between the vehicles joining the roadway and the vehicles already on the roadway.",
+  "topic": "Merging from acceleration lane and helping merging traffic"
+ },
+ {
+  "id": "c06-s001",
+  "ch": 6,
+  "sec": "s078",
+  "page": 87,
+  "type": "sign",
+  "img": "p087_f1",
+  "q": "This sign is posted on a road with a 50 km/h limit. You are in the lane next to a stopped tow truck with flashing lights. What is your maximum speed?",
+  "choices": [
+   "50 km/h",
+   "60 km/h",
+   "30 km/h",
+   "40 km/h"
+  ],
+  "answer": 0,
+  "hint": "The rule uses whichever of two speeds is lower.",
+  "explain": "When passing stopped emergency vehicles or tow trucks with lights flashing, you must slow to 60 km/h or the posted speed, whichever is lower. Here the posted 50 km/h is lower.",
+  "quote": "Motorists must reduce speed to 60 km/h or the posted speed, whichever is lower, when passing emergency vehicles or tow trucks that are stopped with their lights flashing.",
+  "topic": "Emergency vehicles: slow down, move over"
+ },
+ {
+  "id": "c08-s001",
+  "ch": 8,
+  "sec": "s092",
+  "page": 105,
+  "type": "sign",
+  "img": "p028_f9",
+  "q": "At a railway crossing marked only with this sign, when must you stop?",
+  "choices": [
+   "Every time, even when no train is in sight",
+   "Only when gates are down and bells are ringing",
+   "Only when a train is within 100 metres",
+   "When a train is visible or sounding a signal and is within 500 metres"
+  ],
+  "answer": 3,
+  "hint": "This sign means you must yield to trains, so think about when a train is close enough to matter.",
+  "explain": "A railway crossing sign means you must yield to all trains. You must stop when a train is visible or sounding a signal and is approaching within 500 metres of the crossing.",
+  "quote": "A railway crossing sign means drivers must yield to all trains. ... You must stop when a train is visible or sounding a signal and approaching within 500 metres (about five city blocks) of the crossing.",
+  "topic": "Railway crossings: crossbuck"
+ },
+ {
+  "id": "c08-s002",
+  "ch": 8,
+  "sec": "s092",
+  "page": 105,
+  "type": "sign",
+  "img": "p105_f3",
+  "q": "What does the number 3 on this railway crossing sign tell you?",
+  "choices": [
+   "You must stop three metres from the nearest rail",
+   "The recommended speed is 30 km/h",
+   "There are three railway tracks at the crossing",
+   "Trains cross here three times a day"
+  ],
+  "answer": 2,
+  "hint": "Think about why a second train could surprise you here.",
+  "explain": "If there is more than one track, the railway crossing sign shows the number of tracks. Be sure all tracks are clear before crossing.",
+  "quote": "If there is more than one railway track, the crossing sign will show the number of tracks.",
+  "topic": "Railway crossing signs (crossbuck, advance warning, X marking)"
+ },
+ {
+  "id": "c08-s003",
+  "ch": 8,
+  "sec": "s092",
+  "page": 105,
+  "type": "sign",
+  "img": "p105_f4",
+  "q": "Where must you stop at a railway crossing with this sign?",
+  "choices": [
+   "At least 150 metres from the nearest rail",
+   "Between five and 15 metres from the nearest rail",
+   "Within three metres of the nearest rail",
+   "About 20 metres from the nearest rail"
+  ],
+  "answer": 1,
+  "hint": "You need to be close enough to see down the tracks, but not too close to a passing train.",
+  "explain": "A stop sign at a railway crossing requires a complete stop between five metres (15 feet) and 15 metres (50 feet) from the nearest rail. Do not go until you are sure no train is coming.",
+  "quote": "A stop sign at a railway crossing requires the driver to come to a complete stop between five metres (15 feet) and 15 metres (50 feet) from the nearest rail.",
+  "topic": "Railway crossings: stop distance from nearest rail"
+ },
+ {
+  "id": "c08-s004",
+  "ch": 8,
+  "sec": "s092",
+  "page": 106,
+  "type": "sign",
+  "img": "p106_f1",
+  "q": "The red lights on this railway signal start flashing and the bell rings. You are the first vehicle in line. What must you do?",
+  "choices": [
+   "Stop at least five metres back from the nearest rail",
+   "Cross quickly before the train arrives",
+   "Stop right at the edge of the nearest rail",
+   "Slow down and cross if you cannot see a train"
+  ],
+  "answer": 0,
+  "hint": "The lights and bell mean a train is coming, and you need a safety gap from the tracks.",
+  "explain": "Stop when the lights flash and bells ring. The driver nearest the crossing must stop at least five metres back from the nearest rail and wait until the lights and bells stop and the train has passed or stopped.",
+  "quote": "Stop when the lights begin to flash and the bells ring to indicate a train is approaching. The driver of the vehicle nearest the crossing must stop at least five metres back from the nearest rail.",
+  "topic": "Railway crossings: stop distance from nearest rail"
+ },
+ {
+  "id": "c08-s005",
+  "ch": 8,
+  "sec": "s092",
+  "page": 106,
+  "type": "sign",
+  "img": "p106_f4",
+  "q": "You are stopped at this railway crossing. When may you go?",
+  "choices": [
+   "As soon as the last train car passes, even with the gates down",
+   "When the gates start to rise, if you see no train",
+   "When you can safely drive around the lowered gates",
+   "Only after the gates are up, the lights stop flashing, and the bells stop"
+  ],
+  "answer": 3,
+  "hint": "A gate that is still moving is not a signal to go.",
+  "explain": "At crossings with gates, stay stopped until the gates are raised, the lights stop flashing, and the bells stop ringing. Never drive around the gates or cross while they are moving.",
+  "quote": "You must remain stopped until the gates are raised, the lights stop flashing, and the bells stop ringing. ... If the gate is down, is raising, or is lowering, do not cross the tracks.",
+  "topic": "Railway crossings: gates, lights, and bells"
+ },
+ {
+  "id": "c08-s006",
+  "ch": 8,
+  "sec": "s092",
+  "page": 105,
+  "type": "sign",
+  "img": "p105_f1",
+  "q": "What does the 30 km/h sign under this railway warning sign tell you?",
+  "choices": [
+   "The speed limit for the next 30 kilometres",
+   "The speed trains travel through the crossing",
+   "The recommended speed for the railway crossing",
+   "The legal minimum speed over the tracks"
+  ],
+  "answer": 2,
+  "hint": "It will be lower than the posted speed for the road.",
+  "explain": "Advance warning signs tell you to look, listen, and reduce speed. The speed sign below is the recommended speed for the crossing and is less than the posted speed for the road.",
+  "quote": "These signs tell you to look, listen, and reduce speed because you may have to stop for a train. The speed sign below the advance warning sign is the recommended speed for the railway crossing.",
+  "topic": "Railway crossing signs (crossbuck, advance warning, X marking)"
+ },
+ {
+  "id": "c08-s007",
+  "ch": 8,
+  "sec": "s092",
+  "page": 105,
+  "type": "sign",
+  "img": "p105_f2",
+  "q": "You see these markings on the road at a railway crossing and must stop for a train. Where should you stop?",
+  "choices": [
+   "Anywhere, as long as you are off the tracks",
+   "Before the stop line",
+   "On top of the X marking",
+   "Just past the stop line, close to the tracks"
+  ],
+  "answer": 1,
+  "hint": "The white bar across the lane is there for a reason.",
+  "explain": "An X and/or stop line may be painted at the approach to a railway crossing. If you must stop for a train, stop before the stop line.",
+  "quote": "Pavement markings, such as an X and/or stop line, may be marked on the pavement at the approach to some railway crossings. If you must stop for a train, do it before the stop line.",
+  "topic": "Railway crossing signs (crossbuck, advance warning, X marking)"
+ }
+]

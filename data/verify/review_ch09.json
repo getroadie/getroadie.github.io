@@ -1,0 +1,282 @@
+[
+ {
+  "id": "c09-001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-003",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-004",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-005",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-006",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-007",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-008",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-009",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-010",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-011",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-012",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-013",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-014",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-015",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-016",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-017",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-018",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-019",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-020",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-021",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-022",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-023",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-024",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-025",
+  "verdict": "ok",
+  "note": "fixed: explanation restated the second/third suspension windows ('within one year/two years'), which the guide leaves undefined; trimmed"
+ },
+ {
+  "id": "c09-026",
+  "verdict": "reject",
+  "note": "reject: answer (three months) only holds for a second suspension 'within one year', and the guide (p112) never says what that year is measured from (first conviction, start or end of the first suspension), so the scenario cannot be stated unambiguously"
+ },
+ {
+  "id": "c09-027",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-028",
+  "verdict": "ok",
+  "note": "fixed: correct answer was the only 'No' choice; replaced weak distractor C with 'No, and you cannot ask to have the points reviewed', which the guide contradicts"
+ },
+ {
+  "id": "c09-029",
+  "verdict": "ok",
+  "note": "fixed: '15 points' condition ignores the GDL 8-point limit (p112 ambiguity); stem now specifies a fully licensed driver so the 15-point threshold is unambiguous"
+ },
+ {
+  "id": "c09-030",
+  "verdict": "ok",
+  "note": "fixed: answer said 'Only by an appeal', which clashes with convictions leaving the record after 10 years (p110); dropped 'Only' and noted the 10 years in the explanation"
+ },
+ {
+  "id": "c09-031",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-032",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-033",
+  "verdict": "ok",
+  "note": "fixed: distractor 'One year' was arguable from the p113 one-year s.320 bullet, which does not say 'first offence'; replaced with 'Ten years'"
+ },
+ {
+  "id": "c09-034",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-035",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-036",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-037",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-038",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-039",
+  "verdict": "ok",
+  "note": "fixed: hint ('smallest fine') pointed straight at the answer; reworded"
+ },
+ {
+  "id": "c09-040",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-041",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-042",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-043",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-044",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-045",
+  "verdict": "ok",
+  "note": "fixed: hint ('half the second FAIL fine') gave the answer away with $2,000 in the choices; new hint 'more than the fine for a first IRS: WARN' (a third WARN is $1,200, so 'any WARN fine' would be false)"
+ },
+ {
+  "id": "c09-046",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-047",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-048",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-049",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-050",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-051",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-052",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-053",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c09-054",
+  "verdict": "ok",
+  "note": "fixed: correct choice was much longer than the distractors; shortened"
+ },
+ {
+  "id": "c09-055",
+  "verdict": "ok",
+  "note": "fixed: correct choice was much longer than the distractors; shortened"
+ },
+ {
+  "id": "c09-056",
+  "verdict": "ok",
+  "note": ""
+ }
+]

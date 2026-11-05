@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "c09-001",
+  "ch": 9,
+  "sec": "s098",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "According to the guide, when does impairment begin?",
+  "choices": [
+   "Once your blood alcohol reaches the legal limit",
+   "After about three drinks in one hour",
+   "Only once you start to feel dizzy",
+   "With the first drink or drug use"
+  ],
+  "answer": 3,
+  "hint": "Think about how small an amount it takes to start affecting you.",
+  "explain": "The guide says impairment begins with the first drink or drug use, so any amount can affect your driving.",
+  "quote": "Drugs or alcohol will impair your driving. Operating a vehicle safely and responsibly requires that you be alert. Impairment begins with the first drink or drug use.",
+  "topic": "Impaired driving: alcohol and drugs"
+ },
+ {
+  "id": "c09-002",
+  "ch": 9,
+  "sec": "s098",
+  "page": 109,
+  "type": "rule",
+  "img": null,
+  "q": "You have started taking a new over-the-counter cold medicine. What does the guide say you should do before driving?",
+  "choices": [
+   "Nothing, because over-the-counter medicine cannot affect driving",
+   "Nothing, as long as you have not had any alcohol that day",
+   "Know its effects, and talk with your doctor and pharmacist",
+   "Drive as planned, then read the label once you arrive"
+  ],
+  "answer": 2,
+  "hint": "Think about the side effects printed on many medicine labels.",
+  "explain": "Some prescription and over-the-counter medications can cause drowsiness or dizziness. Know the effects of any medication before you drive, and talk with your doctor and pharmacist.",
+  "quote": "Talk with your doctor and pharmacist. Know the effects of all prescription and over-the-counter medication you are taking before operating any motor vehicle.",
+  "topic": "Medication and driving"
+ },
+ {
+  "id": "c09-003",
+  "ch": 9,
+  "sec": "s098",
+  "page": 109,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these is a common cause of driver fatigue?",
+  "choices": [
+   "Wearing sunglasses on bright days",
+   "Keeping the vehicle well ventilated",
+   "Driving for long periods of time",
+   "Scanning the road ahead and behind"
+  ],
+  "answer": 2,
+  "hint": "Think about what wears you down on a long trip.",
+  "explain": "The guide lists lack of sleep, stress, boredom, driving for long periods, physical activity, illness and eye strain as causes of fatigue. The other choices are ways to reduce fatigue.",
+  "quote": "Driving while fatigued can be extremely dangerous and is often caused by a variety of factors such as: lack of sleep or rest, emotional stress, boredom, driving for long periods of time",
+  "topic": "Fatigue"
+ },
+ {
+  "id": "c09-004",
+  "ch": 9,
+  "sec": "s098",
+  "page": 109,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these can make driver fatigue worse?",
+  "choices": [
+   "A well-ventilated vehicle",
+   "A warm and comfortable vehicle",
+   "Stopping to walk around your vehicle",
+   "Checking your vehicle's gauges"
+  ],
+  "answer": 1,
+  "hint": "Think about what makes you sleepy on the couch at home.",
+  "explain": "The guide says fatigue can be made worse by overeating, alcohol or drug use, or even a warm and comfortable vehicle.",
+  "quote": "Fatigue can also be intensified by factors like overeating, alcohol or drug use, or even a warm and comfortable vehicle.",
+  "topic": "Fatigue"
+ },
+ {
+  "id": "c09-005",
+  "ch": 9,
+  "sec": "s098",
+  "page": 109,
+  "type": "rule",
+  "img": null,
+  "q": "You start to feel tired while driving on a long highway trip. What should you do?",
+  "choices": [
+   "Turn up the heat so you feel more comfortable",
+   "Stop for a rest and walk around your vehicle",
+   "Keep driving and stare straight ahead to focus",
+   "Speed up a little so the trip ends sooner"
+  ],
+  "answer": 1,
+  "hint": "Think about what actually restores your alertness.",
+  "explain": "If you feel tired, the guide says to stop for a rest and walk around your vehicle. Keeping your eyes moving helps, and a warm vehicle can make fatigue worse.",
+  "quote": "If you are feeling tired, stop for a rest. Walk around your vehicle.",
+  "topic": "Fatigue"
+ },
+ {
+  "id": "c09-006",
+  "ch": 9,
+  "sec": "s098",
+  "page": 109,
+  "type": "rule",
+  "img": null,
+  "q": "How can fatigue affect you as a driver?",
+  "choices": [
+   "It increases the time it takes you to react",
+   "It shortens the time it takes you to react",
+   "It affects your eyes but not your judgement",
+   "It only matters if you have also been drinking"
+  ],
+  "answer": 0,
+  "hint": "Think about how quickly a tired person responds.",
+  "explain": "Fatigue can increase your reaction time and impair your judgement and decision-making, which can lead to driving errors.",
+  "quote": "Fatigue can increase the time it takes you to react. It can also impair your judgement and decision-making.",
+  "topic": "Fatigue"
+ },
+ {
+  "id": "c09-007",
+  "ch": 9,
+  "sec": "s098",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these is NOT a possible result of choosing to drive impaired?",
+  "choices": [
+   "Heavy fines",
+   "A criminal record",
+   "Lower insurance premiums",
+   "Time in jail"
+  ],
+  "answer": 2,
+  "hint": "Think about how insurers view a driver with an impaired driving record.",
+  "explain": "Impaired driving can bring heavy fines, a criminal record, jail time, loss of your licence and increased insurance premiums. It does not lower them.",
+  "quote": "You may face: heavy fines, a criminal record, time in jail, the loss of your driver’s licence privileges, increased vehicle insurance premiums",
+  "topic": "Impaired driving: consequences"
+ },
+ {
+  "id": "c09-008",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "When are demerit points recorded against your driving record?",
+  "choices": [
+   "Whenever a police officer pulls you over",
+   "Only when you are involved in a collision",
+   "When you get a ticket, even if found not guilty",
+   "When you are convicted of an offence"
+  ],
+  "answer": 3,
+  "hint": "Think about what has to happen in the legal process first.",
+  "explain": "Demerit points are recorded when you are convicted. Paying the fine, being found guilty in court, or being convicted in your absence all count as a conviction.",
+  "quote": "Demerit points are recorded against your driving record when you are convicted of an offence.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-009",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "You get a traffic ticket and choose to pay the fine without going to court. What does this mean?",
+  "choices": [
+   "You are convicted of the offence",
+   "The ticket is cancelled with no record",
+   "You are found not guilty of the offence",
+   "Points apply only if you get another ticket"
+  ],
+  "answer": 0,
+  "hint": "Think about what paying the ticket says about the charge.",
+  "explain": "Paying the fine on your ticket voluntarily counts as a conviction, so demerit points are recorded on your driving record.",
+  "quote": "You are convicted of an offence when you: pay the fine assessed on your ticket voluntarily",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-010",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "What can happen if you do not show up for your court date on a traffic ticket?",
+  "choices": [
+   "The ticket is automatically dismissed",
+   "The court must wait until you attend",
+   "You can be convicted in your absence",
+   "You pay the fine but get no demerit points"
+  ],
+  "answer": 2,
+  "hint": "Think about whether skipping court makes a charge go away.",
+  "explain": "If you fail to appear in court, you can be convicted (found guilty) in your absence, and demerit points are recorded.",
+  "quote": "You are convicted of an offence when you: ... fail to appear in court and are ‘convicted (guilty) in absence’.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-011",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "How long do convictions and licence suspensions stay on your driving record?",
+  "choices": [
+   "10 years",
+   "2 years",
+   "5 years",
+   "1 year"
+  ],
+  "answer": 0,
+  "hint": "Your driver's abstract shows a long history.",
+  "explain": "Convictions and suspensions remain on your driving record for 10 years and appear on your driver's abstract.",
+  "quote": "Convictions and times when your driver’s licence privileges have been suspended remain on your driving record for 10 years and will appear on your driver’s abstract.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-012",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "When are the demerit points for a conviction removed from your driving record?",
+  "choices": [
+   "Ten years after the conviction date",
+   "One year after the conviction date",
+   "Never, they stay on your record for life",
+   "Two years after the conviction date"
+  ],
+  "answer": 3,
+  "hint": "Points only count within a set window of time.",
+  "explain": "Demerit points are removed two years after the date of the conviction. The conviction itself stays on your record for 10 years.",
+  "quote": "When two years have passed from the date of a conviction, the demerit points assessed for that conviction are removed from your driver’s record.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-013",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "As a GDL driver, how many demerit points within two years will cause an automatic suspension?",
+  "choices": [
+   "15 or more",
+   "8 or more",
+   "4 or more",
+   "12 or more"
+  ],
+  "answer": 1,
+  "hint": "GDL drivers have a much lower limit than fully licensed drivers.",
+  "explain": "GDL drivers are automatically suspended at 8 or more demerit points within two years. Fully licensed drivers are suspended at 15 or more.",
+  "quote": "If you have accumulated eight or more demerit points within a two-year period, your driver’s licence privileges will be automatically suspended for a period of time.",
+  "topic": "GDL demerit suspension threshold (8 points)"
+ },
+ {
+  "id": "c09-014",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "A GDL driver has 5 demerit points from the past two years. What happens?",
+  "choices": [
+   "Their licence is automatically suspended for one month",
+   "Nothing, since GDL drivers do not collect demerit points",
+   "Nothing happens until they reach 15 demerit points",
+   "They get a letter about their demerit point standing"
+  ],
+  "answer": 3,
+  "hint": "Five points is below the GDL suspension level.",
+  "explain": "GDL drivers with 4 to 7 demerit points within two years receive a letter about their standing. Suspension starts at 8 points.",
+  "quote": "If you have accumulated four to seven demerit points within a two-year period, you will receive a letter notifying you of your demerit point standing.",
+  "topic": "GDL demerit suspension threshold (8 points)"
+ },
+ {
+  "id": "c09-015",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "A fully licensed driver's licence is automatically suspended once they reach how many demerit points within two years?",
+  "choices": [
+   "8 or more",
+   "7 or more",
+   "20 or more",
+   "15 or more"
+  ],
+  "answer": 3,
+  "hint": "Fully licensed drivers have a higher limit than GDL drivers.",
+  "explain": "Fully licensed drivers with 15 or more demerit points in two years are automatically suspended. Those with 8 to 14 points get a letter.",
+  "quote": "If you have accumulated 15 or more demerit points within a two-year period your driver’s licence privileges will be automatically suspended for a period of time.",
+  "topic": "Fully licensed demerit suspension threshold (15 points)"
+ },
+ {
+  "id": "c09-016",
+  "ch": 9,
+  "sec": "s099",
+  "page": 110,
+  "type": "rule",
+  "img": null,
+  "q": "After a GDL driver serves a demerit point suspension, how many demerit points remain on their record?",
+  "choices": [
+   "Seven points",
+   "Three points",
+   "Zero points",
+   "Eight points"
+  ],
+  "answer": 1,
+  "hint": "GDL drivers come back with fewer points than fully licensed drivers do.",
+  "explain": "When a GDL driver's suspension is served, their licence is reinstated with three demerit points remaining, which stay for two years.",
+  "quote": "When the time of your suspension has been served, your driver’s licence privileges will be reinstated with three demerit points remaining on your driver’s licence record.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-017",
+  "ch": 9,
+  "sec": "s099",
+  "page": 111,
+  "type": "rule",
+  "img": null,
+  "q": "How many demerit points are given for failing to stop for a school bus?",
+  "choices": [
+   "3 points",
+   "6 points",
+   "4 points",
+   "2 points"
+  ],
+  "answer": 1,
+  "hint": "It is in the same group as careless driving and racing.",
+  "explain": "Failing to stop for a school bus is a 6-point offence, the same as careless driving and racing.",
+  "quote": "6 points Careless driving Failing to stop for a school bus Racing",
+  "topic": "Demerit points per offence"
+ },
+ {
+  "id": "c09-018",
+  "ch": 9,
+  "sec": "s099",
+  "page": 111,
+  "type": "rule",
+  "img": null,
+  "q": "How many demerit points are given for failing to stop for a red light at an intersection?",
+  "choices": [
+   "2 points",
+   "3 points",
+   "5 points",
+   "6 points"
+  ],
+  "answer": 1,
+  "hint": "It carries the same points as failing to stop at a stop sign.",
+  "explain": "Failing to stop for a red light at an intersection is a 3-point offence.",
+  "quote": "3 points Driving to the left of the yellow line / Driving left of center on unmarked two-way ... Failing to stop for a red light at an intersection",
+  "topic": "Demerit points per offence"
+ },
+ {
+  "id": "c09-019",
+  "ch": 9,
+  "sec": "s099",
+  "page": 111,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these offences carries the most demerit points?",
+  "choices": [
+   "Failing to remain at the scene of a collision",
+   "Speeding by 51 km/h or more over the limit",
+   "Failing to stop for a peace officer",
+   "Failing to yield to a pedestrian in a crosswalk"
+  ],
+  "answer": 0,
+  "hint": "The top offence in the table is worth 7 points.",
+  "explain": "Failing to remain at the scene of a collision carries 7 demerit points, the most in the table. Speeding by 51 km/h or more is 6, failing to stop for a peace officer is 5, and failing to yield to a pedestrian is 4.",
+  "quote": "7 points Failing to remain at the scene of a collision",
+  "topic": "Demerit points per offence"
+ },
+ {
+  "id": "c09-020",
+  "ch": 9,
+  "sec": "s099",
+  "page": 111,
+  "type": "rule",
+  "img": null,
+  "q": "How many demerit points are given for failing to yield the right-of-way to a pedestrian in a crosswalk?",
+  "choices": [
+   "4 points",
+   "2 points",
+   "6 points",
+   "7 points"
+  ],
+  "answer": 0,
+  "hint": "It is grouped with following too closely.",
+  "explain": "Failing to yield right-of-way to a pedestrian in a crosswalk is a 4-point offence.",
+  "quote": "4 points Failing to yield right-of-way to a pedestrian in a crosswalk Following too closely",
+  "topic": "Demerit points per offence"
+ },
+ {
+  "id": "c09-021",
+  "ch": 9,
+  "sec": "s099",
+  "page": 111,
+  "type": "rule",
+  "img": null,
+  "q": "You are caught driving 40 km/h over the posted speed limit. How many demerit points will you get?",
+  "choices": [
+   "2 points",
+   "4 points",
+   "3 points",
+   "6 points"
+  ],
+  "answer": 1,
+  "hint": "Find the speeding range that includes 40 km/h over.",
+  "explain": "Speeding by 31 to 50 km/h over the limit is a 4-point offence.",
+  "quote": "4 points Failing to yield right-of-way to a pedestrian in a crosswalk Following too closely Speeding (exceeding limit by 31 to 50 km/h)",
+  "topic": "Demerit points per offence"
+ },
+ {
+  "id": "c09-022",
+  "ch": 9,
+  "sec": "s099",
+  "page": 111,
+  "type": "rule",
+  "img": null,
+  "q": "How many demerit points are given for failing to stop for a peace officer?",
+  "choices": [
+   "5 points",
+   "2 points",
+   "3 points",
+   "7 points"
+  ],
+  "answer": 0,
+  "hint": "Ignoring a police signal to stop is treated as a serious offence.",
+  "explain": "Failing to stop for a peace officer is a 5-point offence.",
+  "quote": "5 points Failing to stop at a railway crossing (School bus or a vehicle carrying explosives, gas, or flammable liquids) Failing to stop for a peace officer",
+  "topic": "Demerit points per offence"
+ },
+ {
+  "id": "c09-023",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "A Class 7 learner drives between midnight and 5 a.m. How many demerit points can they get?",
+  "choices": [
+   "3 points",
+   "4 points",
+   "6 points",
+   "2 points"
+  ],
+  "answer": 3,
+  "hint": "It is one of the lower point values in the guide.",
+  "explain": "For Class 7 learners, driving between midnight and 5 a.m. breaks the curfew and is a 2-point offence.",
+  "quote": "2 points Curfew - driving between midnight and 5 a.m. (Class 7 learner stage only)",
+  "topic": "Learner curfew"
+ },
+ {
+  "id": "c09-024",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these is a demerit point offence listed specifically for GDL drivers?",
+  "choices": [
+   "Having more passengers than seat belts",
+   "Following too closely",
+   "Improper backing onto a highway",
+   "Driving the wrong way on a one-way highway"
+  ],
+  "answer": 0,
+  "hint": "Look for the rule that only appears in the GDL table.",
+  "explain": "Having more passengers than seat belts is a 2-point offence listed specifically for GDL drivers. The other offences apply to all drivers.",
+  "quote": "Demerit point penalties specific to GDL drivers: ... Having more passengers than seat belts",
+  "topic": "GDL passenger limit"
+ },
+ {
+  "id": "c09-025",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "How long is a first demerit point suspension?",
+  "choices": [
+   "Three months",
+   "Six months",
+   "One month",
+   "One year"
+  ],
+  "answer": 2,
+  "hint": "It is counted in months, not years.",
+  "explain": "A first demerit point suspension is an automatic one month suspension. Later suspensions are longer.",
+  "quote": "First – automatic one month suspension.",
+  "topic": "Demerit suspension lengths"
+ },
+ {
+  "id": "c09-026",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "A driver gets a second demerit point suspension within one year. How long is it?",
+  "choices": [
+   "One month",
+   "Three months",
+   "Six months",
+   "Twelve months"
+  ],
+  "answer": 1,
+  "hint": "Each repeat suspension is longer than the one before.",
+  "explain": "A second demerit point suspension within one year is an automatic three month suspension.",
+  "quote": "Second (within one year) – automatic three month suspension.",
+  "topic": "Demerit suspension lengths"
+ },
+ {
+  "id": "c09-027",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "Your licence is being suspended for demerit points. When must you give up your driver's licence?",
+  "choices": [
+   "Within 30 days after the suspension begins",
+   "On or before the date the suspension begins",
+   "Only if a police officer asks you for it",
+   "Never, you keep it but must not drive"
+  ],
+  "answer": 1,
+  "hint": "Think about the timing the law sets.",
+  "explain": "You must give up your licence at any Alberta registry agent office on or before the date your suspension begins. It is illegal to have your licence while serving a suspension.",
+  "quote": "You are required by law to give up your driver’s licence on or before the date your suspension begins. This can be done at any Alberta registry agent office.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-028",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "Can you appeal a demerit point suspension?",
+  "choices": [
+   "Yes, by applying for a review with SafeRoads Alberta",
+   "Yes, by completing a defensive driving course",
+   "No, and you cannot ask to have the points reviewed",
+   "No, but you can ask for a review if points were added in error"
+  ],
+  "answer": 3,
+  "hint": "SafeRoads Alberta handles impaired driving penalties.",
+  "explain": "You may not appeal a demerit point suspension. You can ask Driver Fitness and Monitoring, in writing, to review your record if you believe points were assigned in error.",
+  "quote": "You may not appeal a demerit point suspension. However, you may request a review of the demerit points to ensure they were not assigned in error.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-029",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "A fully licensed driver completes a Government-approved defensive driving course before reaching 15 demerit points. What do they get?",
+  "choices": [
+   "A three point credit on your record for two years",
+   "A five point credit on your record for two years",
+   "All demerit points removed from your record",
+   "All convictions removed from your driving record"
+  ],
+  "answer": 0,
+  "hint": "Think about what a course can and cannot change.",
+  "explain": "Completing a Government-approved defensive driving course before reaching 15 or more points gives a three point credit on the driving record for two years. Convictions can only be removed through a court appeal.",
+  "quote": "If a Government-approved defensive driving course has been successfully completed prior to accumulating 15 or more points, a three point credit is applied to your driving record for a two-year period.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-030",
+  "ch": 9,
+  "sec": "s099",
+  "page": 112,
+  "type": "rule",
+  "img": null,
+  "q": "How can a conviction be removed from your driving record?",
+  "choices": [
+   "By completing a defensive driving course",
+   "By asking an Alberta registry agent office",
+   "By an appeal through the courts",
+   "By waiting two years from the conviction"
+  ],
+  "answer": 2,
+  "hint": "Think about who made the conviction in the first place.",
+  "explain": "Convictions can only be removed from your driving record by an appeal through the courts. Demerit points drop off after two years, but the conviction stays on your record for 10 years.",
+  "quote": "Convictions can only be removed from your driving record by an appeal through the courts.",
+  "topic": "Demerit system mechanics"
+ },
+ {
+  "id": "c09-031",
+  "ch": 9,
+  "sec": "s100",
+  "page": 113,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these is a Criminal Code of Canada offence related to impaired driving?",
+  "choices": [
+   "Failing to report a collision",
+   "Refusing to provide a breath or blood sample",
+   "Driving the wrong way on a one-way highway",
+   "Impeding a vehicle that is passing you"
+  ],
+  "answer": 1,
+  "hint": "Think about what happens when an officer makes a demand.",
+  "explain": "Refusing to provide a breath or blood sample is a Criminal Code offence related to impaired driving. The other choices are demerit point offences.",
+  "quote": "Federal: Criminal Code of Canada Offences related to impaired driving are: ... refusing to provide a breath or blood sample",
+  "topic": "Impaired driving: refusing a breath/drug test"
+ },
+ {
+  "id": "c09-032",
+  "ch": 9,
+  "sec": "s100",
+  "page": 113,
+  "type": "rule",
+  "img": null,
+  "q": "Can you be charged with impaired driving if your blood alcohol is below the legal limit?",
+  "choices": [
+   "No, only drivers over the legal limit can be charged",
+   "No, only drivers who refuse a breath test can be charged",
+   "No, only drivers who cause a collision can be charged",
+   "Yes, impaired driving is an offence regardless of blood alcohol"
+  ],
+  "answer": 3,
+  "hint": "Think about whether the offence depends only on a number.",
+  "explain": "Under the Criminal Code, impaired driving is an offence regardless of blood alcohol or drug content. Being over the legal limit is a separate offence.",
+  "quote": "Offences related to impaired driving are: impaired driving regardless of blood alcohol or drug content",
+  "topic": "Impaired driving: Criminal Code offences"
+ },
+ {
+  "id": "c09-033",
+  "ch": 9,
+  "sec": "s100",
+  "page": 113,
+  "type": "rule",
+  "img": null,
+  "q": "A driver found guilty of impaired driving under the Criminal Code has one prior offence in the last 10 years. How long are they disqualified from holding a licence?",
+  "choices": [
+   "Ten years",
+   "Five years",
+   "Three years",
+   "90 days"
+  ],
+  "answer": 2,
+  "hint": "Each prior offence makes the disqualification longer.",
+  "explain": "With one prior offence in the last 10 years, the driver is disqualified for three years from the date of conviction. With two or more prior offences, it is five years.",
+  "quote": "a prior offence in the last 10 years, you will be disqualified from holding a driver’s licence for three years from the date of the conviction.",
+  "topic": "Impaired driving: Criminal Code penalties"
+ },
+ {
+  "id": "c09-034",
+  "ch": 9,
+  "sec": "s100",
+  "page": 113,
+  "type": "rule",
+  "img": null,
+  "q": "An impaired driving offence causes an injury. What is the minimum licence suspension, even for a first offender?",
+  "choices": [
+   "One year",
+   "Three years",
+   "Five years",
+   "90 days"
+  ],
+  "answer": 2,
+  "hint": "Hurting someone brings the most serious minimum.",
+  "explain": "If a death or injury occurs as a result of an impaired offence, the minimum licence suspension is five years, even for a first offender.",
+  "quote": "if a death or injury occurs as a result of an impaired offence, the minimum licence suspension is five years even for a first offender.",
+  "topic": "Impaired driving: Criminal Code penalties"
+ },
+ {
+  "id": "c09-035",
+  "ch": 9,
+  "sec": "s100",
+  "page": 113,
+  "type": "rule",
+  "img": null,
+  "q": "A police officer finds that a driver's ability is impaired by a medical condition, not alcohol or drugs. What happens under the IRS program?",
+  "choices": [
+   "A 24-hour licence disqualification",
+   "A 30 day suspension and vehicle seizure",
+   "A 90 day suspension, then 12 more months",
+   "Nothing, since no alcohol or drugs are involved"
+  ],
+  "answer": 0,
+  "hint": "One IRS program also covers physical and medical conditions.",
+  "explain": "IRS: 24-hour applies when a driver is impaired by a physical or medical condition, or by drugs or alcohol. A 24-hour licence disqualification is issued.",
+  "quote": "The IRS: 24-hour program applies to drivers whose ability to operate a motor vehicle has been impaired by a physical or medical condition, or by drugs or alcohol. A 24-hour licence disqualification will be issued.",
+  "topic": "Impaired driving: IRS sanctions"
+ },
+ {
+  "id": "c09-036",
+  "ch": 9,
+  "sec": "s100",
+  "page": 114,
+  "type": "rule",
+  "img": null,
+  "q": "How much alcohol or drugs may a Class 7 learner have in their body while driving?",
+  "choices": [
+   "Less than 50 mg of alcohol in 100 mL of blood",
+   "None, zero alcohol and zero drugs",
+   "Less than 80 mg of alcohol in 100 mL of blood",
+   "No more than one drink per hour"
+  ],
+  "answer": 1,
+  "hint": "Think about the IRS program written just for novice drivers.",
+  "explain": "IRS ZERO: Novice has a zero tolerance approach to any alcohol or drugs for Class 7 learners and Class 5-GDL drivers.",
+  "quote": "The IRS ZERO: Novice program applies to all alcohol and/or drugs and there is a zero tolerance approach for any alcohol and/or drugs for novice drivers in the Class 7 learner’s licence or Class 5-GDL licence category.",
+  "topic": "Zero alcohol / zero drug for GDL drivers (IRS: Novice)"
+ },
+ {
+  "id": "c09-037",
+  "ch": 9,
+  "sec": "s100",
+  "page": 114,
+  "type": "rule",
+  "img": null,
+  "q": "A Class 7 learner is found driving with a small amount of alcohol in their blood, less than 50 mg in 100 mL. What licence suspension do they get?",
+  "choices": [
+   "An immediate 30 day suspension",
+   "An immediate three day suspension",
+   "A 24-hour disqualification only",
+   "None, since they are under the limit"
+  ],
+  "answer": 0,
+  "hint": "Novice drivers have their own program for any amount of alcohol.",
+  "explain": "Under IRS ZERO: Novice, a learner with any alcohol gets an immediate 30 day licence suspension, a seven day vehicle seizure and a $200 fine plus surcharge.",
+  "quote": "an immediate 30 day driver’s licence suspension, a seven day vehicle seizure, $200 fine plus victim fine surcharge of 20 per cent.",
+  "topic": "Zero alcohol / zero drug for GDL drivers (IRS: Novice)"
+ },
+ {
+  "id": "c09-038",
+  "ch": 9,
+  "sec": "s100",
+  "page": 114,
+  "type": "rule",
+  "img": null,
+  "q": "Under IRS ZERO: Novice, how long is the vehicle seized?",
+  "choices": [
+   "Three days",
+   "30 days",
+   "24 hours",
+   "Seven days"
+  ],
+  "answer": 3,
+  "hint": "It is shorter than the novice licence suspension.",
+  "explain": "IRS ZERO: Novice includes a seven day vehicle seizure, along with a 30 day licence suspension and a $200 fine plus surcharge.",
+  "quote": "an immediate 30 day driver’s licence suspension, a seven day vehicle seizure",
+  "topic": "Zero alcohol / zero drug for GDL drivers (IRS: Novice)"
+ },
+ {
+  "id": "c09-039",
+  "ch": 9,
+  "sec": "s100",
+  "page": 114,
+  "type": "rule",
+  "img": null,
+  "q": "What fine comes with an IRS ZERO: Novice sanction?",
+  "choices": [
+   "$200 plus a 20 per cent victim fine surcharge",
+   "$300 plus a 20 per cent victim fine surcharge",
+   "$600 plus a 20 per cent victim fine surcharge",
+   "$1,000 plus a 20 per cent victim fine surcharge"
+  ],
+  "answer": 0,
+  "hint": "Think about the IRS program set up just for learner and GDL drivers.",
+  "explain": "IRS ZERO: Novice carries a $200 fine plus a victim fine surcharge of 20 per cent.",
+  "quote": "a seven day vehicle seizure, $200 fine plus victim fine surcharge of 20 per cent.",
+  "topic": "Zero alcohol / zero drug for GDL drivers (IRS: Novice)"
+ },
+ {
+  "id": "c09-040",
+  "ch": 9,
+  "sec": "s100",
+  "page": 114,
+  "type": "rule",
+  "img": null,
+  "q": "What is the lowest blood alcohol concentration at which IRS: WARN applies?",
+  "choices": [
+   "80 mg of alcohol in 100 mL of blood",
+   "20 mg of alcohol in 100 mL of blood",
+   "30 mg of alcohol in 100 mL of blood",
+   "50 mg of alcohol in 100 mL of blood"
+  ],
+  "answer": 3,
+  "hint": "It is lower than the level used for IRS: FAIL.",
+  "explain": "IRS: WARN applies at a blood alcohol concentration equal to or above 50 milligrams of alcohol in 100 millilitres of blood. IRS: FAIL applies at 80.",
+  "quote": "The IRS: WARN program applies when a law enforcement officer has reasonable grounds to believe that a driver has operated a motor vehicle with a blood alcohol concentration that is equal to or exceeds 50 milligrams of alcohol in 100 mililitres of blood.",
+  "topic": "Impaired driving: BAC limits"
+ },
+ {
+  "id": "c09-041",
+  "ch": 9,
+  "sec": "s100",
+  "page": 114,
+  "type": "rule",
+  "img": null,
+  "q": "What licence suspension comes with a first IRS: WARN?",
+  "choices": [
+   "15 day immediate suspension",
+   "30 day immediate suspension",
+   "90 day immediate suspension",
+   "Three day immediate suspension"
+  ],
+  "answer": 3,
+  "hint": "WARN penalties grow with each occurrence.",
+  "explain": "A first IRS: WARN brings a three day licence suspension, a three day vehicle seizure and a $300 fine plus surcharge.",
+  "quote": "First occurrence Three day immediate driver’s licence suspension, three day vehicle seizure, and $300 fine plus victim fine surcharge of 20 per cent.",
+  "topic": "Impaired driving: IRS sanctions"
+ },
+ {
+  "id": "c09-042",
+  "ch": 9,
+  "sec": "s100",
+  "page": 115,
+  "type": "rule",
+  "img": null,
+  "q": "IRS: FAIL applies if, within two hours after driving, a driver's blood alcohol concentration is at or above which level?",
+  "choices": [
+   "50 mg of alcohol in 100 mL of blood",
+   "80 mg of alcohol in 100 mL of blood",
+   "60 mg of alcohol in 100 mL of blood",
+   "40 mg of alcohol in 100 mL of blood"
+  ],
+  "answer": 1,
+  "hint": "This is the criminal-level limit, above the WARN level.",
+  "explain": "IRS: FAIL applies when, within two hours after driving, the driver's blood alcohol concentration is 80 milligrams of alcohol in 100 millilitres of blood or more.",
+  "quote": "within two hours after ceasing to operate a motor vehicle, the driver had a blood alcohol concentration that was equal to or exceeds 80 milligrams of alcohol in 100 millilitres of blood",
+  "topic": "Impaired driving: BAC limits"
+ },
+ {
+  "id": "c09-043",
+  "ch": 9,
+  "sec": "s100",
+  "page": 115,
+  "type": "rule",
+  "img": null,
+  "q": "A driver refuses, without a reasonable excuse, to comply with a breath test demand. Which IRS program applies?",
+  "choices": [
+   "IRS: FAIL",
+   "IRS: WARN",
+   "IRS: 24-hour",
+   "None, without a test result"
+  ],
+  "answer": 0,
+  "hint": "Refusing is not a way around the penalties.",
+  "explain": "IRS: FAIL applies when a driver, knowing a demand had been made, fails or refuses to comply without a reasonable excuse.",
+  "quote": "The IRS: FAIL program applies when a law enforcement officer has reasonable grounds to believe that: ... knowing a demand had been made, the driver failed or refused, without a reasonable excuse, to comply with a demand made under the Criminal Code of Canada.",
+  "topic": "Impaired driving: refusing a breath/drug test"
+ },
+ {
+  "id": "c09-044",
+  "ch": 9,
+  "sec": "s100",
+  "page": 115,
+  "type": "rule",
+  "img": null,
+  "q": "What licence suspension comes with a first IRS: FAIL?",
+  "choices": [
+   "30 days of no driving, then a further 12 months",
+   "90 days of no driving, then a further 12 months",
+   "90 days of no driving, then a further 36 months",
+   "Three days of no driving, then a further 90 days"
+  ],
+  "answer": 1,
+  "hint": "The suspension has two stages.",
+  "explain": "A first IRS: FAIL brings a two-stage suspension: 90 days with no driving at all, then a further 12-month suspension. A second occurrence has a 36-month second stage.",
+  "quote": "Immediate two-stage, fixed-term driver’s licence suspension consisting of two distinct parts: 1. 90 days where the suspended driver is unable to drive under any circumstances; and 2. further 12-month driver’s licence suspension.",
+  "topic": "Impaired driving: IRS sanctions"
+ },
+ {
+  "id": "c09-045",
+  "ch": 9,
+  "sec": "s100",
+  "page": 115,
+  "type": "rule",
+  "img": null,
+  "q": "What fine comes with a first IRS: FAIL?",
+  "choices": [
+   "$200 plus a 20 per cent victim surcharge",
+   "$300 plus a 20 per cent victim surcharge",
+   "$2,000 plus a 20 per cent victim surcharge",
+   "$1,000 plus a 20 per cent victim surcharge"
+  ],
+  "answer": 3,
+  "hint": "It is more than the fine for a first IRS: WARN.",
+  "explain": "A first IRS: FAIL carries a $1,000 fine plus a 20 per cent victim surcharge, along with a 30 day vehicle seizure.",
+  "quote": "30 day vehicle seizure. - $1,000 fine plus victim surcharge or 20 per cent.",
+  "topic": "Impaired driving: IRS sanctions"
+ },
+ {
+  "id": "c09-046",
+  "ch": 9,
+  "sec": "s100",
+  "page": 115,
+  "type": "rule",
+  "img": null,
+  "q": "How long is the vehicle seized under IRS: FAIL?",
+  "choices": [
+   "30 days",
+   "Three days",
+   "Seven days",
+   "90 days"
+  ],
+  "answer": 0,
+  "hint": "It is longer than any IRS: WARN seizure.",
+  "explain": "Each IRS: FAIL occurrence includes a 30 day vehicle seizure. IRS: WARN seizures are three or seven days.",
+  "quote": "Completion of the Planning Ahead course. ... 30 day vehicle seizure. - $1,000 fine plus victim surcharge or 20 per cent.",
+  "topic": "Impaired driving: IRS sanctions"
+ },
+ {
+  "id": "c09-047",
+  "ch": 9,
+  "sec": "s100",
+  "page": 115,
+  "type": "rule",
+  "img": null,
+  "q": "During the 12-month part of a first IRS: FAIL suspension, how can the driver legally drive?",
+  "choices": [
+   "Only in a vehicle fitted with an interlock device",
+   "In any vehicle, if a fully licensed adult rides along",
+   "In any vehicle, but only to and from work or school",
+   "In any vehicle, but only during daylight hours"
+  ],
+  "answer": 0,
+  "hint": "Without joining a special program, the driver cannot drive at all.",
+  "explain": "During the 12-month stage, the driver may join the IRS: FAIL Ignition Interlock Program and drive a vehicle with an interlock device. Otherwise they stay suspended and cannot legally drive.",
+  "quote": "During this 12-month suspension period, the driver may participate in Alberta’s IRS: FAIL Ignition Interlock Program and during that term operate a vehicle equipped with an interlock device.",
+  "topic": "Impaired driving: ignition interlock"
+ },
+ {
+  "id": "c09-048",
+  "ch": 9,
+  "sec": "s100",
+  "page": 115,
+  "type": "rule",
+  "img": null,
+  "q": "Are IRS: FAIL roadside penalties applied if the driver is not charged with a crime?",
+  "choices": [
+   "Yes, they apply with or without a criminal charge",
+   "No, they apply only after a criminal conviction",
+   "No, they apply only if there was a collision",
+   "No, they apply only to novice drivers"
+  ],
+  "answer": 0,
+  "hint": "These are administrative penalties given at the roadside.",
+  "explain": "IRS: FAIL administrative penalties are imposed with or without a criminal charge. A criminal conviction adds more penalties.",
+  "quote": "The administrative penalties are imposed with or without a criminal charge. A criminal conviction will result in additional penalties.",
+  "topic": "Impaired driving: IRS sanctions"
+ },
+ {
+  "id": "c09-049",
+  "ch": 9,
+  "sec": "s100",
+  "page": 116,
+  "type": "rule",
+  "img": null,
+  "q": "After the first 90 days, what licence suspension follows a third IRS: FAIL?",
+  "choices": [
+   "A 36-month suspension",
+   "A lifetime suspension",
+   "A 12-month suspension",
+   "A five-year suspension"
+  ],
+  "answer": 1,
+  "hint": "This is the most severe level of IRS: FAIL.",
+  "explain": "A third IRS: FAIL brings 90 days of no driving, then a lifetime suspension. After 10 years, an eligible driver can apply for reinstatement, but it is not guaranteed.",
+  "quote": "Third (and subsequent) occurrence ... 2. further lifetime driver’s licence suspension.",
+  "topic": "Impaired driving: IRS sanctions"
+ },
+ {
+  "id": "c09-050",
+  "ch": 9,
+  "sec": "s101",
+  "page": 117,
+  "type": "rule",
+  "img": null,
+  "q": "You drive your parent's car while your licence is suspended. What happens to the car?",
+  "choices": [
+   "It is seized and impounded for 7 days",
+   "It is seized and impounded for 30 days",
+   "Nothing, since your parent is the owner",
+   "It is held only until your parent picks it up"
+  ],
+  "answer": 1,
+  "hint": "Who owns the car does not change this rule.",
+  "explain": "If you drive while suspended or disqualified, the vehicle is seized and impounded for 30 days no matter who owns it. The registered owner pays the towing and impound fees.",
+  "quote": "The vehicle you are driving will be seized and impounded for 30 days regardless of who is the registered owner. All towing charges and impound fees will be charged to the registered owner of the vehicle.",
+  "topic": "Driving while suspended/disqualified"
+ },
+ {
+  "id": "c09-051",
+  "ch": 9,
+  "sec": "s101",
+  "page": 117,
+  "type": "rule",
+  "img": null,
+  "q": "What can happen if you drive while your licence is suspended?",
+  "choices": [
+   "Only a written warning the first time",
+   "Your current suspension is cancelled",
+   "Jail time or fines, plus another suspension",
+   "Only a fine, with no other penalty"
+  ],
+  "answer": 2,
+  "hint": "The law treats this as a serious offence.",
+  "explain": "Driving while suspended or disqualified can bring jail time, fines or both, plus another suspension if you are already serving one.",
+  "quote": "If you operate a motor vehicle while your driver’s licence privileges are suspended or disqualified you can face time in jail, fines, or both. In addition, if you are currently serving a suspension, you will face another suspension.",
+  "topic": "Driving while suspended/disqualified"
+ },
+ {
+  "id": "c09-052",
+  "ch": 9,
+  "sec": "s101",
+  "page": 117,
+  "type": "rule",
+  "img": null,
+  "q": "A suspended Alberta driver moves to another province. What happens to the Alberta suspension?",
+  "choices": [
+   "It stays in effect until all conditions are met",
+   "It ends as soon as they leave Alberta",
+   "It ends automatically after one year",
+   "It is cancelled once they change their address"
+  ],
+  "answer": 0,
+  "hint": "Think about what has to happen before any suspension ends.",
+  "explain": "Suspensions remain in effect until all the conditions on the Notice of Suspension are met, including for drivers who have left the province.",
+  "quote": "Suspensions remain in effect until all the conditions on the Notice of Suspension are met. This includes drivers who have left the province.",
+  "topic": "Driving while suspended/disqualified"
+ },
+ {
+  "id": "c09-053",
+  "ch": 9,
+  "sec": "s101",
+  "page": 118,
+  "type": "rule",
+  "img": null,
+  "q": "Your driver's licence expires while you are serving a suspension. When can you renew it?",
+  "choices": [
+   "Only after all reinstatement conditions are met",
+   "Right away, at any registry agent office",
+   "On its normal renewal date, as usual",
+   "Only after waiting a full 10 years"
+  ],
+  "answer": 0,
+  "hint": "Think about what must be done before driving privileges return.",
+  "explain": "If your licence expires during a suspension, it cannot be renewed until all the conditions for reinstatement have been met.",
+  "quote": "If your driver’s licence expires during the suspension period, it cannot be renewed until all the conditions for reinstatement have been met.",
+  "topic": "Driving while suspended/disqualified"
+ },
+ {
+  "id": "c09-054",
+  "ch": 9,
+  "sec": "s101",
+  "page": 118,
+  "type": "rule",
+  "img": null,
+  "q": "What does an ignition interlock device do?",
+  "choices": [
+   "Limits how fast the vehicle can be driven",
+   "Locks the ignition if breath alcohol is too high",
+   "Records the vehicle's location at all times",
+   "Stops the vehicle from being driven at night"
+  ],
+  "answer": 1,
+  "hint": "Think about what the Ignition Interlock Program is meant to prevent.",
+  "explain": "An interlock device measures the alcohol in the driver's breath and locks the ignition, so the vehicle cannot start, if the reading is above the set level.",
+  "quote": "The Ignition Interlock Program involves the installation of an interlock device in a vehicle which measures alcohol concentration level of the driver’s breath, and will lock the vehicle ignition (vehicle will be unable to be started or driven) if a breath alcohol concentration reading is above the specified threshold level.",
+  "topic": "Impaired driving: ignition interlock"
+ },
+ {
+  "id": "c09-055",
+  "ch": 9,
+  "sec": "s101",
+  "page": 118,
+  "type": "rule",
+  "img": null,
+  "q": "Who must take part in Alberta's Mandatory Interlock Ignition Program?",
+  "choices": [
+   "All drivers convicted of Criminal Code impaired driving",
+   "Only commercial drivers caught with any alcohol",
+   "Only GDL drivers with 8 or more demerit points",
+   "Only drivers who receive an IRS: 24-hour"
+  ],
+  "answer": 0,
+  "hint": "Think about which impaired drivers need it to get their licence back.",
+  "explain": "The Mandatory Interlock Ignition Program is required for all drivers convicted of impaired driving under the Criminal Code of Canada, as part of their reinstatement.",
+  "quote": "Mandatory Interlock Ignition Program: This participation stream is mandatory for all drivers who have been convicted of impaired driving under the Criminal Code of Canada, as part of their reinstatement requirements.",
+  "topic": "Impaired driving: ignition interlock"
+ },
+ {
+  "id": "c09-056",
+  "ch": 9,
+  "sec": "s102",
+  "page": 119,
+  "type": "rule",
+  "img": null,
+  "q": "A driver wants to challenge an impaired driving penalty they got under the IRS program. Where do they apply for a review?",
+  "choices": [
+   "SafeRoads Alberta",
+   "The Registrar Reconsideration Process",
+   "Any Alberta registry agent office",
+   "Driver Fitness and Monitoring"
+  ],
+  "answer": 0,
+  "hint": "The Registrar process is for non-impaired driving decisions.",
+  "explain": "SafeRoads Alberta reviews challenges to provincial administrative penalties under the IRS program, and vehicle seizures. The Registrar Reconsideration Process is for non-impaired decisions.",
+  "quote": "SafeRoads Alberta conducts reviews for challenges to the provincial administrative penalties under the IRS program. Drivers who wish to appeal their impaired driving penalty can do so by applying for a review to SafeRoads Alberta",
+  "topic": "SafeRoads Alberta"
+ }
+]

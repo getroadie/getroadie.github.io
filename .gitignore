@@ -1,0 +1,13 @@
+# generated / bulky
+data/annot/
+data/figs/
+data/pages/
+dist/
+build/probe/
+__pycache__/
+# third-party research material: never publish
+data/research/
+# source PDF: link to the official copy instead
+src/*.pdf
+build/app_template.bak.html
+build/probe/

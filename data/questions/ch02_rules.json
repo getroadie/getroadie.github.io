@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "c02-001",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "rule",
+  "img": null,
+  "q": "You are facing a solid red traffic light. Where must you bring your vehicle to a complete stop?",
+  "choices": [
+   "At the centre of the intersection, ready to turn",
+   "Before the stop line or crosswalk directly in front of you",
+   "With your front bumper inside the crosswalk",
+   "Just past the stop line, where you can see cross traffic"
+  ],
+  "answer": 1,
+  "hint": "Think about keeping the crosswalk clear for people on foot.",
+  "explain": "A solid red light means you must come to a complete stop before the stop line or crosswalk in front of you.",
+  "quote": "Drivers facing a traffic control signal displaying a solid red light must bring their vehicles to a complete stop before the stop line or crosswalk that is directly in front of the vehicle.",
+  "topic": "Steady red / green light basics"
+ },
+ {
+  "id": "c02-002",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "rule",
+  "img": null,
+  "q": "You are stopping for a solid red light, but there is no stop line or crosswalk. Where must you stop?",
+  "choices": [
+   "Before the intersection",
+   "Just inside the intersection",
+   "On the far side of the intersection",
+   "Past the first lane of cross traffic"
+  ],
+  "answer": 0,
+  "hint": "With no line to guide you, think about where cross traffic begins.",
+  "explain": "When there is no stop line or crosswalk, you must stop before you enter the intersection.",
+  "quote": "If there is no stop line or crosswalk, drivers must stop before the intersection.",
+  "topic": "Steady red / green light basics"
+ },
+ {
+  "id": "c02-003",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "rule",
+  "img": null,
+  "q": "No sign prohibits the turn. What must you do before turning right on a red light?",
+  "choices": [
+   "Slow down and turn without stopping if the way looks clear",
+   "Stop only if pedestrians are waiting at the corner",
+   "Wait for the light to turn green, since turning on red is illegal",
+   "Come to a complete stop before the stop line or crosswalk, then yield"
+  ],
+  "answer": 3,
+  "hint": "A right turn on red is allowed, but think about what must happen first.",
+  "explain": "You may turn right on a red light unless a sign prohibits it, but only after a complete stop before the stop line or crosswalk, and only when it is safe after yielding to other traffic.",
+  "quote": "Turning right at a red light is permitted provided that there is no sign prohibiting the turn. Before making the turn the vehicle must come to a complete stop before the stop line or crosswalk.",
+  "topic": "Turning on a red light"
+ },
+ {
+  "id": "c02-004",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "rule",
+  "img": null,
+  "q": "Unless a sign prohibits it, when may you turn left on a red light after coming to a complete stop?",
+  "choices": [
+   "From any street, if no oncoming traffic is coming",
+   "Never, because a left turn on red is always illegal",
+   "Only from a one-way street onto a one-way street",
+   "Only from a two-way street onto a one-way street"
+  ],
+  "answer": 2,
+  "hint": "Think about which left turn would not cut across any oncoming traffic.",
+  "explain": "The only left turn allowed on a red light is from a one-way street onto a one-way street, after a complete stop and after yielding to other traffic.",
+  "quote": "Unless a sign prohibits the turn, the only left turn permitted at a red light is onto a one-way street from a one-way street.",
+  "topic": "Turning on a red light"
+ },
+ {
+  "id": "c02-005",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "rule",
+  "img": null,
+  "q": "You are approaching an intersection when the light changes from green to solid yellow. You can still stop safely. What must you do?",
+  "choices": [
+   "Stop in the intersection and wait for green",
+   "Stop before the stop line or crosswalk",
+   "Speed up to get through before it turns red",
+   "Keep going at the same speed"
+  ],
+  "answer": 1,
+  "hint": "A yellow light warns that red is coming next.",
+  "explain": "At a solid yellow light you must stop before the stop line or crosswalk, unless you are so close that you cannot stop safely.",
+  "quote": "Drivers approaching an intersection with a solid (not flashing) yellow traffic control light must bring their vehicles to a complete stop before the stop line or crosswalk, unless a point has been reached at the intersection where stopping cannot be done safely.",
+  "topic": "Steady yellow light: stop if safe"
+ },
+ {
+  "id": "c02-006",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "rule",
+  "img": null,
+  "q": "You are already in the intersection when your light turns yellow. What should you do?",
+  "choices": [
+   "Safely clear the intersection",
+   "Stop where you are and wait for green",
+   "Back up behind the stop line",
+   "Stop and wait for the next green arrow"
+  ],
+  "answer": 0,
+  "hint": "Think about where your car will be when cross traffic gets a green light.",
+  "explain": "Drivers who are already in the intersection when the light turns yellow must safely clear the intersection.",
+  "quote": "Drivers already in the intersection and facing a yellow light must safely clear the intersection.",
+  "topic": "Steady yellow light: stop if safe"
+ },
+ {
+  "id": "c02-007",
+  "ch": 2,
+  "sec": "s025",
+  "page": 24,
+  "type": "rule",
+  "img": null,
+  "q": "You face a solid green light and want to turn left. Who must you yield to?",
+  "choices": [
+   "No one, because your light is green",
+   "Only vehicles waiting behind you",
+   "Only cross traffic stopped at the red light",
+   "Oncoming traffic and pedestrians in the crosswalk"
+  ],
+  "answer": 3,
+  "hint": "A green light lets you go, but think about who else may be using the intersection.",
+  "explain": "A solid green light lets you go through without stopping, but when turning left you must yield to oncoming traffic and to pedestrians in the crosswalk.",
+  "quote": "Drivers facing a solid green traffic control light are permitted to travel through the intersection without stopping, unless required to yield to oncoming traffic when turning left or to pedestrians in the crosswalk when turning right or left.",
+  "topic": "Steady red / green light basics"
+ },
+ {
+  "id": "c02-008",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "You are approaching a green light that has been green for a while. The pedestrian signal shows \"DON'T WALK\". What does this tell you?",
+  "choices": [
+   "You must stop now, even though your light is green",
+   "Speed up so you get through before it turns yellow",
+   "Be ready to stop, because the light may soon change",
+   "The light will stay green for a long time yet"
+  ],
+  "answer": 2,
+  "hint": "The pedestrian signal can tell you how old the green light is.",
+  "explain": "A green light that has been on for a while is a \"stale\" green and will turn yellow soon. If the pedestrian signal shows \"DON'T WALK\", be ready to stop.",
+  "quote": "A “stale” green light means the light has been green for a while and will turn yellow soon. ... If it shows the “DON’T WALK” symbol, be ready to stop.",
+  "topic": "Stale green light"
+ },
+ {
+  "id": "c02-009",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "The signal shows a solid green light and a green arrow. What may you do in the direction of the arrow?",
+  "choices": [
+   "Wait until the arrow turns off",
+   "Proceed without yielding",
+   "Proceed only after a complete stop",
+   "Proceed only after oncoming traffic clears"
+  ],
+  "answer": 1,
+  "hint": "The arrow gives that one movement extra protection.",
+  "explain": "With a green arrow and a solid green light, you may enter the intersection and go in the arrow's direction without yielding. You may also go other directions when it is safe and legal.",
+  "quote": "Drivers facing a traffic control light with a green arrow and solid green traffic control light may enter the intersection and proceed without yielding in the direction indicated by the arrow.",
+  "topic": "Green turn arrows"
+ },
+ {
+  "id": "c02-010",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "The signal shows a red light with a green arrow pointing right. What may you do?",
+  "choices": [
+   "Go without stopping, but only in the direction of the arrow",
+   "Go without stopping in any direction",
+   "Stop, then go straight through when it is safe",
+   "Stay stopped until the red light turns green"
+  ],
+  "answer": 0,
+  "hint": "The arrow covers one movement; the red light still applies to the others.",
+  "explain": "With a green arrow and a red light, you may enter the intersection without stopping, but only in the direction the arrow points.",
+  "quote": "Drivers facing a traffic control light with a green arrow and a red control light may enter the intersection and proceed without stopping only in the direction indicated by the arrow.",
+  "topic": "Green turn arrows"
+ },
+ {
+  "id": "c02-011",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "How should you treat a flashing red traffic light?",
+  "choices": [
+   "Like a yield sign",
+   "Like a solid green light",
+   "Like a flashing yellow light",
+   "Like a stop sign"
+  ],
+  "answer": 3,
+  "hint": "A flashing red asks more of you than a flashing yellow does.",
+  "explain": "A flashing red light is treated like a stop sign: stop before the stop line or crosswalk, then go only when it is safe and after yielding the right-of-way.",
+  "quote": "Drivers facing a flashing red traffic control light must stop before the stop line or crosswalk. ... The flashing red light is treated like a stop sign.",
+  "topic": "Flashing red light"
+ },
+ {
+  "id": "c02-012",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "At an intersection, the traffic lights are flashing red in all directions. What does this mean?",
+  "choices": [
+   "Everyone must wait until the lights turn green",
+   "Drivers may go through with caution without stopping",
+   "The intersection becomes a four-way stop",
+   "Traffic on the main road may go without stopping"
+  ],
+  "answer": 2,
+  "hint": "Every driver is facing the same signal.",
+  "explain": "When the lights are flashing red in all directions, the intersection becomes a four-way stop.",
+  "quote": "When the lights in all directions are flashing red the intersection becomes a four-way stop.",
+  "topic": "Flashing red light"
+ },
+ {
+  "id": "c02-013",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "What must you do when facing a flashing yellow traffic light?",
+  "choices": [
+   "Speed up, because the light will soon turn red",
+   "Go with caution, yielding to pedestrians and vehicles in the intersection",
+   "Stop completely, then treat it like a four-way stop",
+   "Stop and stay stopped until the light turns green"
+  ],
+  "answer": 1,
+  "hint": "Compare it with a flashing red, which works like a stop sign.",
+  "explain": "At a flashing yellow light you may proceed with caution after yielding to pedestrians and other vehicles already in the intersection.",
+  "quote": "Drivers facing a flashing yellow traffic control light may proceed with caution after yielding to pedestrians and other vehicles within the intersection.",
+  "topic": "Flashing yellow light"
+ },
+ {
+  "id": "c02-014",
+  "ch": 2,
+  "sec": "s025",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "You face a flashing green light, so you may go straight or turn without stopping. Who must you still yield to?",
+  "choices": [
+   "Pedestrians or vehicles lawfully in the intersection",
+   "No one, because opposing traffic has a red light",
+   "Oncoming vehicles approaching the intersection",
+   "Cross traffic waiting at the stop line"
+  ],
+  "answer": 0,
+  "hint": "Opposing traffic is stopped, but the intersection may not be empty.",
+  "explain": "At a flashing green light, opposing traffic faces a red light, so you may go straight, left or right without stopping. You must still yield to pedestrians or vehicles lawfully in the intersection.",
+  "quote": "Drivers facing a flashing green traffic control light are permitted to go through, turn left or turn right without stopping. Opposing traffic will be facing a red light; however a driver must still yield to pedestrians or other vehicles lawfully in the intersection.",
+  "topic": "Flashing green / advance green"
+ },
+ {
+  "id": "c02-015",
+  "ch": 2,
+  "sec": "s026",
+  "page": 25,
+  "type": "rule",
+  "img": null,
+  "q": "A pedestrian has already started crossing when the \"DON'T WALK\" signal appears. What does the rule allow the pedestrian to do?",
+  "choices": [
+   "Nothing; they must stop where they are",
+   "Nothing; they lose the right to finish",
+   "Finish only after turning cars have gone",
+   "Keep going and clear the crosswalk"
+  ],
+  "answer": 3,
+  "hint": "Think about what is safest for someone who is already in the road.",
+  "explain": "Pedestrians must not start crossing on \"DON'T WALK\", but those who have already begun may continue and clear the crosswalk. Expect them to still be in the road.",
+  "quote": "A pedestrian facing a traffic signal where a word or symbol indicates “DON’T WALK” must not enter the crosswalk or roadway. Pedestrians who have begun crossing when the word or symbol appears may continue crossing and clear the crosswalk.",
+  "topic": "Pedestrian signals"
+ },
+ {
+  "id": "c02-016",
+  "ch": 2,
+  "sec": "s026",
+  "page": 26,
+  "type": "rule",
+  "img": null,
+  "q": "The yellow lights are flashing on a pedestrian crossing sign. What must you do?",
+  "choices": [
+   "Slow to a maximum of 40 km/h and yield to pedestrians",
+   "Keep your speed, since the lights are only for pedestrians",
+   "Slow to a maximum of 30 km/h and yield or stop for pedestrians",
+   "Slow to a maximum of 50 km/h and watch for pedestrians"
+  ],
+  "answer": 2,
+  "hint": "Flashing yellow lights on these signs mean people on foot may be crossing.",
+  "explain": "Yellow lights on a sign with a symbol warn of school or playground zones, school crossings, or pedestrian crossings. When they flash, you must slow to 30 km/h or less and yield or stop for pedestrians.",
+  "quote": "When the yellow lights are flashing, the driver must reduce speed to a maximum of 30 km/h and yield or stop for pedestrians.",
+  "topic": "Pedestrian-activated flashing lights"
+ },
+ {
+  "id": "c02-017",
+  "ch": 2,
+  "sec": "s026",
+  "page": 26,
+  "type": "rule",
+  "img": null,
+  "q": "At an intersection with traffic lights but no \"WALK\" or \"DON'T WALK\" signals, what do pedestrians obey?",
+  "choices": [
+   "Nothing; they may cross whenever they like",
+   "The colour of the traffic light they are facing",
+   "The traffic light facing the cross street",
+   "Hand signals given by drivers"
+  ],
+  "answer": 1,
+  "hint": "Pedestrians still have a signal to follow, even without their own.",
+  "explain": "Where there are no pedestrian signals, pedestrians must follow the colour of the traffic light they are facing.",
+  "quote": "At intersections with traffic control signals, but without pedestrian “WALK” and “DON’T WALK” signals, pedestrians must obey the rules for the colour of light they are facing.",
+  "topic": "Pedestrian signals"
+ },
+ {
+  "id": "c02-018",
+  "ch": 2,
+  "sec": "s027",
+  "page": 26,
+  "type": "rule",
+  "img": null,
+  "q": "You are driving in a lane when a solid red X appears on the lane signal above it. What should you do?",
+  "choices": [
+   "Move safely into a lane with a green arrow",
+   "Stay in the lane, but slow down",
+   "Stop in the lane until the signal changes",
+   "Turn on your hazard lights and continue"
+  ],
+  "answer": 0,
+  "hint": "Think about what the signal is telling you about that lane's direction.",
+  "explain": "A red X means you must not enter or stay in that lane because it is being used by oncoming traffic. Move safely into a lane with a green arrow.",
+  "quote": "When a red X is displayed over a driving lane, the driver does not enter or remain in that lane. This signal indicates that the lane is being used by oncoming traffic. Move safely into a lane with a green arrow.",
+  "topic": "Lane control signals / reversible lanes"
+ },
+ {
+  "id": "c02-019",
+  "ch": 2,
+  "sec": "s027",
+  "page": 26,
+  "type": "rule",
+  "img": null,
+  "q": "On a road with lane reversal signals, what does a downward-pointing green arrow over a lane mean?",
+  "choices": [
+   "The lane ends ahead, so merge now",
+   "The lane is being used by oncoming traffic",
+   "You must turn at the next intersection",
+   "You are permitted to travel in that lane"
+  ],
+  "answer": 3,
+  "hint": "Green signals usually give permission.",
+  "explain": "A downward-pointing green arrow means you are permitted to drive in that lane.",
+  "quote": "A driver facing the downward pointing green arrow is permitted to travel in that lane.",
+  "topic": "Lane control signals / reversible lanes"
+ },
+ {
+  "id": "c02-020",
+  "ch": 2,
+  "sec": "s028",
+  "page": 27,
+  "type": "rule",
+  "img": null,
+  "q": "What shape and colour is a sign that indicates a school zone or school area?",
+  "choices": [
+   "Diamond with a yellow background",
+   "Square with a blue background",
+   "Pentagon with a fluorescent yellow-green background",
+   "Diamond with an orange background"
+  ],
+  "answer": 2,
+  "hint": "This shape is used for only one kind of sign.",
+  "explain": "School zone and school area signs are pentagon-shaped with a fluorescent yellow-green background.",
+  "quote": "Indicates school zone/area. Fluorescent yellow green background Pentagon shape",
+  "topic": "Sign shapes and colours"
+ },
+ {
+  "id": "c02-021",
+  "ch": 2,
+  "sec": "s028",
+  "page": 27,
+  "type": "rule",
+  "img": null,
+  "q": "A diamond-shaped sign with an orange background gives what kind of information?",
+  "choices": [
+   "Which lane you must use",
+   "Construction area information",
+   "Distance to a destination",
+   "Places for fuel, food, or lodging"
+  ],
+  "answer": 1,
+  "hint": "Think of the colour of traffic cones and work-zone barrels.",
+  "explain": "Orange diamond signs give construction area information.",
+  "quote": "Provides construction area information. Information or picture on orange background Diamond shape",
+  "topic": "Sign shapes and colours"
+ },
+ {
+  "id": "c02-022",
+  "ch": 2,
+  "sec": "s028",
+  "page": 28,
+  "type": "rule",
+  "img": null,
+  "q": "What does a diamond-shaped sign with a yellow background usually tell you?",
+  "choices": [
+   "Caution, or a warning about the hazard shown",
+   "The speed limit and other regulations",
+   "The direction to a hospital or airport",
+   "That you are in a construction area"
+  ],
+  "answer": 0,
+  "hint": "This colour is used to get your attention before you reach something.",
+  "explain": "Yellow diamond signs indicate caution or warn of the hazard shown on the sign.",
+  "quote": "Indicates caution or warning of hazard displayed on sign. Information or pictures on yellow background Diamond shape",
+  "topic": "Sign shapes and colours"
+ },
+ {
+  "id": "c02-023",
+  "ch": 2,
+  "sec": "s034",
+  "page": 31,
+  "type": "rule",
+  "img": null,
+  "q": "On a white square sign, what does a red circle with a red diagonal bar through a symbol mean?",
+  "choices": [
+   "The action shown is permitted",
+   "The action shown is allowed only for buses",
+   "A warning that the action shown happens ahead",
+   "The action shown is not permitted"
+  ],
+  "answer": 3,
+  "hint": "Think of what a line drawn through something usually means.",
+  "explain": "A red circle and diagonal red bar on a white square is a prohibitive sign: the action inside the circle is not permitted.",
+  "quote": "The symbol prohibiting an action is a red circle and diagonal red bar on a white square. The action within the red circle is not permitted.",
+  "topic": "Prohibitive signs"
+ },
+ {
+  "id": "c02-024",
+  "ch": 2,
+  "sec": "s033",
+  "page": 31,
+  "type": "rule",
+  "img": null,
+  "q": "What does a green circle around a symbol on a white square sign mean?",
+  "choices": [
+   "A hazard of that type is just ahead",
+   "The service shown is available nearby",
+   "The action shown is permitted",
+   "The action shown is not permitted"
+  ],
+  "answer": 2,
+  "hint": "Think of what a green traffic light means.",
+  "explain": "Permissive signs use a green circle on a white square. The action inside the green circle is permitted.",
+  "quote": "Permission signs are a green circle on a white square. The action within the green circle is permitted.",
+  "topic": "Permissive signs"
+ },
+ {
+  "id": "c02-025",
+  "ch": 2,
+  "sec": "s029",
+  "page": 28,
+  "type": "rule",
+  "img": null,
+  "q": "When you come to a yield sign, who must you yield the right-of-way to?",
+  "choices": [
+   "No one, as long as you slow down first",
+   "Traffic not facing the sign and all pedestrians waiting or crossing",
+   "Only vehicles approaching from your right",
+   "Only traffic that is also facing a yield sign"
+  ],
+  "answer": 1,
+  "hint": "The sign tells you that other road users go first.",
+  "explain": "At a yield sign you must yield to traffic not facing the sign and to all pedestrians waiting to cross or already in the crosswalk or intersection.",
+  "quote": "Yield the right-of-way to traffic not facing the sign and to all pedestrians waiting to cross and within the crosswalk or intersection.",
+  "topic": "Yield sign"
+ },
+ {
+  "id": "c02-026",
+  "ch": 2,
+  "sec": "s029",
+  "page": 28,
+  "type": "rule",
+  "img": null,
+  "q": "What must you do at a stop sign?",
+  "choices": [
+   "Come to a complete stop and not go until it is safe",
+   "Slow down and go if no one is coming",
+   "Stop only if other vehicles are at the intersection",
+   "Stop only if pedestrians are waiting to cross"
+  ],
+  "answer": 0,
+  "hint": "The rule does not change with how busy the intersection is.",
+  "explain": "At a stop sign you must come to a complete stop and not proceed until it is safe.",
+  "quote": "Come to a complete stop and do not proceed until safe.",
+  "topic": "Stop sign"
+ },
+ {
+  "id": "c02-027",
+  "ch": 2,
+  "sec": "s031",
+  "page": 29,
+  "type": "rule",
+  "img": null,
+  "q": "What does a posted speed limit tell you?",
+  "choices": [
+   "The speed you should always drive at",
+   "The minimum speed allowed on that road",
+   "The maximum speed, no matter the weather",
+   "The maximum speed permitted when conditions are ideal"
+  ],
+  "answer": 3,
+  "hint": "Think about how rain, snow or fog changes what is safe.",
+  "explain": "A speed limit is the maximum speed permitted in ideal conditions. It is not the speed you should always drive.",
+  "quote": "Speed limits do not indicate the maximum speed drivers should travel. They are the maximum speed permitted when conditions are ideal.",
+  "topic": "Posted limit = max in ideal conditions"
+ },
+ {
+  "id": "c02-028",
+  "ch": 2,
+  "sec": "s031",
+  "page": 29,
+  "type": "rule",
+  "img": null,
+  "q": "The posted limit is 100 km/h, but heavy snow makes that speed unsafe. Is it legal to drive at 100 km/h?",
+  "choices": [
+   "Yes, as long as your headlights are on",
+   "Yes, if other traffic is also going 100 km/h",
+   "No, any speed that is unsafe for the conditions is illegal",
+   "Yes, as long as you do not go over 100 km/h"
+  ],
+  "answer": 2,
+  "hint": "The posted number is not the only thing the law looks at.",
+  "explain": "Any speed that is unsafe for current conditions is illegal, even if it is at or below the posted limit.",
+  "quote": "Any speed that is unsafe for the current conditions is illegal.",
+  "topic": "Adjust speed to conditions"
+ },
+ {
+  "id": "c02-029",
+  "ch": 2,
+  "sec": "s031",
+  "page": 29,
+  "type": "rule",
+  "img": null,
+  "q": "Unless otherwise posted, what is the maximum speed limit on a provincial highway outside an urban area?",
+  "choices": [
+   "110 km/h",
+   "100 km/h",
+   "50 km/h",
+   "90 km/h"
+  ],
+  "answer": 1,
+  "hint": "This is the highest of the default limits in the guide.",
+  "explain": "Unless otherwise posted, the maximum speed on a provincial highway outside an urban area is 100 km/h.",
+  "quote": "100 km/h is the maximum speed limit on a provincial highway located outside an urban area.",
+  "topic": "Default speed limits"
+ },
+ {
+  "id": "c02-030",
+  "ch": 2,
+  "sec": "s031",
+  "page": 29,
+  "type": "rule",
+  "img": null,
+  "q": "Unless otherwise posted, what is the maximum speed limit on a range road (such as RGE RD 252) outside an urban area?",
+  "choices": [
+   "80 km/h",
+   "50 km/h",
+   "60 km/h",
+   "100 km/h"
+  ],
+  "answer": 0,
+  "hint": "A range road is a local road, not a provincial highway.",
+  "explain": "A range road is a local road, not a provincial highway. Unless otherwise posted, the maximum speed on a roadway outside an urban area is 80 km/h.",
+  "quote": "80 km/h is the maximum speed limit on a roadway that is located outside an urban area. ... A local road generally would not have a route marker but could be identified by a name, such as Irricana Road, a township road, such as TWP RD 52, or a range road, such as RGE RD 252.",
+  "topic": "Default speed limits"
+ },
+ {
+  "id": "c02-031",
+  "ch": 2,
+  "sec": "s031",
+  "page": 29,
+  "type": "rule",
+  "img": null,
+  "q": "Unless otherwise posted, what is the maximum speed limit on a roadway within an urban area?",
+  "choices": [
+   "30 km/h",
+   "60 km/h",
+   "80 km/h",
+   "50 km/h"
+  ],
+  "answer": 3,
+  "hint": "It is higher than a school zone but lower than a rural road.",
+  "explain": "Unless otherwise posted, the maximum speed on a roadway within an urban area is 50 km/h. Municipalities may set different limits by bylaw, so watch the signs.",
+  "quote": "50 km/h is the maximum speed limit on a roadway that is located within an urban area, unless otherwise posted.",
+  "topic": "Default urban speed limit 50 km/h"
+ },
+ {
+  "id": "c02-032",
+  "ch": 2,
+  "sec": "s031",
+  "page": 29,
+  "type": "rule",
+  "img": null,
+  "q": "How can you tell that a road is a provincial highway?",
+  "choices": [
+   "It is labelled as a township road, such as TWP RD 52",
+   "It is labelled as a range road, such as RGE RD 252",
+   "It has a highway route marker with a one-, two- or three-digit number",
+   "It has a name, such as Irricana Road"
+  ],
+  "answer": 2,
+  "hint": "Highways are marked differently from local roads.",
+  "explain": "A provincial highway is identified by a highway route marker with a single-, two- or three-digit number. Local roads usually have a name or a township or range road label instead.",
+  "quote": "A provincial highway is identified by either a single-digit, two-digit or three-digit highway route marker.",
+  "topic": "Default speed limits"
+ },
+ {
+  "id": "c02-033",
+  "ch": 2,
+  "sec": "s032",
+  "page": 30,
+  "type": "rule",
+  "img": null,
+  "q": "At an intersection with two turning lanes going the same way, how should you make your turn?",
+  "choices": [
+   "Move to the curb lane as soon as the turn begins",
+   "Stay in your lane position during and after the turn",
+   "Swing into the other turning lane to make room",
+   "Finish the turn in whichever lane has more space"
+  ],
+  "answer": 1,
+  "hint": "Another vehicle may be turning beside you at the same time.",
+  "explain": "Some intersections let more than one vehicle turn in the same direction at the same time. Keep your lane position during and after the turn.",
+  "quote": "Some intersections allow more than one vehicle travelling in the same direction to turn at the same time. Maintain your lane position during and after the turn.",
+  "topic": "Dual turn lanes"
+ },
+ {
+  "id": "c02-034",
+  "ch": 2,
+  "sec": "s034",
+  "page": 32,
+  "type": "rule",
+  "img": null,
+  "q": "A \"no parking\" sign has an arrow under the symbol. What does the arrow show?",
+  "choices": [
+   "Where parking is not permitted",
+   "Where parking is permitted",
+   "The direction traffic must travel",
+   "The way to the nearest parking lot"
+  ],
+  "answer": 0,
+  "hint": "The arrow tells you where the sign's rule applies.",
+  "explain": "On these signs, the arrow under the symbol shows where the action on the sign is not permitted.",
+  "quote": "The arrow under the symbol indicates where the action indicated on the sign is not permitted.",
+  "topic": "Parking / no parking signs"
+ },
+ {
+  "id": "c02-035",
+  "ch": 2,
+  "sec": "s035",
+  "page": 33,
+  "type": "rule",
+  "img": null,
+  "q": "You approach a school sign that has no speed sign attached to it. What are you entering?",
+  "choices": [
+   "A school zone, where you must slow to 30 km/h",
+   "A playground zone, where you must slow to 30 km/h",
+   "The end of a school zone, so you may speed up",
+   "A school area, where you must use caution"
+  ],
+  "answer": 3,
+  "hint": "Whether a speed sign is attached decides which kind it is.",
+  "explain": "A school sign without a speed sign means a school area: children may be walking or crossing, so use caution. A school sign with a speed posted means a school zone.",
+  "quote": "When you approach a school sign without a speed sign attached to it, you are entering a school area. This sign is to alert drivers that children may be walking or crossing the road and you must use caution when driving through the school area.",
+  "topic": "School zone / school area"
+ },
+ {
+  "id": "c02-036",
+  "ch": 2,
+  "sec": "s035",
+  "page": 32,
+  "type": "rule",
+  "img": null,
+  "q": "Unless different times are posted, when is a school zone in effect?",
+  "choices": [
+   "School days: 7:30-9:00 a.m., 12:00-1:00 p.m., 3:30-5:00 p.m.",
+   "Every day: 8:30 a.m. until one hour after sunset",
+   "School days: 8:00-9:30 a.m., 11:30 a.m.-1:30 p.m., 3:00-4:30 p.m.",
+   "Every day: 8:00-9:30 a.m., 11:30 a.m.-1:30 p.m., 3:00-4:30 p.m."
+  ],
+  "answer": 2,
+  "hint": "Think about when children arrive, go home for lunch, and leave.",
+  "explain": "Unless a municipality posts different times under the sign, school zones are in effect on school days only: 8:00 to 9:30 a.m., 11:30 a.m. to 1:30 p.m., and 3:00 to 4:30 p.m.",
+  "quote": "The times that the school zone is in effect are on school days only and are as follows: - 8:00 a.m. – 9:30 a.m. - 11:30 a.m. – 1:30 p.m. - 3:00 p.m. – 4:30 p.m.",
+  "topic": "School zone: 30 km/h and default hours"
+ },
+ {
+  "id": "c02-037",
+  "ch": 2,
+  "sec": "s035",
+  "page": 33,
+  "type": "rule",
+  "img": null,
+  "q": "Unless otherwise posted, what is the speed limit in an urban or rural school zone when it is in effect?",
+  "choices": [
+   "20 km/h",
+   "30 km/h",
+   "40 km/h",
+   "50 km/h"
+  ],
+  "answer": 1,
+  "hint": "It is the same speed used for playground zones.",
+  "explain": "The speed limit for both urban and rural school zones is 30 km/h unless otherwise posted.",
+  "quote": "The speed limit for both urban and rural school zones is 30 km/h unless otherwise posted.",
+  "topic": "School zone: 30 km/h and default hours"
+ },
+ {
+  "id": "c02-038",
+  "ch": 2,
+  "sec": "s035",
+  "page": 33,
+  "type": "rule",
+  "img": null,
+  "q": "A school zone is in effect. May you pass a vehicle travelling in the same direction?",
+  "choices": [
+   "No, passing or trying to pass is not permitted",
+   "Yes, if you stay at or under 30 km/h",
+   "Yes, if no children are in sight",
+   "Yes, but only on a road with two lanes each way"
+  ],
+  "answer": 0,
+  "hint": "A vehicle beside you can hide a child stepping into the road.",
+  "explain": "You must not pass or attempt to pass another vehicle travelling in the same direction in a school zone while it is in effect. The same rule applies in playground zones.",
+  "quote": "You are not permitted to pass or attempt to pass another vehicle travelling in the same direction within a school zone, when the zone is in effect.",
+  "topic": "School zone passing"
+ },
+ {
+  "id": "c02-039",
+  "ch": 2,
+  "sec": "s035",
+  "page": 32,
+  "type": "rule",
+  "img": null,
+  "q": "It is 12:45 p.m. on a school day. You are driving through a school zone with no special times posted. Is the school zone in effect?",
+  "choices": [
+   "No, school zones only apply before and after school",
+   "No, school zones end at noon on school days",
+   "No, school zones only apply when children are in sight",
+   "Yes, it is within the standard lunch period"
+  ],
+  "answer": 3,
+  "hint": "Recall the three standard time periods on school days.",
+  "explain": "Unless other times are posted, school zones are in effect on school days from 8:00 to 9:30 a.m., 11:30 a.m. to 1:30 p.m., and 3:00 to 4:30 p.m.",
+  "quote": "The times that the school zone is in effect are on school days only and are as follows: - 8:00 a.m. – 9:30 a.m. - 11:30 a.m. – 1:30 p.m.",
+  "topic": "School zone: 30 km/h and default hours"
+ },
+ {
+  "id": "c02-040",
+  "ch": 2,
+  "sec": "s036",
+  "page": 33,
+  "type": "rule",
+  "img": null,
+  "q": "Unless other times are posted, when are playground zone restrictions in effect?",
+  "choices": [
+   "Every day from sunrise to sunset",
+   "Weekends only, from 8:30 a.m. to sunset",
+   "Every day from 8:30 a.m. to one hour after sunset",
+   "School days only, from 8:00 a.m. to 4:30 p.m."
+  ],
+  "answer": 2,
+  "hint": "Children use playgrounds on weekends and on summer evenings too.",
+  "explain": "Unless a municipality posts other times, playground zone restrictions are in effect every day from 8:30 a.m. to one hour after sunset.",
+  "quote": "Playground restrictions are in effect every day from 8:30 a.m. to one hour after sunset.",
+  "topic": "Playground zone: 30 km/h and hours"
+ },
+ {
+  "id": "c02-041",
+  "ch": 2,
+  "sec": "s036",
+  "page": 33,
+  "type": "rule",
+  "img": null,
+  "q": "On a Saturday at 7:00 p.m., you drive through a playground zone posted at 30 km/h. Sunset is at 9:30 p.m. and no other times are posted. What is your maximum speed?",
+  "choices": [
+   "The normal limit, because school is out",
+   "30 km/h, because the zone is in effect",
+   "The normal limit, because it is a weekend",
+   "The normal limit, because it is after 4:30 p.m."
+  ],
+  "answer": 1,
+  "hint": "Playground hours are not tied to the school schedule.",
+  "explain": "Playground zones are in effect every day from 8:30 a.m. to one hour after sunset, so at 7:00 p.m. on a Saturday the 30 km/h limit applies.",
+  "quote": "Playground restrictions are in effect every day from 8:30 a.m. to one hour after sunset. ... The speed limit for both urban and rural playground zones, when the times are in effect, is 30 km/h unless otherwise posted.",
+  "topic": "Playground zone: 30 km/h and hours"
+ },
+ {
+  "id": "c02-042",
+  "ch": 2,
+  "sec": "s037",
+  "page": 34,
+  "type": "rule",
+  "img": null,
+  "q": "When may a vehicle park or stop in a stall reserved for persons with disabilities?",
+  "choices": [
+   "Only when it has an identifying parking placard or licence plate",
+   "When the driver stays inside the vehicle",
+   "For up to five minutes to load or unload",
+   "When all the other parking stalls are full"
+  ],
+  "answer": 0,
+  "hint": "These stalls are protected for the people who need them, and proof is required.",
+  "explain": "It is illegal for any vehicle to park or stop in a stall reserved for persons with disabilities unless it has an identifying parking placard or licence plate.",
+  "quote": "It is illegal for any vehicle to park or stop in a parking stall reserved for persons with disabilities unless the vehicle has an identifying parking placard or licence plate.",
+  "topic": "Disabled parking"
+ },
+ {
+  "id": "c02-043",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "rule",
+  "img": null,
+  "q": "You pass a \"Stop at traffic lights ahead when yellow lights flashing\" sign, and its yellow lights are flashing. What should you do?",
+  "choices": [
+   "Speed up to get through before the signal ahead changes",
+   "Keep your speed, because the signal ahead is green",
+   "Slow to 30 km/h and watch for children crossing",
+   "Prepare to stop, because the signal ahead is changing or already red"
+  ],
+  "answer": 3,
+  "hint": "The sign gives you early notice of what the signal ahead is doing.",
+  "explain": "When the yellow lights on this warning sign are flashing, the signal ahead is turning from green to yellow, yellow to red, or is already red, so prepare to stop.",
+  "quote": "When the yellow lights are flashing, drivers approaching the intersection must prepare to stop because the traffic control signal light will be turning from green to yellow or yellow to red, or is currently red.",
+  "topic": "Traffic signals ahead warning"
+ },
+ {
+  "id": "c02-044",
+  "ch": 2,
+  "sec": "s039",
+  "page": 35,
+  "type": "rule",
+  "img": null,
+  "q": "A speed sign is posted with a curve warning sign. What does that speed tell you?",
+  "choices": [
+   "The new speed limit for the rest of the highway",
+   "The speed limit through the curve for trucks only",
+   "The recommended maximum speed through the curve in ideal conditions",
+   "The minimum speed needed to get safely through the curve"
+  ],
+  "answer": 2,
+  "hint": "Like a speed limit, it assumes good weather and a dry road.",
+  "explain": "The speed shown with a curve warning sign is the recommended maximum speed through that curve under ideal driving conditions. Slow down more if conditions are poor.",
+  "quote": "Recommended maximum speed through this curve under ideal driving conditions",
+  "topic": "Curve warning and advisory speed"
+ },
+ {
+  "id": "c02-045",
+  "ch": 2,
+  "sec": "s039",
+  "page": 37,
+  "type": "rule",
+  "img": null,
+  "q": "A shared-use warning sign warns that cyclists are allowed full use of the lane ahead. What else does it tell you about that lane?",
+  "choices": [
+   "It is a reserved bicycle lane",
+   "It is too narrow for side-by-side driving",
+   "It is wide enough to pass a cyclist without changing lanes",
+   "Motor vehicles are not allowed in it"
+  ],
+  "answer": 1,
+  "hint": "Think about why a cyclist would need the whole lane.",
+  "explain": "This sign warns that cyclists are allowed full use of the lane ahead and that the lane is too narrow for side-by-side driving.",
+  "quote": "Warns that cyclists are allowed full use of the lane ahead and that the lane is too narrow for side-by-side driving",
+  "topic": "Cyclists / shared-use"
+ },
+ {
+  "id": "c02-046",
+  "ch": 2,
+  "sec": "s041",
+  "page": 39,
+  "type": "rule",
+  "img": null,
+  "q": "A slow-moving vehicle sign is placed on the back of vehicles that travel slower than what speed?",
+  "choices": [
+   "40 km/h",
+   "30 km/h",
+   "50 km/h",
+   "60 km/h"
+  ],
+  "answer": 0,
+  "hint": "Think of farm tractors and construction equipment.",
+  "explain": "A slow-moving vehicle sign goes on vehicles that travel less than 40 km/h, such as farm tractors, machinery, or construction equipment. Be prepared to slow down.",
+  "quote": "A slow-moving vehicle sign is placed on the back of vehicles that travel less than 40 km/h, such as farm tractors, machinery, or construction equipment.",
+  "topic": "Slow-moving vehicle sign"
+ },
+ {
+  "id": "c02-047",
+  "ch": 2,
+  "sec": "s042",
+  "page": 39,
+  "type": "rule",
+  "img": null,
+  "q": "When must you obey the posted speed limit in a construction zone?",
+  "choices": [
+   "Only when workers are present",
+   "Only when a flag person is on duty",
+   "Only during daytime working hours",
+   "At all times, even when no one is working"
+  ],
+  "answer": 3,
+  "hint": "Bumps, fresh oil and loose gravel do not go home at night.",
+  "explain": "Construction zone speed limits must be obeyed at all times, even when people and equipment are not working, because hazards like bumps, fresh oil and loose gravel may be present.",
+  "quote": "The speed limit in construction zones must be obeyed at all times. This applies even when people and equipment are not working, since hazards such as bumps, fresh oil, and loose gravel may be present.",
+  "topic": "Construction zone speed"
+ },
+ {
+  "id": "c02-048",
+  "ch": 2,
+  "sec": "s042",
+  "page": 39,
+  "type": "rule",
+  "img": null,
+  "q": "What happens to traffic fines in a construction zone when workers are present?",
+  "choices": [
+   "They stay the same",
+   "They are cut in half",
+   "They are doubled",
+   "They are tripled"
+  ],
+  "answer": 2,
+  "hint": "Workers on the road get extra protection.",
+  "explain": "If workers are present in a construction zone, fines are doubled.",
+  "quote": "If workers are present, the fines in these areas will be doubled.",
+  "topic": "Construction zone speed"
+ },
+ {
+  "id": "c02-049",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "What do yellow lane lines tell you about the traffic on each side of them?",
+  "choices": [
+   "The lanes on each side are reserved for buses",
+   "Traffic on each side travels in opposite directions",
+   "Traffic on each side travels in the same direction",
+   "Traffic on each side must turn left"
+  ],
+  "answer": 1,
+  "hint": "Think about the centre line on a two-lane highway.",
+  "explain": "Yellow lines separate traffic moving in opposite directions. White lines separate traffic moving in the same direction.",
+  "quote": "Yellow lines mean that vehicles on each side of the yellow line must travel in opposite directions.",
+  "topic": "Pavement markings"
+ },
+ {
+  "id": "c02-050",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "When you are driving in the correct lane, which side of your vehicle should the yellow line be on?",
+  "choices": [
+   "Your left side",
+   "Your right side",
+   "Directly under the middle of your vehicle",
+   "Either side, depending on the road"
+  ],
+  "answer": 0,
+  "hint": "The yellow line separates you from oncoming traffic.",
+  "explain": "A yellow line should always be on the driver's left side.",
+  "quote": "A yellow line should always be on the driver’s left side.",
+  "topic": "Pavement markings"
+ },
+ {
+  "id": "c02-051",
+  "ch": 2,
+  "sec": "s043",
+  "page": 41,
+  "type": "rule",
+  "img": null,
+  "q": "Two lanes going the same direction are separated by a solid white line. May you cross it to change lanes?",
+  "choices": [
+   "Yes, as long as you signal first",
+   "Yes, white lines may always be crossed",
+   "Only to pass a slower vehicle",
+   "No, a solid white line means lane changing is not permitted"
+  ],
+  "answer": 3,
+  "hint": "Compare it with a broken white line.",
+  "explain": "White lines separate traffic going the same direction. A solid white line means lane changing is not permitted; a broken white line means it is permitted.",
+  "quote": "Solid white lines indicate that lane changing is not permitted. Broken white lines indicate that lane changing is permitted.",
+  "topic": "Pavement markings"
+ },
+ {
+  "id": "c02-052",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "You are in an urban area on a road with a single solid yellow centre line. What does this mean for passing?",
+  "choices": [
+   "Passing is permitted only for buses and trucks",
+   "Passing is permitted only at night",
+   "Passing safely across it is permitted",
+   "Passing is never permitted across a solid line"
+  ],
+  "answer": 2,
+  "hint": "The rule for this one marking depends on where you are.",
+  "explain": "Passing safely is permitted across a single solid yellow line within an urban area. Everywhere else, single or double solid yellow lines mean no passing.",
+  "quote": "Passing safely is permitted across single solid yellow lines within an urban area. In all other instances, single or double solid yellow lines indicate that passing is not permitted.",
+  "topic": "Pavement markings (urban solid-yellow exception)"
+ },
+ {
+  "id": "c02-053",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "You are on a rural highway outside an urban area. The centre line is a single solid yellow line. May you pass?",
+  "choices": [
+   "Yes, if you finish the pass quickly",
+   "No, passing is not permitted",
+   "Yes, if the way ahead is clear",
+   "Yes, but only to pass slow-moving vehicles"
+  ],
+  "answer": 1,
+  "hint": "Think about what solid lines mean for passing, compared with broken lines.",
+  "explain": "Outside an urban area, single or double solid yellow lines mean passing is not permitted.",
+  "quote": "Passing safely is permitted across single solid yellow lines within an urban area. In all other instances, single or double solid yellow lines indicate that passing is not permitted.",
+  "topic": "Pavement markings (urban solid-yellow exception)"
+ },
+ {
+  "id": "c02-054",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "In an urban area, the centre of the road has double solid yellow lines. May you pass?",
+  "choices": [
+   "No, double solid yellow lines mean no passing",
+   "Yes, if the way ahead is clear and you pass quickly",
+   "Yes, if the vehicle ahead is going under 40 km/h",
+   "Yes, if your wheels do not cross the second line"
+  ],
+  "answer": 0,
+  "hint": "Compare double solid lines with broken lines.",
+  "explain": "Double solid yellow lines mean passing is not permitted, in an urban area or anywhere else.",
+  "quote": "Passing safely is permitted across single solid yellow lines within an urban area. In all other instances, single or double solid yellow lines indicate that passing is not permitted.",
+  "topic": "Pavement markings (urban solid-yellow exception)"
+ },
+ {
+  "id": "c02-055",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "On a highway outside an urban area, the centre line is a solid yellow line beside a broken yellow line. The broken line is on your side. What does this mean?",
+  "choices": [
+   "Neither driver may pass",
+   "Only the driver with the solid line may pass",
+   "Both drivers may pass when it is safe",
+   "You may pass when it is safe"
+  ],
+  "answer": 3,
+  "hint": "Each driver follows the line closest to them.",
+  "explain": "When a solid and a broken yellow line run together, the driver with the broken line on their side may pass when it is safe. The driver with the solid line on their side may not.",
+  "quote": "A solid yellow line and a broken yellow line together indicate that a pass is permitted for the driver who has the broken line on their side of the roadway.",
+  "topic": "Pavement markings"
+ },
+ {
+  "id": "c02-056",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "On a highway outside an urban area, a solid yellow line and a broken yellow line run side by side. The solid line is on your side. May you pass?",
+  "choices": [
+   "Yes, if the oncoming lane is clear",
+   "Yes, but only to pass a slow-moving vehicle",
+   "No, because the solid line is on your side",
+   "Yes, because there is a broken line on the road"
+  ],
+  "answer": 2,
+  "hint": "Only the line nearest you applies to your direction.",
+  "explain": "With a solid and a broken yellow line together, the driver with the solid line on their side may not pass. Only the driver with the broken line on their side may pass.",
+  "quote": "Passing is not permitted for the driver with the solid yellow line on their side of the roadway.",
+  "topic": "Pavement markings"
+ },
+ {
+  "id": "c02-057",
+  "ch": 2,
+  "sec": "s043",
+  "page": 40,
+  "type": "rule",
+  "img": null,
+  "q": "What does a broken yellow centre line mean?",
+  "choices": [
+   "Lane changing is permitted, but passing is not",
+   "Passing is permitted if the lane is clear and the pass is safe",
+   "Passing is not permitted in either direction",
+   "Traffic on both sides travels in the same direction"
+  ],
+  "answer": 1,
+  "hint": "Compare it with a solid yellow line.",
+  "explain": "Broken yellow lines mean passing is permitted. Make sure the lane is clear and the pass can be completed safely.",
+  "quote": "Broken yellow lines indicate that passing is permitted. Be sure that the lane is clear and the pass can be completed safely.",
+  "topic": "Pavement markings"
+ },
+ {
+  "id": "c02-058",
+  "ch": 2,
+  "sec": "s043",
+  "page": 41,
+  "type": "rule",
+  "img": null,
+  "q": "What is a two-way left turn lane?",
+  "choices": [
+   "A centre lane shared by left-turning traffic from both directions",
+   "A centre lane used for passing slower vehicles",
+   "A lane whose direction changes at different times of day",
+   "A centre lane reserved for buses and taxis"
+  ],
+  "answer": 0,
+  "hint": "The name tells you who uses it and from which way.",
+  "explain": "On a two-way left turn lane, the centre lane is shared and reserved for left-turning traffic travelling in either direction.",
+  "quote": "On a two-way left turn lane, the centre lane of the road is shared and reserved for left turning traffic travelling in either direction.",
+  "topic": "Two-way left turn lane"
+ },
+ {
+  "id": "c02-059",
+  "ch": 2,
+  "sec": "s043",
+  "page": 41,
+  "type": "rule",
+  "img": null,
+  "q": "What do diamond markings painted on a lane mean?",
+  "choices": [
+   "A railway crossing is ahead",
+   "The area is a painted island",
+   "The lane is a two-way left turn lane",
+   "The lane is reserved for specific vehicles"
+  ],
+  "answer": 3,
+  "hint": "Signs nearby may list times or types of vehicles.",
+  "explain": "Diamond markings mean a lane is reserved for specific vehicles. Signs may show the times or vehicle types allowed.",
+  "quote": "Diamond markings indicate that a lane is reserved for specific vehicles. There may also be signs that will indicate time or vehicle restrictions.",
+  "topic": "Reserved lanes"
+ },
+ {
+  "id": "c02-060",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "rule",
+  "img": null,
+  "q": "When may a driver enter a bicycle lane?",
+  "choices": [
+   "Whenever no cyclists are in sight",
+   "To stop briefly and drop off a passenger",
+   "Only to turn, or to enter or leave a parking spot",
+   "To pass a slower vehicle on the right"
+  ],
+  "answer": 2,
+  "hint": "Drivers may cross into it only briefly, for a couple of specific reasons.",
+  "explain": "Vehicles are not allowed to drive in bicycle lanes except when they need to turn or to enter or exit a parking spot. Watch carefully for cyclists when you do.",
+  "quote": "Vehicles are not allowed to drive in the bicycle lanes, except when needing to turn or enter/exit a parking spot.",
+  "topic": "Bicycle lanes"
+ },
+ {
+  "id": "c02-061",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "rule",
+  "img": null,
+  "q": "Near a corner, the bicycle lane line changes from solid to dashed. What does this tell you?",
+  "choices": [
+   "You may park in the bicycle lane here",
+   "You may enter the bicycle lane to turn right",
+   "Cyclists must stop at the corner",
+   "The bicycle lane has ended for good"
+  ],
+  "answer": 1,
+  "hint": "Broken lines usually mean crossing is allowed for a reason.",
+  "explain": "The bicycle lane line is usually dashed near corners to show that you may enter the bicycle lane to turn right. Watch carefully for cyclists when you do.",
+  "quote": "The bicycle lane paint line is usually dashed near corners to indicate that it is permitted to enter the bicycle lane to turn right.",
+  "topic": "Bicycle lanes"
+ },
+ {
+  "id": "c02-062",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "rule",
+  "img": null,
+  "q": "A bicycle symbol with a pair of arrows above it is painted in your travel lane. What does it tell drivers?",
+  "choices": [
+   "Expect cyclists in the same travel lane",
+   "Bicycles are not allowed in this lane",
+   "The lane is reserved for cyclists only",
+   "Cyclists must yield to all vehicles here"
+  ],
+  "answer": 0,
+  "hint": "Think about who the arrows are meant to guide.",
+  "explain": "A bicycle capped by a pair of arrows guides cyclists and reminds drivers to expect cyclists in the same travel lane.",
+  "quote": "The image of a bicycle capped by a pair of arrows guides cyclists and reminds drivers to expect cyclists in the same travel lane.",
+  "topic": "Cyclists / shared-use"
+ },
+ {
+  "id": "c02-063",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "rule",
+  "img": null,
+  "q": "On a rural highway, a large X is painted across your lane. What does it mean?",
+  "choices": [
+   "The lane is being used by oncoming traffic",
+   "A pedestrian crosswalk is ahead",
+   "The lane is closed and you must merge",
+   "You are approaching a railway crossing"
+  ],
+  "answer": 3,
+  "hint": "An advance warning sign often appears near the same spot.",
+  "explain": "X markings on rural highways show that you are approaching a railway crossing. An advance warning sign will also show the crossing.",
+  "quote": "X markings on rural highways indicate the approach to a railway crossing. An advanced warning sign will also indicate the approach to a railway crossing.",
+  "topic": "Railway crossing markings"
+ },
+ {
+  "id": "c02-064",
+  "ch": 2,
+  "sec": "s044",
+  "page": 42,
+  "type": "rule",
+  "img": null,
+  "q": "When may a motorist drive across a painted island?",
+  "choices": [
+   "To get around traffic waiting to turn",
+   "To stop while waiting to pick someone up",
+   "To enter or leave a driveway, alleyway, or private drive",
+   "To pass a slower vehicle"
+  ],
+  "answer": 2,
+  "hint": "Painted islands are not for travel, with one narrow exception.",
+  "explain": "Painted islands are not to be used for travel, and you must not park or stop on them. You may cross one only to enter or leave a driveway, alleyway, or private drive.",
+  "quote": "Painted islands indicate that this area is not to be used for travel by any road users. Motorists can cross painted islands for the purpose of entering or leaving a driveway, alleyway, or private drive.",
+  "topic": "Painted islands"
+ },
+ {
+  "id": "c02-065",
+  "ch": 2,
+  "sec": "s045",
+  "page": 43,
+  "type": "rule",
+  "img": null,
+  "q": "At an intersection with no painted crosswalk lines, is there a crosswalk?",
+  "choices": [
+   "Only in school and playground zones",
+   "Yes, unless a sign indicates no crossing",
+   "No, crosswalks exist only where lines are painted",
+   "Only if there is a pedestrian signal"
+  ],
+  "answer": 1,
+  "hint": "Pedestrians do not need paint to have a place to cross.",
+  "explain": "Crosswalks exist at intersections even when they are not marked, unless a sign indicates no crossing.",
+  "quote": "Crosswalks also exist at intersections even when they are unmarked, unless a sign indicates no crossing.",
+  "topic": "Crosswalks (marked/unmarked)"
+ },
+ {
+  "id": "c02-066",
+  "ch": 2,
+  "sec": "s045",
+  "page": 43,
+  "type": "rule",
+  "img": null,
+  "q": "Why should you not stop in a \"no stopping zone\" near an intersection?",
+  "choices": [
+   "You may block vehicles turning from one road to another",
+   "It is saved for drivers waiting for a green light",
+   "It is a loading area for delivery trucks only",
+   "It is the area where pedestrians cross the road"
+  ],
+  "answer": 0,
+  "hint": "Think about how much room a big truck or bus needs at a corner.",
+  "explain": "Drivers should not stop in a no stopping zone because they may get in the way of vehicles turning from one roadway to another, usually where large vehicles need extra room.",
+  "quote": "Drivers should not stop in a ‘no stopping zone’ because they may interfere with other vehicles that are turning from one roadway to another. This is usually where large vehicles need extra room to turn.",
+  "topic": "No stopping zone"
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "c10-001",
+  "ch": 10,
+  "sec": "s105",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "Before a trailer can be used on the road, what does it need?",
+  "choices": [
+   "Only the towing vehicle's registration",
+   "Valid Alberta registration and a rear licence plate",
+   "A licence plate on the front only",
+   "Nothing, if it weighs under 910 kg"
+  ],
+  "answer": 1,
+  "hint": "Think about what the guide says every trailer needs before it goes on the road, no matter its weight.",
+  "explain": "A trailer needs valid Alberta registration, carried with you while towing, and a valid licence plate on the rear that is clearly visible. Both are required before it can be used on the road.",
+  "quote": "There must also be a valid licenCe plate attached to the rear of the trailer and clearly visible. The registration and licence plate are required before the trailer can be used on the road.",
+  "topic": "Towing trailers (plates, registration)"
+ },
+ {
+  "id": "c10-002",
+  "ch": 10,
+  "sec": "s105",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "When you tow a trailer, where must the trailer's registration be?",
+  "choices": [
+   "With you while you are towing it",
+   "At home with your other papers",
+   "On file at the registry only",
+   "With the trailer's owner only"
+  ],
+  "answer": 0,
+  "hint": "Think about what a peace officer might ask to see at the roadside.",
+  "explain": "You must have valid Alberta registration for your trailer, and it must be with you when you are towing it.",
+  "quote": "You must have valid registration from an Alberta registry for your trailer and it must be with you when you are towing the trailer.",
+  "topic": "Towing trailers (plates, registration)"
+ },
+ {
+  "id": "c10-003",
+  "ch": 10,
+  "sec": "s106",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "Which lights must a trailer have?",
+  "choices": [
+   "Only reflectors, since the towing vehicle has lights",
+   "Tail-lights only, since brake lights are optional",
+   "Turn signals only, switched on at the trailer",
+   "Tail-lights, brake lights and turn signals worked from the towing vehicle"
+  ],
+  "answer": 3,
+  "hint": "The trailer can hide your vehicle's own lights from drivers behind you.",
+  "explain": "A trailer must have working tail-lights, brake lights and turn signals that are activated from the towing vehicle.",
+  "quote": "Your trailer must have working tail-lights, brake lights, and turn signals that are activated from the towing vehicle.",
+  "topic": "Towing trailers (equipment)"
+ },
+ {
+  "id": "c10-004",
+  "ch": 10,
+  "sec": "s106",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "Your trailer uses a ball-and-socket hitch. How should the safety chains be attached?",
+  "choices": [
+   "Run straight back, one on each side, not crossed",
+   "Left loose on top of the hitch for quick removal",
+   "Crossed under the trailer's tongue and fastened securely",
+   "Chains are not needed with a ball-and-socket hitch"
+  ],
+  "answer": 2,
+  "hint": "Think about how the chains are arranged beneath the front of the trailer.",
+  "explain": "With a ball-and-socket hitch you need safety chains between the trailer and towing vehicle, crossed under the trailer's tongue and fastened securely. This applies to all trailers except fifth-wheel trailers.",
+  "quote": "If you have a ball-and-socket hitch, you will also need to attach safety chains between the trailer and the towing vehicle. Chains should be crossed under the tongue of the trailer and fastened securely.",
+  "topic": "Towing trailers (hitch, safety chains)"
+ },
+ {
+  "id": "c10-005",
+  "ch": 10,
+  "sec": "s106",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "When must you use extension mirrors while towing a trailer?",
+  "choices": [
+   "Only when towing at night",
+   "When the trailer is wider than the towing vehicle",
+   "Only on multi-lane highways",
+   "When the trailer is shorter than the towing vehicle"
+  ],
+  "answer": 1,
+  "hint": "Think about what could block your view of traffic coming from behind.",
+  "explain": "You must use extension mirrors if the trailer is wider than the vehicle towing it, so you can clearly see traffic approaching from behind.",
+  "quote": "You must use extension mirrors if the trailer is wider than the vehicle that is towing the trailer.",
+  "topic": "Towing trailers (equipment)"
+ },
+ {
+  "id": "c10-006",
+  "ch": 10,
+  "sec": "s106",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "The guide says a trailer with a gross weight at or below a certain amount does not require brakes. What is that amount?",
+  "choices": [
+   "910 kilograms",
+   "500 kilograms",
+   "1,500 kilograms",
+   "2,000 kilograms"
+  ],
+  "answer": 0,
+  "hint": "The number in kilograms is less than 1,000.",
+  "explain": "Trailers with a gross weight of 910 kg (2,000 lb) or less do not require brakes. Watch the units: 2,000 is the weight in pounds, not kilograms.",
+  "quote": "the following trailers do not require brakes: - trailers with a gross weight of 910 kilograms (2,000 pounds) or less",
+  "topic": "Towing trailers (910 kg brake rule)"
+ },
+ {
+  "id": "c10-007",
+  "ch": 10,
+  "sec": "s107",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "You are towing a trailer on a multi-lane highway and moving slower than other traffic. Which lane should you use?",
+  "choices": [
+   "The left lane",
+   "The centre lane",
+   "Whichever lane is emptiest",
+   "The right lane"
+  ],
+  "answer": 3,
+  "hint": "Slower vehicles keep to one side so faster traffic can pass.",
+  "explain": "On a multi-lane highway, slower-moving vehicles should travel in the right lane.",
+  "quote": "If you are driving on a multi-lane highway, remember that slower-moving vehicles should travel in the right lane.",
+  "topic": "Lane position and lane choice (right lane for slower traffic)"
+ },
+ {
+  "id": "c10-008",
+  "ch": 10,
+  "sec": "s107",
+  "page": 122,
+  "type": "rule",
+  "img": null,
+  "q": "You are towing a trailer and a line of traffic builds up behind you. What should you do?",
+  "choices": [
+   "Stop in your lane so they can go around you",
+   "Turn on your hazard lights and keep driving",
+   "Find a safe place off the road to stop and let them pass",
+   "Keep going, since it is their job to wait"
+  ],
+  "answer": 2,
+  "hint": "Think about how to let faster drivers get by safely.",
+  "explain": "If traffic builds behind you, find a safe place to stop off the road to allow others to pass.",
+  "quote": "If traffic builds behind you, find a safe place to stop off the road to allow others to pass.",
+  "topic": "Towing trailers (driving with added weight and length)"
+ },
+ {
+  "id": "c10-009",
+  "ch": 10,
+  "sec": "s107",
+  "page": 123,
+  "type": "rule",
+  "img": null,
+  "q": "What is off-tracking when you are towing a trailer?",
+  "choices": [
+   "The trailer wheels follow a path outside your vehicle's wheels in a turn",
+   "The trailer wheels follow a path inside your vehicle's wheels in a turn",
+   "The trailer sways from side to side at highway speed",
+   "The trailer pushes your vehicle forward when you brake"
+  ],
+  "answer": 1,
+  "hint": "Watch the trailer wheels in your mirror during a turn.",
+  "explain": "During a turn, the trailer wheels travel a path inside the path of your vehicle's wheels. This is called off-tracking.",
+  "quote": "The trailer wheels will travel a path that is inside the path of the wheels of your vehicle. This is called off-tracking.",
+  "topic": "Towing trailers (off-tracking)"
+ },
+ {
+  "id": "c10-010",
+  "ch": 10,
+  "sec": "s107",
+  "page": 123,
+  "type": "rule",
+  "img": null,
+  "q": "While towing a trailer, you make a right turn without allowing for off-tracking. What could happen?",
+  "choices": [
+   "The trailer could hit a curb, a parked vehicle or a pedestrian",
+   "The trailer could swing wide into the oncoming lane",
+   "The trailer wheels could ride over the centre line",
+   "Nothing, since a trailer follows your exact path"
+  ],
+  "answer": 0,
+  "hint": "Remember which way the trailer wheels cut during a turn.",
+  "explain": "In a turn the trailer wheels track inside your vehicle's wheels. On a right turn, if you do not allow for this, you could make contact with a curb, a parked vehicle or a pedestrian.",
+  "quote": "To turn right, reverse these directions. However, if you do not allow for the off-tracking you could make contact with a curb, a parked vehicle, or a pedestrian.",
+  "topic": "Towing trailers (off-tracking)"
+ },
+ {
+  "id": "c10-011",
+  "ch": 10,
+  "sec": "s107",
+  "page": 124,
+  "type": "rule",
+  "img": null,
+  "q": "You are backing up with a trailer and want the trailer to go left. Which way do you begin turning the steering wheel?",
+  "choices": [
+   "To the left",
+   "Keep it straight and let the trailer drift",
+   "Turn it fully one way, then the other",
+   "To the right"
+  ],
+  "answer": 3,
+  "hint": "Backing a trailer works opposite to backing a vehicle on its own.",
+  "explain": "Begin backing by turning the steering wheel in the opposite direction you want to go. Turn it right to send the trailer left, and use only small steering movements.",
+  "quote": "Begin backing by turning the steering wheel in the opposite direction you want to go. Turn the steering wheel right to go left.",
+  "topic": "Towing trailers (backing)"
+ },
+ {
+  "id": "c10-012",
+  "ch": 10,
+  "sec": "s107",
+  "page": 123,
+  "type": "rule",
+  "img": null,
+  "q": "How fast should you reverse when backing a trailer?",
+  "choices": [
+   "No faster than 20 km/h",
+   "The same speed as backing with no trailer",
+   "No faster than a walking pace",
+   "Fast enough to finish before traffic arrives"
+  ],
+  "answer": 2,
+  "hint": "Backing a trailer takes practice, so give yourself time to react.",
+  "explain": "Always reverse no faster than a walking pace. Have someone guide you, or walk to the back of the trailer first to make sure the path is clear.",
+  "quote": "Always reverse no faster than a walking pace.",
+  "topic": "Towing trailers (backing)"
+ }
+]

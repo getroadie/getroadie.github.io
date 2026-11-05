@@ -1,0 +1,332 @@
+[
+ {
+  "id": "c02-001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-003",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-004",
+  "verdict": "reject",
+  "note": "p24 tension: 'remain stopped at the red light until it turns green, unless safely turning right' vs the one-way to one-way left-on-red paragraph; answer turns on it and 'Never' distractor is arguable from the guide"
+ },
+ {
+  "id": "c02-005",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-006",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-007",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-008",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-009",
+  "verdict": "reject",
+  "note": "p25 green arrow + green 'proceed without yielding' does not address pedestrians already in the crosswalk; answer 'proceed without yielding' turns on that gap and would teach a risky rule"
+ },
+ {
+  "id": "c02-010",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-011",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-012",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-013",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-014",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-015",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-016",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-017",
+  "verdict": "ok",
+  "note": "fixed: hint nearly stated the answer; made it less direct"
+ },
+ {
+  "id": "c02-018",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-019",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-020",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-021",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-022",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-023",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-024",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-025",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-026",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-027",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-028",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-029",
+  "verdict": "ok",
+  "note": "fixed: 80 km/h distractor arguable from p29 'roadway outside an urban area' overlap; replaced with 50 km/h (urban default)"
+ },
+ {
+  "id": "c02-030",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-031",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-032",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-033",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-034",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-035",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-036",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-037",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-038",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-039",
+  "verdict": "ok",
+  "note": "fixed: hint pointed straight at the lunch period; made neutral"
+ },
+ {
+  "id": "c02-040",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-041",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-042",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-043",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-044",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-045",
+  "verdict": "ok",
+  "note": "fixed: guide does not say 'because'; reworded as what else the sign warns, replaced unsupported distractor, softened hint"
+ },
+ {
+  "id": "c02-046",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-047",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-048",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-049",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-050",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-051",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-052",
+  "verdict": "reject",
+  "note": "p40 urban single-solid-yellow passing exception conflicts with p40 'solid lines mean crossing to pass is not permitted' and p74 'do not pass when a solid yellow line is on your side'; answer turns on it"
+ },
+ {
+  "id": "c02-053",
+  "verdict": "ok",
+  "note": "fixed: removed the contested urban single-solid-yellow exception from hint and explanation (conflicts with p40 solid-line rule and p74)"
+ },
+ {
+  "id": "c02-054",
+  "verdict": "ok",
+  "note": "fixed: removed reliance on the contested urban exception from distractor, hint and explanation"
+ },
+ {
+  "id": "c02-055",
+  "verdict": "ok",
+  "note": "fixed: added 'outside an urban area' so the urban single-solid exception cannot make 'both drivers may pass' arguable"
+ },
+ {
+  "id": "c02-056",
+  "verdict": "ok",
+  "note": "fixed: added 'outside an urban area' so the urban single-solid exception cannot make a 'yes' choice arguable"
+ },
+ {
+  "id": "c02-057",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-058",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-059",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-060",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-061",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-062",
+  "verdict": "ok",
+  "note": "fixed: hint nearly stated the answer; made it less direct"
+ },
+ {
+  "id": "c02-063",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-064",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-065",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-066",
+  "verdict": "ok",
+  "note": ""
+ }
+]

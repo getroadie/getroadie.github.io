@@ -1,0 +1,1346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Roadie | Alberta Learner's Test Prep (Class 7)</title>
+<meta name="description" content="Free lessons, games and unlimited practice tests for the Alberta Class 7 learner's knowledge test, built from the official 2026 Alberta Driver's Guide.">
+<meta property="og:title" content="Roadie: Alberta learner's test prep">
+<meta property="og:description" content="Lessons, games and unlimited practice tests for the Alberta Class 7 learner's test, built from the official 2026 Driver's Guide.">
+<meta name="theme-color" content="#12305b">
+<!--ICONS-->
+<style>
+:root{
+  --hh:84px;
+  --navy:#12305b;--navy2:#1d4f91;--navy3:#2c64b0;--sky:#e9f0fa;--amber:#f5b301;--amber2:#fff6dc;
+  --ink:#16202e;--ink2:#3b4758;--mut:#647185;--line:#e3e8ef;--bg:#f4f6fa;--card:#fff;
+  --good:#1e7b45;--goodbg:#e6f4ec;--bad:#b42318;--badbg:#fdecea;
+  --r:14px;--sh:0 1px 2px rgba(16,32,60,.06),0 4px 16px rgba(16,32,60,.06);
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Inter,"Segoe UI",-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:var(--navy2)}
+button{font:inherit;cursor:pointer;color:inherit}
+h1,h2,h3{line-height:1.2;letter-spacing:-.01em}
+svg.i{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}
+/* header / nav */
+.top{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.93);backdrop-filter:saturate(1.4) blur(10px);border-bottom:1px solid var(--line)}
+.top .in{max-width:1200px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 18px}
+.brand{display:flex;align-items:center;gap:10px;color:var(--navy);background:none;border:0;padding:0}
+.brand svg{height:62px;width:auto;display:block;filter:drop-shadow(0 2px 4px rgba(16,32,60,.15))}
+.brand b{font-size:17px;font-weight:750;display:block;line-height:1.1;text-align:left}
+.brand small{display:block;font-size:11px;color:var(--mut);font-weight:600;letter-spacing:.04em;text-align:left}
+.xpchip{display:inline-flex;align-items:center;gap:6px;background:var(--amber2);color:#7a5600;border:1px solid #f1d98f;border-radius:30px;padding:4px 11px;font-size:13px;font-weight:700;margin-left:6px}
+.xpchip svg.i{width:15px;height:15px}
+.nav{display:flex;gap:2px;margin-left:auto}
+.nav button{display:flex;align-items:center;gap:7px;background:none;border:0;padding:8px 12px;border-radius:9px;color:var(--ink2);font-weight:600;font-size:14.5px}
+.nav button:hover{background:var(--sky);color:var(--navy)}
+.nav button.on{background:var(--navy);color:#fff}
+.nav button svg.i{width:18px;height:18px}
+.nav button,.xpchip{white-space:nowrap}
+@media (max-width:1320px){.brand small{display:none}.nav button{padding:8px 9px}}
+@media (max-width:1120px){.nav button svg.i{display:none}.xpchip{display:none}}
+.bnav{display:none}
+main{max-width:1200px;margin:0 auto;padding:22px 18px 30px}
+/* generic */
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:22px 24px;box-shadow:var(--sh);margin-bottom:18px}
+.card h3{margin:0 0 10px;font-size:18px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:var(--navy);color:#fff;border:0;border-radius:11px;padding:11px 19px;font-weight:650;font-size:15.5px;transition:transform .08s,background .15s}
+.btn:hover{background:var(--navy2)}
+.btn:active{transform:translateY(1px)}
+.btn.amber{background:var(--amber);color:var(--navy)}
+.btn.amber:hover{background:#ffc226}
+.btn.ghost{background:#fff;color:var(--navy);border:1.5px solid #c9d5e6}
+.btn.ghost:hover{border-color:var(--navy2);background:var(--sky)}
+.btn.sm{padding:7px 12px;font-size:14px;border-radius:9px}
+.btn:disabled{opacity:.4;cursor:default;transform:none}
+.btn svg.i{width:19px;height:19px}
+.mut{color:var(--mut)}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.pill{display:inline-flex;align-items:center;gap:6px;padding:4px 11px;border-radius:30px;font-size:13.5px;font-weight:650}
+.pill svg.i{width:15px;height:15px;stroke-width:2.6}
+.pill.ok{background:var(--goodbg);color:var(--good)}.pill.no{background:var(--badbg);color:var(--bad)}.pill.neu{background:var(--sky);color:var(--navy2)}
+.grid{display:grid;gap:18px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.linkish{background:none;border:0;color:var(--navy2);font-weight:600;padding:0;font-size:14.5px;display:inline-flex;gap:6px;align-items:center}
+.linkish:hover{text-decoration:underline}
+.linkish svg.i{width:16px;height:16px}
+.back{margin-bottom:14px}
+/* hero */
+.hero{position:relative;overflow:hidden;border-radius:20px;background:linear-gradient(135deg,#0e2749 0%,#163a6c 55%,#1d4f91 100%);color:#fff;display:grid;grid-template-columns:1fr 1fr;align-items:stretch;margin-bottom:20px;box-shadow:0 10px 30px rgba(18,48,91,.25)}
+.hero .tx{padding:34px 36px 38px}
+.heroplate{margin:0 0 18px}
+.heroplate svg{width:220px;height:auto;display:block;filter:drop-shadow(0 8px 18px rgba(0,0,0,.35))}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);padding:5px 12px;border-radius:30px;font-size:13px;font-weight:600;color:#dfe9f7}
+.eyebrow svg.i{width:16px;height:16px}
+.hero h1{font-size:40px;margin:14px 0 10px;font-weight:800;letter-spacing:-.02em}
+.hero h1 em{font-style:normal;color:var(--amber)}
+.hero p{color:#d2deef;font-size:17px;margin:0 0 22px;max-width:520px}
+.hero .art{align-self:stretch;min-height:280px}
+.hero .art svg{width:100%;height:100%;display:block}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);background:#fff;border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);margin-bottom:20px}
+.stats div{padding:16px 18px;border-left:1px solid var(--line)}
+.stats div:first-child{border-left:0}
+.stats b{display:block;font-size:26px;color:var(--navy);font-weight:800;letter-spacing:-.02em}
+.stats span{font-size:13.5px;color:var(--mut)}
+.feat{display:flex;gap:14px;align-items:flex-start}
+.feat .ic,.icbox{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;background:var(--sky);color:var(--navy2);flex:none}
+.feat .ic.am,.icbox.am{background:var(--amber2);color:#9a6b00}
+.feat h4{margin:2px 0 4px;font-size:16px}
+.feat p{margin:0;color:var(--ink2);font-size:14.5px}
+.ready{display:flex;gap:20px;align-items:center}
+/* mascot + joke */
+.mo{display:flex;gap:16px;align-items:center}
+.mo svg.moose{width:92px;height:auto;flex:none}
+.bubble{position:relative;background:#fff;border:1.5px solid var(--line);border-radius:16px;padding:12px 16px;font-size:15.5px;color:var(--ink)}
+.bubble:before{content:"";position:absolute;left:-9px;top:24px;width:16px;height:16px;background:#fff;border-left:1.5px solid var(--line);border-bottom:1.5px solid var(--line);transform:rotate(45deg)}
+.bubble .who{display:block;font-size:12px;font-weight:700;color:#9a6b00;letter-spacing:.04em;margin-bottom:2px}
+/* guide reader */
+.study{display:grid;grid-template-columns:300px 1fr;gap:20px;align-items:start}
+.side{position:sticky;top:calc(var(--hh) + 14px);max-height:calc(100vh - var(--hh) - 30px);overflow:auto;background:#fff;border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh);padding:12px}
+.search{position:relative;margin-bottom:8px}
+.search svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--mut);width:18px;height:18px}
+.search input{width:100%;padding:11px 12px 11px 38px;border:1.5px solid var(--line);border-radius:10px;font:inherit;font-size:15px;background:var(--bg)}
+.search input:focus{outline:none;border-color:var(--navy3);background:#fff}
+.toc details{border-radius:10px;margin-bottom:2px}
+.toc details[open]{background:#f8fafd}
+.toc summary{display:flex;align-items:center;gap:10px;padding:8px;font-weight:650;font-size:14.5px;cursor:pointer;list-style:none;border-radius:10px}
+.toc summary:hover{background:var(--sky)}
+.toc summary::-webkit-details-marker{display:none}
+.toc .num{width:26px;height:26px;border-radius:8px;background:var(--navy);color:#fff;display:grid;place-items:center;font-size:12.5px;font-weight:700;flex:none}
+.toc .num.z{background:var(--amber);color:var(--navy)}
+.toc a{display:flex;justify-content:space-between;gap:8px;padding:5px 8px 5px 44px;font-size:14px;color:var(--ink2);text-decoration:none;border-radius:8px}
+.toc a i{font-style:normal;color:var(--mut);font-size:12.5px;flex:none}
+.toc a:hover{background:var(--sky);color:var(--navy)}
+.toc a.on{background:var(--navy);color:#fff;font-weight:600}
+.toc a.on i{color:#cfdcf0}
+.results .r{padding:10px 8px;border-radius:9px;cursor:pointer;font-size:14px;color:var(--ink2)}
+.results .r:hover{background:var(--sky)}
+.results .r b{display:block;color:var(--navy2);font-size:12.5px;margin-bottom:2px}
+.viewer{max-width:860px}
+.vbar{position:sticky;top:var(--hh);z-index:5;display:flex;gap:10px;align-items:center;justify-content:space-between;background:rgba(244,246,250,.95);backdrop-filter:blur(6px);padding:8px 0 10px}
+.vbar select{flex:1;min-width:0;max-width:440px;padding:9px 10px;border:1.5px solid var(--line);border-radius:10px;font:inherit;font-size:14.5px;background:#fff;color:var(--ink)}
+.pv{position:relative;background:#fff;border-radius:12px;box-shadow:0 2px 6px rgba(16,32,60,.08),0 10px 30px rgba(16,32,60,.10);overflow:hidden;aspect-ratio:387/612;touch-action:pan-y pinch-zoom}
+.pv img{display:block;width:100%;height:100%}
+.pv .hl{position:absolute;background:rgba(255,212,0,.5);border-radius:2px;mix-blend-mode:multiply;pointer-events:none}
+.pv .hl.q{background:rgba(255,196,0,.55);box-shadow:0 0 0 1px rgba(255,170,0,.4)}
+.vfoot{display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between;margin-top:14px}
+.menu-btn{display:none}
+/* learn */
+.lvl{display:flex;gap:18px;align-items:center;flex-wrap:wrap}
+.lvl .bar2{flex:1;min-width:200px}
+.bar2 .t{height:12px;background:#e8edf4;border-radius:12px;overflow:hidden}
+.bar2 .t i{display:block;height:100%;background:linear-gradient(90deg,#f5b301,#ffcf3d);border-radius:12px}
+.bar2 .l{display:flex;justify-content:space-between;font-size:13px;color:var(--mut);margin-top:5px;font-weight:600}
+.modgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.mod{display:flex;flex-direction:column;gap:10px;text-align:left;background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:var(--sh);transition:border-color .12s,transform .12s;position:relative}
+.mod:hover{border-color:var(--navy3);transform:translateY(-2px)}
+.mod .hd{display:flex;gap:12px;align-items:center}
+.mod .cn{font-size:12px;font-weight:700;color:var(--mut);letter-spacing:.05em}
+.mod b{display:block;font-size:16px;line-height:1.3}
+.dots{display:flex;gap:6px;align-items:center;font-size:12.5px;color:var(--mut);font-weight:600}
+.dots i{width:22px;height:6px;border-radius:6px;background:#e3e8ef}
+.dots i.on{background:var(--good)}
+.badge{position:absolute;top:12px;right:12px;width:34px;height:34px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#ffe07a,#f5b301 60%,#c98d00);display:grid;place-items:center;color:var(--navy);box-shadow:0 2px 6px rgba(201,141,0,.4)}
+.badge svg.i{width:18px;height:18px;stroke-width:2.6}
+.mban{border-radius:18px;background:linear-gradient(135deg,#0e2749,#1d4f91);color:#fff;padding:24px 26px;display:flex;gap:18px;align-items:center;margin-bottom:18px;box-shadow:0 8px 24px rgba(18,48,91,.2)}
+.mban .ic{width:62px;height:62px;border-radius:16px;background:rgba(255,255,255,.12);display:grid;place-items:center;color:var(--amber);flex:none}
+.mban .ic svg.i{width:34px;height:34px}
+.mban .cn{font-size:13px;color:#bcd0ea;font-weight:700;letter-spacing:.05em}
+.mban h2{margin:2px 0 4px;font-size:27px}
+.mban p{margin:0;color:#d2deef}
+.step{display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center}
+.step .no{width:40px;height:40px;border-radius:50%;background:var(--sky);color:var(--navy2);display:grid;place-items:center;font-weight:800}
+.step.done .no{background:var(--good);color:#fff}
+.step h4{margin:0 0 2px;font-size:17px}
+.step p{margin:0;color:var(--ink2);font-size:14.5px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.chip{background:var(--sky);color:var(--navy2);border:0;border-radius:20px;padding:5px 11px;font-size:13px;font-weight:600}
+.chip:hover{background:#d6e3f5}
+.vids{display:flex;gap:12px;flex-wrap:wrap;margin-top:12px}
+.vid{width:210px;text-align:left;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;padding:0}
+.vid .th{position:relative;aspect-ratio:16/9;background:#0e2749 center/cover no-repeat;display:grid;place-items:center}
+.vid .th span{width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,.6);display:grid;place-items:center;color:#fff}
+.vid .th span svg.i{width:20px;height:20px;fill:#fff;stroke:none}
+.vid div.t{padding:8px 10px;font-size:13px;font-weight:600;line-height:1.3}
+.vid div.t small{display:block;color:var(--mut);font-weight:500}
+/* flashcards */
+.fc{perspective:1200px;max-width:620px;margin:0 auto 16px;cursor:pointer}
+.fc .inner{position:relative;min-height:300px;transition:transform .5s;transform-style:preserve-3d}
+.fc.flip .inner{transform:rotateY(180deg)}
+.fc .face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:18px;padding:26px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;box-shadow:0 8px 28px rgba(16,32,60,.12)}
+.fc .front{background:#fff;border:1px solid var(--line)}
+.fc .back{background:linear-gradient(135deg,#0e2749,#1d4f91);color:#fff;transform:rotateY(180deg)}
+.fc .front .lab,.fc .back .lab{font-size:12px;font-weight:700;letter-spacing:.06em;color:var(--mut);margin-bottom:10px}
+.fc .back .lab{color:#bcd0ea}
+.fc .front .q{font-size:20px;font-weight:700;line-height:1.35}
+.fc .back .a{font-size:22px;font-weight:800;color:var(--amber);line-height:1.3}
+.fc .back .qt{font-size:14px;color:#d2deef;margin-top:14px;font-style:italic;max-width:520px}
+.fc img{max-width:150px;max-height:120px;margin-bottom:12px;background:#fff;border-radius:10px;padding:8px}
+.tap{font-size:13px;color:var(--mut);margin-top:14px}
+/* speed round */
+.sr{max-width:680px;margin:0 auto}
+.srtop{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+.srtop .big{font-size:28px;font-weight:800;color:var(--navy)}
+.srtop .tm{font-size:28px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums}
+.srtop .tm.low{color:var(--bad)}
+.combo{display:inline-block;background:var(--amber);color:var(--navy);font-weight:800;border-radius:20px;padding:2px 10px;font-size:14px;margin-left:8px}
+.stmt{background:#fff;border:1px solid var(--line);border-radius:18px;padding:24px;box-shadow:0 8px 28px rgba(16,32,60,.10);text-align:center;min-height:210px;display:flex;flex-direction:column;justify-content:center}
+.stmt .q{font-size:18.5px;font-weight:700;margin-bottom:14px}
+.stmt .a{display:inline-block;align-self:center;background:var(--sky);color:var(--navy);font-weight:750;font-size:18px;padding:10px 18px;border-radius:12px}
+.stmt.good{animation:pop .35s}
+.stmt.badd{animation:shake .35s}
+.tf{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:14px}
+.tf button{border:0;border-radius:14px;padding:16px;font-size:17px;font-weight:800;display:flex;gap:8px;justify-content:center;align-items:center}
+.tf .y{background:var(--good);color:#fff}.tf .n{background:var(--bad);color:#fff}
+.tf svg.i{stroke-width:3}
+.srmsg{min-height:26px;text-align:center;font-size:14.5px;margin-top:10px;color:var(--ink2)}
+@keyframes pop{0%{transform:scale(1)}50%{transform:scale(1.03)}100%{transform:scale(1)}}
+@keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
+/* sign match */
+.smatch{display:grid;grid-template-columns:1fr 1.4fr;gap:16px;max-width:820px;margin:0 auto}
+.smatch .col{display:flex;flex-direction:column;gap:10px}
+.smatch button{background:#fff;border:2px solid var(--line);border-radius:14px;padding:10px 12px;text-align:left;font-weight:600;font-size:15px;min-height:74px;display:flex;align-items:center;gap:10px;transition:border-color .12s,background .12s}
+.smatch button img{max-height:56px;max-width:110px;margin:0 auto}
+.smatch button.sel{border-color:var(--navy2);background:var(--sky)}
+.smatch button.ok{border-color:var(--good);background:var(--goodbg);opacity:.6;cursor:default}
+.smatch button.err{animation:shake .35s;border-color:var(--bad)}
+/* quiz */
+.qwrap{max-width:780px;margin:0 auto}
+.qcard{padding:0;overflow:hidden}
+.qtop{display:flex;justify-content:space-between;align-items:center;padding:16px 24px 0;font-size:14px;color:var(--mut);font-weight:600}
+.qtop .tag{display:inline-flex;align-items:center;gap:7px;color:var(--navy2)}
+.bar{height:6px;background:#e6ebf2;border-radius:6px;overflow:hidden;margin:12px 24px 0}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--navy2),var(--navy3));border-radius:6px;transition:width .25s}
+.qbody{padding:20px 24px 8px}
+.qtext{font-size:21px;font-weight:700;margin:0 0 18px;line-height:1.35}
+.qimg{display:flex;justify-content:center;margin:0 0 18px}
+.qimg div{background:#f3f5f9;border:1px solid var(--line);border-radius:14px;padding:16px 26px}
+.qimg img{display:block;max-width:220px;max-height:190px}
+.choice{display:flex;gap:14px;align-items:center;width:100%;text-align:left;background:#fff;border:1.5px solid var(--line);border-radius:12px;padding:13px 16px;margin-bottom:10px;font-size:16.5px;transition:border-color .12s,background .12s}
+.choice .k{width:30px;height:30px;border-radius:9px;background:var(--sky);color:var(--navy2);display:grid;place-items:center;font-weight:750;font-size:14px;flex:none}
+.choice:hover{border-color:var(--navy3)}
+.choice.sel{border-color:var(--navy2);background:var(--sky)}
+.choice.sel .k{background:var(--navy2);color:#fff}
+.choice.right{border-color:var(--good);background:var(--goodbg)}
+.choice.right .k{background:var(--good);color:#fff}
+.choice.wrong{border-color:var(--bad);background:var(--badbg)}
+.choice.wrong .k{background:var(--bad);color:#fff}
+.choice:disabled{cursor:default}
+.hint{display:flex;gap:12px;background:var(--amber2);border:1px solid #f3dc9b;color:#5a3d00;border-radius:12px;padding:12px 16px;margin:4px 0 14px;font-size:15.5px}
+.hint svg.i{color:#b07a00;margin-top:2px}
+.fb{border-radius:12px;padding:14px 16px;margin:4px 0 14px;font-size:15.5px}
+.fb.ok{background:var(--goodbg);border:1px solid #bfe3cc}
+.fb.no{background:var(--badbg);border:1px solid #f4c7c2}
+.fb .h{display:flex;gap:8px;align-items:center;font-weight:700;margin-bottom:4px}
+.fb.ok .h{color:var(--good)}.fb.no .h{color:var(--bad)}
+.fb .h svg.i{stroke-width:2.6;width:18px;height:18px}
+.quote{font-size:14.5px;color:var(--ink2);border-left:3px solid var(--amber);padding:2px 0 2px 12px;margin:8px 0}
+.quote b{font-style:normal;color:var(--mut);font-size:12.5px;display:block;text-transform:uppercase;letter-spacing:.03em}
+.qfoot{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:14px 24px 18px;border-top:1px solid var(--line);background:#fafbfd}
+.hbtn{display:inline-flex;align-items:center;gap:9px;background:#fff;border:1.5px solid #ecd28a;color:#7a5600;border-radius:11px;padding:9px 14px;font-weight:650}
+.hbtn:disabled{border-color:var(--line);color:var(--mut);cursor:default}
+.hbtn svg.ring{width:24px;height:24px;transform:rotate(-90deg)}
+.kbd{font-size:12.5px;color:var(--mut)}
+/* results */
+.res{display:grid;grid-template-columns:auto 1fr;gap:26px;align-items:center}
+.ringwrap{position:relative}
+.ringwrap svg{transform:rotate(-90deg)}
+.ringwrap .c{position:absolute;inset:0;display:grid;place-items:center;text-align:center}
+.ringwrap .c b{font-weight:800;color:var(--ink);letter-spacing:-.03em;line-height:1}
+.ringwrap .c span{font-size:13px;color:var(--mut);font-weight:600}
+.res h2{margin:6px 0 6px;font-size:26px}
+.review .item{border-top:1px solid var(--line);padding:16px 0}
+.review .item:first-of-type{border-top:0}
+.review .qq{font-weight:700;font-size:16.5px;margin-bottom:6px}
+.review .ans{font-size:15px;display:flex;gap:8px;align-items:flex-start;margin:3px 0}
+.review .ans svg.i{width:18px;height:18px;stroke-width:2.6;margin-top:2px}
+.review .ans.y{color:var(--bad)}.review .ans.c{color:var(--good)}
+.review .qimg{justify-content:flex-start;margin-bottom:8px}
+.review .qimg img{max-width:110px;max-height:100px}
+.review .qimg div{padding:10px 14px}
+/* meters / history */
+.mrow{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(90px,1.2fr) 52px;gap:12px;align-items:center;padding:9px 0;border-bottom:1px solid #eef1f6;font-size:14.5px}
+.mrow:last-child{border-bottom:0}
+.mrow .nm{display:flex;gap:9px;align-items:center;min-width:0}
+.mrow .nm span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mrow .nm svg.i{width:18px;height:18px;color:var(--navy2)}
+.meter{position:relative;height:8px;background:#e8edf4;border-radius:8px}
+.meter i{position:absolute;left:0;top:0;bottom:0;background:var(--navy2);border-radius:8px}
+.meter u{position:absolute;top:-4px;bottom:-4px;width:2px;background:var(--amber);border-radius:2px}
+.mrow .v{text-align:right;font-weight:700}
+.hist svg{width:100%;height:150px;display:block;overflow:visible}
+.tip{position:fixed;z-index:80;pointer-events:none;background:var(--ink);color:#fff;font-size:13px;padding:6px 10px;border-radius:8px;white-space:nowrap;display:none}
+.shelf{display:flex;flex-wrap:wrap;gap:12px}
+.shelf .b{width:96px;text-align:center;font-size:12px;font-weight:600;color:var(--ink2)}
+.shelf .b .badge{position:static;width:58px;height:58px;margin:0 auto 6px}
+.shelf .b .badge svg.i{width:28px;height:28px}
+.shelf .b.off .badge{background:#e8edf4;box-shadow:none;color:#b3bdcb}
+.shelf .b.off{color:var(--mut)}
+.links li{margin:0 0 10px}
+.links a{font-weight:650}
+/* modal, toast, confetti */
+.modal{position:fixed;inset:0;z-index:90;background:rgba(10,20,40,.55);display:grid;place-items:center;padding:16px}
+.modal .box{background:#fff;border-radius:20px;max-width:560px;width:100%;padding:26px;box-shadow:0 20px 60px rgba(0,0,0,.3);text-align:center;max-height:92vh;overflow:auto}
+.modal .box.wide{max-width:900px;padding:14px}
+.modal iframe{width:100%;aspect-ratio:16/9;border:0;border-radius:12px;display:block}
+.toast{position:fixed;z-index:95;left:50%;bottom:90px;transform:translateX(-50%);background:var(--ink);color:#fff;font-weight:700;padding:9px 16px;border-radius:30px;display:flex;gap:8px;align-items:center;box-shadow:0 8px 24px rgba(0,0,0,.25);animation:tin .25s}
+.toast svg.i{color:var(--amber);width:18px;height:18px}
+@keyframes tin{from{opacity:0;transform:translate(-50%,10px)}to{opacity:1;transform:translate(-50%,0)}}
+.cf{position:fixed;top:-12px;z-index:99;width:9px;height:14px;border-radius:2px;pointer-events:none;animation:fall linear forwards}
+@keyframes fall{to{transform:translateY(105vh) rotate(720deg)}}
+/* watch feed */
+body.watching main{max-width:none;padding:0}
+body.watching .foot{display:none}
+.feed{height:calc(100vh - var(--hh));height:calc(100dvh - var(--hh));overflow-y:auto;scroll-snap-type:y mandatory;background:#0b1526;overscroll-behavior:contain}
+.reel{height:100%;scroll-snap-align:start;scroll-snap-stop:always;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:16px;color:#fff;position:relative}
+.reel .frame{width:100%;max-width:560px;aspect-ratio:16/9;border-radius:16px;overflow:hidden;background:#000 center/cover no-repeat;display:grid;place-items:center;cursor:pointer;box-shadow:0 10px 40px rgba(0,0,0,.5)}
+.reel .frame iframe{width:100%;height:100%;border:0;display:block}
+.reel .pl{width:64px;height:64px;border-radius:50%;background:rgba(0,0,0,.55);display:grid;place-items:center}
+.reel .pl svg.i{width:28px;height:28px;fill:#fff;stroke:none;margin-left:4px}
+.reel .meta{width:100%;max-width:560px;margin-top:18px}
+.reel .tag{color:var(--amber);font-weight:700;font-size:12.5px;letter-spacing:.06em}
+.reel h3{font-size:21px;margin:6px 0 4px;line-height:1.25}
+.reel .src{color:#9fb3cf;font-size:13.5px}
+.reel .acts{display:flex;gap:10px;margin-top:16px;flex-wrap:wrap}
+.reel .acts .btn.ghost{background:transparent;color:#fff;border-color:rgba(255,255,255,.35)}
+.reel .count{position:absolute;top:14px;right:16px;color:#9fb3cf;font-size:13px;font-weight:600}
+.reel .swipe{position:absolute;bottom:18px;left:0;right:0;text-align:center;color:#c9d6ea;font-size:13.5px;font-weight:600;animation:bob 1.6s infinite}
+@keyframes bob{50%{transform:translateY(-6px)}}
+.reel.joke{background:radial-gradient(circle at 50% 35%,#1d4f91,#0b1526 70%)}
+.reel .jk{max-width:480px;text-align:center}
+.reel .jk svg.moose{width:170px;height:auto;animation:wig 2.4s ease-in-out infinite}
+@keyframes wig{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+.reel .jk .who{color:var(--amber);font-weight:800;letter-spacing:.08em;font-size:13px;margin:12px 0 8px}
+.reel .jk .jt{font-size:24px;font-weight:750;line-height:1.35}
+#acct{margin-left:8px;flex:none}
+.acct{width:40px;height:40px;border-radius:50%;background:var(--navy);color:#fff;border:2px solid var(--amber);font-weight:800;font-size:16px}
+.authf label{display:block;font-weight:600;font-size:14px;margin-bottom:12px;text-align:left}
+.authf input[type=email],.authf input[type=password]{display:block;width:100%;margin-top:5px;padding:11px 12px;border:1.5px solid var(--line);border-radius:10px;font:inherit;font-size:16px}
+.authf input:focus{outline:none;border-color:var(--navy3)}
+.authf .chk{display:flex;gap:9px;align-items:flex-start;font-weight:500}
+.authf .chk input{margin-top:4px}
+.authf .err{color:var(--bad);font-size:14px;min-height:20px;margin-bottom:8px;text-align:left}
+.dougbig{width:170px;height:auto;flex:none}
+.fb.no{position:relative;padding-right:86px}
+.fb .fbd{position:absolute;right:8px;top:8px}
+.dougsm{width:68px;height:auto}
+.savecard{display:flex;gap:16px;align-items:center;flex-wrap:wrap;background:var(--amber2);border:1px solid #f1d98f}
+.foot{max-width:1200px;margin:0 auto;padding:6px 18px 40px;font-size:12.8px;color:var(--mut);line-height:1.6}
+.foot .fb2{display:flex;gap:10px;align-items:flex-start;border-top:1px solid var(--line);padding-top:16px}
+.foot svg{width:58px;height:auto;flex:none;margin-top:2px}
+@media (max-width:980px){
+  .hero{grid-template-columns:1fr}
+  .hero .art{min-height:170px;max-height:200px;order:-1}
+  .hero .tx{padding:22px 22px 26px}
+  .hero h1{font-size:30px}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .stats div:nth-child(3){border-left:0}
+  .stats div:nth-child(n+3){border-top:1px solid var(--line)}
+}
+@media (max-width:860px){
+  .nav{display:none}
+  .bnav{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:35;background:#fff;border-top:1px solid var(--line);padding:6px 4px calc(6px + env(safe-area-inset-bottom));box-shadow:0 -4px 16px rgba(16,32,60,.06)}
+  .bnav button{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;background:none;border:0;font-size:11px;font-weight:600;color:var(--mut);padding:4px 0}
+  .bnav button.on{color:var(--navy)}
+  .bnav button.on svg.i{stroke-width:2.3}
+  .xpchip{margin-left:auto}
+  body{padding-bottom:70px}
+  .feed{height:calc(100vh - var(--hh) - 64px);height:calc(100dvh - var(--hh) - 64px)}
+  .heroplate svg{width:190px}
+  .reel h3{font-size:18.5px}
+  .reel .jk .jt{font-size:20px}
+  main{padding:14px 12px 24px}
+  .study{grid-template-columns:1fr}
+  .side{position:fixed;top:0;left:0;bottom:0;width:88%;max-width:350px;max-height:none;z-index:50;border-radius:0;transform:translateX(-105%);transition:transform .2s}
+  .side.open{transform:none;box-shadow:0 0 50px rgba(0,0,0,.35)}
+  .menu-btn{display:inline-flex}
+  :root{--hh:68px}
+  .brand svg{height:48px}
+  .qtext{font-size:18.5px}
+  .qbody,.qtop{padding-left:16px;padding-right:16px}
+  .bar{margin-left:16px;margin-right:16px}
+  .qfoot{padding:12px 16px 16px}
+  .kbd{display:none}
+  .res{grid-template-columns:1fr;justify-items:center;text-align:center}
+  .card{padding:18px}
+  .step{grid-template-columns:auto 1fr}
+  .step>.btn,.step>div:last-child{grid-column:1/-1}
+  .smatch{grid-template-columns:1fr 1.3fr;gap:8px}
+  .smatch button{font-size:13.5px;min-height:64px;padding:8px}
+  .mban{padding:18px}
+  .mban h2{font-size:22px}
+  .brand small{display:none}
+}
+</style>
+</head>
+<body>
+<div class="top"><div class="in">
+  <button class="brand" onclick="go('home')" aria-label="Home">
+    <!--PLATE-->
+    <span><small>ALBERTA LEARNER'S<br>TEST PREP</small></span>
+  </button>
+  <span class="xpchip" id="xpchip"></span>
+  <nav class="nav" id="nav"></nav>
+  <span id="acct"></span>
+</div></div>
+<main id="app"></main>
+<div class="foot" id="foot"></div>
+<nav class="bnav" id="bnav"></nav>
+<div class="tip" id="tip"></div>
+
+<script>
+/*__DATA__*/
+</script>
+<script>
+"use strict";
+const PASS = 25, TEST_LEN = 30, QUIZ_LEN = 10, CHECK_PASS = 8, HINT_DELAY = 30, SR_TIME = 60;
+const LS = "abLearnerPractice.v1";
+const $ = (s, r = document) => r.querySelector(s);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const norm = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, "");
+const printed = p => p - 2;  // PDF page -> page number printed on the guide page
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const pick = a => a[Math.floor(Math.random() * a.length)];
+
+// ---------- icons ----------
+const P = {
+  home: '<path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-6h4v6"/>',
+  book: '<path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5"/><path d="M8 7h7M8 11h7"/>',
+  cap: '<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/><path d="M22 9v6"/>',
+  test: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 3v3h6V3"/><path d="M8.5 12l2 2 4-4M8.5 17h7"/>',
+  layers: '<path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/>',
+  chart: '<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
+  link: '<path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/>',
+  bulb: '<path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/>',
+  search: '<circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/>',
+  check: '<path d="M5 12.5l4.5 4.5L19 7.5"/>',
+  x: '<path d="M6 6l12 12M18 6L6 18"/>',
+  arrowR: '<path d="M5 12h14M13 6l6 6-6 6"/>',
+  arrowL: '<path d="M19 12H5M11 6l-6 6 6 6"/>',
+  menu: '<path d="M4 7h16M4 12h16M4 17h16"/>',
+  flag: '<path d="M5 21V4h11l-1.5 4L16 12H5"/>',
+  star: '<path d="M12 3l2.7 5.6 6.1.8-4.5 4.2 1.1 6.1L12 16.8 6.6 19.7l1.1-6.1L3.2 9.4l6.1-.8z"/>',
+  bolt: '<path d="M13 2L4 14h7l-1 8 9-12h-7z"/>',
+  cards: '<rect x="3" y="6" width="13" height="15" rx="2"/><path d="M8 3h11a2 2 0 0 1 2 2v13"/>',
+  play: '<path d="M7 4l13 8-13 8z"/>',
+  puzzle: '<path d="M10 3h4v3a2 2 0 1 0 4 0V3h3v7h-3a2 2 0 1 0 0 4h3v7h-7v-3a2 2 0 1 0-4 0v3H3v-7h3a2 2 0 1 0 0-4H3V3z"/>',
+  c0: '<circle cx="12" cy="12" r="9"/><path d="M12 8v.01M11 12h1v5h1"/>',
+  c1: '<rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="11" r="2.2"/><path d="M5.8 16c.6-1.6 1.8-2.4 3.2-2.4s2.6.8 3.2 2.4M14.5 10h4M14.5 13.5h3"/>',
+  c2: '<rect x="8" y="2.5" width="8" height="19" rx="3"/><circle cx="12" cy="7" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="12" cy="17" r="1.6"/>',
+  c3: '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="2.5"/><path d="M3.5 10.5l6.2 1M14.3 11.5l6.2-1M12 14.5V21"/>',
+  c4: '<path d="M9 3v6H3M15 3v6h6M9 21v-6H3M15 21v-6h6"/>',
+  c5: '<path d="M8 3L4 21M16 3l4 18M12 4v2.5M12 10.5v3M12 17.5V20"/>',
+  c6: '<path d="M12 3.5L2.8 19.5h18.4z"/><path d="M12 9.5v4.5M12 16.8v.01"/>',
+  c7: '<path d="M12 3l7.5 3v5.5c0 4.6-3.2 8.2-7.5 9.5-4.3-1.3-7.5-4.9-7.5-9.5V6z"/><path d="M8.8 12l2.3 2.3 4.3-4.6"/>',
+  c8: '<circle cx="6" cy="16" r="3.5"/><circle cx="18" cy="16" r="3.5"/><path d="M6 16l3.5-7h5l3.5 7M9.5 9L12 16h-6M13 6h3"/>',
+  c9: '<path d="M12 4v16M7 20h10M5 8h14"/><path d="M5 8l-3 6.5a3.2 3.2 0 0 0 6 0zM19 8l-3 6.5a3.2 3.2 0 0 0 6 0z"/>',
+  c10: '<rect x="2" y="7" width="10" height="8" rx="1"/><path d="M12 11h3l3 2v2h-6M15 15h7"/><circle cx="6" cy="17" r="2"/><circle cx="17" cy="17" r="2"/>'
+};
+const ic = (n, cls = "i") => `<svg class="${cls}" viewBox="0 0 24 24" aria-hidden="true">${P[n] || ""}</svg>`;
+
+// ---------- Mo the Moose (mascot) and jokes ----------
+/*__DOUG__*/
+const JOKES_FALLBACK = [
+  "Why does the yield sign get invited to every party? It always lets everyone else go first.",
+  "What did the roundabout say to the nervous driver? \"Don't worry, you'll come around.\"",
+  "Why don't geese need a learner's licence? They've been merging in formation for years.",
+  "I asked the stop sign for life advice. It said, \"Have you tried brakes?\"",
+  "Why was the speed bump so popular? It really knew how to slow things down.",
+  "Why did I fail parallel parking in the moose car? The antlers kept tapping the car behind me.",
+  "Why did the traffic light turn red? You would too if you had to change in the middle of the street.",
+  "What's a car's favourite meal? Brake-fast.",
+  "Why did the learner bring a ladder to the lesson? They heard they'd be driving on the high-way.",
+  "Why are snowplows great at parties? They really know how to break the ice.",
+  "What do you call a dinosaur with a learner's licence? A Tyrannosaurus Wrecks. Don't be a T. Wrecks.",
+  "Why did the bicycle tip over at the intersection? It was two-tired.",
+  "My GPS keeps saying \"make a U-turn when possible.\" I think my GPS has given up on me.",
+  "What do you call a car that tells bad jokes? A pun-tiac.",
+  "Turn signals: the original way to tell people your plans without a group chat.",
+  "Why do tires always look stressed? They're under constant pressure.",
+  "What does a tired car do? Takes a car-nap. (Drowsy driving is no joke, though.)",
+  "Mirrors: because your car has more blind spots than your little brother has excuses.",
+  "Why did the cow cross the road? To get to the udder side.",
+  "I told my supervising driver a joke about a pothole. It went right over their head... then right under the car."
+];
+const JOKES = (typeof JOKE_BANK !== "undefined" && JOKE_BANK.length >= 50) ? JOKE_BANK : JOKES_FALLBACK;
+// every joke shown is the next unseen one from a per-student shuffled deck (persists across visits)
+function nextJoke() {
+  const n = JOKES.length;
+  if (!ST.jk || ST.jk.n !== n || ST.jk.i >= n) ST.jk = { n, order: shuffle([...Array(n).keys()]), i: 0 };
+  const j = JOKES[ST.jk.order[ST.jk.i++]]; save(); return j;
+}
+const moSays = (txt, who = "BIG DOUG SAYS", mood = "chill") => `<div class="mo">${bigDoug(mood, "moose")}<div class="bubble"><span class="who">${who}</span>${esc(txt)}</div></div>`;
+
+// ---------- data indexes ----------
+const SECTIONS = [], SEC = {}, CH = {};
+HB.chapters.forEach(c => { CH[c.n] = c; c.sections.forEach(s => { s.ch = c.n; SECTIONS.push(s); SEC[s.id] = s; }); });
+const QBYCH = {}; QS.forEach(q => (QBYCH[q.ch] = QBYCH[q.ch] || []).push(q));
+const PAGE_LIST = Object.keys(PAGES).map(Number).sort((a, b) => a - b);
+const secForPage = p => { let best = null; SECTIONS.forEach(s => { if (s.page <= p && (!best || s.page >= best.page)) best = s; }); return best; };
+const chForPage = p => { const c = HB.chapters.find(c => p >= c.start && p <= c.end); return c ? c.n : 0; };
+const PNORM = {}, PTEXT = {};
+PAGE_LIST.forEach(p => { const ws = WORDS.pages[p] || []; PNORM[p] = ws.map(w => norm(w[0])); PTEXT[p] = ws.map(w => w[0]).join(" "); });
+const VBYCH = {}; VIDEOS.forEach(v => (VBYCH[v.ch] = VBYCH[v.ch] || []).push(v));
+const BADGES = { 1: "Paperwork Pro", 2: "Sign Whisperer", 3: "Smooth Operator", 4: "Intersection Ace", 5: "Merge Master", 6: "Cool Under Pressure", 7: "Good Choices Champ", 8: "Road Sharer", 9: "Law Abider", 10: "Trailer Tamer" };
+const LEVELS = [[0, "Learner"], [150, "Road Rookie"], [400, "Lane Legend"], [800, "Road Scholar"], [1300, "Highway Hero"]];
+
+// ---------- persistence ----------
+function load() { try { return JSON.parse(localStorage.getItem(LS)) || {}; } catch (e) { return {}; } }
+let ST = Object.assign({ tests: [], seen: {}, missed: {}, chap: {}, xp: 0, mods: {}, best: {} }, load());
+let SB = null, USER = null, pushTimer = null;
+function save() { ST.savedAt = Date.now(); try { localStorage.setItem(LS, JSON.stringify(ST)); } catch (e) {} if (USER) pushUp(); }
+const mod = ch => ST.mods[ch] = ST.mods[ch] || {};
+function level() {
+  let i = 0; LEVELS.forEach((l, k) => { if (ST.xp >= l[0]) i = k; });
+  const next = LEVELS[i + 1];
+  return { name: LEVELS[i][1], i, floor: LEVELS[i][0], next: next ? next[0] : null, nextName: next ? next[1] : null };
+}
+function award(n, why) {
+  ST.xp += n; save(); paintXP();
+  toast(`+${n} XP${why ? " · " + why : ""}`);
+}
+function paintXP() { const l = level(); $("#xpchip").innerHTML = `${ic("star")}${ST.xp} XP · ${l.name}`; }
+function toast(t) {
+  document.querySelectorAll(".toast").forEach(e => e.remove());
+  const d = document.createElement("div"); d.className = "toast"; d.innerHTML = ic("star") + esc(t);
+  document.body.appendChild(d); setTimeout(() => d.remove(), 2200);
+}
+function confetti() {
+  const cols = ["#f5b301", "#1d4f91", "#2c64b0", "#1e7b45", "#ffd45c", "#e9f0fa"];
+  for (let i = 0; i < 90; i++) {
+    const d = document.createElement("div"); d.className = "cf";
+    d.style.left = Math.random() * 100 + "vw"; d.style.background = pick(cols);
+    d.style.animationDuration = (1.6 + Math.random() * 1.6) + "s"; d.style.animationDelay = Math.random() * .4 + "s";
+    document.body.appendChild(d); setTimeout(() => d.remove(), 3800);
+  }
+}
+function modal(html, wide) {
+  closeModal();
+  const m = document.createElement("div"); m.className = "modal"; m.id = "modal";
+  m.innerHTML = `<div class="box ${wide ? "wide" : ""}">${html}</div>`;
+  m.addEventListener("click", e => { if (e.target === m) closeModal(); });
+  document.body.appendChild(m);
+}
+function closeModal() { const m = $("#modal"); if (m) m.remove(); }
+
+// ---------- routing: every screen has an address, so refresh and the back button work ----------
+let ROUTING = false;
+function setRoute(h, replace) {
+  if (ROUTING) return;
+  const url = "#" + h;
+  if (location.hash === url) return;
+  if (replace) history.replaceState(null, "", url); else history.pushState(null, "", url);
+}
+function route() {
+  ROUTING = true;
+  try {
+    const [v, a] = location.hash.replace(/^#/, "").split("/");
+    const n = parseInt(a, 10);
+    switch (v) {
+      case "learn": go("learn"); break;
+      case "lesson": openModule(CH[n] ? n : 1); break;
+      case "watch": go("watch", a ? { id: a } : null); break;
+      case "guide": go("guide", n ? { page: n } : null); break;
+      case "test": if (!(a === "run" && resumeRun("full"))) go("test"); break;
+      case "quiz": if (!resumeRun("quiz", n)) openModule(CH[n] ? n : 1); break;
+      case "cards": startCards(CH[n] ? n : 1); break;
+      case "speed": startSpeed(CH[n] ? n : 1); break;
+      case "match": startMatch(CH[n] ? n : 2); break;
+      case "progress": go("progress"); break;
+      case "more": go("more"); break;
+      default: go("home");
+    }
+  } finally { ROUTING = false; }
+}
+window.addEventListener("popstate", route);
+const RUNKEY = "roadieRun";
+function saveRun() {
+  try { if (RUN) sessionStorage.setItem(RUNKEY, JSON.stringify({ kind: RUN.kind, ch: RUN.ch, checkpoint: RUN.checkpoint, i: RUN.i,
+    qs: RUN.qs.map(it => ({ id: it.q.id, order: it.order, pick: it.pick, hint: it.hint, t: it.t })) })); } catch (e) {}
+}
+function clearRun() { try { sessionStorage.removeItem(RUNKEY); } catch (e) {} }
+function resumeRun(kind, ch) {
+  let s; try { s = JSON.parse(sessionStorage.getItem(RUNKEY)); } catch (e) { return false; }
+  if (!s || s.kind !== kind || (kind === "quiz" && s.ch !== ch)) return false;
+  const byId = {}; QS.forEach(q => byId[q.id] = q);
+  const qs = s.qs.filter(x => byId[x.id]).map(x => ({ q: byId[x.id], order: x.order, pick: x.pick, hint: x.hint, t: x.t }));
+  if (!qs.length) return false;
+  stopAll(); view = kind === "full" ? "test" : "learn"; setTab(view);
+  RUN = { kind, ch: s.ch, checkpoint: s.checkpoint, qs, i: Math.min(s.i, qs.length - 1) }; RUN_ACTIVE = true; showQ();
+  return true;
+}
+
+// ---------- accounts (optional, web version only): sign in to sync progress across devices ----------
+const authOn = () => !OFFLINE && typeof SUPA !== "undefined" && SUPA && SUPA.url;
+function loadScript(src) { return new Promise((res, rej) => { const t = document.createElement("script"); t.src = src; t.onload = res; t.onerror = rej; document.head.appendChild(t); }); }
+async function initAuth() {
+  if (!authOn()) { const el = $("#acct"); if (el) el.style.display = "none"; return; }
+  paintAccount();
+  try { await loadScript("https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"); } catch (e) { return; }
+  SB = window.supabase.createClient(SUPA.url, SUPA.key, { auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: true } });
+  SB.auth.onAuthStateChange((ev, session) => {
+    const was = USER && USER.id; USER = session ? session.user : null; paintAccount();
+    if (ev === "PASSWORD_RECOVERY") setTimeout(newPasswordModal, 50);
+    if (USER && USER.id !== was) setTimeout(syncDown, 0);
+  });
+}
+function paintAccount() {
+  const el = $("#acct"); if (!el) return;
+  el.innerHTML = USER ? `<button class="acct" onclick="accountModal()" title="${esc(USER.email || "")}" aria-label="Your account">${esc((USER.email || "?")[0].toUpperCase())}</button>`
+                      : `<button class="btn ghost sm" onclick="authModal('signin')">Sign in</button>`;
+}
+function mergeProgress(a, b) {
+  if (!b || !b.tests) return a;
+  if (!a || !a.tests || (!a.tests.length && !a.xp)) return Object.assign({}, b, { jk: (a && a.jk) || b.jk, met: true });
+  const tests = {}; [...a.tests, ...b.tests].forEach(t => tests[t.at] = t);
+  const seen = Object.assign({}, b.seen); Object.entries(a.seen || {}).forEach(([k, v]) => { seen[k] = Math.max(v, seen[k] || 0); });
+  const mods = {}; new Set([...Object.keys(a.mods || {}), ...Object.keys(b.mods || {})]).forEach(k => { mods[k] = Object.assign({}, (b.mods || {})[k], (a.mods || {})[k]); });
+  const tot = x => Object.values(x.chap || {}).reduce((n, c) => n + c.total, 0);
+  return { tests: Object.values(tests).sort((x, y) => x.at - y.at), seen, missed: (a.savedAt || 0) >= (b.savedAt || 0) ? a.missed : b.missed,
+    chap: tot(a) >= tot(b) ? a.chap : b.chap, xp: Math.max(a.xp || 0, b.xp || 0), mods, best: Object.assign({}, b.best, a.best),
+    jk: a.jk, met: true, savedAt: Date.now() };
+}
+async function syncDown() {
+  if (!SB || !USER) return;
+  const { data, error } = await SB.from("progress").select("data").eq("user_id", USER.id).maybeSingle();
+  if (error) return;
+  ST = Object.assign({ tests: [], seen: {}, missed: {}, chap: {}, xp: 0, mods: {}, best: {} }, mergeProgress(ST, data && data.data));
+  try { localStorage.setItem(LS, JSON.stringify(ST)); } catch (e) {}
+  paintXP(); pushUp();
+  if (!RUN_ACTIVE && ["home", "progress", "learn"].includes(view)) route();
+}
+function pushUp() {
+  if (!SB || !USER) return;
+  clearTimeout(pushTimer);
+  pushTimer = setTimeout(() => SB.from("progress").upsert({ user_id: USER.id, data: ST, updated_at: new Date().toISOString() }).then(() => {}), 1200);
+}
+function friendlyAuthError(e) {
+  const m = (e.message || "").toLowerCase();
+  if (m.includes("invalid login")) return "That email and password don't match.";
+  if (m.includes("already registered") || m.includes("already been registered")) return "There's already an account with that email. Try signing in.";
+  if (m.includes("email not confirmed")) return "Confirm your email first: tap the link we sent you.";
+  if (m.includes("password")) return "Your password needs at least 8 characters.";
+  if (m.includes("rate") || m.includes("too many")) return "Too many tries. Wait a minute and try again.";
+  return e.message || "Something went wrong. Try again.";
+}
+function authModal(mode, msg) {
+  const signup = mode === "signup", reset = mode === "reset";
+  modal(`<div style="text-align:left">
+    <div class="row" style="justify-content:space-between;margin-bottom:6px"><h2 style="margin:0">${signup ? "Create your free account" : reset ? "Reset your password" : "Sign in"}</h2><button class="linkish" onclick="closeModal()" aria-label="Close">${ic("x")}</button></div>
+    <p class="mut" style="margin:0 0 14px">${signup ? "Saves your XP, lessons and test history so you can switch between your phone and laptop." : reset ? "We'll email you a link to set a new password." : "Pick up where you left off on any device."}</p>
+    <form id="authf" class="authf" novalidate>
+      <label>Email<input type="email" name="email" autocomplete="email" required></label>
+      ${reset ? "" : `<label>Password<input type="password" name="pw" autocomplete="${signup ? "new-password" : "current-password"}" minlength="8" required></label>`}
+      ${signup ? `<label class="chk"><input type="checkbox" name="ok"> <span>I'm 13 or older and I've read the <a href="#" onclick="event.preventDefault();privacyModal()">privacy note</a>.</span></label>` : ""}
+      <div class="err" id="autherr">${msg ? esc(msg) : ""}</div>
+      <button class="btn amber" style="width:100%" type="submit">${signup ? "Create account" : reset ? "Send reset link" : "Sign in"}</button>
+    </form>
+    <div class="row" style="justify-content:space-between;margin-top:12px;font-size:14.5px">
+      ${mode === "signin" ? `<button class="linkish" onclick="authModal('signup')">New here? Create an account</button><button class="linkish" onclick="authModal('reset')">Forgot password?</button>`
+                          : `<button class="linkish" onclick="authModal('signin')">Already have an account? Sign in</button>`}
+    </div></div>`);
+  $("#authf").onsubmit = async e => {
+    e.preventDefault();
+    const f = e.target, email = f.email.value.trim(), pw = f.pw ? f.pw.value : "", err = $("#autherr"), b = f.querySelector("button[type=submit]");
+    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) { err.textContent = "Enter a valid email address."; return; }
+    if (!reset && pw.length < 8) { err.textContent = "Your password needs at least 8 characters."; return; }
+    if (signup && !f.ok.checked) { err.textContent = "Please tick the box to confirm."; return; }
+    if (!SB) { err.textContent = "Can't reach the sign-in service right now. Check your connection."; return; }
+    b.disabled = true; err.textContent = "";
+    const back = location.origin + location.pathname;
+    let r;
+    try {
+      if (signup) r = await SB.auth.signUp({ email, password: pw, options: { emailRedirectTo: back } });
+      else if (reset) r = await SB.auth.resetPasswordForEmail(email, { redirectTo: back });
+      else r = await SB.auth.signInWithPassword({ email, password: pw });
+    } catch (x) { r = { error: x }; }
+    b.disabled = false;
+    if (r.error) { err.textContent = friendlyAuthError(r.error); return; }
+    if (reset) { modal(`<h2 style="margin-top:0">Check your email</h2><p>If there's an account for <b>${esc(email)}</b>, a reset link is on its way.</p><button class="btn" onclick="closeModal()">OK</button>`); return; }
+    if (signup && !r.data.session) { modal(`<h2 style="margin-top:0">Almost there</h2><p>We sent a confirmation link to <b>${esc(email)}</b>. Tap it, then come back and sign in.</p><button class="btn" onclick="closeModal()">OK</button>`); return; }
+    closeModal(); toast(signup ? "Account created. Progress will sync." : "Signed in. Progress synced.");
+  };
+}
+function newPasswordModal() {
+  modal(`<div style="text-align:left"><h2 style="margin-top:0">Set a new password</h2><form id="npf" class="authf"><label>New password<input type="password" name="pw" minlength="8" autocomplete="new-password" required></label><div class="err" id="nperr"></div><button class="btn amber" style="width:100%" type="submit">Save password</button></form></div>`);
+  $("#npf").onsubmit = async e => {
+    e.preventDefault();
+    if (e.target.pw.value.length < 8) { $("#nperr").textContent = "Your password needs at least 8 characters."; return; }
+    const { error } = await SB.auth.updateUser({ password: e.target.pw.value });
+    if (error) { $("#nperr").textContent = friendlyAuthError(error); return; }
+    closeModal(); toast("Password updated");
+  };
+}
+function accountModal() {
+  modal(`<div style="text-align:left"><h2 style="margin-top:0">Your account</h2><p class="mut">Signed in as <b>${esc(USER.email || "")}</b>. Your progress saves automatically.</p>
+    <div class="row"><button class="btn" onclick="signOut()">Sign out</button><button class="btn ghost" onclick="closeModal()">Close</button></div>
+    <p style="margin:18px 0 0" class="row"><button class="linkish" style="color:var(--bad)" onclick="deleteAccount(this)">Delete my account</button><button class="linkish" onclick="privacyModal()">Privacy</button></p></div>`);
+}
+async function signOut() { await SB.auth.signOut(); closeModal(); toast("Signed out. Your progress stays on this device."); }
+async function deleteAccount(btn) {
+  if (!btn.dataset.armed) { btn.dataset.armed = 1; btn.textContent = "Tap again to permanently delete your account"; return; }
+  const { error } = await SB.rpc("delete_my_account");
+  if (error) { toast("Couldn't delete it. Try again."); return; }
+  await SB.auth.signOut(); closeModal(); toast("Account deleted");
+}
+function privacyModal() {
+  modal(`<div style="text-align:left;font-size:15.5px"><h2 style="margin-top:0">Privacy, in plain words</h2>
+    <p>You can use Roadie without an account. Your progress is then saved only in this browser.</p>
+    <p>If you create an account, we keep your <b>email address</b>, your password (encrypted, so we can't read it) and your <b>study progress</b> (XP, lessons, test scores). Nothing else. Our database is in Canada.</p>
+    <p>We use it only to sign you in and sync your progress. We don't sell or share it, and we don't send marketing emails.</p>
+    <p>You can delete your account and everything in it at any time: <b>Your account &rarr; Delete my account</b>.</p>
+    <button class="btn" onclick="closeModal()">Got it</button></div>`);
+}
+function saveCard() {
+  if (!authOn() || USER) return "";
+  return `<div class="card savecard"><div class="feat" style="flex:1;min-width:220px"><div class="ic am">${ic("star")}</div><div><h4>Keep your progress on any device</h4><p>Create a free account and your XP, lessons and scores follow you from phone to laptop.</p></div></div>
+    <button class="btn amber" onclick="authModal('signup')">Create free account</button></div>`;
+}
+function meetDoug() {
+  modal(`<div style="display:flex;gap:16px;align-items:center;text-align:left;flex-wrap:wrap;justify-content:center">${bigDoug("chill", "dougbig")}
+    <div style="flex:1;min-width:220px"><div class="mut" style="font-weight:800;letter-spacing:.05em;font-size:12.5px">MEET YOUR ROADIE</div><h2 style="margin:4px 0 8px">Big Doug</h2>
+    <p style="margin:0 0 14px">How's she goin'. Twenty years as a roadie, hauling amps down every highway in Alberta. Now I haul people like you to a learner's licence. I'll tell bad jokes. You'll pass anyway. Beauty.</p>
+    <button class="btn amber" onclick="closeModal()">Let's go${ic("arrowR")}</button></div></div>`);
+  ST.met = true; save();
+}
+
+
+// ---------- navigation ----------
+const TABS = [["home", "Home", "home"], ["learn", "Learn", "cap"], ["watch", "Watch", "play"], ["guide", "Guide", "book"], ["test", "Practice Test", "test"], ["progress", "Progress", "chart"], ["more", "More", "link"]];
+$("#nav").innerHTML = TABS.map(([v, l, i]) => `<button data-v="${v}">${ic(i)}${l}</button>`).join("");
+$("#bnav").innerHTML = TABS.filter(t => t[0] !== "more").map(([v, l, i]) => `<button data-v="${v}">${ic(i)}${l.replace("Practice ", "")}</button>`).join("");
+let view = "home", timerId = null, RUN = null, RUN_ACTIVE = false;
+function setTab(v) { document.querySelectorAll("#nav button,#bnav button").forEach(b => b.classList.toggle("on", b.dataset.v === v)); }
+function stopAll() { clearInterval(timerId); RUN_ACTIVE = false; closeModal(); if (FEED_OBS) { FEED_OBS.disconnect(); FEED_OBS = null; } SR = null; }
+function go(v, arg) {
+  stopAll(); view = v; setTab(v); window.scrollTo(0, 0);
+  setRoute(v === "watch" && arg && arg.id ? "watch/" + arg.id : v);
+  document.body.classList.toggle("watching", v === "watch");
+  ({ home: renderHome, learn: renderLearn, watch: renderWatch, guide: renderGuide, test: renderTestStart, progress: renderProgress, more: renderMore })[v](arg);
+}
+["#nav", "#bnav"].forEach(s => $(s).addEventListener("click", e => { const b = e.target.closest("button"); if (b) go(b.dataset.v); }));
+
+// ---------- shared visuals ----------
+function scoreRing(score, n, size = 170) {
+  const r = 70, C = 2 * Math.PI * r, f = n ? score / n : 0, pf = PASS / TEST_LEN, a = pf * 2 * Math.PI;
+  const passMark = n === TEST_LEN ? `<line x1="${80 + 57 * Math.cos(a)}" y1="${80 + 57 * Math.sin(a)}" x2="${80 + 83 * Math.cos(a)}" y2="${80 + 83 * Math.sin(a)}" stroke="#f5b301" stroke-width="4" stroke-linecap="round"/>` : "";
+  return `<div class="ringwrap" style="width:${size}px;height:${size}px;flex:none"><svg viewBox="0 0 160 160" style="width:${size}px;height:${size}px">
+    <circle cx="80" cy="80" r="${r}" fill="none" stroke="#e8edf4" stroke-width="14"/>
+    <circle cx="80" cy="80" r="${r}" fill="none" stroke="#1d4f91" stroke-width="14" stroke-linecap="round" stroke-dasharray="${Math.max(0.001, f * C)} ${C}"/>
+    ${passMark}</svg>
+    <div class="c"><div><b style="font-size:${size / 4.3}px">${score}<span style="font-size:${size / 9}px;color:var(--mut);font-weight:700">/${n}</span></b><br><span>${Math.round(f * 100)}%</span></div></div></div>`;
+}
+function statusPill(ok, yes, no) { return ok ? `<span class="pill ok">${ic("check")}${yes}</span>` : `<span class="pill no">${ic("x")}${no}</span>`; }
+function meterRow(c, s) {
+  const pct = s && s.total ? Math.round(s.right / s.total * 100) : null;
+  return `<div class="mrow"><div class="nm">${ic("c" + c.n)}<span>${c.n}. ${esc(c.title)}</span></div>
+    <div class="meter" title="${pct === null ? "No answers yet" : pct + "% correct (" + s.right + " of " + s.total + ")"}"><i style="width:${pct || 0}%"></i><u style="left:83%"></u></div>
+    <div class="v">${pct === null ? '<span class="mut">-</span>' : pct + "%"}</div></div>`;
+}
+function readiness() {
+  const full = ST.tests.filter(t => t.kind === "full");
+  const last3 = full.slice(-3);
+  return { full, last3, ready: last3.length === 3 && last3.every(t => t.score >= PASS) };
+}
+const modSteps = ch => { const m = ST.mods[ch] || {}; return ["read", "cards", "game", "check"].filter(k => m[k]).length; };
+
+// ---------- home ----------
+const HERO_ART = `<svg viewBox="0 0 520 320" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d4f91" stop-opacity="0"/><stop offset="1" stop-color="#2c64b0" stop-opacity=".55"/></linearGradient>
+  <linearGradient id="rd" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b3a52"/><stop offset="1" stop-color="#1a2536"/></linearGradient></defs>
+  <rect width="520" height="320" fill="url(#sky)"/>
+  <circle cx="390" cy="118" r="40" fill="#f5b301" opacity=".9"/>
+  <path d="M0 196 C90 170 160 182 240 170 S400 150 520 172 V320 H0z" fill="#16406f"/>
+  <path d="M0 214 C120 196 220 204 300 192 S440 182 520 196 V320 H0z" fill="#12355f"/>
+  <path d="M232 176 L288 176 L470 320 L50 320 Z" fill="url(#rd)"/>
+  <path d="M258 182 L262 182 L264 196 L256 196Z M254 212 L266 212 L270 238 L250 238Z M246 262 L274 262 L282 312 L238 312Z" fill="#f5b301"/>
+  <path d="M232 176 L50 320" stroke="#e8edf4" stroke-width="3" opacity=".7"/><path d="M288 176 L470 320" stroke="#e8edf4" stroke-width="3" opacity=".7"/>
+  <g transform="translate(96 108)"><rect x="-3" y="40" width="6" height="74" fill="#c9d5e6"/><polygon points="-26,-11 -11,-26 11,-26 26,-11 26,11 11,26 -11,26 -26,11" transform="translate(0 14)" fill="#d42f2f" stroke="#fff" stroke-width="3"/><text x="0" y="20" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#fff" text-anchor="middle">STOP</text></g>
+  <g transform="translate(440 150)"><rect x="-3" y="22" width="6" height="64" fill="#c9d5e6"/><rect x="-20" y="-20" width="40" height="40" rx="4" transform="rotate(45)" fill="#f5b301" stroke="#12305b" stroke-width="3"/><path d="M-8 6 L0 -9 L8 6" fill="none" stroke="#12305b" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <g transform="translate(170 132)"><rect x="-2.5" y="20" width="5" height="44" fill="#c9d5e6"/><polygon points="-20,0 20,0 0,30" fill="#fff" stroke="#d42f2f" stroke-width="5" stroke-linejoin="round"/></g>
+  <g transform="translate(300 250)">
+    <rect x="-46" y="-30" width="92" height="44" rx="12" fill="#f5f8fc"/><path d="M-34 -30 L-24 -52 H24 L34 -30Z" fill="#dce6f3"/><path d="M-27 -32 L-19 -48 H19 L27 -32Z" fill="#7fa3d1"/>
+    <rect x="-40" y="-18" width="16" height="8" rx="3" fill="#f5b301"/><rect x="24" y="-18" width="16" height="8" rx="3" fill="#f5b301"/>
+    <rect x="-44" y="10" width="20" height="14" rx="4" fill="#0f1c2e"/><rect x="24" y="10" width="20" height="14" rx="4" fill="#0f1c2e"/></g>
+</svg>`;
+function nextStep() {
+  for (const c of HB.chapters.filter(c => c.n)) if (modSteps(c.n) < 4) return c;
+  return null;
+}
+function renderHome() {
+  const r = readiness(), last = r.full.length ? r.full[r.full.length - 1] : null, nx = nextStep();
+  const done = HB.chapters.filter(c => c.n && modSteps(c.n) === 4).length, nCh = HB.chapters.filter(c => c.n).length;
+  $("#app").innerHTML = `
+  <section class="hero">
+    <div class="tx">
+      <div class="heroplate"><!--PLATE--></div><span class="eyebrow">${ic("book")} Built from the official 2026 Alberta Driver's Guide</span>
+      <h1>Pass your <em>learner's test</em> on the first try.</h1>
+      <p>Bite-sized lessons, games and unlimited practice tests. Every question comes straight from the official guide, with the page to back it up.</p>
+      <div class="row"><button class="btn amber" onclick="${nx ? `openModule(${nx.n})` : "go('test')"}">${ic(nx ? "cap" : "test")}${nx ? (done || modSteps(nx.n) ? "Continue learning" : "Start learning") : "Take a practice test"}</button>
+        <button class="btn ghost" onclick="go('test')">${ic("test")}Practice test</button></div>
+    </div>
+    <div class="art">${HERO_ART}</div>
+  </section>
+  <div class="stats">
+    <div><b>30</b><span>questions on the real test</span></div>
+    <div><b>25</b><span>correct needed to pass (83%)</span></div>
+    <div><b>${QS.length}</b><span>practice questions</span></div>
+    <div><b>${done}/${nCh}</b><span>lessons completed</span></div>
+  </div>
+  <div class="grid g2">
+    <div class="card"><h3>Am I ready?</h3>
+      <div class="ready">${scoreRing(last ? last.score : 0, 30, 120)}
+        <div>${!r.full.length ? `<span class="pill neu">${ic("flag")}No practice tests yet</span><p class="mut" style="margin:10px 0 0">Do a few lessons, then take your first practice test.</p>`
+          : `${statusPill(r.ready, "Ready to book the real test", "Not ready yet")}
+             <p class="mut" style="margin:10px 0 0">${r.ready ? "You passed your last 3 practice tests." : `Pass 3 practice tests in a row (25+ out of 30). Last 3: ${r.last3.map(t => t.score).join(", ")}.`}</p>`}
+          <div style="margin-top:12px"><button class="linkish" onclick="go('progress')">See my progress ${ic("arrowR")}</button></div></div></div></div>
+    <div class="card"><h3>Big Doug's joke</h3>${moSays(nextJoke())}</div>
+  </div>
+  <div class="card"><h3>How it works</h3>
+    <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px">
+      <div class="feat"><div class="ic">${ic("cap")}</div><div><h4>1. Do the lessons</h4><p>One per chapter: read the real guide pages, flip flashcards, play a game, pass the checkpoint.</p></div></div>
+      <div class="feat"><div class="ic am">${ic("star")}</div><div><h4>2. Earn XP and badges</h4><p>Level up from Learner to Highway Hero as you go.</p></div></div>
+      <div class="feat"><div class="ic">${ic("test")}</div><div><h4>3. Take practice tests</h4><p>30 questions like the real test, a new mix every time.</p></div></div>
+      <div class="feat"><div class="ic am">${ic("bulb")}</div><div><h4>Stuck? Hint unlocks</h4><p>After ${HINT_DELAY} seconds on a question, a hint points you the right way.</p></div></div>
+    </div></div>
+  <h3 style="margin:8px 0 12px;font-size:19px">Lessons</h3>
+  ${moduleGrid()}`;
+}
+
+// ---------- learn ----------
+function moduleGrid() {
+  return `<div class="modgrid">${HB.chapters.filter(c => c.n).map(c => {
+    const n = modSteps(c.n);
+    return `<button class="mod" onclick="openModule(${c.n})">${n === 4 ? `<span class="badge" title="${esc(BADGES[c.n])}">${ic("star")}</span>` : ""}
+      <div class="hd"><div class="icbox">${ic("c" + c.n)}</div><div><div class="cn">LESSON ${c.n}</div><b>${esc(c.title)}</b></div></div>
+      <div class="dots">${[0, 1, 2, 3].map(k => `<i class="${k < n ? "on" : ""}"></i>`).join("")}<span style="margin-left:4px">${n === 4 ? "Complete" : n ? n + " of 4 steps" : "Not started"}</span></div></button>`;
+  }).join("")}</div>`;
+}
+function renderLearn() {
+  const l = level(), pct = l.next ? Math.round((ST.xp - l.floor) / (l.next - l.floor) * 100) : 100;
+  $("#app").innerHTML = `<div class="card"><div class="lvl">
+      <div class="icbox am" style="width:56px;height:56px">${ic("star")}</div>
+      <div><div class="mut" style="font-size:13px;font-weight:700;letter-spacing:.04em">YOUR LEVEL</div><div style="font-size:22px;font-weight:800">${l.name}</div></div>
+      <div class="bar2"><div class="t"><i style="width:${pct}%"></i></div><div class="l"><span>${ST.xp} XP</span><span>${l.next ? `${l.next - ST.xp} XP to ${l.nextName}` : "Top level reached!"}</span></div></div>
+    </div></div>
+    ${moduleGrid()}`;
+}
+function openModule(ch) {
+  stopAll(); setRoute("lesson/" + ch); view = "learn"; setTab("learn"); window.scrollTo(0, 0);
+  const c = CH[ch], m = mod(ch), secs = c.sections, vids = VBYCH[ch] || [];
+  const game = gameFor(ch), hasQ = (QBYCH[ch] || []).length >= 8;
+  const step = (k, no, title, desc, extra, btn) => `<div class="card step ${m[k] ? "done" : ""}"><div class="no">${m[k] ? ic("check") : no}</div>
+    <div><h4>${title}</h4><p>${desc}</p>${extra || ""}</div>${k === "read" || hasQ ? btn : `<span class="pill neu">Coming soon</span>`}</div>`;
+  $("#app").innerHTML = `<button class="btn ghost sm back" onclick="go('learn')">${ic("arrowL")}All lessons</button>
+  <div class="mban"><div class="ic">${ic("c" + ch)}</div><div><div class="cn">LESSON ${ch} · GUIDE PAGES ${printed(c.start)}–${printed(c.end)}</div><h2>${esc(c.title)}</h2>
+    <p>${modSteps(ch) === 4 ? `Complete! Badge earned: <b>${esc(BADGES[ch])}</b>` : `Finish all 4 steps to earn the <b>${esc(BADGES[ch])}</b> badge.`}</p></div></div>
+  ${step("read", 1, "Read the guide pages", `Read Chapter ${ch} in the real Driver's Guide. Tap a topic to jump straight to it.`,
+    `<div class="chips">${secs.map(s => `<button class="chip" onclick="go('guide',{page:${s.page}})">${esc(s.title)}</button>`).join("")}</div>
+     ${vids.length ? `<div style="margin-top:14px;font-weight:700;font-size:14.5px">Watch</div><div class="vids">${vids.map(v => `<button class="vid" onclick="go('watch',{id:'${esc(v.id)}'})"><div class="th" style="background-image:url(https://i.ytimg.com/vi/${esc(v.id)}/mqdefault.jpg)"><span>${ic("play")}</span></div><div class="t">${esc(v.title)}<small>${esc(v.channel)}</small></div></button>`).join("")}</div>` : ""}`,
+    `<button class="btn ${m.read ? "ghost" : ""}" onclick="markRead(${ch})">${m.read ? "Read" + ic("check") : "I've read it"}</button>`)}
+  ${step("cards", 2, "Flashcards", "Flip through 8 cards. Keep the ones you know, repeat the ones you don't.", "",
+    `<button class="btn ${m.cards ? "ghost" : ""}" onclick="startCards(${ch})">${ic("cards")}${m.cards ? "Again" : "Start"}</button>`)}
+  ${step("game", 3, game === "match" ? "Sign Match game" : "Speed Round game", game === "match" ? "Match each sign to what it means. Fewer mistakes, more stars." : `${SR_TIME} seconds. Is the answer shown right or wrong? Build a combo for bonus points.`,
+    ST.best[ch] ? `<div class="mut" style="font-size:13.5px;margin-top:6px">Your best: ${ST.best[ch]}</div>` : "",
+    `<button class="btn ${m.game ? "ghost" : ""}" onclick="${game === "match" ? `startMatch(${ch})` : `startSpeed(${ch})`}">${ic(game === "match" ? "puzzle" : "bolt")}${m.game ? "Play again" : "Play"}</button>`)}
+  ${step("check", 4, "Checkpoint quiz", `${QUIZ_LEN} questions with instant feedback. Get ${CHECK_PASS} or more to pass the lesson.`, "",
+    `<button class="btn ${m.check ? "ghost" : "amber"}" onclick="startQuiz(${ch},true)">${ic("layers")}${m.check ? "Retake" : "Start"}</button>`)}
+  <div class="card">${moSays(nextJoke(), "BIG DOUG'S JOKE BREAK")}</div>`;
+}
+function stepDone(ch, k, xp, why) {
+  const m = mod(ch); const first = !m[k]; m[k] = true; save();
+  if (first) award(xp, why);
+  if (first && modSteps(ch) === 4) setTimeout(() => celebrate(ch), 600);
+}
+function celebrate(ch) {
+  award(50, "Lesson complete");
+  confetti();
+  modal(`<div class="badge" style="position:static;width:86px;height:86px;margin:0 auto 10px">${ic("star").replace('class="i"', 'class="i" style="width:44px;height:44px"')}</div>
+    <div class="mut" style="font-weight:700;letter-spacing:.05em;font-size:13px">BADGE EARNED</div><h2 style="margin:4px 0 14px">${esc(BADGES[ch])}</h2>
+    <div style="text-align:left;margin-bottom:18px">${moSays(nextJoke(), "BIG DOUG IS HYPED", "hyped")}</div>
+    <div class="row" style="justify-content:center"><button class="btn amber" onclick="closeModal();${nextStep() ? `openModule(${nextStep().n})` : "go('test')"}">${nextStep() ? "Next lesson" : "Take a practice test"}${ic("arrowR")}</button>
+    <button class="btn ghost" onclick="closeModal()">Close</button></div>`);
+}
+function markRead(ch) { stepDone(ch, "read", 20, "Reading done"); openModule(ch); }
+function playVideo(id, title) {
+  if (OFFLINE) { window.open("https://www.youtube.com/watch?v=" + id, "_blank", "noopener"); return; }
+  modal(`<iframe src="https://www.youtube-nocookie.com/embed/${id}?rel=0&autoplay=1" title="${title}" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+    <div class="row" style="justify-content:space-between;margin-top:10px"><span style="font-weight:600;font-size:14px;text-align:left">${title}</span><button class="btn ghost sm" onclick="closeModal()">Close</button></div>`, true);
+}
+function gameFor(ch) { return ch === 2 && QS.filter(q => q.type === "sign").length >= 5 ? "match" : "speed"; }
+function activityHead(ch, title, iconName) {
+  return `<div class="row" style="justify-content:space-between;margin-bottom:14px"><button class="btn ghost sm" onclick="openModule(${ch})">${ic("arrowL")}Lesson ${ch}</button>
+    <span class="pill neu">${ic(iconName)}${title}</span></div>`;
+}
+
+// flashcards
+let FC = null;
+function startCards(ch) {
+  stopAll(); setRoute("cards/" + ch); window.scrollTo(0, 0);
+  FC = { ch, deck: pickFrom(QBYCH[ch] || [], 8, new Set()), flipped: false, total: 0 };
+  FC.total = FC.deck.length; drawCard();
+}
+function drawCard() {
+  const { ch, deck } = FC;
+  if (!deck.length) {
+    stepDone(ch, "cards", 30, "Flashcards done");
+    $("#app").innerHTML = `${activityHead(ch, "Flashcards", "cards")}<div class="card" style="text-align:center;max-width:620px;margin:0 auto">
+      <h2 style="margin-top:0">Deck cleared!</h2><div style="text-align:left;margin:0 0 18px">${moSays(nextJoke())}</div>
+      <div class="row" style="justify-content:center"><button class="btn" onclick="openModule(${ch})">Back to lesson${ic("arrowR")}</button><button class="btn ghost" onclick="startCards(${ch})">New deck</button></div></div>`;
+    return;
+  }
+  const q = deck[0];
+  $("#app").innerHTML = `${activityHead(ch, "Flashcards", "cards")}
+    <div class="mut" style="text-align:center;font-weight:600;margin-bottom:10px">${deck.length} card${deck.length > 1 ? "s" : ""} left</div>
+    <div class="fc" id="fc"><div class="inner">
+      <div class="face front"><div class="lab">QUESTION</div>${q.img && FIGS[q.img] ? `<img src="${FIGS[q.img]}" alt="Road sign">` : ""}<div class="q">${esc(q.q)}</div><div class="tap">Tap to flip</div></div>
+      <div class="face back"><div class="lab">ANSWER</div><div class="a">${esc(q.choices[q.answer])}</div><div class="qt">"${esc(q.quote)}"<br>Driver's Guide, page ${printed(q.page)}</div></div>
+    </div></div>
+    <div class="row" id="fcbtns" style="justify-content:center;visibility:hidden">
+      <button class="btn ghost" onclick="cardAgain()">${ic("arrowL")}Study again</button>
+      <button class="btn" onclick="cardGot()">${ic("check")}Got it</button></div>`;
+  const fc = $("#fc"); fc.onclick = () => { fc.classList.toggle("flip"); $("#fcbtns").style.visibility = "visible"; };
+  fixCardHeight();
+}
+function fixCardHeight() { const f = $("#fc"); if (!f) return; const h = Math.max(...[...f.querySelectorAll(".face")].map(x => x.scrollHeight), 300); f.querySelector(".inner").style.minHeight = h + "px"; }
+function cardGot() { FC.deck.shift(); drawCard(); }
+function cardAgain() { FC.deck.push(FC.deck.shift()); drawCard(); }
+
+// speed round
+let SR = null;
+function startSpeed(ch) {
+  stopAll(); setRoute("speed/" + ch); window.scrollTo(0, 0);
+  SR = { ch, pool: shuffle(QBYCH[ch] || []), k: 0, score: 0, combo: 1, right: 0, wrong: 0, t: SR_TIME, cur: null, msg: "" };
+  nextStmt(); drawSpeed();
+  timerId = setInterval(() => { SR.t--; const el = $("#srt"); if (el) { el.textContent = SR.t + "s"; el.classList.toggle("low", SR.t <= 10); } if (SR.t <= 0) endSpeed(); }, 1000);
+}
+function nextStmt() {
+  if (SR.k >= SR.pool.length) { SR.pool = shuffle(SR.pool); SR.k = 0; }
+  const q = SR.pool[SR.k++], truth = Math.random() < .5;
+  const wrongs = q.choices.map((_, i) => i).filter(i => i !== q.answer);
+  SR.cur = { q, shown: truth ? q.answer : pick(wrongs) };
+}
+function drawSpeed(flash) {
+  const { q, shown } = SR.cur;
+  $("#app").innerHTML = `${activityHead(SR.ch, "Speed Round", "bolt")}<div class="sr">
+    <div class="srtop"><div><span class="mut" style="font-weight:600">Score</span> <span class="big">${SR.score}</span>${SR.combo > 1 ? `<span class="combo">x${SR.combo} combo</span>` : ""}</div><div class="tm ${SR.t <= 10 ? "low" : ""}" id="srt">${SR.t}s</div></div>
+    <div class="stmt ${flash || ""}">${q.img && FIGS[q.img] ? `<img src="${FIGS[q.img]}" alt="Road sign" style="max-height:90px;margin:0 auto 10px">` : ""}<div class="q">${esc(q.q)}</div><div class="a">${esc(q.choices[shown])}</div></div>
+    <div class="tf"><button class="n" onclick="answerSpeed(false)">${ic("x")}Wrong answer</button><button class="y" onclick="answerSpeed(true)">${ic("check")}Right answer</button></div>
+    <div class="srmsg">${SR.msg}</div><div class="kbd" style="text-align:center">Keys: left arrow = wrong, right arrow = right</div></div>`;
+}
+function answerSpeed(says) {
+  if (!SR || SR.t <= 0) return;
+  const { q, shown } = SR.cur, ok = (shown === q.answer) === says;
+  if (ok) { SR.score += 10 * SR.combo; SR.right++; SR.combo = Math.min(4, SR.combo + (SR.right % 3 === 0 ? 1 : 0)); SR.msg = `<span style="color:var(--good);font-weight:700">Nice!</span>`; }
+  else { SR.wrong++; SR.combo = 1; SR.msg = `<span style="color:var(--bad);font-weight:700">Oops.</span> The right answer: ${esc(q.choices[q.answer])}`; }
+  nextStmt(); drawSpeed(ok ? "good" : "badd");
+}
+function endSpeed() {
+  clearInterval(timerId);
+  const ch = SR.ch, newBest = SR.score > (ST.best[ch] || 0);
+  if (newBest) { ST.best[ch] = SR.score; save(); }
+  if (SR.right >= 5) stepDone(ch, "game", 30, "Game cleared");
+  $("#app").innerHTML = `${activityHead(ch, "Speed Round", "bolt")}<div class="card" style="text-align:center;max-width:620px;margin:0 auto">
+    <div class="mut" style="font-weight:700;letter-spacing:.05em;font-size:13px">TIME'S UP</div><div style="font-size:52px;font-weight:800;color:var(--navy)">${SR.score}</div>
+    <p style="margin:0 0 6px">${SR.right} right, ${SR.wrong} wrong${newBest ? ` · <b style="color:#9a6b00">New personal best!</b>` : ""}</p>
+    ${SR.right < 5 ? `<p class="mut">Get at least 5 right to clear this step.</p>` : ""}
+    <div style="text-align:left;margin:16px 0">${moSays(nextJoke())}</div>
+    <div class="row" style="justify-content:center"><button class="btn amber" onclick="startSpeed(${ch})">${ic("bolt")}Play again</button><button class="btn ghost" onclick="openModule(${ch})">Back to lesson</button></div></div>`;
+  SR = null;
+}
+
+// sign match
+let SM = null;
+function startMatch(ch) {
+  stopAll(); setRoute("match/" + ch); window.scrollTo(0, 0);
+  const seen = new Set(), pairs = [];
+  shuffle(QS.filter(q => q.type === "sign")).forEach(q => {
+    const m = norm(q.choices[q.answer]);
+    if (pairs.length < 5 && !seen.has(m) && !seen.has(q.img)) { seen.add(m); seen.add(q.img); pairs.push({ id: q.id, img: q.img, txt: q.choices[q.answer] }); }
+  });
+  SM = { ch, pairs, left: shuffle(pairs), right: shuffle(pairs), sel: null, done: new Set(), miss: 0 };
+  drawMatch();
+}
+function drawMatch() {
+  const s = SM;
+  $("#app").innerHTML = `${activityHead(s.ch, "Sign Match", "puzzle")}
+    <p style="text-align:center;margin:0 0 14px" class="mut">Tap a sign, then tap what it means. Mistakes: <b>${s.miss}</b></p>
+    <div class="smatch"><div class="col">${s.left.map(p => `<button data-l="${p.id}" class="${s.done.has(p.id) ? "ok" : s.sel === p.id ? "sel" : ""}"><img src="${FIGS[p.img]}" alt="Road sign"></button>`).join("")}</div>
+    <div class="col">${s.right.map(p => `<button data-r="${p.id}" class="${s.done.has(p.id) ? "ok" : ""}">${esc(p.txt)}</button>`).join("")}</div></div>`;
+  document.querySelectorAll(".smatch button").forEach(b => b.onclick = () => {
+    if (b.dataset.l && !s.done.has(b.dataset.l)) { s.sel = b.dataset.l; drawMatch(); }
+    else if (b.dataset.r && !s.done.has(b.dataset.r) && s.sel) {
+      if (b.dataset.r === s.sel) { s.done.add(s.sel); s.sel = null; if (s.done.size === s.pairs.length) return endMatch(); drawMatch(); }
+      else { s.miss++; b.classList.add("err"); setTimeout(drawMatch, 380); }
+    }
+  });
+}
+function endMatch() {
+  const ch = SM.ch, stars = SM.miss === 0 ? 3 : SM.miss <= 2 ? 2 : 1;
+  stepDone(ch, "game", 30, "Game cleared");
+  const sc = `${stars} star${stars > 1 ? "s" : ""}`; if (!ST.best[ch] || stars > parseInt(ST.best[ch])) { ST.best[ch] = sc; save(); }
+  $("#app").innerHTML = `${activityHead(ch, "Sign Match", "puzzle")}<div class="card" style="text-align:center;max-width:620px;margin:0 auto">
+    <div style="color:var(--amber)">${[1, 2, 3].map(k => `<svg class="i" viewBox="0 0 24 24" style="width:46px;height:46px;fill:${k <= stars ? "#f5b301" : "#e3e8ef"};stroke:${k <= stars ? "#c98d00" : "#cfd6e0"}">${P.star}</svg>`).join("")}</div>
+    <h2 style="margin:6px 0">${stars === 3 ? "Perfect match!" : "All matched!"}</h2><p class="mut" style="margin:0">${SM.miss} mistake${SM.miss === 1 ? "" : "s"}</p>
+    <div style="text-align:left;margin:16px 0">${moSays(nextJoke())}</div>
+    <div class="row" style="justify-content:center"><button class="btn amber" onclick="startMatch(${ch})">${ic("puzzle")}New signs</button><button class="btn ghost" onclick="openModule(${ch})">Back to lesson</button></div></div>`;
+  SM = null;
+}
+
+// ---------- watch (phone-first vertical feed) ----------
+let FEED_OBS = null;
+function renderWatch(arg) {
+  const vids = VIDEOS.slice().sort((a, b) => a.ch - b.ch);
+  if (!vids.length) { $("#app").innerHTML = `<div class="card" style="margin:16px">No videos yet.</div>`; return; }
+  const items = []; vids.forEach((v, i) => { items.push({ v }); if (i % 3 === 2) items.push({ joke: nextJoke() }); });
+  const total = items.length;
+  $("#app").innerHTML = `<div class="feed" id="feed">${items.map((it, k) => it.v ? `
+    <section class="reel" data-k="${k}">
+      <div class="count">${k + 1} / ${total}</div>
+      <div class="frame" data-id="${esc(it.v.id)}" style="background-image:url(https://i.ytimg.com/vi/${esc(it.v.id)}/hqdefault.jpg)"><span class="pl">${ic("play")}</span></div>
+      <div class="meta"><div class="tag">LESSON ${it.v.ch} · ${esc(CH[it.v.ch] ? CH[it.v.ch].title.toUpperCase() : "")}</div>
+        <h3>${esc(it.v.title)}</h3><div class="src">${esc(it.v.channel)}${it.v.minutes ? ` · ${it.v.minutes < 1 ? Math.round(it.v.minutes * 60) + " sec" : it.v.minutes.toFixed(1) + " min"}` : ""}</div>
+        <div class="acts"><button class="btn amber sm" onclick="startQuiz(${it.v.ch})">${ic("layers")}Quiz me</button><button class="btn ghost sm" onclick="openModule(${it.v.ch})">${ic("cap")}Lesson ${it.v.ch}</button></div></div>
+      ${k === 0 ? `<div class="swipe">Swipe up for more</div>` : ""}
+    </section>` : `
+    <section class="reel joke" data-k="${k}"><div class="count">${k + 1} / ${total}</div>
+      <div class="jk">${bigDoug("chill", "moose")}<div class="who">BIG DOUG'S JOKE BREAK</div><div class="jt">${esc(it.joke)}</div></div></section>`).join("")}</div>`;
+  const feed = $("#feed");
+  FEED_OBS = new IntersectionObserver(es => es.forEach(e => {
+    const fr = e.target.querySelector(".frame"); if (!fr) return;
+    if (e.isIntersecting && e.intersectionRatio > .6) loadFrame(fr, true); else unloadFrame(fr);
+  }), { root: feed, threshold: [0, .6] });
+  feed.querySelectorAll(".reel").forEach(r => FEED_OBS.observe(r));
+  feed.querySelectorAll(".frame").forEach(fr => fr.onclick = () => loadFrame(fr, false));
+  if (arg && arg.id) { const i = items.findIndex(it => it.v && it.v.id === arg.id); if (i > 0) feed.children[i].scrollIntoView(); }
+}
+function loadFrame(fr, muted) {
+  const id = fr.dataset.id;
+  if (OFFLINE) { if (!muted) window.open("https://www.youtube.com/watch?v=" + id, "_blank", "noopener"); return; }
+  if (fr.querySelector("iframe") && (muted || fr.dataset.muted === "0")) return;
+  fr.dataset.muted = muted ? "1" : "0";
+  fr.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&mute=${muted ? 1 : 0}&playsinline=1&rel=0&modestbranding=1" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen title="Video"></iframe>`;
+}
+function unloadFrame(fr) { if (fr.querySelector("iframe")) { fr.innerHTML = `<span class="pl">${ic("play")}</span>`; delete fr.dataset.muted; } }
+
+// ---------- guide (real pages) ----------
+let curPage = null, searchQ = "", HLT = null;
+function renderGuide(arg) {
+  arg = arg || {};
+  let p = arg.page || curPage || CH[1].start + 1;
+  $("#app").innerHTML = `
+  <div class="study">
+    <aside class="side" id="side">
+      <div class="search">${ic("search")}<input id="q" type="search" placeholder="Search the guide" value="${esc(searchQ)}" aria-label="Search the guide"></div>
+      <div id="results" class="results"></div>
+      <div class="toc" id="toc">${HB.chapters.map(c => `
+        <details data-ch="${c.n}"><summary><span class="num ${c.n ? "" : "z"}">${c.n || "i"}</span>${esc(c.title)}</summary>
+          ${c.sections.map(s => `<a href="#" data-p="${s.page}" data-s="${s.id}">${esc(s.title)}<i>p. ${printed(s.page)}</i></a>`).join("")}
+        </details>`).join("")}</div>
+    </aside>
+    <section class="viewer" id="viewer"></section>
+  </div>`;
+  $("#toc").addEventListener("click", e => { const a = e.target.closest("a"); if (!a) return; e.preventDefault(); HLT = null; openPage(+a.dataset.p); $("#side").classList.remove("open"); });
+  const qi = $("#q");
+  qi.addEventListener("input", () => { searchQ = qi.value; doSearch(); });
+  doSearch();
+  HLT = arg.quote ? { quote: arg.quote } : arg.terms ? { terms: arg.terms } : null;
+  if (arg.quote) { const f = findQuote(arg.quote, p); if (f) p = f.page; }
+  openPage(p);
+}
+function findQuote(quote, near) {
+  const qn = norm(quote).slice(0, 160);
+  const order = [near, near + 1, near - 1, near + 2].filter(p => PNORM[p]);
+  for (const p of order) {
+    const ws = PNORM[p]; let cat = "", starts = [];
+    ws.forEach((w, i) => { starts.push(cat.length); cat += w; });
+    const at = cat.indexOf(qn);
+    if (at >= 0) { const end = at + qn.length, idx = []; starts.forEach((s, i) => { if (s < end && s + ws[i].length > at) idx.push(i); }); return { page: p, idx }; }
+  }
+  // fall back: first 40 letters
+  if (qn.length > 40) return findQuote(qn.slice(0, 40), near);
+  return null;
+}
+function openPage(p) {
+  if (!PAGES[p]) p = PAGE_LIST[0];
+  curPage = p; setRoute("guide/" + p, true);
+  const s = secForPage(p), c = CH[chForPage(p)], ws = WORDS.pages[p] || [], W = WORDS.w, H = WORDS.h;
+  let boxes = [];
+  if (HLT && HLT.terms) { const ts = HLT.terms.map(norm).filter(Boolean); ws.forEach((w, i) => { const n = PNORM[p][i]; if (n && ts.some(t => n.includes(t))) boxes.push([i, ""]); }); }
+  if (HLT && HLT.quote) { const f = findQuote(HLT.quote, p); if (f && f.page === p) boxes = f.idx.map(i => [i, "q"]); }
+  const hl = boxes.map(([i, cls]) => { const w = ws[i]; return `<div class="hl ${cls}" style="left:${w[1] / W * 100}%;top:${(w[2] - .5) / H * 100}%;width:${(w[3] - w[1]) / W * 100}%;height:${(w[4] - w[2] + 1) / H * 100}%"></div>`; }).join("");
+  const opts = PAGE_LIST.map(pp => { const ss = secForPage(pp); return `<option value="${pp}" ${pp === p ? "selected" : ""}>Page ${printed(pp)}${ss ? " · " + esc(ss.title) : ""}</option>`; }).join("");
+  const i = PAGE_LIST.indexOf(p), prev = PAGE_LIST[i - 1], next = PAGE_LIST[i + 1];
+  $("#viewer").innerHTML = `
+    <div class="vbar"><button class="btn ghost sm menu-btn" onclick="$('#side').classList.add('open')">${ic("menu")}</button>
+      <button class="btn ghost sm" ${prev ? "" : "disabled"} onclick="HLT=null;openPage(${prev})" aria-label="Previous page">${ic("arrowL")}</button>
+      <select id="pgsel" aria-label="Go to page">${opts}</select>
+      <button class="btn ghost sm" ${next ? "" : "disabled"} onclick="HLT=null;openPage(${next})" aria-label="Next page">${ic("arrowR")}</button></div>
+    <div class="pv" id="pv"><img src="${PAGES[p]}" alt="Alberta Driver's Guide page ${printed(p)}${s ? ": " + esc(s.title) : ""}">${hl}</div>
+    <div class="vfoot"><span class="mut" style="font-size:14px">${c && c.n ? `Chapter ${c.n}: ${esc(c.title)}` : "Introduction"}${boxes.length ? ` · <b style="color:#9a6b00">${boxes.length} highlighted</b>` : ""}</span>
+      ${c && c.n && QBYCH[c.n] ? `<span class="row"><button class="btn ghost sm" onclick="openModule(${c.n})">${ic("cap")}Lesson ${c.n}</button><button class="btn sm" onclick="startQuiz(${c.n})">${ic("layers")}Quiz me</button></span>` : ""}</div>`;
+  $("#pgsel").onchange = e => { HLT = null; openPage(+e.target.value); };
+  // sidebar state
+  document.querySelectorAll("#toc details").forEach(d => d.open = c ? +d.dataset.ch === c.n : false);
+  document.querySelectorAll("#toc a").forEach(a => a.classList.toggle("on", s && a.dataset.s === s.id));
+  const pv = $("#pv"); let x0 = null;
+  pv.addEventListener("touchstart", e => { x0 = e.touches.length === 1 ? e.touches[0].clientX : null; }, { passive: true });
+  pv.addEventListener("touchend", e => { if (x0 === null) return; const dx = e.changedTouches[0].clientX - x0; if (Math.abs(dx) > 70) { HLT = null; openPage(dx < 0 ? next || p : prev || p); } x0 = null; });
+  if (boxes.length) setTimeout(() => { const b = pv.querySelector(".hl"); if (b) b.scrollIntoView({ behavior: "smooth", block: "center" }); }, 80);
+  else window.scrollTo({ top: 0 });
+}
+document.addEventListener("keydown", e => {
+  if (view !== "guide" || e.target.tagName === "INPUT" || e.target.tagName === "SELECT" || !curPage) return;
+  const i = PAGE_LIST.indexOf(curPage);
+  if (e.key === "ArrowRight" && PAGE_LIST[i + 1]) { HLT = null; openPage(PAGE_LIST[i + 1]); }
+  if (e.key === "ArrowLeft" && PAGE_LIST[i - 1]) { HLT = null; openPage(PAGE_LIST[i - 1]); }
+});
+function terms(q) { return q.toLowerCase().split(/\s+/).map(t => t.replace(/[^a-z0-9]/g, "")).filter(t => t.length > 1); }
+function hlText(text, ts) {
+  let h = esc(text);
+  ts.forEach(t => { h = h.replace(new RegExp("(" + t + ")", "gi"), "<mark>$1</mark>"); });
+  return h;
+}
+function doSearch() {
+  const ts = terms(searchQ), box = $("#results"), toc = $("#toc");
+  if (!ts.length) { box.innerHTML = ""; toc.style.display = ""; return; }
+  toc.style.display = "none";
+  const hits = [];
+  PAGE_LIST.forEach(p => {
+    const cat = PNORM[p].join(" ");
+    if (!ts.every(t => cat.includes(t))) return;
+    const score = ts.reduce((a, t) => a + cat.split(t).length - 1, 0);
+    hits.push({ p, score });
+  });
+  hits.forEach(h => { const s = secForPage(h.p), tn = s ? norm(s.title) : ""; if (ts.every(t => tn.includes(t))) h.score += 50; if (h.p < 11) h.score -= 100; });
+  hits.sort((a, b) => b.score - a.score);
+  box.innerHTML = `<div class="mut" style="font-size:13px;padding:2px 8px 6px">${hits.length} page${hits.length === 1 ? "" : "s"} found${hits.length ? "" : ". Try fewer or different words."}</div>` +
+    hits.slice(0, 60).map(h => {
+      const txt = PTEXT[h.p], low = txt.toLowerCase(), at = Math.max(0, low.indexOf(ts[0]) - 60);
+      const snip = (at > 0 ? "..." : "") + txt.slice(at, at + 160) + "...";
+      const s = secForPage(h.p);
+      return `<div class="r" data-p="${h.p}"><b>Page ${printed(h.p)}${s ? " · " + esc(s.title) : ""}</b>${hlText(snip, ts)}</div>`;
+    }).join("");
+  box.onclick = e => { const r = e.target.closest(".r"); if (!r) return; HLT = { terms: ts }; openPage(+r.dataset.p); $("#side").classList.remove("open"); };
+}
+
+// ---------- question selection ----------
+function pickFrom(pool, n, used) {
+  const missed = shuffle(pool.filter(q => ST.missed[q.id] && !used.has(q.id))).slice(0, Math.ceil(n / 4));
+  const rest = shuffle(pool.filter(q => !used.has(q.id) && !missed.includes(q))).sort((a, b) => (ST.seen[a.id] || 0) - (ST.seen[b.id] || 0));
+  const out = missed.concat(rest).slice(0, n);
+  out.forEach(q => used.add(q.id));
+  return out;
+}
+function buildTest() {
+  const used = new Set(), out = [];
+  out.push(...pickFrom(QS.filter(q => q.type === "sign"), BLUEPRINT.signCount, used));
+  Object.entries(BLUEPRINT.chapterQuota).forEach(([ch, n]) => {
+    ch = +ch;
+    const already = out.filter(q => q.ch === ch).length;
+    out.push(...pickFrom((QBYCH[ch] || []).filter(q => q.type !== "sign"), Math.max(0, n - already), used));
+  });
+  if (out.length < TEST_LEN) out.push(...pickFrom(QS, TEST_LEN - out.length, used));
+  return shuffle(out.slice(0, TEST_LEN));
+}
+
+// ---------- test / quiz runner ----------
+function renderTestStart() {
+  const r = readiness();
+  $("#app").innerHTML = `<div class="qwrap"><div class="card" style="padding:30px">
+    <div class="row" style="gap:14px;margin-bottom:8px"><div class="icbox">${ic("test")}</div><h2 style="margin:0">Full practice test</h2></div>
+    <p style="font-size:17px">${TEST_LEN} questions from across the whole guide, just like the real test. You need <b>${PASS} of ${TEST_LEN}</b> to pass.</p>
+    <ul style="color:var(--ink2);padding-left:20px;margin:0 0 20px">
+      <li>Answers are shown at the end, like the real test.</li>
+      <li>A hint unlocks after ${HINT_DELAY} seconds on a question.</li>
+      <li>Every test is a new mix from ${QS.length} questions, with extra focus on ones you've missed.</li>
+      <li>Earn XP: 2 per correct answer, plus 25 for a pass.</li></ul>
+    <div class="row"><button class="btn amber" onclick="startTest()">${ic("arrowR")}Start practice test</button><span class="mut">Tests taken so far: ${r.full.length}</span></div>
+  </div></div>`;
+}
+function startTest() { stopAll(); clearRun(); setRoute("test/run"); view = "test"; setTab("test"); RUN = { kind: "full", qs: buildTest().map(prep), i: 0, ch: null }; RUN_ACTIVE = true; showQ(); }
+function startQuiz(ch, checkpoint) {
+  stopAll(); clearRun(); setRoute("quiz/" + ch); view = "learn"; setTab("learn");
+  RUN = { kind: "quiz", ch, checkpoint: !!checkpoint, qs: pickFrom(QBYCH[ch] || [], QUIZ_LEN, new Set()).map(prep), i: 0 };
+  RUN_ACTIVE = true; showQ();
+}
+function prep(q) { return { q, order: shuffle(q.choices.map((_, i) => i)), pick: null, hint: false, t: 0 }; }
+function hintRing(left) {
+  const r = 9, C = 2 * Math.PI * r, f = 1 - left / HINT_DELAY;
+  return `<svg class="ring" viewBox="0 0 24 24"><circle cx="12" cy="12" r="${r}" fill="none" stroke="#e3e8ef" stroke-width="3"/><circle cx="12" cy="12" r="${r}" fill="none" stroke="#f5b301" stroke-width="3" stroke-linecap="round" stroke-dasharray="${f * C} ${C}"/></svg>`;
+}
+function showQ() {
+  clearInterval(timerId); saveRun();
+  const R = RUN, it = R.qs[R.i], q = it.q, n = R.qs.length, instant = R.kind === "quiz";
+  const answered = it.pick !== null, locked = instant && answered;
+  $("#app").innerHTML = `<div class="qwrap"><div class="card qcard">
+    <div class="qtop"><span class="tag">${ic(R.kind === "full" ? "test" : "layers")}${R.kind === "full" ? "Practice test" : (R.checkpoint ? "Lesson " + R.ch + " checkpoint" : "Chapter " + R.ch + " quiz")}</span><span>Question ${R.i + 1} of ${n}</span></div>
+    <div class="bar"><i style="width:${((R.i + (answered ? 1 : 0)) / n) * 100}%"></i></div>
+    <div class="qbody">
+    ${q.img && FIGS[q.img] ? `<div class="qimg"><div><img src="${FIGS[q.img]}" alt="Road sign"></div></div>` : ""}
+    <div class="qtext">${esc(q.q)}</div>
+    <div id="choices">${it.order.map((ci, k) => {
+      let cls = "choice";
+      if (it.pick === ci && !locked) cls += " sel";
+      if (locked) { if (ci === q.answer) cls += " right"; else if (it.pick === ci) cls += " wrong"; }
+      return `<button class="${cls}" data-c="${ci}" ${locked ? "disabled" : ""}><span class="k">${"ABCD"[k]}</span><span>${esc(q.choices[ci])}</span></button>`;
+    }).join("")}</div>
+    ${it.hint ? `<div class="hint">${ic("bulb")}<div><b>Hint:</b> ${esc(q.hint)}</div></div>` : ""}
+    ${locked ? feedback(it) : ""}
+    </div>
+    <div class="qfoot">
+      <span class="row">${!it.hint && !locked ? `<button class="hbtn" id="hintBtn"></button>` : ""}<span class="kbd">Keys: A to D, Enter</span></span>
+      <span class="row">
+        ${R.kind === "full" && R.i > 0 ? `<button class="btn ghost" id="backBtn">${ic("arrowL")}Back</button>` : ""}
+        <button class="btn" id="nextBtn" ${answered ? "" : "disabled"}>${R.i === n - 1 ? "Finish" : "Next"}${ic("arrowR")}</button>
+      </span></div></div></div>`;
+  $("#choices").onclick = e => { const b = e.target.closest("button"); if (!b || b.disabled) return; it.pick = +b.dataset.c; showQ(); };
+  $("#nextBtn").onclick = nextQ;
+  const back = $("#backBtn"); if (back) back.onclick = () => { R.i--; showQ(); };
+  const hb = $("#hintBtn");
+  const tick = () => { if (!hb) return; const left = Math.max(0, HINT_DELAY - it.t); hb.disabled = left > 0; hb.innerHTML = left > 0 ? `${hintRing(left)}Hint in ${left}s` : `${ic("bulb")}Show hint`; };
+  if (hb) hb.onclick = () => { if (it.t >= HINT_DELAY) { it.hint = true; showQ(); } };
+  tick();
+  if (!locked) timerId = setInterval(() => { it.t++; tick(); }, 1000);
+}
+function nextQ() { const R = RUN; if (R.qs[R.i].pick === null) return; if (R.i < R.qs.length - 1) { R.i++; showQ(); window.scrollTo(0, 0); } else finish(); }
+document.addEventListener("keydown", e => {
+  if (e.target.tagName === "INPUT" || e.ctrlKey || e.metaKey || e.altKey) return;
+  if (SR && $("#srt")) { if (e.key === "ArrowRight") answerSpeed(true); if (e.key === "ArrowLeft") answerSpeed(false); return; }
+  if (!RUN_ACTIVE || !RUN) return;
+  const it = RUN.qs[RUN.i], k = e.key.toLowerCase();
+  const idx = "abcd".indexOf(k) >= 0 ? "abcd".indexOf(k) : "1234".indexOf(k);
+  if (k.length === 1 && idx >= 0 && idx < it.order.length && !(RUN.kind === "quiz" && it.pick !== null)) { it.pick = it.order[idx]; showQ(); }
+  else if (k === "enter" && it.pick !== null) { e.preventDefault(); nextQ(); }
+});
+function quoteBlock(q) {
+  return `<div class="quote"><b>Driver's Guide, page ${printed(q.page)}</b>"${esc(q.quote)}"</div>
+    <button class="linkish" onclick="go('guide',{page:${q.page},quote:${esc(JSON.stringify(q.quote))}})">${ic("book")}See it on the guide page</button>`;
+}
+function feedback(it) {
+  const q = it.q, ok = it.pick === q.answer;
+  return `<div class="fb ${ok ? "ok" : "no"}">${ok ? "" : `<div class="fbd">${bigDoug("panic", "dougsm")}</div>`}<div class="h">${ic(ok ? "check" : "x")}${ok ? "Correct" : "Not quite. The answer is: " + esc(q.choices[q.answer])}</div>
+    <div>${esc(q.explain)}</div>${quoteBlock(q)}</div>`;
+}
+function finish() {
+  clearInterval(timerId); RUN_ACTIVE = false; clearRun(); setRoute(RUN.kind === "full" ? "test" : "lesson/" + RUN.ch, true);
+  const R = RUN, n = R.qs.length;
+  const score = R.qs.filter(it => it.pick === it.q.answer).length, hints = R.qs.filter(it => it.hint).length, now = Date.now();
+  R.qs.forEach(it => {
+    const id = it.q.id, ok = it.pick === it.q.answer;
+    ST.seen[id] = now;
+    if (ok) delete ST.missed[id]; else ST.missed[id] = (ST.missed[id] || 0) + 1;
+    const c = ST.chap[it.q.ch] = ST.chap[it.q.ch] || { right: 0, total: 0 }; c.total++; if (ok) c.right++;
+  });
+  ST.tests.push({ kind: R.kind, ch: R.ch || null, score, n, hints, at: now });
+  save();
+  const full = R.kind === "full", passed = full ? score >= PASS : score >= CHECK_PASS;
+  if (full) award(score * 2 + (passed ? 25 : 0), passed ? "Test passed" : "Test done");
+  else if (R.checkpoint && passed) stepDone(R.ch, "check", 40, "Checkpoint passed");
+  else award(score, "Quiz done");
+  const byCh = {};
+  R.qs.forEach(it => { const c = byCh[it.q.ch] = byCh[it.q.ch] || { right: 0, total: 0 }; c.total++; if (it.pick === it.q.answer) c.right++; });
+  const wrong = R.qs.filter(it => it.pick !== it.q.answer), rd = readiness();
+  if (full && passed) confetti();
+  let html = `<div class="qwrap"><div class="card" style="padding:28px"><div class="res">
+    ${scoreRing(score, n)}
+    <div><div class="mut" style="font-weight:600">${full ? "Practice test result" : R.checkpoint ? `Lesson ${R.ch} checkpoint` : `Chapter ${R.ch} quiz`}</div>
+      ${full ? `<h2>${passed ? "You passed!" : `${PASS - score} more to pass`}</h2>
+        <p style="margin:0 0 10px">${statusPill(passed, "PASS", "NOT YET")} <span class="mut">The real test needs ${PASS} of ${TEST_LEN}.${hints ? ` You used ${hints} hint${hints > 1 ? "s" : ""}.` : ""}</span></p>
+        <p class="mut" style="margin:0 0 16px">${rd.ready ? "You've passed your last 3 practice tests. You look ready to book the real test." : "Pass 3 practice tests in a row and you're probably ready."}</p>`
+      : `<h2>${score === n ? "Perfect score!" : passed ? "Nice work!" : "Almost there"}</h2>
+        <p style="margin:0 0 16px">${R.checkpoint ? statusPill(passed, "Checkpoint passed", `Need ${CHECK_PASS} to pass`) : ""} ${hints ? `<span class="mut">${hints} hint${hints > 1 ? "s" : ""} used.</span>` : ""}</p>`}
+      <div class="row">${full ? `<button class="btn amber" onclick="startTest()">${ic("test")}New practice test</button>` : `<button class="btn amber" onclick="startQuiz(${R.ch},${R.checkpoint})">${ic("layers")}Try again</button><button class="btn ghost" onclick="openModule(${R.ch})">Lesson ${R.ch}</button>`}
+        ${full ? `<button class="btn ghost" onclick="go('progress')">${ic("chart")}My progress</button>` : ""}</div></div></div>
+    <div style="margin-top:20px">${moSays(nextJoke(), passed ? "BIG DOUG IS HYPED" : "BIG DOUG SAYS KEEP GOING", passed ? "hyped" : "chill")}</div></div>`;
+  if (full) html += `<div class="card"><h3>By chapter</h3>${Object.keys(byCh).sort((a, b) => a - b).map(c => meterRow(CH[c], byCh[c])).join("")}
+    <p class="mut" style="font-size:13px;margin:10px 0 0">The yellow tick marks 83%, the pass level on the real test.</p></div>`;
+  html += saveCard();
+  if (full || wrong.length) html += `<div class="card review"><h3>${wrong.length ? `Review: ${wrong.length} to learn from` : "Perfect. Nothing to review."}</h3>
+    ${wrong.map(it => { const q = it.q; return `<div class="item">
+      ${q.img && FIGS[q.img] ? `<div class="qimg"><div><img src="${FIGS[q.img]}" alt="Road sign"></div></div>` : ""}
+      <div class="qq">${esc(q.q)}</div>
+      <div class="ans y">${ic("x")}<span>Your answer: ${it.pick === null ? "(none)" : esc(q.choices[it.pick])}</span></div>
+      <div class="ans c">${ic("check")}<span>Correct answer: ${esc(q.choices[q.answer])}</span></div>
+      <div style="margin:6px 0 0;color:var(--ink2)">${esc(q.explain)}</div>${quoteBlock(q)}</div>`; }).join("")}</div>`;
+  $("#app").innerHTML = html + "</div>";
+  window.scrollTo(0, 0);
+}
+
+// ---------- progress ----------
+function historyChart(tests) {
+  if (!tests.length) return `<p class="mut">No practice tests yet. Your scores will show up here.</p>`;
+  const W = 600, H = 150, pad = 26, n = tests.length, slot = (W - pad) / n, bw = Math.min(34, slot - 6);
+  const y = s => H - 18 - (s / 30) * (H - 30);
+  const bars = tests.map((t, i) => {
+    const x = pad + i * slot + (slot - bw) / 2, top = y(t.score), h = Math.max(5, H - 18 - top);
+    const tip = esc(new Date(t.at).toLocaleDateString() + ": " + t.score + "/30 " + (t.score >= PASS ? "(pass)" : "(not yet)"));
+    return `<path d="M${x},${H - 18} v${-(h - 4)} q0,-4 4,-4 h${bw - 8} q4,0 4,4 v${h - 4} z" fill="#1d4f91"/>
+      <rect data-tip="${tip}" x="${pad + i * slot}" y="0" width="${slot}" height="${H - 18}" fill="transparent"/>`;
+  }).join("");
+  const py = y(PASS);
+  return `<div class="hist"><svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Practice test scores over time">
+    ${[0, 10, 20, 30].map(v => `<line x1="${pad}" x2="${W}" y1="${y(v)}" y2="${y(v)}" stroke="#eef1f6"/><text x="${pad - 6}" y="${y(v) + 4}" font-size="11" fill="#647185" text-anchor="end">${v}</text>`).join("")}
+    ${bars}
+    <line x1="${pad}" x2="${W}" y1="${py}" y2="${py}" stroke="#f5b301" stroke-width="2" stroke-dasharray="6 4"/>
+    <text x="${W}" y="${py - 5}" font-size="11.5" fill="#7a5600" text-anchor="end" font-weight="700">Pass: 25</text>
+  </svg><div class="mut" style="font-size:13px;margin-top:6px">Last ${n} practice test${n > 1 ? "s" : ""}, oldest to newest. Hover a bar for details.</div></div>`;
+}
+function renderProgress() {
+  const r = readiness(), l = level();
+  const rows = ST.tests.slice().reverse().slice(0, 30);
+  const chaps = HB.chapters.filter(c => c.n);
+  const weak = chaps.map(c => ({ c, s: ST.chap[c.n] })).filter(o => o.s && o.s.total >= 3).sort((a, b) => a.s.right / a.s.total - b.s.right / b.s.total)[0];
+  $("#app").innerHTML = `<div class="grid g2">
+    <div class="card"><h3>Am I ready?</h3>
+      <div class="ready">${scoreRing(r.full.length ? r.full[r.full.length - 1].score : 0, 30, 120)}
+      <div>${r.full.length ? statusPill(r.ready, "Ready", "Not yet") : `<span class="pill neu">${ic("flag")}No tests yet</span>`}
+        <p class="mut" style="margin:10px 0 0">${r.ready ? "You passed your last 3 practice tests." : `Pass 3 full practice tests in a row (${PASS}+ out of ${TEST_LEN}).`}</p>
+        ${weak ? `<p style="margin:10px 0 0">Weakest chapter: <b>${esc(weak.c.title)}</b>. <button class="linkish" onclick="openModule(${weak.c.n})">Go to lesson ${ic("arrowR")}</button></p>` : ""}</div></div></div>
+    <div class="card"><h3>Practice test scores</h3>${historyChart(r.full.slice(-20))}</div>
+  </div>
+  <div class="card"><h3>Badges <span class="mut" style="font-size:14px;font-weight:600">· ${ST.xp} XP · ${l.name}</span></h3>
+    <div class="shelf">${chaps.map(c => `<div class="b ${modSteps(c.n) === 4 ? "" : "off"}"><div class="badge">${ic("c" + c.n)}</div>${esc(BADGES[c.n])}</div>`).join("")}</div></div>
+  <div class="card"><h3>By chapter</h3>${chaps.map(c => meterRow(c, ST.chap[c.n])).join("")}
+    <p class="mut" style="font-size:13px;margin:10px 0 0">Every question you've answered in tests and quizzes. The yellow tick marks 83%, the pass level on the real test.</p></div>
+  <div class="card"><h3>History</h3>${rows.length ? `<div style="overflow:auto"><table style="border-collapse:collapse;width:100%;font-size:14.5px">
+    <tr style="text-align:left;color:var(--mut)"><th style="padding:6px 8px">Date</th><th style="padding:6px 8px">Type</th><th style="padding:6px 8px">Score</th><th style="padding:6px 8px">Hints</th></tr>
+    ${rows.map(t => `<tr style="border-top:1px solid #eef1f6"><td style="padding:8px">${new Date(t.at).toLocaleString([], { dateStyle: "medium", timeStyle: "short" })}</td><td style="padding:8px">${t.kind === "full" ? "Practice test" : "Chapter " + t.ch + " quiz"}</td>
+      <td style="padding:8px"><b>${t.score}/${t.n}</b> ${t.kind === "full" ? statusPill(t.score >= PASS, "pass", "not yet") : ""}</td><td style="padding:8px">${t.hints}</td></tr>`).join("")}</table></div>` : `<p class="mut">No results yet.</p>`}
+    <button class="linkish" style="margin-top:14px;color:var(--bad)" onclick="resetProgress(this)">Reset my progress</button></div>`;
+  wireTips();
+}
+function wireTips() {
+  const tip = $("#tip");
+  document.querySelectorAll("[data-tip]").forEach(el => {
+    el.addEventListener("mousemove", e => { tip.textContent = el.dataset.tip; tip.style.display = "block"; tip.style.left = (e.clientX + 12) + "px"; tip.style.top = (e.clientY - 34) + "px"; });
+    el.addEventListener("mouseleave", () => tip.style.display = "none");
+  });
+}
+function resetProgress(btn) {
+  if (!btn.dataset.armed) { btn.dataset.armed = 1; btn.textContent = "Tap again to erase all progress"; setTimeout(() => { delete btn.dataset.armed; btn.textContent = "Reset my progress"; }, 4000); return; }
+  ST = { tests: [], seen: {}, missed: {}, chap: {}, xp: 0, mods: {}, best: {} }; save(); paintXP(); go("progress");
+}
+
+// ---------- more ----------
+function renderMore() {
+  const li = l => `<li><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a>${l.note ? `<br><span class="mut" style="font-size:14px">${esc(l.note)}</span>` : ""}</li>`;
+  $("#app").innerHTML = `<div class="grid g2">
+    <div class="card"><h3>Official sources</h3><ul class="links" style="padding-left:18px">${LINKS.official.map(li).join("")}</ul></div>
+    <div class="card"><h3>Other free practice tests online</h3>
+      <p class="mut" style="margin-top:0;font-size:14px">These sites are not run by the Government of Alberta, and some use older rules. If one disagrees with the ${esc(HB.meta.edition)} Driver's Guide, the guide is right.</p>
+      <ul class="links" style="padding-left:18px">${LINKS.other.length ? LINKS.other.map(li).join("") : "<li class='mut'>Coming soon.</li>"}</ul></div></div>
+  ${VIDEOS.length ? `<div class="card"><h3>Videos</h3><p class="mut" style="margin-top:0;font-size:14px">Short videos from official safety sources, grouped by lesson.</p>
+    <div class="vids">${VIDEOS.map(v => `<button class="vid" onclick="playVideo('${esc(v.id)}','${esc(v.title).replace(/'/g, "&#39;")}')"><div class="th" style="background-image:url(https://i.ytimg.com/vi/${esc(v.id)}/mqdefault.jpg)"><span>${ic("play")}</span></div><div class="t">${esc(v.title)}<small>Lesson ${v.ch} · ${esc(v.channel)}</small></div></button>`).join("")}</div></div>` : ""}`;
+}
+
+$("#foot").innerHTML = `<div class="fb2"><!--PLATE-->
+  <div>Roadie is an unofficial study aid. Not affiliated with or endorsed by the Government of Alberta. Guide pages and questions are from the <a href="${esc(HB.meta.source)}" target="_blank" rel="noopener">${esc(HB.meta.title)}</a> (${esc(HB.meta.edition)}). Contains information licensed under the <a href="${esc(HB.meta.licence_url)}" target="_blank" rel="noopener">${esc(HB.meta.licence)}</a>. Always check the current guide and alberta.ca for official rules.${!OFFLINE ? ` <a href="Alberta_Learners_Practice_offline.html" download>Download for offline use</a>.` : ""}</div></div>`;
+paintXP();
+route();
+initAuth();
+if (!ST.met) setTimeout(meetDoug, 500);
+</script>
+</body>
+</html>

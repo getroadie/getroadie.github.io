@@ -1,0 +1,487 @@
+[
+ {
+  "id": "c02-s001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s003",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s004",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s005",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s006",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s007",
+  "verdict": "ok",
+  "note": "fixed: hint pointed straight at the stop sign; replaced"
+ },
+ {
+  "id": "c02-s008",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s009",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s010",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s011",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s012",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s013",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s014",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s015",
+  "verdict": "ok",
+  "note": "fixed: hint named temporary road work (the answer); replaced"
+ },
+ {
+  "id": "c02-s016",
+  "verdict": "ok",
+  "note": "fixed: hint stated the answer (services); replaced"
+ },
+ {
+  "id": "c02-s017",
+  "verdict": "ok",
+  "note": "fixed: hint pointed straight at the distances; replaced"
+ },
+ {
+  "id": "c02-s018",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s019",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s020",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s021",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s022",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s023",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s024",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s025",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s026",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s027",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s028",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s029",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s030",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s031",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s032",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s033",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s034",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s035",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s036",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s037",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s038",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s039",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s040",
+  "verdict": "ok",
+  "note": "fixed: distractor 'No parking on either side' is arguably also true where stopping is banned; replaced with one the two arrows contradict"
+ },
+ {
+  "id": "c02-s041",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s042",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s043",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s044",
+  "verdict": "ok",
+  "note": "fixed: hint said the zone ends at a sign (the answer); replaced"
+ },
+ {
+  "id": "c02-s045",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s046",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s047",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s048",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s049",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s050",
+  "verdict": "ok",
+  "note": "fixed: quote trimmed to this sign's own label"
+ },
+ {
+  "id": "c02-s051",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s052",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s053",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s054",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s055",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s056",
+  "verdict": "ok",
+  "note": "fixed: hint left only the answer standing; replaced"
+ },
+ {
+  "id": "c02-s057",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s058",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s059",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s060",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s061",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s062",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s063",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s064",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s065",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s066",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s067",
+  "verdict": "ok",
+  "note": "fixed: distractor 'Two-way traffic ahead' arguably describes a divided highway too; replaced"
+ },
+ {
+  "id": "c02-s068",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s069",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s070",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s071",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s072",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s073",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s074",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s075",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s076",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s077",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s078",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s079",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s080",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s081",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s082",
+  "verdict": "ok",
+  "note": "fixed: hint stated the answer (reserved lane); replaced"
+ },
+ {
+  "id": "c02-s083",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c02-s084",
+  "verdict": "ok",
+  "note": "fixed: hint pointed at the railway warning sign in the picture; replaced"
+ },
+ {
+  "id": "c02-s085",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-s001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-s002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-s003",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c05-s001",
+  "verdict": "ok",
+  "note": "fixed: hint made all three distractors obviously wrong; replaced"
+ },
+ {
+  "id": "c06-s001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-s001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-s002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-s003",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-s004",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-s005",
+  "verdict": "ok",
+  "note": "fixed: hint made all three distractors obviously wrong; replaced"
+ },
+ {
+  "id": "c08-s006",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-s007",
+  "verdict": "ok",
+  "note": ""
+ }
+]

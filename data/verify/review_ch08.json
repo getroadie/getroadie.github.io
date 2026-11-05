@@ -1,0 +1,237 @@
+[
+ {
+  "id": "c08-001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-003",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-004",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-005",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-006",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-007",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-008",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-009",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-010",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-011",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-012",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-013",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-014",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-015",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-016",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-017",
+  "verdict": "ok",
+  "note": "fixed: 'Why must you' changed to 'Why should you' (guide says watch for)"
+ },
+ {
+  "id": "c08-018",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-019",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-020",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-021",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-022",
+  "verdict": "ok",
+  "note": "fixed: stem said already stopped, then answer said stop back; now 'approaching'"
+ },
+ {
+  "id": "c08-023",
+  "verdict": "ok",
+  "note": "fixed: correct choice shortened so length does not give it away"
+ },
+ {
+  "id": "c08-024",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-025",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-026",
+  "verdict": "ok",
+  "note": "fixed: stem now says you come up behind the bus, removing divided-highway oncoming exception"
+ },
+ {
+  "id": "c08-027",
+  "verdict": "ok",
+  "note": "fixed: amber-lights distractor weakly contradicted; replaced with 'red lights off but stop sign still out'"
+ },
+ {
+  "id": "c08-028",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-029",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-030",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-031",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-032",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-033",
+  "verdict": "ok",
+  "note": "fixed: hint mentioned snow cloud, giving the answer away"
+ },
+ {
+  "id": "c08-034",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-035",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-036",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-037",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-038",
+  "verdict": "ok",
+  "note": "fixed: 'at least 2 m' distractor was logically implied by 'at least 5 m'; replaced with 'at least 20 m'"
+ },
+ {
+  "id": "c08-039",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-040",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-041",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-042",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-043",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-044",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-045",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c08-046",
+  "verdict": "ok",
+  "note": "fixed: 'stop and wait' is something you may do; reworded as 'you must stop' so it is contradicted"
+ },
+ {
+  "id": "c08-047",
+  "verdict": "ok",
+  "note": ""
+ }
+]

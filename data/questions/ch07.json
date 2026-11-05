@@ -1,0 +1,522 @@
+[
+  {
+    "id": "c07-001",
+    "ch": 7,
+    "sec": "s082",
+    "page": 91,
+    "type": "rule",
+    "img": null,
+    "q": "What is the main aim of proactive driving?",
+    "choices": [
+      "To react as fast as possible once a collision is about to happen",
+      "To anticipate hazards and act to avoid danger before it happens",
+      "To trust that other drivers will always respond correctly",
+      "To reach your destination in the shortest possible time"
+    ],
+    "answer": 1,
+    "hint": "Proactive drivers look for trouble that might happen, not just trouble that already has.",
+    "explain": "Proactive driving means watching for possible hazards early and acting to reduce or avoid the danger before it happens. Never assume other drivers will drive carefully.",
+    "quote": "Proactive driving is driving with the aim to anticipate possible hazards and take action to reduce, minimize, or avoid danger before it can occur.",
+    "topic": "Proactive driving"
+  },
+  {
+    "id": "c07-002",
+    "ch": 7,
+    "sec": "s082",
+    "page": 91,
+    "type": "rule",
+    "img": null,
+    "q": "When driving in an urban area, at least how many seconds ahead of your vehicle should you look?",
+    "choices": [
+      "20 to 25 seconds",
+      "8 to 12 seconds",
+      "12 to 15 seconds",
+      "2 to 4 seconds"
+    ],
+    "answer": 2,
+    "hint": "In the city, this works out to about one to one-and-a-half blocks.",
+    "explain": "In urban areas, look at least 12 to 15 seconds ahead, which is about one to one-and-a-half blocks. This visual lead time gives you time to respond to hazards.",
+    "quote": "When you are driving in an urban area, look at least 12 to 15 seconds ahead of your vehicle. This is about one to one-and-a-half blocks.",
+    "topic": "Scanning ahead / visual lead time"
+  },
+  {
+    "id": "c07-003",
+    "ch": 7,
+    "sec": "s082",
+    "page": 91,
+    "type": "rule",
+    "img": null,
+    "q": "When driving in a rural area, at least how many seconds ahead of your vehicle should you look?",
+    "choices": [
+      "20 to 25 seconds",
+      "12 to 15 seconds",
+      "8 to 12 seconds",
+      "4 seconds"
+    ],
+    "answer": 0,
+    "hint": "Compare it with the city figure: open country roads call for a longer look ahead.",
+    "explain": "In rural areas, look at least 20 to 25 seconds ahead of your vehicle. The city figure is shorter, at least 12 to 15 seconds.",
+    "quote": "When you are driving in rural areas, look at least 20 to 25 seconds ahead of your vehicle. This is your visual lead time, which provides you with time to respond to hazards ahead of you.",
+    "topic": "Scanning ahead / visual lead time"
+  },
+  {
+    "id": "c07-004",
+    "ch": 7,
+    "sec": "s082",
+    "page": 91,
+    "type": "rule",
+    "img": null,
+    "q": "How often should you glance in your rear view mirrors while driving?",
+    "choices": [
+      "Every 2 seconds",
+      "Only when you change lanes",
+      "Every 20 to 25 seconds",
+      "Every 8 to 12 seconds"
+    ],
+    "answer": 3,
+    "hint": "In the city, this is about once every block.",
+    "explain": "Check behind you by glancing in your mirrors every 8 to 12 seconds, about every block in a city. Also glance in them when you expect to slow or stop.",
+    "quote": "Check behind you by glancing in your rear view mirrors every eight to 12 seconds (about every block in an urban area).",
+    "topic": "Scanning / mirror checks"
+  },
+  {
+    "id": "c07-005",
+    "ch": 7,
+    "sec": "s082",
+    "page": 91,
+    "type": "rule",
+    "img": null,
+    "q": "Which of these is a variable hazard, one that changes through the day?",
+    "choices": [
+      "A curve in the road",
+      "A hidden driveway",
+      "An icy road surface",
+      "A merging roadway"
+    ],
+    "answer": 2,
+    "hint": "Fixed hazards are built into the road itself. Look for the one that comes and goes.",
+    "explain": "Icy road surfaces are a variable hazard because they change. Curves, hidden driveways, intersections and merging roadways are fixed hazards.",
+    "quote": "Fixed hazards are permanent conditions and situations along the roadway, including: restricted vision areas such as curves, hills, and hidden driveways ... Variable hazards change through the day, including: school children and other pedestrians, left-turning vehicles, icy road surfaces",
+    "topic": "Fixed vs variable hazards"
+  },
+  {
+    "id": "c07-006",
+    "ch": 7,
+    "sec": "s082",
+    "page": 91,
+    "type": "rule",
+    "img": null,
+    "q": "A driver behind you is following too closely. If it is safe, what should you do first?",
+    "choices": [
+      "Speed up to put more distance between you",
+      "Reduce your speed just enough to encourage them to pass",
+      "Keep your speed steady and ignore them",
+      "Move closer to the vehicle ahead so they cannot cut in"
+    ],
+    "answer": 1,
+    "hint": "Think about how to get the tailgater out from behind you safely.",
+    "explain": "If someone is tailgating and it is safe, slow down just enough to encourage them to pass. If they still do not pass, leave a bigger space cushion ahead of you.",
+    "quote": "If someone is following too closely, and if it is safe, reduce your speed just enough to encourage them to pass. If the person does not pass, create a wider space cushion between you and the vehicle ahead.",
+    "topic": "Space cushion / tailgaters"
+  },
+  {
+    "id": "c07-007",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "When you stop behind another vehicle in traffic, how much space should you leave in front of you?",
+    "choices": [
+      "Just enough so your bumpers do not touch",
+      "As little as possible so no one can cut in",
+      "Enough to steer into another lane without reversing",
+      "Enough for one person to walk between the vehicles"
+    ],
+    "answer": 2,
+    "hint": "Picture needing to get around the vehicle ahead in a hurry.",
+    "explain": "Leave enough space to pull into another lane without reversing. This lowers the risk of hitting the vehicle ahead if you are hit from behind and lets you move away from a skidding vehicle.",
+    "quote": "When stopping behind another vehicle in traffic, leave enough space so that you could move your vehicle into another lane without having to reverse. The extra space reduces the risk of hitting the vehicle ahead if you are hit from behind.",
+    "topic": "Space cushion when stopped"
+  },
+  {
+    "id": "c07-008",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "You miss the highway exit you planned to take. What should you do?",
+    "choices": [
+      "Pull onto the shoulder and reverse back to the exit",
+      "Brake hard and swerve onto the exit at the last second",
+      "Stop in your lane and wait for a gap to back up",
+      "Continue on and use the next exit instead"
+    ],
+    "answer": 3,
+    "hint": "A missed exit costs you a few minutes, not your safety.",
+    "explain": "If you miss your exit or turn, carry on to the next exit or intersection. Never drive in reverse on a roadway to get back to a missed exit.",
+    "quote": "If you miss your exit or turn, continue on to the next exit or intersection. Never drive your vehicle in reverse on a roadway to return to a missed exit or turn.",
+    "topic": "Exiting: missed exit"
+  },
+  {
+    "id": "c07-009",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "You must turn sharply to avoid something in your lane. Where should you try to stay?",
+    "choices": [
+      "In the oncoming lane until you are past it",
+      "On your side of the yellow line, if possible",
+      "Straddling the centre line of the road",
+      "On the left shoulder of the road"
+    ],
+    "answer": 1,
+    "hint": "Avoiding one hazard should not create a new one.",
+    "explain": "If you must turn sharply to avoid something, stay on your side of the yellow line if you can.",
+    "quote": "If you must turn sharply to avoid something in your lane, stay on your side of the yellow line if possible.",
+    "topic": "Collision avoidance"
+  },
+  {
+    "id": "c07-010",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "Under normal road and weather conditions, what is the minimum following distance behind the vehicle ahead?",
+    "choices": [
+      "One second",
+      "Three seconds",
+      "Two seconds",
+      "Four seconds"
+    ],
+    "answer": 2,
+    "hint": "Count 'one-thousand-and-one' and so on as the vehicle ahead passes a fixed object.",
+    "explain": "In normal conditions, stay at least two seconds behind the vehicle ahead. Increase this when conditions are less than ideal.",
+    "quote": "Under normal road and weather conditions you should drive a minimum of two seconds behind the vehicle ahead. When conditions are less than ideal, increase your following distance.",
+    "topic": "Following distance (2-second rule)"
+  },
+  {
+    "id": "c07-011",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "You start counting when the vehicle ahead passes a shadow on the road. Your front bumper reaches the shadow before you finish counting 'one-thousand-and-two'. What does this mean?",
+    "choices": [
+      "You are following too closely and should slow down",
+      "You are at a safe following distance",
+      "You should pass the vehicle as soon as you can",
+      "You only need more space if the road is wet"
+    ],
+    "answer": 0,
+    "hint": "Think about what the count is measuring.",
+    "explain": "If you reach the fixed object before you finish counting, you are following too closely. Reduce your speed and count again.",
+    "quote": "If the front of your vehicle reaches the object before you are finished counting, you are following too closely. Reduce your speed and count once more.",
+    "topic": "Following distance (2-second rule)"
+  },
+  {
+    "id": "c07-012",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "How does the two-second following rule change as your speed goes up?",
+    "choices": [
+      "Add one second for every 10 km/h",
+      "It only applies below 50 km/h",
+      "It only applies on highways",
+      "It works the same at any speed"
+    ],
+    "answer": 3,
+    "hint": "The rule measures time, not a set number of metres.",
+    "explain": "The guide says the two-second rule works at any speed. Increase your following distance when road or weather conditions are less than ideal.",
+    "quote": "Reduce your speed and count once more. The two second rule works at any speed.",
+    "topic": "Following distance (2-second rule)"
+  },
+  {
+    "id": "c07-013",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "What minimum following distance is recommended for drivers of large vehicles, such as motor homes?",
+    "choices": [
+      "Four seconds",
+      "Two seconds",
+      "Three seconds",
+      "Eight seconds"
+    ],
+    "answer": 0,
+    "hint": "Large vehicles need more than the normal two-second gap.",
+    "explain": "Drivers of large vehicles such as motor homes are an exception to the two-second rule. A minimum four-second following distance is recommended.",
+    "quote": "An exception to this rule is for drivers of large vehicles, such as motor homes. It is recommended that you use a minimum four second following distance.",
+    "topic": "Following distance (large vehicles)"
+  },
+  {
+    "id": "c07-014",
+    "ch": 7,
+    "sec": "s082",
+    "page": 92,
+    "type": "rule",
+    "img": null,
+    "q": "What does the guide say about using a hands-free cell phone while driving?",
+    "choices": [
+      "It is fine as long as both hands stay on the wheel",
+      "It is fine for calls but not for text messages",
+      "It is still a distraction, so stop in a safe, legal place first",
+      "It is fine if you keep the call short"
+    ],
+    "answer": 2,
+    "hint": "The danger is where your attention goes, not only where your hands are.",
+    "explain": "Calls and texts take your attention away from driving, and this applies to hands-free phones too. If you need to call or text, stop in a safe and legal place first.",
+    "quote": "This applies to hands-free cellular telephones as well. If you want to make or receive a call, or receive or send a text message, stop in a safe and legal place.",
+    "topic": "Distracted driving"
+  },
+  {
+    "id": "c07-015",
+    "ch": 7,
+    "sec": "s082",
+    "page": 93,
+    "type": "rule",
+    "img": null,
+    "q": "Under the Traffic Safety Act, how many demerits come with a fine for distractions such as texting or using a hand-held cell phone?",
+    "choices": [
+      "Two demerits",
+      "Three demerits",
+      "Four demerits",
+      "Six demerits"
+    ],
+    "answer": 1,
+    "hint": "These offences bring a fine as well as demerit points.",
+    "explain": "The Traffic Safety Act sets fines and three demerits for certain distractions, including hand-held phones, texting, entering GPS information and personal grooming.",
+    "quote": "While all forms of distracted driving can be hazardous, the Traffic Safety Act includes fines and three demerits for certain distractions.",
+    "topic": "Distracted driving penalties"
+  },
+  {
+    "id": "c07-016",
+    "ch": 7,
+    "sec": "s082",
+    "page": 93,
+    "type": "rule",
+    "img": null,
+    "q": "Which of these is listed in the Traffic Safety Act as a distraction that brings a fine and demerits?",
+    "choices": [
+      "Glancing at your speedometer",
+      "Checking your rear view mirrors",
+      "Doing a shoulder check before changing lanes",
+      "Entering information on a GPS unit"
+    ],
+    "answer": 3,
+    "hint": "Think about which one takes your eyes and hands off the job of driving for a while.",
+    "explain": "Entering information on a GPS unit is one of the listed distractions. Glancing at your speedometer and checking your mirrors are part of scanning safely.",
+    "quote": "the Traffic Safety Act includes fines and three demerits for certain distractions. These include: ... entering information on GPS units",
+    "topic": "Distracted driving"
+  },
+  {
+    "id": "c07-017",
+    "ch": 7,
+    "sec": "s083",
+    "page": 93,
+    "type": "rule",
+    "img": null,
+    "q": "As the driver, you are responsible for making sure which passengers are properly secured?",
+    "choices": [
+      "Only passengers under 6 years of age",
+      "All passengers under 16 years of age",
+      "Only passengers in the front seat",
+      "All passengers under 18 years of age"
+    ],
+    "answer": 1,
+    "hint": "Older passengers can be fined on their own. Think about the age where that starts.",
+    "explain": "The driver must make sure every passenger under 16 is properly secured and can be fined if they are not. Passengers 16 and older can be fined themselves.",
+    "quote": "Passengers 16 years of age and older not properly secured in the vehicle can be fined. As the driver, you are responsible for ensuring that all passengers in your vehicle under 16 years of age are properly secured.",
+    "topic": "Seatbelts: driver responsibility"
+  },
+  {
+    "id": "c07-018",
+    "ch": 7,
+    "sec": "s083",
+    "page": 93,
+    "type": "rule",
+    "img": null,
+    "q": "By law, a child must ride in a child safety seat if the child is:",
+    "choices": [
+      "Under 8 years old and no more than 36 kg",
+      "Under 4 years old and no more than 25 kg",
+      "Under 6 years old and no more than 18 kg",
+      "Under 16 years old, at any weight"
+    ],
+    "answer": 2,
+    "hint": "Both an age limit and a weight limit apply.",
+    "explain": "A child under six who weighs 18 kg (40 lb) or less must be properly secured in a child safety seat, installed according to the manufacturers' instructions.",
+    "quote": "A child under the age of six years and who does not weigh more than 18 kilograms (40 pounds) must be properly secured in a child safety seat.",
+    "topic": "Child safety seats"
+  },
+  {
+    "id": "c07-019",
+    "ch": 7,
+    "sec": "s083",
+    "page": 93,
+    "type": "rule",
+    "img": null,
+    "q": "From birth, how must a child ride in a vehicle?",
+    "choices": [
+      "In a forward-facing seat with the tether strap attached",
+      "In a rear-facing seat until reaching the weight to switch",
+      "In a booster seat using the vehicle's seat belt",
+      "On an adult's lap with one seat belt around both"
+    ],
+    "answer": 1,
+    "hint": "Newborns start out facing a different direction than older children.",
+    "explain": "From birth, children must ride in a rear-facing infant or convertible seat until they reach the manufacturer's recommended weight to switch to forward-facing.",
+    "quote": "From birth, all children must ride in either a rear-facing infant seat or a rear-facing convertible seat until reaching the recommended weight to switch to a forward facing safety seat, according to the manufacturer’s instructions.",
+    "topic": "Child safety seats"
+  },
+  {
+    "id": "c07-020",
+    "ch": 7,
+    "sec": "s083",
+    "page": 94,
+    "type": "rule",
+    "img": null,
+    "q": "Forward-facing child safety seats are designed for children of what weight?",
+    "choices": [
+      "10 to 18 kg (22 to 40 lb)",
+      "Under 10 kg (22 lb)",
+      "18 to 36 kg (40 to 80 lb)",
+      "Over 36 kg (80 lb)"
+    ],
+    "answer": 0,
+    "hint": "The upper limit matches the weight where booster seats begin.",
+    "explain": "Forward-facing child seats are designed for children 10 to 18 kg (22 to 40 lb). Their tether strap and the vehicle's tether anchor must be used.",
+    "quote": "Forward-facing child safety seats are designed for children 10 to 18 kilograms (22 to 40 pounds).",
+    "topic": "Child safety seats"
+  },
+  {
+    "id": "c07-021",
+    "ch": 7,
+    "sec": "s083",
+    "page": 94,
+    "type": "rule",
+    "img": null,
+    "q": "A child who weighs more than 18 kg should use what before using only the vehicle's seat belt?",
+    "choices": [
+      "A rear-facing infant seat",
+      "A rear-facing convertible seat",
+      "A forward-facing seat with no tether strap",
+      "An approved booster seat"
+    ],
+    "answer": 3,
+    "hint": "This is the step between a child safety seat and the seat belt alone.",
+    "explain": "Children over 18 kg (40 lb) should ride in an approved booster seat before moving to the seat belt alone, used as the manufacturer instructs.",
+    "quote": "Children who weigh more than 18 kilograms (40 pounds) should be secured in an approved booster seat prior to using only the vehicle’s seat belt without a booster seat.",
+    "topic": "Booster seats"
+  },
+  {
+    "id": "c07-022",
+    "ch": 7,
+    "sec": "s084",
+    "page": 95,
+    "type": "rule",
+    "img": null,
+    "q": "To save fuel, if you will be parked for more than how long should you turn off your engine?",
+    "choices": [
+      "10 seconds",
+      "1 minute",
+      "5 minutes",
+      "10 minutes"
+    ],
+    "answer": 0,
+    "hint": "Restarting the engine uses less fuel than many people think.",
+    "explain": "Ten seconds of idling can use more fuel than turning the engine off and restarting it, so turn it off if you will be parked longer than 10 seconds.",
+    "quote": "Ten seconds of idling can consume more fuel than turning off your engine and re-starting it. If you are parking for more than 10 seconds, turn off your engine.",
+    "topic": "Fuel efficiency / idling"
+  },
+  {
+    "id": "c07-023",
+    "ch": 7,
+    "sec": "s084",
+    "page": 96,
+    "type": "rule",
+    "img": null,
+    "q": "Which of these is a safe practice when fuelling your vehicle?",
+    "choices": [
+      "Prop the nozzle open so you can wait inside the vehicle",
+      "Turn your vehicle ignition off before fuelling",
+      "Use your cell phone while the tank fills",
+      "Fill gas containers while they sit in your truck box"
+    ],
+    "answer": 1,
+    "hint": "Think about removing every possible source of a spark or a spill.",
+    "explain": "Turn the ignition off before fuelling. Never prop the nozzle open, do not use a cell phone, and set gas containers on the ground before filling them.",
+    "quote": "Turn your vehicle ignition off before fuelling.",
+    "topic": "Fuelling safety"
+  },
+  {
+    "id": "c07-024",
+    "ch": 7,
+    "sec": "s085",
+    "page": 97,
+    "type": "rule",
+    "img": null,
+    "q": "During daylight, your load sticks out 1.5 metres or more past the rear of your vehicle. What should be attached to the end of the load?",
+    "choices": [
+      "A red light",
+      "An orange triangle sign",
+      "A red flag at least 30 cm on each side",
+      "A white flag at least 10 cm on each side"
+    ],
+    "answer": 2,
+    "hint": "At night the answer changes to something that glows.",
+    "explain": "If a load extends 1.5 m or more past the rear, a red flag should be attached to the end of it during daylight, and the flag must be at least 30 cm on each side. At night, a red light must be attached instead.",
+    "quote": "During daylight hours, a red flag should be attached to the end of the extension or load. The flag must be at least 30 centimetres (one foot) long on each of the four sides of the square.",
+    "topic": "Traffic laws: projecting loads"
+  },
+  {
+    "id": "c07-025",
+    "ch": 7,
+    "sec": "s085",
+    "page": 97,
+    "type": "rule",
+    "img": null,
+    "q": "A friend wants to ride in the open box of your pickup truck while you drive. What does the law say?",
+    "choices": [
+      "It is allowed if your friend sits down",
+      "It is allowed on quiet rural roads",
+      "It is not allowed, but only the driver can be charged",
+      "It is not allowed, and both of you can be charged"
+    ],
+    "answer": 3,
+    "hint": "Riding on the outside of a vehicle includes the truck box.",
+    "explain": "You must not let anyone ride on the outside of your vehicle, including the open box of a pickup. Both the driver and the rider can be charged.",
+    "quote": "When you are driving, you must not allow anyone to ride on the outside of your vehicle. This includes the open box of a pick up truck. You and the other person can be charged for this offence.",
+    "topic": "Traffic laws: riders"
+  },
+  {
+    "id": "c07-026",
+    "ch": 7,
+    "sec": "s085",
+    "page": 96,
+    "type": "rule",
+    "img": null,
+    "q": "A friend on a toboggan asks you to tow them behind your vehicle. What does the guide say?",
+    "choices": [
+      "Do not use your vehicle to tow anyone",
+      "It is allowed below 30 km/h",
+      "It is allowed on roads with no other traffic",
+      "It is allowed if they wear a helmet"
+    ],
+    "answer": 0,
+    "hint": "Think about how little protection a person being pulled behind a vehicle has.",
+    "explain": "Never use your vehicle to tow a person, such as someone on skis, a toboggan, a bicycle or a motorcycle.",
+    "quote": "Do not use your vehicle to tow anyone, for example, a person on skis, riding a toboggan, motorcycle, or bicycle.",
+    "topic": "Traffic laws: towing people"
+  }
+]

@@ -1,0 +1,137 @@
+[
+ {
+  "ch": 2,
+  "id": "ZF_pacfn4yU",
+  "title": "Pedestrian Signals | Safe Crossings Program",
+  "channel": "City of Edmonton",
+  "topic": "pedestrian signals",
+  "why": "City of Edmonton explains pedestrian signals at intersections.",
+  "minutes": 1.0
+ },
+ {
+  "ch": 2,
+  "id": "xBL0mZYeBkU",
+  "title": "Rapid Flashing Beacons | Safe Crossings Program",
+  "channel": "City of Edmonton",
+  "topic": "flashing beacon crosswalks",
+  "why": "City of Edmonton shows what rapid flashing beacons at crosswalks mean for drivers.",
+  "minutes": 1.0
+ },
+ {
+  "ch": 3,
+  "id": "eRSRw8JX8vs",
+  "title": "Don't Roll The Dice, Shoulder Check Twice",
+  "channel": "Alberta Motor Association",
+  "topic": "shoulder checks",
+  "why": "AMA on mirrors and shoulder checks before changing lanes, a common collision cause in Alberta.",
+  "minutes": 1.7
+ },
+ {
+  "ch": 3,
+  "id": "1Rdc0q_m2yY",
+  "title": "Parallel Parking Demonstration",
+  "channel": "Alberta Motor Association",
+  "topic": "parallel parking",
+  "why": "AMA instructor demonstrates parallel parking step by step (2015, still accurate).",
+  "minutes": 2.1
+ },
+ {
+  "ch": 4,
+  "id": "J68hWNTWXEs",
+  "title": "How to Drive in a Modern Roundabout",
+  "channel": "CityofLethbridge",
+  "topic": "roundabouts",
+  "why": "City of Lethbridge (2026) on yielding, entering and exiting a modern roundabout.",
+  "minutes": 2.4
+ },
+ {
+  "ch": 4,
+  "id": "8wIoR7fpPJM",
+  "title": "Traffic Circle Demonstration",
+  "channel": "Alberta Motor Association",
+  "topic": "traffic circles",
+  "why": "AMA demonstration of lane choice and signalling in a traffic circle.",
+  "minutes": 2.8
+ },
+ {
+  "ch": 4,
+  "id": "ZaX9Q6nvUK8",
+  "title": "Left Hand Turn Demonstration",
+  "channel": "Alberta Motor Association",
+  "topic": "left turns",
+  "why": "AMA demonstration of safe left turns at intersections, including judging gaps.",
+  "minutes": 2.5
+ },
+ {
+  "ch": 5,
+  "id": "cX0I8OdK7Tk",
+  "title": "Zipper Merge Demonstration",
+  "channel": "Alberta Motor Association",
+  "topic": "zipper merge",
+  "why": "AMA demonstration of the zipper merge when a lane ends.",
+  "minutes": 1.4
+ },
+ {
+  "ch": 6,
+  "id": "bi_P8jjQVOA",
+  "title": "How can you prepare for winter driving?",
+  "channel": "YourAlberta (Government of Alberta)",
+  "topic": "winter driving",
+  "why": "Government of Alberta on preparing for winter road conditions.",
+  "minutes": 1.1
+ },
+ {
+  "ch": 7,
+  "id": "dDzPDicjmVM",
+  "title": "AMA Public Affairs: Distracted Driving",
+  "channel": "Alberta Motor Association",
+  "topic": "distracted driving",
+  "why": "AMA on how even a second of distraction raises collision risk.",
+  "minutes": 2.1
+ },
+ {
+  "ch": 7,
+  "id": "RNP9xMWF6n0",
+  "title": "Buckle up! Every ride, every time.",
+  "channel": "RCMP-GRC Alberta",
+  "topic": "seatbelts",
+  "why": "Alberta RCMP 15-second reminder that every occupant buckles up on every trip.",
+  "minutes": 0.2
+ },
+ {
+  "ch": 8,
+  "id": "ChEH7rQRock",
+  "title": "Please pass snowplows safely",
+  "channel": "YourAlberta (Government of Alberta)",
+  "topic": "snowplows",
+  "why": "Government of Alberta on when and how to pass a snowplow safely.",
+  "minutes": 2.3
+ },
+ {
+  "ch": 8,
+  "id": "xegcJoVhTWg",
+  "title": "Scan The Road Ahead",
+  "channel": "Alberta Motor Association",
+  "topic": "pedestrians",
+  "why": "AMA reminder that pedestrians have the right-of-way at almost all intersections, marked crosswalk or not.",
+  "minutes": 1.9
+ },
+ {
+  "ch": 9,
+  "id": "nKVGfCtXzI4",
+  "title": "AMA Public Affairs: Cannabis and Driving",
+  "channel": "Alberta Motor Association",
+  "topic": "cannabis and driving",
+  "why": "AMA: driving high is driving impaired.",
+  "minutes": 1.7
+ },
+ {
+  "ch": 9,
+  "id": "QpR-BGVMMns",
+  "title": "Be Blunt",
+  "channel": "YourAlberta (Government of Alberta)",
+  "topic": "drug-impaired driving",
+  "why": "Government of Alberta PSA on speaking up before someone drives impaired.",
+  "minutes": 0.5
+ }
+]

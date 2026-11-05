@@ -1,0 +1,442 @@
+[
+{
+  "id": "c06-001", "ch": 6, "sec": "s071", "page": 80, "type": "rule", "img": null,
+  "q": "Your vehicle has ABS and you need to stop suddenly. How should you use the brake?",
+  "choices": ["Pump the brake pedal quickly", "Apply steady, firm pressure and do not pump or release it", "Press hard until the wheels lock, then release", "Press lightly and steer toward the shoulder"],
+  "answer": 1,
+  "hint": "The system already cycles the brakes at each wheel for you.",
+  "explain": "With ABS, apply steady firm pressure, do not pump or release the pedal, and look and steer where you want to go.",
+  "quote": "Apply steady firm pressure to the brake pedal. Do not pump or release the brake pedal. Look and steer in the direction you want to go.",
+  "topic": "ABS vs threshold braking"
+},
+{
+  "id": "c06-002", "ch": 6, "sec": "s071", "page": 80, "type": "rule", "img": null,
+  "q": "In a vehicle without ABS, pressing firmly on the brake to the point just before the wheels lock is called what?",
+  "choices": ["Pump braking", "Engine braking", "Threshold braking", "Power braking"],
+  "answer": 2,
+  "hint": "The name describes braking right at the edge, or limit.",
+  "explain": "Pressing firmly to the point just before the wheels lock is called threshold braking.",
+  "quote": "Press firmly on the brake pedal to the point just before the wheels lock. This is called threshold braking.",
+  "topic": "ABS vs threshold braking"
+},
+{
+  "id": "c06-003", "ch": 6, "sec": "s071", "page": 80, "type": "rule", "img": null,
+  "q": "You brake hard in a vehicle without ABS and the wheels lock. What should you do?",
+  "choices": ["Press the brake pedal even harder", "Keep the wheels locked until you stop", "Release the brake slightly to regain steering, then brake firmly without locking", "Turn the steering wheel sharply to straighten out"],
+  "answer": 2,
+  "hint": "Locked wheels take away your steering.",
+  "explain": "If the wheels lock, release the pedal slightly to regain steering control, then press firmly again without locking the wheels.",
+  "quote": "If the wheels lock, release the brake pedal slightly to regain steering control. Press the brake pedal firmly again without locking the wheels.",
+  "topic": "ABS vs threshold braking"
+},
+{
+  "id": "c06-004", "ch": 6, "sec": "s072", "page": 80, "type": "rule", "img": null,
+  "q": "Your vehicle starts to skid. What should you do to regain control?",
+  "choices": ["Stay off both pedals and steer where you want to go", "Brake hard right away and hold the pedal down", "Press the accelerator to pull out of the skid", "Steer sharply in the opposite direction"],
+  "answer": 0,
+  "hint": "Your eyes and hands do the work, not your feet.",
+  "explain": "To regain control in a skid, do not touch the brake or the accelerator. Look and steer where you want the front of the vehicle to go.",
+  "quote": "Skidding means you have lost control of the vehicle. To regain control, do not touch the brake or the accelerator. Look and steer where you want the front of the vehicle to go.",
+  "topic": "Skid recovery"
+},
+{
+  "id": "c06-005", "ch": 6, "sec": "s072", "page": 80, "type": "rule", "img": null,
+  "q": "Which of these can cause a skid?",
+  "choices": ["Planning ahead so you do not have to brake suddenly", "Turning the steering wheel too sharply", "Driving in a smooth and controlled manner", "Slowing down on an unfamiliar road"],
+  "answer": 1,
+  "hint": "Most skids come from the driver doing something too much or too fast.",
+  "explain": "Skids can happen when you turn the wheel too sharply, brake too firmly, accelerate too quickly, or drive too fast for the road. Smooth driving and planning ahead reduce skids.",
+  "quote": "Most skids are the result of driver error. A skid can occur when you: drive too quickly on poor road conditions such as ice, snow, rain, mud, sand, or gravel turn the steering wheel too sharply",
+  "topic": "Skid causes"
+},
+{
+  "id": "c06-006", "ch": 6, "sec": "s072", "page": 81, "type": "rule", "img": null,
+  "q": "In a vehicle without ABS, you brake too hard and go into a braking skid. What is the first thing to do?",
+  "choices": ["Press the brake pedal harder", "Press the gas pedal", "Pull up the park brake", "Take your foot off the brake pedal"],
+  "answer": 3,
+  "hint": "Steering only comes back when the wheels roll again.",
+  "explain": "In a braking skid, take your foot off the brake. When the wheels start to roll, steering control returns.",
+  "quote": "Take your foot off the brake pedal. When the vehicle's wheels start to roll, steering control will return.",
+  "topic": "Skid recovery: braking skid"
+},
+{
+  "id": "c06-007", "ch": 6, "sec": "s072", "page": 81, "type": "rule", "img": null,
+  "q": "You accelerate too quickly on a slippery road and the wheels spin. What should you do first?",
+  "choices": ["Press the gas harder to find traction", "Take your foot off the gas pedal", "Brake hard to stop the spinning", "Turn the steering wheel sharply"],
+  "answer": 1,
+  "hint": "The spinning started with your right foot.",
+  "explain": "A power skid happens when you accelerate too quickly. Take your foot off the gas so the wheels stop spinning, steer where you want to go, then accelerate gently.",
+  "quote": "A power skid occurs when you accelerate too quickly, causing the wheels to spin. ... Take your foot off the gas pedal to allow the wheels to stop spinning.",
+  "topic": "Skid recovery: power skid"
+},
+{
+  "id": "c06-008", "ch": 6, "sec": "s072", "page": 81, "type": "rule", "img": null,
+  "q": "You take a corner too fast and the vehicle starts to slide sideways. What should you do?",
+  "choices": ["Take your foot off the gas, do not brake, and steer where you want to go", "Brake hard to slow down as quickly as possible", "Accelerate to power through the corner", "Steer sharply the opposite way and brake"],
+  "answer": 0,
+  "hint": "Neither pedal helps here.",
+  "explain": "In a cornering skid, take your foot off the gas, do not use your brakes, and look and steer where you want the front of the vehicle to go.",
+  "quote": "A cornering skid occurs when you are travelling too quickly when turning, causing the vehicle to slide sideways. ... Take your foot off the gas pedal. Do not use your brakes.",
+  "topic": "Skid recovery: cornering skid"
+},
+{
+  "id": "c06-009", "ch": 6, "sec": "s072", "page": 81, "type": "rule", "img": null,
+  "q": "Your right wheels drift off the pavement onto the gravel shoulder. What should you do first?",
+  "choices": ["Steer sharply back onto the pavement right away", "Brake hard to stop as fast as possible", "Hold the wheel firmly, ease off the gas, and do not steer back right away", "Speed up so the tires climb back onto the road"],
+  "answer": 2,
+  "hint": "A sudden move is the real danger here.",
+  "explain": "Keep a firm grip, do not try to steer back immediately, take your foot off the gas, and avoid hard braking. Check for traffic, then return gradually.",
+  "quote": "Keep a firm grip on the steering wheel. Do not try to steer the vehicle back onto the road immediately. Take your foot off the gas pedal to reduce your speed.",
+  "topic": "Off-road recovery"
+},
+{
+  "id": "c06-010", "ch": 6, "sec": "s073", "page": 82, "type": "rule", "img": null,
+  "q": "Your vehicle breaks down and has to be left in a potentially dangerous spot. What should you turn on?",
+  "choices": ["Your high-beam headlights", "Your hazard lights (four-way flashers)", "Your left turn signal", "Your interior dome light"],
+  "answer": 1,
+  "hint": "Use the lights that are meant to warn others of a problem.",
+  "explain": "If the vehicle is left in a potentially dangerous location, turn on your hazard lights and raise your hood.",
+  "quote": "If the vehicle is left in a potentially dangerous location, turn on your hazard lights (four-way flashers). Raise your hood.",
+  "topic": "Breakdown procedure"
+},
+{
+  "id": "c06-011", "ch": 6, "sec": "s073", "page": 82, "type": "rule", "img": null,
+  "q": "Your vehicle breaks down on the highway. How should you place your reflective triangles?",
+  "choices": ["In front of your vehicle, about 10 to 20 metres apart", "To the rear of your vehicle, about 1 to 2 metres apart", "To the rear of your vehicle, about 10 to 20 metres apart", "To the rear of your vehicle, about 100 to 150 metres apart"],
+  "answer": 2,
+  "hint": "They warn drivers coming up behind you, and they need some space to do it.",
+  "explain": "On the highway, safely place reflective triangles to the rear of your vehicle, about 10 to 20 metres (33 to 66 feet) apart.",
+  "quote": "On the highway or in a location that is potentially dangerous, safely place reflective triangles to the rear of your vehicle, about 10 to 20 metres (33 to 66 feet) apart.",
+  "topic": "Breakdown warning devices"
+},
+{
+  "id": "c06-012", "ch": 6, "sec": "s073", "page": 82, "type": "rule", "img": null,
+  "q": "Your vehicle breaks down in a potentially dangerous spot on a highway. Where should everyone wait for help?",
+  "choices": ["Out of the vehicle, at a safe spot to the rear and away from it", "Inside the vehicle with seatbelts on", "In front of the vehicle, close to the bumper", "Beside the vehicle on the traffic side"],
+  "answer": 0,
+  "hint": "If the vehicle is hit, you do not want to be in it or next to it.",
+  "explain": "In a potentially dangerous situation, have all occupants leave the vehicle and wait at a safe location to the rear and away from it.",
+  "quote": "If it is a potentially dangerous situation, have all occupants leave the vehicle and wait at a safe location to the rear and away from the vehicle, as shown in the diagram.",
+  "topic": "Breakdown procedure"
+},
+{
+  "id": "c06-013", "ch": 6, "sec": "s073", "page": 82, "type": "rule", "img": null,
+  "q": "Your brake warning light comes on while you are driving, and you have checked that the park brake is released. What should you do?",
+  "choices": ["Keep driving and have it checked at your next service", "Move to the side of the road as soon as it is safe", "Pump the brakes until the light goes out", "Pull the park brake on hard right away"],
+  "answer": 1,
+  "hint": "The light should come on before the brakes stop working.",
+  "explain": "When the brake warning light comes on and the park brake is released, move to the side of the road as soon as it is safe.",
+  "quote": "When you see the brake warning light come on, and you have checked that the park brake has been released, move to the side of the road as soon as it is safe to do so.",
+  "topic": "Mechanical failures: brakes"
+},
+{
+  "id": "c06-014", "ch": 6, "sec": "s073", "page": 82, "type": "rule", "img": null,
+  "q": "Your brakes fail and your wheels are pointed straight ahead. What can you do to slow down?",
+  "choices": ["Shift to a higher gear and ease onto the gas", "Turn off the engine and steer toward the ditch", "Turn the steering wheel sharply back and forth", "Carefully use the park brake and shift to a lower gear"],
+  "answer": 3,
+  "hint": "There is a second brake, and the engine can help too.",
+  "explain": "If your brakes fail and your wheels are not turned, carefully use the park brake. You may also shift to a lower gear to come to a controlled stop.",
+  "quote": "If your brakes fail, and your wheels are not turned, carefully use your park brake to slow your vehicle. You may be able to shift to a lower gear to bring your vehicle to a safe and controlled stop.",
+  "topic": "Mechanical failures: brakes"
+},
+{
+  "id": "c06-015", "ch": 6, "sec": "s073", "page": 83, "type": "rule", "img": null,
+  "q": "A tire goes flat while you are driving. What should you do first?",
+  "choices": ["Brake hard right away", "Steer quickly onto the shoulder", "Speed up to keep the vehicle stable", "Avoid braking, take your foot off the gas, and grip the wheel firmly"],
+  "answer": 3,
+  "hint": "Let the vehicle slow itself down before you touch the brake.",
+  "explain": "Resist the urge to brake. Take your foot off the gas, hold the wheel firmly and keep a straight course. Brake gently once you have control.",
+  "quote": "Resist the urge to immediately apply the brakes. Take your foot off the gas pedal and allow the engine to slow the vehicle down. Hold the steering wheel with a firm grip.",
+  "topic": "Tire blowout / flat tire"
+},
+{
+  "id": "c06-016", "ch": 6, "sec": "s073", "page": 83, "type": "rule", "img": null,
+  "q": "Both of your headlights suddenly go out while you are driving at night. What should you do first?",
+  "choices": ["Stop right away in your lane and wait", "Keep driving using only your parking lights", "Turn on your hazard lights, then turn the headlight control off and on", "Speed up to reach a lit area quickly"],
+  "answer": 2,
+  "hint": "First make sure others can see you, then try the switch.",
+  "explain": "If both headlights fail, turn on your hazard lights and turn the headlight control off and on. If they stay off, slow down and park in a safe place off the road.",
+  "quote": "If both headlights fail: Turn on your hazard lights. Turn the headlight control off and on.",
+  "topic": "Mechanical failures: headlights"
+},
+{
+  "id": "c06-017", "ch": 6, "sec": "s074", "page": 83, "type": "rule", "img": null,
+  "q": "You must turn on your headlights at night, or any time you cannot clearly see how far in front of you?",
+  "choices": ["50 metres", "150 metres", "300 metres", "500 metres"],
+  "answer": 1,
+  "hint": "It is about one and a half city blocks.",
+  "explain": "You must turn your headlights on at night or any time you cannot clearly see 150 metres (500 feet) ahead.",
+  "quote": "When you are driving at night or at any time when you cannot clearly see 150 metres (500 feet) in front of you, you must turn your headlights on.",
+  "topic": "When headlights are required"
+},
+{
+  "id": "c06-018", "ch": 6, "sec": "s074", "page": 84, "type": "rule", "img": null,
+  "q": "At night, you must switch to low beams when you are within what distance of an oncoming vehicle?",
+  "choices": ["50 metres", "150 metres", "300 metres", "500 metres"],
+  "answer": 2,
+  "hint": "It is double the distance used when you are following a vehicle.",
+  "explain": "Use your low beam headlights when you are within 300 metres of oncoming vehicles.",
+  "quote": "Use your low beam headlights when you are within 300 metres of oncoming vehicles.",
+  "topic": "Dimming headlights"
+},
+{
+  "id": "c06-019", "ch": 6, "sec": "s074", "page": 84, "type": "rule", "img": null,
+  "q": "At night, you must use low beams when you are following another vehicle within what distance?",
+  "choices": ["150 metres", "50 metres", "300 metres", "30 metres"],
+  "answer": 0,
+  "hint": "It is half the distance used for oncoming vehicles.",
+  "explain": "Use low beams when you are following within 150 metres (one-and-one-half city blocks) of another vehicle.",
+  "quote": "Use your low beam headlights when you are following within 150 metres (one-and-one-half city blocks) of another vehicle.",
+  "topic": "Dimming headlights"
+},
+{
+  "id": "c06-020", "ch": 6, "sec": "s074", "page": 84, "type": "rule", "img": null,
+  "q": "Which headlights should you use when driving in fog or smoke?",
+  "choices": ["Low beams", "High beams", "Parking lights only", "Daytime running lights only"],
+  "answer": 0,
+  "hint": "Brighter is not better when the light bounces back at you.",
+  "explain": "Use low beams in smoke and fog. High beams reflect the light back at you and create glare.",
+  "quote": "Use low beam headlights in smoke and fog, as high beams reflect the light back to you, creating glare.",
+  "topic": "Fog/smoke: low beams"
+},
+{
+  "id": "c06-021", "ch": 6, "sec": "s074", "page": 84, "type": "rule", "img": null,
+  "q": "Fog becomes so thick that it is no longer safe to keep driving. What should you do?",
+  "choices": ["Stop in your lane and turn on your hazard lights", "Switch to high beams and keep going slowly", "Slow down, move well off the road to a safe spot, and turn on your hazard lights", "Follow closely behind the vehicle ahead to use its tail-lights"],
+  "answer": 2,
+  "hint": "Do not stop anywhere other drivers could run into you.",
+  "explain": "Slow down and move well off the road to a safe location, turn on your hazard lights, and wait until conditions improve.",
+  "quote": "If visibility becomes so poor that it is no longer safe to continue driving, slow down and move your vehicle well off the road to a safe location. Turn on your hazard warning lights.",
+  "topic": "Fog/smoke: low visibility"
+},
+{
+  "id": "c06-022", "ch": 6, "sec": "s074", "page": 84, "type": "rule", "img": null,
+  "q": "The pavement ahead looks shiny and black instead of grey-white. What should you do?",
+  "choices": ["Be cautious and reduce your speed without braking", "Brake firmly before you reach it", "Speed up to cross it quickly", "Turn on cruise control to hold a steady speed"],
+  "answer": 0,
+  "hint": "This may be ice that is hard to see.",
+  "explain": "Shiny black asphalt may be black ice. Be cautious and reduce your speed without braking.",
+  "quote": "Black ice is caused by moisture freezing on the road surface. Often a driver cannot see it. However, if the asphalt looks shiny and black instead of grey-white, be cautious, and reduce your speed without braking.",
+  "topic": "Winter/ice: black ice"
+},
+{
+  "id": "c06-023", "ch": 6, "sec": "s074", "page": 84, "type": "rule", "img": null,
+  "q": "Why should you use extra caution on bridge decks and overpasses?",
+  "choices": ["They dry faster than other road surfaces", "They form slippery patches more readily than other roads", "They always have lower posted speed limits", "They are always wider than the road before them"],
+  "answer": 1,
+  "hint": "Think about traction, not road width.",
+  "explain": "Bridge decks and overpasses tend to form slippery patches more readily than other road surfaces, so avoid unnecessary lane or speed changes on them.",
+  "quote": "Bridge decks and overpasses tend to form slippery patches more readily than other road surfaces. Use extra caution and try to avoid unnecessary lane or speed changes.",
+  "topic": "Winter/ice: bridges"
+},
+{
+  "id": "c06-024", "ch": 6, "sec": "s074", "page": 85, "type": "rule", "img": null,
+  "q": "On a wet road your tires lose contact with the road surface and you start to hydroplane. What should you do?",
+  "choices": ["Brake hard to regain grip", "Accelerate to push through the water", "Do not brake, ease off the accelerator, and steer where you want to go", "Turn the steering wheel sharply toward the shoulder"],
+  "answer": 2,
+  "hint": "Your feet should do less, not more.",
+  "explain": "If you hydroplane, do not brake. Release pressure on the accelerator to slow down, and look and steer where you want to go.",
+  "quote": "On wet roads your tires may lose contact with the road surface. This is called hydroplaning. ... If this happens, do not brake. Release pressure on the accelerator to allow the vehicle to slow.",
+  "topic": "Hydroplaning"
+},
+{
+  "id": "c06-025", "ch": 6, "sec": "s074", "page": 85, "type": "rule", "img": null,
+  "q": "In winter, intersections can become icy faster than other areas. What is the most important thing to do?",
+  "choices": ["Follow more closely so you stop together", "Use cruise control for a steady speed", "Brake hard at the last moment", "Reduce your speed as you approach"],
+  "answer": 3,
+  "hint": "Exhaust, engine heat and spinning wheels make these spots extra slick.",
+  "explain": "Intersections may get icy faster from vehicle exhaust, engine heat and spinning wheels. Allow more time and distance, and above all reduce your speed.",
+  "quote": "Intersection areas may become icy more quickly because of vehicle exhaust, engine heat, and vehicles spinning their wheels or skidding. Allow more time and distance for stopping and starting. The most important thing is to reduce your speed.",
+  "topic": "Winter/ice"
+},
+{
+  "id": "c06-026", "ch": 6, "sec": "s074", "page": 85, "type": "rule", "img": null,
+  "q": "In winter you are stranded off the highway, and your vehicle is in a safe place. What is usually safest?",
+  "choices": ["Walk to find help right away", "Stay with your vehicle and run the engine just enough to stay warm", "Run the engine nonstop with all the windows closed", "Wait outside on the road to flag down help"],
+  "answer": 1,
+  "hint": "Your vehicle is your shelter.",
+  "explain": "It is usually safer to stay with your vehicle. Run the engine just enough to stay warm, and open a window a little to prevent carbon monoxide poisoning.",
+  "quote": "If you find yourself stranded off the highway and your vehicle is in a safe place, it is usually safer to stay with your vehicle. Run the engine just enough to stay warm.",
+  "topic": "Winter: stranded"
+},
+{
+  "id": "c06-027", "ch": 6, "sec": "s076", "page": 86, "type": "rule", "img": null,
+  "q": "An animal suddenly appears on the road in front of you. What should you do?",
+  "choices": ["Brake hard and be ready to steer away from oncoming traffic", "Swerve into the oncoming lane to miss it", "Speed up to get past before it moves", "Sound your horn and keep your speed"],
+  "answer": 0,
+  "hint": "Your escape route should not put you in front of another vehicle.",
+  "explain": "Brake hard and prepare to take evasive action. Choose an escape route away from oncoming traffic.",
+  "quote": "If an animal suddenly appears in front of you, brake hard and prepare to take evasive action. Choose an escape route away from oncoming traffic.",
+  "topic": "Wildlife on the road"
+},
+{
+  "id": "c06-028", "ch": 6, "sec": "s077", "page": 86, "type": "rule", "img": null,
+  "q": "You are the first person to arrive at a collision. Where should you stop your vehicle?",
+  "choices": ["As close to the damaged vehicles as possible", "In the middle of the road to block traffic", "Right beside the vehicles, in the travel lane", "Away from the collision in a safe location"],
+  "answer": 3,
+  "hint": "You do not want to become part of the collision.",
+  "explain": "Stop away from the collision in a safe location, offer help if possible, and protect the scene with hazard lights and reflective triangles.",
+  "quote": "If you are the first person at the scene of a collision, stop away from the collision in a safe location. Offer assistance if possible, and protect the scene with flashing hazard lights and reflective triangles so that other vehicles do not become involved.",
+  "topic": "Collision duties"
+},
+{
+  "id": "c06-029", "ch": 6, "sec": "s077", "page": 86, "type": "rule", "img": null,
+  "q": "After a collision, the other driver wants to talk about whose fault it was. What should you do?",
+  "choices": ["Admit fault to settle things quickly", "Agree on who was at fault before police arrive", "Do not discuss who was at fault", "Write down who was at fault and both sign it"],
+  "answer": 2,
+  "hint": "Exchange information, not opinions.",
+  "explain": "Exchange names, contact and insurance details, and record witnesses, but do not discuss who was at fault.",
+  "quote": "Record the names and contact information of all witnesses. Do not discuss who was at fault.",
+  "topic": "Collision duties"
+},
+{
+  "id": "c06-030", "ch": 6, "sec": "s077", "page": 86, "type": "rule", "img": null,
+  "q": "According to the Driver's Guide, you must report a collision to police if the overall damage is more than what amount?",
+  "choices": ["$1,000", "$2,000", "$5,000", "$10,000"],
+  "answer": 2,
+  "hint": "This is called the property damage collision (PDC) threshold.",
+  "explain": "You must report a collision to police if anyone is injured or killed, if overall damage exceeds $5,000, or if public property is damaged. The guide says to check alberta.ca for the current threshold.",
+  "quote": "You are required to report all collisions to the police or local law enforcement if: ... overall damage exceeds $5000",
+  "topic": "Collision reporting threshold"
+},
+{
+  "id": "c06-031", "ch": 6, "sec": "s077", "page": 86, "type": "rule", "img": null,
+  "q": "You back into a parking meter and damage it slightly. No one is hurt. Must you report it to police?",
+  "choices": ["Yes, any damage to a parking meter must be reported", "No, only if damage is over $5,000", "No, only if someone is injured", "No, only if the city asks you to report it"],
+  "answer": 0,
+  "hint": "Look at the whole list of reporting reasons, not just the dollar amount.",
+  "explain": "You must report a collision if any damage has been done to a traffic control device, parking meter, or public property.",
+  "quote": "You are required to report all collisions to the police or local law enforcement if: ... any damage has been done to any traffic control device, parking meter, or public property.",
+  "topic": "Collision reporting"
+},
+{
+  "id": "c06-032", "ch": 6, "sec": "s077", "page": 86, "type": "rule", "img": null,
+  "q": "Police have been called to a collision you are involved in. Who must stay at the scene?",
+  "choices": ["Only the driver at fault", "All drivers involved", "Only drivers whose vehicles cannot be moved", "Only drivers who were injured"],
+  "answer": 1,
+  "hint": "Fault is not decided by the drivers at the scene.",
+  "explain": "If police are called to the scene, all drivers must remain.",
+  "quote": "If police are called to the scene, all drivers must remain.",
+  "topic": "Collision duties"
+},
+{
+  "id": "c06-033", "ch": 6, "sec": "s078", "page": 87, "type": "rule", "img": null,
+  "q": "On a highway posted at 100 km/h, you pass a tow truck stopped with its lights flashing. You are in the lane next to it. What is your maximum speed?",
+  "choices": ["40 km/h", "60 km/h", "80 km/h", "100 km/h"],
+  "answer": 1,
+  "hint": "It is the lower of the posted limit and a fixed slow-down speed.",
+  "explain": "When passing stopped emergency vehicles or tow trucks with lights flashing, slow to 60 km/h or the posted speed, whichever is lower, in the lane next to them.",
+  "quote": "Motorists must reduce speed to 60 km/h or the posted speed, whichever is lower, when passing emergency vehicles or tow trucks that are stopped with their lights flashing.",
+  "topic": "Slow down for stopped emergency vehicles and tow trucks"
+},
+{
+  "id": "c06-034", "ch": 6, "sec": "s078", "page": 87, "type": "rule", "img": null,
+  "q": "In a 50 km/h zone, you pass an ambulance stopped with its lights flashing. You are in the lane next to it. What is your maximum speed?",
+  "choices": ["60 km/h", "70 km/h", "50 km/h", "30 km/h"],
+  "answer": 2,
+  "hint": "The rule has a 'whichever is lower' part.",
+  "explain": "The rule is 60 km/h or the posted speed, whichever is lower. Here the posted 50 km/h is lower, so 50 km/h is the maximum.",
+  "quote": "Motorists must reduce speed to 60 km/h or the posted speed, whichever is lower, when passing emergency vehicles or tow trucks that are stopped with their lights flashing.",
+  "topic": "Slow down for stopped emergency vehicles and tow trucks"
+},
+{
+  "id": "c06-035", "ch": 6, "sec": "s078", "page": 87, "type": "rule", "img": null,
+  "q": "The 60 km/h slow-down rule for stopped emergency vehicles and tow trucks applies to which lanes?",
+  "choices": ["All lanes in both directions", "Only the lane the vehicles are stopped in", "Only lanes on divided highways", "The lane or lanes immediately next to the stopped vehicles"],
+  "answer": 3,
+  "hint": "Think about which drivers pass closest to the workers.",
+  "explain": "The law applies to the lane or lanes immediately next to the stopped vehicles. In other lanes you should still slow down and leave lots of space.",
+  "quote": "This law applies to the lane(s) immediately next to the stopped vehicles.",
+  "topic": "Slow down for stopped emergency vehicles and tow trucks"
+},
+{
+  "id": "c06-036", "ch": 6, "sec": "s078", "page": 87, "type": "rule", "img": null,
+  "q": "What happens to speeding fines when you pass stopped emergency vehicles or tow trucks with their lights flashing?",
+  "choices": ["They are the same as usual", "They are tripled", "They are cut in half", "They are doubled"],
+  "answer": 3,
+  "hint": "It is the same penalty increase used in construction zones when workers are present.",
+  "explain": "The fine for speeding in these areas is doubled.",
+  "quote": "This law applies to the lane(s) immediately next to the stopped vehicles. The fine for speeding in these areas is doubled.",
+  "topic": "Slow down for stopped emergency vehicles and tow trucks"
+},
+{
+  "id": "c06-037", "ch": 6, "sec": "s079", "page": 87, "type": "rule", "img": null,
+  "q": "An ambulance with its siren on is coming up behind you on a two-way road. What must you do?",
+  "choices": ["Pull as close as possible to the right edge and stop until it passes", "Speed up to stay ahead of it", "Stop right where you are in your lane", "Move to the left side of the road and slow down"],
+  "answer": 0,
+  "hint": "Clear a path down the middle of the road.",
+  "explain": "Yield by driving as close as possible to the right curb or edge of a two-way road, and stop until the emergency vehicle has passed.",
+  "quote": "Drive as closely as possible to the right curb or edge of a two-way roadway. Move right or left to the nearest curb on one-way streets. Stop until the emergency vehicle has passed.",
+  "topic": "Yield to emergency vehicles"
+},
+{
+  "id": "c06-038", "ch": 6, "sec": "s079", "page": 87, "type": "rule", "img": null,
+  "q": "On a one-way street, a fire truck with its siren on approaches. Where should you move?",
+  "choices": ["Always to the right curb", "To the nearest curb, right or left", "Always to the left curb", "Stay in your lane and slow down"],
+  "answer": 1,
+  "hint": "A one-way street gives you a choice of sides.",
+  "explain": "On one-way streets, move right or left to the nearest curb, and stop until the emergency vehicle has passed.",
+  "quote": "Move right or left to the nearest curb on one-way streets.",
+  "topic": "Yield to emergency vehicles"
+},
+{
+  "id": "c06-039", "ch": 6, "sec": "s079", "page": 87, "type": "rule", "img": null,
+  "q": "A police car with its siren on is coming toward you from the opposite direction on a two-way road. Must you yield?",
+  "choices": ["No, you only yield to emergency vehicles behind you", "Yes, you must yield to emergency vehicles approaching from any direction", "Only if it is an ambulance", "Only on one-way streets"],
+  "answer": 1,
+  "hint": "The rule is not limited to vehicles behind you.",
+  "explain": "When an ambulance, fire or police vehicle sounding a siren approaches from any direction, you must yield the right-of-way.",
+  "quote": "When an ambulance, fire, or police emergency vehicle is approaching from any direction and is sounding a siren, you must yield the right-of-way",
+  "topic": "Yield to emergency vehicles"
+},
+{
+  "id": "c06-040", "ch": 6, "sec": "s079", "page": 87, "type": "rule", "img": null,
+  "q": "A vehicle with flashing green lights is approaching. What should you do?",
+  "choices": ["Treat it like any other emergency vehicle", "Ignore it, because green lights do not mean an emergency", "Treat it like a slow-moving farm vehicle", "Speed up, since green means go"],
+  "answer": 0,
+  "hint": "Some volunteer fire fighters use these lights.",
+  "explain": "Treat a vehicle with flashing green lights like any other emergency vehicle. In some municipalities, volunteer fire fighters use them when responding to emergencies.",
+  "quote": "If you see a vehicle with flashing green lights, treat it like any other emergency vehicle.",
+  "topic": "Yield to emergency vehicles"
+},
+{
+  "id": "c06-041", "ch": 6, "sec": "s079", "page": 87, "type": "rule", "img": null,
+  "q": "What is the minimum safe following distance behind an emergency vehicle with its siren or lights operating?",
+  "choices": ["2 seconds", "50 metres", "150 metres", "300 metres"],
+  "answer": 2,
+  "hint": "It is the same distance used for dimming your lights when following a vehicle at night.",
+  "explain": "Always yield to emergency vehicles with siren or lights operating, and keep a following distance of at least 150 metres (500 feet).",
+  "quote": "Always yield to emergency vehicles with siren or lights operating. Maintain a safe following distance of at least 150 metres (500 feet).",
+  "topic": "Following an emergency vehicle"
+},
+{
+  "id": "c06-042", "ch": 6, "sec": "s080", "page": 88, "type": "rule", "img": null,
+  "q": "When are speeding fines doubled in a construction zone?",
+  "choices": ["At all times, day or night", "Only at night", "Only on weekends", "When workers are present"],
+  "answer": 3,
+  "hint": "The extra penalty protects the people doing the work.",
+  "explain": "In construction zones, obey the posted speed and the flag person. When workers are present, speeding fines are doubled.",
+  "quote": "In the construction zones, motorists must observe the posted speed and obey the flag person. When workers are present, the fines for speeding in these areas will be doubled.",
+  "topic": "Construction zone speed"
+},
+{
+  "id": "c06-043", "ch": 6, "sec": "s080", "page": 88, "type": "rule", "img": null,
+  "q": "A police car with flashing lights comes up behind you on a two-way road. What should you do?",
+  "choices": ["Stop right away in your lane", "Carefully stop in a safe spot at the right edge of the road", "Speed up to find a parking lot", "Pull over to the left edge of the road"],
+  "answer": 1,
+  "hint": "Leave room for the officer to stop safely behind you.",
+  "explain": "On a two-way roadway, carefully and legally stop in a safe location at the right edge of the road, with enough room for the police vehicle to stop behind you.",
+  "quote": "On a two-way roadway, carefully and legally stop your vehicle in a safe location at the right edge of the roadway.",
+  "topic": "Being stopped by police"
+},
+{
+  "id": "c06-044", "ch": 6, "sec": "s080", "page": 88, "type": "rule", "img": null,
+  "q": "You have been pulled over by police. What should you do while you wait for the officer?",
+  "choices": ["Get out and walk back to the police car", "Stay in your vehicle and have your licence, registration and insurance ready", "Move your vehicle forward to a better spot", "Leave the vehicle in drive so you are ready to go"],
+  "answer": 1,
+  "hint": "Let the officer come to you.",
+  "explain": "Put the vehicle in park and apply the park brake, stay in your vehicle, have your documents ready, and do not move the vehicle until the officer tells you.",
+  "quote": "Remain in your vehicle. Locate and be prepared to provide your driver's licence, vehicle registration, and vehicle insurance.",
+  "topic": "Being stopped by police"
+}
+]

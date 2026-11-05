@@ -1,0 +1,107 @@
+s001 | ch0 | Introduction | pdf pages 4-4 | 1631 chars
+s002 | ch0 | Guides available | pdf pages 5-6 | 2510 chars
+s003 | ch0 | Contents | pdf pages 7-10 | 2652 chars
+s004 | ch1 | Licensing Information | pdf pages 11-11 | 1 chars
+s005 | ch1 | Graduated driver licensing | pdf pages 12-13 | 2819 chars
+s006 | ch1 | Knowledge test | pdf pages 13-13 | 972 chars
+s007 | ch1 | Vision requirements | pdf pages 14-14 | 336 chars
+s008 | ch1 | Class 5 road test | pdf pages 14-15 | 2861 chars
+s009 | ch1 | Types of vehicles for licence class | pdf pages 15-16 | 2285 chars
+s010 | ch1 | For hire, driver’s licence requirements | pdf pages 16-16 | 816 chars
+s011 | ch1 | Air brake endorsement (Q) | pdf pages 17-17 | 421 chars
+s012 | ch1 | Driver examiner | pdf pages 17-17 | 1042 chars
+s013 | ch1 | Driver’s licence | pdf pages 17-17 | 458 chars
+s014 | ch1 | Applying for your Alberta driver’s licence | pdf pages 17-18 | 1056 chars
+s015 | ch1 | Non-Alberta licence for tourists and visitors | pdf pages 18-18 | 207 chars
+s016 | ch1 | New Alberta residents | pdf pages 18-19 | 2971 chars
+s017 | ch1 | Medical requirements | pdf pages 19-20 | 2063 chars
+s018 | ch1 | Condition codes and endorsements | pdf pages 20-21 | 1976 chars
+s019 | ch1 | Re-classing your licence | pdf pages 21-21 | 835 chars
+s020 | ch1 | Replacing your Alberta driver’s licence | pdf pages 21-21 | 311 chars
+s021 | ch1 | Renewing your Alberta driver’s licence | pdf pages 22-22 | 390 chars
+s022 | ch1 | Updating your Alberta driver’s licence | pdf pages 22-22 | 491 chars
+s023 | ch1 | Registration and insurance | pdf pages 22-22 | 1073 chars
+s024 | ch2 | Traffic Control | pdf pages 23-23 | 1 chars
+s025 | ch2 | Traffic control signals | pdf pages 24-25 | 4318 chars
+s026 | ch2 | Pedestrian signals and signs | pdf pages 25-26 | 1614 chars
+s027 | ch2 | Lane reversal signals | pdf pages 26-27 | 683 chars
+s028 | ch2 | Sign shapes and colours | pdf pages 27-28 | 1391 chars
+s029 | ch2 | Traffic regulatory signs | pdf pages 28-28 | 315 chars
+s030 | ch2 | Traffic direction signs | pdf pages 29-29 | 78 chars
+s031 | ch2 | Speed limit signs | pdf pages 29-29 | 1157 chars
+s032 | ch2 | Designated lane signs | pdf pages 30-30 | 981 chars
+s033 | ch2 | Permissive signs | pdf pages 31-31 | 224 chars
+s034 | ch2 | Prohibitive signs | pdf pages 31-32 | 503 chars
+s035 | ch2 | School zones and areas | pdf pages 32-33 | 1207 chars
+s036 | ch2 | Playground zones and areas | pdf pages 33-34 | 1158 chars
+s037 | ch2 | Parking services for persons with disabilities | pdf pages 34-34 | 527 chars
+s038 | ch2 | TTY capabilities | pdf pages 34-34 | 145 chars
+s039 | ch2 | Warning signs | pdf pages 34-37 | 1913 chars
+s040 | ch2 | Information and guide signs | pdf pages 38-39 | 753 chars
+s041 | ch2 | Other signs | pdf pages 39-39 | 359 chars
+s042 | ch2 | Construction zones | pdf pages 39-39 | 509 chars
+s043 | ch2 | Pavement markings | pdf pages 40-41 | 2333 chars
+s044 | ch2 | Shared-use lanes | pdf pages 42-42 | 1368 chars
+s045 | ch2 | Other roadway markings | pdf pages 43-44 | 490 chars
+s046 | ch3 | The Basics of Driving | pdf pages 45-45 | 1 chars
+s047 | ch3 | Pre-drive basics | pdf pages 46-47 | 4029 chars
+s048 | ch3 | Driving a vehicle with an automatic transmission | pdf pages 48-48 | 2157 chars
+s049 | ch3 | Driving a vehicle with a manual (standard) transmission | pdf pages 49-49 | 3028 chars
+s050 | ch3 | Steering | pdf pages 50-50 | 1168 chars
+s051 | ch3 | Signalling | pdf pages 51-51 | 578 chars
+s052 | ch3 | Accelerating | pdf pages 51-51 | 709 chars
+s053 | ch3 | Stopping time and distance | pdf pages 51-52 | 2630 chars
+s054 | ch3 | Reversing | pdf pages 53-53 | 1783 chars
+s055 | ch3 | Parking | pdf pages 54-58 | 9528 chars
+s056 | ch4 | Intersections and Turns | pdf pages 59-59 | 1 chars
+s057 | ch4 | Right-of-way | pdf pages 60-60 | 458 chars
+s058 | ch4 | Intersections | pdf pages 60-61 | 2859 chars
+s059 | ch4 | Uncontrolled intersections | pdf pages 61-62 | 1917 chars
+s060 | ch4 | Keep intersections clear | pdf pages 62-63 | 538 chars
+s061 | ch4 | Traffic circles and roundabouts | pdf pages 63-65 | 4604 chars
+s062 | ch4 | Turning | pdf pages 65-68 | 5289 chars
+s063 | ch4 | Turning lanes | pdf pages 68-69 | 1796 chars
+s064 | ch4 | U-turns | pdf pages 69-70 | 842 chars
+s065 | ch5 | Highways and Freeways | pdf pages 71-71 | 1 chars
+s066 | ch5 | Lane selection and position in your lane | pdf pages 72-73 | 2626 chars
+s067 | ch5 | Passing | pdf pages 73-74 | 3030 chars
+s068 | ch5 | Emergency stopping lane | pdf pages 74-75 | 494 chars
+s069 | ch5 | Entering and exiting a major roadway | pdf pages 75-78 | 5562 chars
+s070 | ch6 | Emergency Situations and Challenging Conditions | pdf pages 79-79 | 1 chars
+s071 | ch6 | Emergency braking | pdf pages 80-80 | 1473 chars
+s072 | ch6 | Loss of control | pdf pages 80-82 | 3264 chars
+s073 | ch6 | Vehicle mechanical problems | pdf pages 82-83 | 3574 chars
+s074 | ch6 | Challenging conditions | pdf pages 83-85 | 5227 chars
+s075 | ch6 | Emergency supplies | pdf pages 86-86 | 268 chars
+s076 | ch6 | Animals | pdf pages 86-86 | 634 chars
+s077 | ch6 | Collisions | pdf pages 86-86 | 1303 chars
+s078 | ch6 | Emergency response vehicles and tow trucks | pdf pages 87-87 | 1394 chars
+s079 | ch6 | Emergency vehicles | pdf pages 87-87 | 828 chars
+s080 | ch6 | Maintenance and construction vehicles | pdf pages 88-89 | 1852 chars
+s081 | ch7 | Responsible Driving | pdf pages 90-90 | 1 chars
+s082 | ch7 | Proactive driving | pdf pages 91-93 | 5412 chars
+s083 | ch7 | Securing passengers | pdf pages 93-94 | 2606 chars
+s084 | ch7 | Fuel efficiency and helping our environment | pdf pages 95-96 | 5044 chars
+s085 | ch7 | Traffic laws | pdf pages 96-97 | 1528 chars
+s086 | ch8 | Sharing the Road | pdf pages 98-98 | 1 chars
+s087 | ch8 | Vulnerable road users | pdf pages 99-101 | 5693 chars
+s088 | ch8 | Commercial vehicles | pdf pages 101-102 | 3315 chars
+s089 | ch8 | Log hauling vehicles | pdf pages 102-102 | 383 chars
+s090 | ch8 | School buses | pdf pages 103-104 | 2124 chars
+s091 | ch8 | Snowplows | pdf pages 104-104 | 1554 chars
+s092 | ch8 | Railway crossings | pdf pages 105-106 | 3513 chars
+s093 | ch8 | Vehicles carrying passengers or dangerous goods | pdf pages 107-107 | 222 chars
+s094 | ch8 | Light rail transit | pdf pages 107-107 | 643 chars
+s095 | ch8 | Off-highway vehicles | pdf pages 107-107 | 223 chars
+s096 | ch8 | Funeral processions | pdf pages 107-107 | 418 chars
+s097 | ch9 | Driving within the Law | pdf pages 108-108 | 1 chars
+s098 | ch9 | Driver fitness | pdf pages 109-110 | 2995 chars
+s099 | ch9 | Driving responsibly | pdf pages 110-112 | 4724 chars
+s100 | ch9 | Driving laws | pdf pages 113-116 | 8307 chars
+s101 | ch9 | Driver’s licence suspensions and disqualifications | pdf pages 117-119 | 6608 chars
+s102 | ch9 | SafeRoads Alberta | pdf pages 119-119 | 1410 chars
+s103 | ch9 | Registrar Reconsideration Process | pdf pages 120-120 | 647 chars
+s104 | ch10 | Towing a Trailer | pdf pages 121-121 | 2 chars
+s105 | ch10 | Registration and licence plate | pdf pages 122-122 | 321 chars
+s106 | ch10 | Equipment | pdf pages 122-122 | 1075 chars
+s107 | ch10 | Towing a trailer | pdf pages 122-126 | 2947 chars

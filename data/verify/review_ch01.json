@@ -1,0 +1,247 @@
+[
+ {
+  "id": "c01-001",
+  "verdict": "ok",
+  "note": "fixed: hint said \"old enough for the road test\" (guide gives no road test age); now refers to becoming a probationary driver"
+ },
+ {
+  "id": "c01-002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-003",
+  "verdict": "ok",
+  "note": "fixed: hint claimed a purpose (practice every season) not in the guide; replaced"
+ },
+ {
+  "id": "c01-004",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-005",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-006",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-007",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-008",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-009",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-010",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-011",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-012",
+  "verdict": "ok",
+  "note": "fixed: hint said \"first road test\", implying a second one; now names the Class 5 road test"
+ },
+ {
+  "id": "c01-013",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-014",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-015",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-016",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-017",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-018",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-019",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-020",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-021",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-022",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-023",
+  "verdict": "ok",
+  "note": "fixed: removed \"condition code U\" from explanation and quote (p13 vs p21 conflict on whether U is a condition or endorsement); answer does not depend on it"
+ },
+ {
+  "id": "c01-024",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-025",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-026",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-027",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-028",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-029",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-030",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-031",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-032",
+  "verdict": "ok",
+  "note": "fixed: hint (passenger side) gave the answer away; replaced"
+ },
+ {
+  "id": "c01-033",
+  "verdict": "ok",
+  "note": "fixed: hint (rolling turn fails) gave the answer away; replaced"
+ },
+ {
+  "id": "c01-034",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-035",
+  "verdict": "ok",
+  "note": "fixed: hint pointed straight at the only Class 6 choice; replaced"
+ },
+ {
+  "id": "c01-036",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-037",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-038",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-039",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-040",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-041",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-042",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-043",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-044",
+  "verdict": "ok",
+  "note": "fixed: hint (people who handle crimes) gave the answer away; replaced"
+ },
+ {
+  "id": "c01-045",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-046",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-047",
+  "verdict": "reject",
+  "note": "reject: answer relies on p22 \"plates remain with the owner\" after a sale; flagged ambiguous (which owner after the sale is not stated)"
+ },
+ {
+  "id": "c01-048",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c01-049",
+  "verdict": "ok",
+  "note": ""
+ }
+]

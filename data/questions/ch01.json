@@ -1,0 +1,982 @@
+[
+ {
+  "id": "c01-001",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "What is the minimum age to apply for a Class 7 learner's licence in Alberta?",
+  "choices": [
+   "14 years old",
+   "15 years old",
+   "16 years old",
+   "18 years old"
+  ],
+  "answer": 0,
+  "hint": "The learner stage can start a couple of years before you can become a probationary driver.",
+  "explain": "You must be 14 or older to get a Class 7 learner's licence. Age 16 is the minimum for the Class 5-GDL probationary licence.",
+  "quote": "To obtain a Class 7 learner’s licence you must: be 14 years of age or older",
+  "topic": "Minimum age for Class 7 (14) / Class 5-GDL (16)"
+ },
+ {
+  "id": "c01-002",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "Besides meeting the age rule, which two tests must you pass to get a Class 7 learner's licence?",
+  "choices": [
+   "A knowledge test and a Class 5 road test",
+   "A vision screening and a Class 5 road test",
+   "A medical exam and a parking test",
+   "A vision screening and a knowledge test"
+  ],
+  "answer": 3,
+  "hint": "One of the two is taken on a computer at a registry agent office.",
+  "explain": "To get a Class 7 you must pass a vision screening and a knowledge test on the rules of the road. The Class 5 road test comes later, when you move to the probationary stage.",
+  "quote": "pass a vision screening pass a knowledge test on the rules of the road",
+  "topic": "GDL structure: Class 7 requirements"
+ },
+ {
+  "id": "c01-003",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "What is the minimum amount of time you must hold your Class 7 learner's licence?",
+  "choices": [
+   "Six months",
+   "Two years",
+   "One year",
+   "90 days"
+  ],
+  "answer": 2,
+  "hint": "The learner stage is shorter than the minimum probationary stage.",
+  "explain": "Learners must hold a Class 7 licence for at least one year. That time is extended if you receive a suspension.",
+  "quote": "You must hold a learner’s licence (Class 7) for at least one year.",
+  "topic": "Hold Class 7 at least 1 year before Class 5-GDL road test"
+ },
+ {
+  "id": "c01-004",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "How old must your supervising driver be when you drive with a Class 7 learner's licence?",
+  "choices": [
+   "16 or older",
+   "18 or older",
+   "21 or older",
+   "25 or older"
+  ],
+  "answer": 1,
+  "hint": "Think about the youngest age at which a person can hold a full, non-GDL licence.",
+  "explain": "Your supervisor must be a fully licensed (non-GDL) driver who is 18 or older and seated next to you.",
+  "quote": "You must be accompanied by a fully-licensed (non-GDL) driver who is 18 years of age or older and is seated next to you.",
+  "topic": "Learner supervisor: 18+, fully licensed (non-GDL), front passenger seat"
+ },
+ {
+  "id": "c01-005",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "Where must your supervising driver sit while you drive with a learner's licence?",
+  "choices": [
+   "Next to you",
+   "Anywhere in the vehicle",
+   "Directly behind you",
+   "In the back seat"
+  ],
+  "answer": 0,
+  "hint": "The supervisor needs to be close enough to watch the road and help you right away.",
+  "explain": "The guide says your supervising driver must be seated next to you.",
+  "quote": "You must be accompanied by a fully-licensed (non-GDL) driver who is 18 years of age or older and is seated next to you.",
+  "topic": "Learner supervisor: 18+, fully licensed (non-GDL), front passenger seat"
+ },
+ {
+  "id": "c01-006",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these people may supervise you while you drive with a Class 7 learner's licence?",
+  "choices": [
+   "Your 20-year-old cousin with a Class 5-GDL licence",
+   "Your 17-year-old brother with a Class 5-GDL licence",
+   "Your 16-year-old friend with a Class 7 licence",
+   "Your 40-year-old aunt with a full Class 5 licence"
+  ],
+  "answer": 3,
+  "hint": "Check both the person's age and whether their licence is still part of the GDL program.",
+  "explain": "A supervisor must be 18 or older and hold a full (non-GDL) licence. Probationary (Class 5-GDL) drivers cannot supervise a learner, no matter how old they are.",
+  "quote": "You must be accompanied by a fully-licensed (non-GDL) driver who is 18 years of age or older ... You cannot serve as a supervising driver to a learner.",
+  "topic": "Learner supervisor: 18+, fully licensed (non-GDL), front passenger seat"
+ },
+ {
+  "id": "c01-007",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "During which hours are Class 7 learners not permitted to drive?",
+  "choices": [
+   "10 p.m. to 6 a.m.",
+   "11 p.m. to 5 a.m.",
+   "Midnight to 5 a.m.",
+   "Sunset to sunrise"
+  ],
+  "answer": 2,
+  "hint": "The restriction covers the very late night and early morning hours.",
+  "explain": "Learners are not permitted to drive from midnight to 5 a.m., even with a supervisor.",
+  "quote": "You are not permitted to drive from midnight to 5 a.m.",
+  "topic": "Learner curfew: no driving 12 a.m. to 5 a.m."
+ },
+ {
+  "id": "c01-008",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "It is 1 a.m. and you hold a Class 7 learner's licence. Your mother, who has a full Class 5 licence, offers to sit next to you while you drive home. May you drive?",
+  "choices": [
+   "Yes, because a fully licensed adult is next to you",
+   "No, learners cannot drive from midnight to 5 a.m.",
+   "Yes, but only on well-lit city streets",
+   "Yes, as long as you stay under 50 km/h"
+  ],
+  "answer": 1,
+  "hint": "Look at the clock before you think about who is in the passenger seat.",
+  "explain": "Learners are not permitted to drive from midnight to 5 a.m. Having a supervisor does not change this rule.",
+  "quote": "You are not permitted to drive from midnight to 5 a.m.",
+  "topic": "Learner curfew: no driving 12 a.m. to 5 a.m."
+ },
+ {
+  "id": "c01-009",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "Which passenger rule applies to Class 7 learners?",
+  "choices": [
+   "You cannot have more passengers than seat belts",
+   "You may carry extra passengers if they are under 12",
+   "One passenger may ride without a seat belt on short trips",
+   "Passengers need no seat belt if a supervisor is present"
+  ],
+  "answer": 0,
+  "hint": "Think about what every person in the vehicle needs.",
+  "explain": "Learners are not permitted to have more passengers than seat belts. Probationary drivers have the same rule.",
+  "quote": "You are not permitted to have more passengers than seat belts.",
+  "topic": "GDL passenger limit: no more passengers than seatbelts"
+ },
+ {
+  "id": "c01-010",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "A Class 7 learner will be suspended after building up how many demerit points?",
+  "choices": [
+   "4 or more",
+   "6 or more",
+   "15 or more",
+   "8 or more"
+  ],
+  "answer": 3,
+  "hint": "GDL drivers have a lower limit than fully licensed drivers, and it is the same for learners and probationary drivers.",
+  "explain": "Learners and probationary drivers are suspended if they accumulate eight or more demerit points.",
+  "quote": "You will be suspended if you accumulate eight or more demerit points.",
+  "topic": "GDL demerit suspension threshold (8 points)"
+ },
+ {
+  "id": "c01-011",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "What alcohol or drug level is allowed when a Class 7 learner is driving?",
+  "choices": [
+   "A small amount, if you feel fine",
+   "Anything under the adult legal limit",
+   "Zero, none at all",
+   "Any amount, if your supervisor is sober"
+  ],
+  "answer": 2,
+  "hint": "GDL drivers have the strictest possible rule.",
+  "explain": "Learners must have a zero alcohol and drug level when driving, and also when riding a motorcycle.",
+  "quote": "You must have a zero alcohol and/ or drug level when driving (or riding a motorcycle).",
+  "topic": "Zero alcohol / zero drug for GDL drivers"
+ },
+ {
+  "id": "c01-012",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "In Alberta's Graduated Driver Licensing (GDL) program, what licence do you hold in Stage Two?",
+  "choices": [
+   "Class 7 (Learner's Licence)",
+   "Class 5-GDL (Probationary Licence)",
+   "Full Class 5 (non-GDL)",
+   "Class 6 (Motorcycle)"
+  ],
+  "answer": 1,
+  "hint": "Stage Two comes after you pass the Class 5 road test but before you leave the GDL program.",
+  "explain": "Stage One is the Class 7 learner's licence and Stage Two is the Class 5-GDL probationary licence.",
+  "quote": "Stage One: Class 7 (Learner’s Licence) - Stage Two: Class 5-GDL (Probationary Licence)",
+  "topic": "GDL structure: Class 7 is first stage"
+ },
+ {
+  "id": "c01-013",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "A 35-year-old is getting a driver's licence for the first time. Is this person part of the Graduated Driver Licensing (GDL) program?",
+  "choices": [
+   "Yes, all new drivers are in GDL regardless of age",
+   "No, GDL is only for drivers under 18",
+   "No, GDL is only for drivers under 25",
+   "Only if they choose to take a driving course"
+  ],
+  "answer": 0,
+  "hint": "The program is about driving experience, not birthdays.",
+  "explain": "Regardless of age, all new drivers are part of the GDL program.",
+  "quote": "Regardless of age, all new drivers are part of the Graduated Driver Licensing (GDL) program.",
+  "topic": "GDL structure: Class 7 is first stage"
+ },
+ {
+  "id": "c01-014",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "You are 15. Besides passing your tests and having valid identification, what else do you need to get a Class 7 learner's licence?",
+  "choices": [
+   "A completed driver education course",
+   "A signed note from your school",
+   "A vehicle registered in your name",
+   "Consent from a parent or guardian"
+  ],
+  "answer": 3,
+  "hint": "Think about what changes for applicants who are not yet adults.",
+  "explain": "If you are under 18, you need parental consent to get a Class 7 licence, along with passing a vision screening and knowledge test and having valid identification.",
+  "quote": "have parental consent if you are under 18 years of age have valid identification.",
+  "topic": "Parent/guardian consent if under 18"
+ },
+ {
+  "id": "c01-015",
+  "ch": 1,
+  "sec": "s014",
+  "page": 18,
+  "type": "rule",
+  "img": null,
+  "q": "A parent signed the consent for their 16-year-old's licence and later withdraws that consent in writing. What happens?",
+  "choices": [
+   "Nothing changes until the teen turns 18",
+   "Nothing, since consent can't be taken back",
+   "The teen's licence is suspended",
+   "The licence stays valid but the parent pays fines"
+  ],
+  "answer": 2,
+  "hint": "The parent's agreement is what allows a minor to hold the licence in the first place.",
+  "explain": "A parent or guardian can revoke consent in writing until the minor turns 18. If consent is revoked, the licence is suspended.",
+  "quote": "The guardian has the right to revoke their consent in writing until the minor turns 18. If revoked, the licence will be suspended.",
+  "topic": "Parent/guardian consent if under 18 (and withdrawing consent)"
+ },
+ {
+  "id": "c01-016",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "You got your Class 7 learner's licence on your 14th birthday. What is the earliest you can become a Class 5-GDL probationary driver?",
+  "choices": [
+   "At 15, after one year as a learner",
+   "At 16, after passing the Class 5 road test",
+   "At 18, when you become an adult",
+   "At 14 and a half, after six months as a learner"
+  ],
+  "answer": 1,
+  "hint": "There is a time-held rule and a minimum age rule, and you must meet both.",
+  "explain": "To become probationary you must hold your Class 7 for a year, be 16 or older, and pass the Class 5 road test. Starting at 14, the age rule is the one that holds you back.",
+  "quote": "hold your Class 7 leaner’s licence for a year (this time will be extended if you receive a suspension of your driving privileges) be 16 years of age or older pass the Alberta Class 5 road test.",
+  "topic": "Hold Class 7 at least 1 year (and age 16) before Class 5-GDL road test"
+ },
+ {
+  "id": "c01-017",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "Without a driver training course, what is the minimum time you must spend as a Class 5-GDL probationary driver?",
+  "choices": [
+   "Two years",
+   "One year",
+   "Three years",
+   "Six months"
+  ],
+  "answer": 0,
+  "hint": "It is longer than the minimum learner stage.",
+  "explain": "Probationary drivers must stay in that stage for at least two years. An approved driver training course can shorten it by up to six months.",
+  "quote": "You must be a probationary driver for a minimum of two years.",
+  "topic": "Probationary (Class 5-GDL) minimum 2 years; exit requirements"
+ },
+ {
+  "id": "c01-018",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "Riley is a Class 5-GDL probationary driver with 6 demerit points and gets a ticket worth 2 more points. What happens?",
+  "choices": [
+   "Nothing yet; the limit is 15 points",
+   "Nothing yet; the limit is 10 points",
+   "Nothing yet; GDL drivers get a warning first",
+   "Riley is suspended for reaching 8 points"
+  ],
+  "answer": 3,
+  "hint": "Add up the points and compare them with the GDL limit.",
+  "explain": "Probationary drivers are suspended if they accumulate eight or more demerit points. Six plus two reaches that limit.",
+  "quote": "You will be suspended if you accumulate eight or more demerit points.",
+  "topic": "GDL demerit suspension threshold (8 points)"
+ },
+ {
+  "id": "c01-019",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "You are 19 and hold a Class 5-GDL probationary licence. What alcohol or drug level are you allowed when driving?",
+  "choices": [
+   "Any level under the adult legal limit",
+   "A small amount, since you are over 18",
+   "Zero, none at all",
+   "Any level, once you've been licensed a year"
+  ],
+  "answer": 2,
+  "hint": "The GDL rule depends on your licence, not your age.",
+  "explain": "Probationary drivers must have a zero alcohol and drug level when driving. This condition is removed only when you exit the GDL program.",
+  "quote": "You must have a zero alcohol and/or drug level when driving. ... remove the zero alcohol and drug tolerance condition",
+  "topic": "Zero alcohol / zero drug for GDL drivers"
+ },
+ {
+  "id": "c01-020",
+  "ch": 1,
+  "sec": "s005",
+  "page": 12,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these is a rule for Class 5-GDL probationary drivers?",
+  "choices": [
+   "You may carry more passengers than seat belts",
+   "You cannot re-class to a Class 1, 2, 3 or 4 licence",
+   "You are suspended only at 15 demerit points",
+   "You may supervise a learner once you are 18"
+  ],
+  "answer": 1,
+  "hint": "Think about which privileges are held back until you finish the GDL program.",
+  "explain": "Probationary drivers cannot re-class to a commercial (Class 1, 2, 3 or 4) licence. They also cannot supervise a learner, and they are suspended at eight demerit points.",
+  "quote": "You are not able to re-class your licence to a commercial driver’s licence (Class 1, 2, 3, or 4).",
+  "topic": "Probationary (Class 5-GDL) conditions"
+ },
+ {
+  "id": "c01-021",
+  "ch": 1,
+  "sec": "s005",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "What is the minimum age to exit the GDL program and get a full Class 5 licence?",
+  "choices": [
+   "18 years old",
+   "16 years old",
+   "17 years old",
+   "21 years old"
+  ],
+  "answer": 0,
+  "hint": "It is the same as the minimum age to supervise a learner.",
+  "explain": "To exit GDL you must be at least 18, have been probationary for at least two years, and be free of suspensions and traffic violations in the last 12 months of the probationary stage.",
+  "quote": "To exit the GDL program you must: be at least 18 years of age",
+  "topic": "Probationary (Class 5-GDL) minimum 2 years; exit requirements"
+ },
+ {
+  "id": "c01-022",
+  "ch": 1,
+  "sec": "s005",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "To exit the GDL program, you must be free of suspensions and traffic violations for what period?",
+  "choices": [
+   "The last 6 months of the probationary stage",
+   "The last 24 months of the probationary stage",
+   "The last 3 months of the probationary stage",
+   "The last 12 months of the probationary stage"
+  ],
+  "answer": 3,
+  "hint": "The guide looks back over the final part of your probationary stage, not the whole thing.",
+  "explain": "To exit GDL you must have no suspensions or traffic violations, including breaking the zero alcohol and drug rule, within the last 12 months of the probationary stage.",
+  "quote": "be free of suspensions or traffic violations within the last 12 months of the probationary stage, including zero alcohol and/or drug level when driving.",
+  "topic": "Probationary (Class 5-GDL) minimum 2 years; exit requirements"
+ },
+ {
+  "id": "c01-023",
+  "ch": 1,
+  "sec": "s005",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "How can a probationary driver shorten the probationary stage?",
+  "choices": [
+   "Pass the knowledge test a second time",
+   "Drive with a supervisor for six more months",
+   "Complete an approved driver training course",
+   "Turn 18 before the two years are up"
+  ],
+  "answer": 2,
+  "hint": "The guide rewards extra training with a shorter wait.",
+  "explain": "Completing an approved driver training course can cut up to six months off the probationary stage, as long as all other eligibility requirements are met.",
+  "quote": "You can reduce your probationary stage by up to six months, if: you successfully complete an approved driver training course",
+  "topic": "Probationary (Class 5-GDL) minimum 2 years; exit requirements"
+ },
+ {
+  "id": "c01-024",
+  "ch": 1,
+  "sec": "s005",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "By up to how much can an approved driver training course reduce your probationary stage?",
+  "choices": [
+   "Three months",
+   "Six months",
+   "One year",
+   "Eighteen months"
+  ],
+  "answer": 1,
+  "hint": "It is part of a year, not a full year or more.",
+  "explain": "An approved driver training course can reduce the probationary stage by up to six months, as long as all other requirements are met.",
+  "quote": "You can reduce your probationary stage by up to six months",
+  "topic": "Probationary (Class 5-GDL) minimum 2 years; exit requirements"
+ },
+ {
+  "id": "c01-025",
+  "ch": 1,
+  "sec": "s005",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these happens when you exit the GDL program and get a full Class 5 licence?",
+  "choices": [
+   "You can be the accompanying driver for a learner",
+   "The number of demerits you are allowed goes down",
+   "The zero alcohol and drug rule becomes permanent",
+   "You can no longer re-class to a Class 1, 2, 3 or 4"
+  ],
+  "answer": 0,
+  "hint": "Think about something a probationary driver is not allowed to do for someone else.",
+  "explain": "When you exit GDL you can supervise a learner, you qualify to re-class to Class 1, 2, 3 or 4, you are allowed more demerits, and the zero alcohol and drug condition is removed.",
+  "quote": "Upon exiting the GDL program, you will: ... be able to be an accompanying driver to a learner.",
+  "topic": "Probationary (Class 5-GDL) minimum 2 years; exit requirements"
+ },
+ {
+  "id": "c01-026",
+  "ch": 1,
+  "sec": "s005",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "Jordan is 19, has been a probationary driver for 18 months with a clean record, and did not take a driver training course. Can Jordan exit the GDL program now?",
+  "choices": [
+   "Yes, Jordan is over 18 and has a clean record",
+   "Yes, 12 months with no violations is enough",
+   "No, Jordan must wait until turning 21",
+   "No, Jordan needs at least two years as a probationary driver"
+  ],
+  "answer": 3,
+  "hint": "Age is not the only requirement; check how long Jordan has been probationary.",
+  "explain": "To exit GDL you must be at least 18 and have been probationary for at least two years, with no suspensions or violations in the last 12 months. Without the driver training reduction, 18 months is not enough.",
+  "quote": "be at least 18 years of age be in the probationary stage for a minimum of two years",
+  "topic": "Probationary (Class 5-GDL) minimum 2 years; exit requirements"
+ },
+ {
+  "id": "c01-027",
+  "ch": 1,
+  "sec": "s006",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "Where do the questions on the Class 7 knowledge test come from?",
+  "choices": [
+   "The Class 5 road test checklist",
+   "Each registry agent's own question list",
+   "The Alberta Driver's Guide",
+   "The Traffic Safety Act only"
+  ],
+  "answer": 2,
+  "hint": "Think about what the province publishes for new drivers to study.",
+  "explain": "The knowledge test is based on questions taken from the Driver's Guide. It covers safe driving practices, driving laws and road signs.",
+  "quote": "The test is based on questions taken from this guide. You will be asked about safe driving practices, driving laws, and road signs.",
+  "topic": "Knowledge/road test logistics"
+ },
+ {
+  "id": "c01-028",
+  "ch": 1,
+  "sec": "s006",
+  "page": 13,
+  "type": "rule",
+  "img": null,
+  "q": "How many knowledge tests can you take in one day?",
+  "choices": [
+   "Two",
+   "One",
+   "Three",
+   "As many as you want"
+  ],
+  "answer": 1,
+  "hint": "The rule gives you time to study before trying again.",
+  "explain": "There is a fee for each knowledge test, and you can take only one test per day.",
+  "quote": "There is a fee for each knowledge test that you take, and you can take only one test per day.",
+  "topic": "Knowledge/road test logistics"
+ },
+ {
+  "id": "c01-029",
+  "ch": 1,
+  "sec": "s007",
+  "page": 14,
+  "type": "rule",
+  "img": null,
+  "q": "You wear glasses to drive. What should you do when you go for your vision assessment?",
+  "choices": [
+   "Bring your glasses with you",
+   "Leave them at home so your natural vision is tested",
+   "Bring a note from your optometrist instead",
+   "Wear sunglasses so the lights don't bother you"
+  ],
+  "answer": 0,
+  "hint": "The assessment should check your vision the way you will see while driving.",
+  "explain": "If you have corrective glasses or contact lenses, bring them with you to your vision assessment.",
+  "quote": "If you have corrective glasses or contact lenses, bring them with you for your vision assessment.",
+  "topic": "Medical conditions/vision: vision screening"
+ },
+ {
+  "id": "c01-030",
+  "ch": 1,
+  "sec": "s007",
+  "page": 14,
+  "type": "rule",
+  "img": null,
+  "q": "What happens if you do not meet the vision standards at your vision assessment?",
+  "choices": [
+   "You can never hold an Alberta driver's licence",
+   "You must wait one full year before trying again",
+   "You can take the road test instead",
+   "You are referred to an optometrist or ophthalmologist"
+  ],
+  "answer": 3,
+  "hint": "The first step is a closer look, not a final decision.",
+  "explain": "If you do not meet the vision standards, you are referred to an optometrist or ophthalmologist to have a Vision Referral form completed.",
+  "quote": "If you do not meet the vision standards, you will be referred to an optometrist or an ophthalmologist to have a Vision Referral form completed.",
+  "topic": "Medical conditions/vision: vision screening"
+ },
+ {
+  "id": "c01-031",
+  "ch": 1,
+  "sec": "s018",
+  "page": 20,
+  "type": "rule",
+  "img": null,
+  "q": "If you need glasses or contact lenses to meet the vision standard, what will your driver's licence show?",
+  "choices": [
+   "An endorsement code for special training",
+   "A daylight-driving-only restriction",
+   "A condition code for that requirement",
+   "Nothing, because glasses are never noted"
+  ],
+  "answer": 2,
+  "hint": "Glasses are something you must wear every time you drive.",
+  "explain": "A condition code shows special requirements. If you need glasses or contacts to meet the vision standard, a condition code on your licence shows it.",
+  "quote": "If you require glasses or contact lenses to improve your vision to meet these standards, you will have a condition code on your driver’s licence indicating this requirement.",
+  "topic": "Medical conditions/vision: vision screening"
+ },
+ {
+  "id": "c01-032",
+  "ch": 1,
+  "sec": "s008",
+  "page": 15,
+  "type": "rule",
+  "img": null,
+  "q": "At an uncontrolled intersection, you must be prepared to yield to drivers coming from which direction?",
+  "choices": [
+   "Your left",
+   "Your right",
+   "Straight ahead of you",
+   "Behind you"
+  ],
+  "answer": 1,
+  "hint": "Think about the basic right-of-way rule at intersections with no signs or signals.",
+  "explain": "At uncontrolled intersections you must slow, look carefully and be prepared to yield to drivers on your right. Failing to do this is an automatic road test failure.",
+  "quote": "Failing to slow or observe adequately at uncontrolled intersections (you must be prepared to yield to drivers to your right).",
+  "topic": "Uncontrolled intersection: yield to vehicle on the right"
+ },
+ {
+  "id": "c01-033",
+  "ch": 1,
+  "sec": "s008",
+  "page": 15,
+  "type": "rule",
+  "img": null,
+  "q": "Before turning right on a red light, what must you do?",
+  "choices": [
+   "Stop completely",
+   "Slow to walking speed, then turn if clear",
+   "Sound your horn to warn pedestrians",
+   "Turn quickly before cross traffic arrives"
+  ],
+  "answer": 0,
+  "hint": "Think about what the guide lists as an automatic road test failure at intersections.",
+  "explain": "You must stop completely before turning right on a red light. Not doing so is an automatic failure on the road test.",
+  "quote": "Failing to stop completely before proceeding through an intersection controlled by a stop sign, or before turning right on a red light.",
+  "topic": "Turning on a red light (right on red after full stop)"
+ },
+ {
+  "id": "c01-034",
+  "ch": 1,
+  "sec": "s008",
+  "page": 15,
+  "type": "rule",
+  "img": null,
+  "q": "During the Class 5 road test, can driving too slowly cause you to fail?",
+  "choices": [
+   "No, only speeding counts against you",
+   "No, slow driving always scores better",
+   "Only after two warnings from the examiner",
+   "Yes, if it obstructs traffic it is an automatic failure"
+  ],
+  "answer": 3,
+  "hint": "Other drivers need to be able to keep moving safely too.",
+  "explain": "Obstructing traffic by driving too slowly or stopping unnecessarily results in automatic failure, no matter your point total.",
+  "quote": "Regardless of point totals, the following actions result in automatic failure: ... Obstructing traffic by driving too slowly or stopping unnecessarily.",
+  "topic": "Posted limit = max; minimum speed / driving too slowly"
+ },
+ {
+  "id": "c01-035",
+  "ch": 1,
+  "sec": "s009",
+  "page": 15,
+  "type": "rule",
+  "img": null,
+  "q": "A Class 7 learner wants to learn to ride a motorcycle. What does the guide require?",
+  "choices": [
+   "Be 14 or older and learn with any fully licensed driver",
+   "Be 18 or older and hold a full Class 5 licence first",
+   "Be 16 or older and learn with a Class 6 non-GDL supervisor",
+   "Be 16 or older and practise alone on quiet roads"
+  ],
+  "answer": 2,
+  "hint": "Check both the minimum age and who must be with you while you learn.",
+  "explain": "A Class 7 holder may learn on a motorcycle only if they are 16 or older and their supervisor holds a Class 6 non-GDL licence.",
+  "quote": "a motorcycle (must be 16 years of age or older when learning with a supervisor who holds a Class 6 non-GDL licence)",
+  "topic": "Licence classes (what Class 5/6/7 allow)"
+ },
+ {
+  "id": "c01-036",
+  "ch": 1,
+  "sec": "s009",
+  "page": 16,
+  "type": "rule",
+  "img": null,
+  "q": "With a Class 5 licence, you may not drive a vehicle that seats more than how many people while it is carrying anyone other than the driver?",
+  "choices": [
+   "10",
+   "15",
+   "12",
+   "24"
+  ],
+  "answer": 1,
+  "hint": "Think of a large passenger van, not a full-size bus.",
+  "explain": "A Class 5 driver shall not operate a vehicle with a seating capacity of more than 15 while it is transporting anyone other than the driver.",
+  "quote": "a vehicle with a seating capacity of more than 15 while that vehicle is transporting any person other than the driver",
+  "topic": "Licence classes (what Class 5/6/7 allow)"
+ },
+ {
+  "id": "c01-037",
+  "ch": 1,
+  "sec": "s009",
+  "page": 16,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these may a Class 5 licence holder drive?",
+  "choices": [
+   "A moped",
+   "A motorcycle, without being a learner",
+   "A vehicle carrying passengers for hire",
+   "A 20-seat bus full of passengers"
+  ],
+  "answer": 0,
+  "hint": "Look for the smallest, simplest vehicle on the list.",
+  "explain": "A Class 5 licence covers a moped. A Class 5 driver shall not operate a motorcycle (unless learning), carry passengers for hire, or drive a vehicle seating more than 15 while carrying passengers.",
+  "quote": "Vehicles that may be operated with a Class 5 driver’s licence: ... a moped ... The holder of a Class 5 driver’s licence shall not operate: a motorcycle (unless for learning)",
+  "topic": "Licence classes (what Class 5/6/7 allow; moped)"
+ },
+ {
+  "id": "c01-038",
+  "ch": 1,
+  "sec": "s013",
+  "page": 17,
+  "type": "rule",
+  "img": null,
+  "q": "When you drive a motor vehicle on a highway, where must your driver's licence be?",
+  "choices": [
+   "At home, in a safe place",
+   "With the vehicle's owner",
+   "Registered online; the card isn't needed",
+   "In your possession"
+  ],
+  "answer": 3,
+  "hint": "A peace officer may ask to see it while you are driving.",
+  "explain": "A person shall not drive a motor vehicle on a highway unless their driver's licence is in their possession.",
+  "quote": "A person shall not drive a motor vehicle on a highway unless that person’s driver’s licence is in that person’s possession.",
+  "topic": "Carry licence, registration, insurance"
+ },
+ {
+  "id": "c01-039",
+  "ch": 1,
+  "sec": "s013",
+  "page": 17,
+  "type": "rule",
+  "img": null,
+  "q": "If a peace officer asks, which documents must a driver produce?",
+  "choices": [
+   "Driver's licence and birth certificate",
+   "Insurance and the vehicle's bill of sale",
+   "Driver's licence, insurance and registration",
+   "Registration and a passport"
+  ],
+  "answer": 2,
+  "hint": "Think about what proves you may drive and what proves the vehicle is legal to be on the road.",
+  "explain": "On the request of a peace officer, a driver must produce their driver's licence, insurance and registration, so keep them with you every time you drive.",
+  "quote": "On the request of a peace officer, a person driving a motor vehicle shall produce their subsisting driver’s licence, insurance, and registration.",
+  "topic": "Carry licence, registration, insurance"
+ },
+ {
+  "id": "c01-040",
+  "ch": 1,
+  "sec": "s016",
+  "page": 18,
+  "type": "rule",
+  "img": null,
+  "q": "You move to Alberta from another Canadian province. How long can you drive on your out-of-province licence?",
+  "choices": [
+   "The first 30 days of residency",
+   "The first 90 days of residency",
+   "The first six months of residency",
+   "The first year of residency"
+  ],
+  "answer": 1,
+  "hint": "New residents get less time than short-term visitors do.",
+  "explain": "New Alberta residents may use their out-of-province licence for the first 90 days and must apply for an Alberta licence and surrender the old one within that time. The one-year rule is for visitors.",
+  "quote": "New Alberta residents may use their out-of-province driver’s licence for the first 90 days of residency.",
+  "topic": "Residency, new residents, visitors/students, one licence only"
+ },
+ {
+  "id": "c01-041",
+  "ch": 1,
+  "sec": "s016",
+  "page": 18,
+  "type": "rule",
+  "img": null,
+  "q": "Is it legal to hold a driver's licence from Alberta and another province at the same time?",
+  "choices": [
+   "No, it is illegal to hold more than one licence",
+   "Yes, as long as both are valid",
+   "Yes, for up to one year",
+   "Only if one is a learner's licence"
+  ],
+  "answer": 0,
+  "hint": "Moving here means trading in your old licence, not keeping both.",
+  "explain": "It is illegal to hold more than one driver's licence. New residents must surrender their out-of-province licence within 90 days.",
+  "quote": "They must apply for an Alberta driver’s licence and surrender their out-of-province licence within those 90 days. It is illegal to hold more than one driver’s licence.",
+  "topic": "Residency, new residents, visitors/students, one licence only"
+ },
+ {
+  "id": "c01-042",
+  "ch": 1,
+  "sec": "s017",
+  "page": 19,
+  "type": "rule",
+  "img": null,
+  "q": "You have a medical condition, such as a seizure disorder, that could affect your ability to drive safely. What does the law require?",
+  "choices": [
+   "You only report it after a collision",
+   "You only report it once you turn 75",
+   "You only tell your supervising driver",
+   "You must disclose it"
+  ],
+  "answer": 3,
+  "hint": "The rule applies to drivers of every age.",
+  "explain": "You must disclose any medical or physical condition that could affect your ability to drive safely, and submit a Driver Medical Intake Form.",
+  "quote": "Under the Operator Licensing and Vehicle Control Regulation, you must disclose any medical or physical condition that could affect your ability to safely operate a motor vehicle.",
+  "topic": "Medical conditions/vision: driver must report"
+ },
+ {
+  "id": "c01-043",
+  "ch": 1,
+  "sec": "s019",
+  "page": 21,
+  "type": "rule",
+  "img": null,
+  "q": "A vehicle owner lets someone drive who does not hold the proper class of licence for that vehicle. Who has committed an offence?",
+  "choices": [
+   "Only the driver",
+   "Only the vehicle owner",
+   "The driver and the vehicle owner",
+   "No one, if the driver holds any valid licence"
+  ],
+  "answer": 2,
+  "hint": "Think about the person behind the wheel and the person who handed over the keys.",
+  "explain": "Driving with the wrong licence class is against the law, and it is also an offence for an owner to let someone without the proper class use their vehicle.",
+  "quote": "Driving with the wrong licence class is against the law. It is an offence for vehicle owners to allow their vehicle to be used by someone who does not have the proper class of licence for that vehicle.",
+  "topic": "Licence classes (driving with the wrong class)"
+ },
+ {
+  "id": "c01-044",
+  "ch": 1,
+  "sec": "s020",
+  "page": 21,
+  "type": "rule",
+  "img": null,
+  "q": "Your driver's licence is stolen. What must you do?",
+  "choices": [
+   "Wait until it expires, then renew it",
+   "Report it to police, then apply for a replacement",
+   "Keep driving until your next renewal",
+   "Report it only to your insurance company"
+  ],
+  "answer": 1,
+  "hint": "There are two steps: one deals with the theft, the other with getting a new licence.",
+  "explain": "Apply for a replacement right away at a registry agent office. If it was stolen, report it to police and give the registry agent a copy of the police report.",
+  "quote": "If your driver’s licence is stolen, you must report it to the police, and provide a copy of the police report to the registry agent when you apply for your replacement.",
+  "topic": "Carry licence, registration, insurance"
+ },
+ {
+  "id": "c01-045",
+  "ch": 1,
+  "sec": "s021",
+  "page": 22,
+  "type": "rule",
+  "img": null,
+  "q": "Whose responsibility is it to renew your driver's licence on time?",
+  "choices": [
+   "Yours, on or before the expiry date",
+   "The government's, by mailing a reminder",
+   "Your insurance company's",
+   "The registry agent's, by calling you"
+  ],
+  "answer": 0,
+  "hint": "The government has stopped mailing reminders to most drivers.",
+  "explain": "The Government of Alberta has stopped mailing reminders. It is your responsibility to renew your licence on or before the expiry date.",
+  "quote": "It is your responsibility to renew your driver’s licence on or before the expiry date.",
+  "topic": "Carry licence, registration, insurance"
+ },
+ {
+  "id": "c01-046",
+  "ch": 1,
+  "sec": "s023",
+  "page": 22,
+  "type": "rule",
+  "img": null,
+  "q": "Which of these must be registered to travel on Alberta roadways?",
+  "choices": [
+   "Only motor vehicles, not trailers",
+   "Only vehicles used for business",
+   "Only vehicles worth over $5,000",
+   "Motor vehicles and trailers"
+  ],
+  "answer": 3,
+  "hint": "Think about everything that rolls along the road with a licence plate.",
+  "explain": "Motor vehicles and trailers travelling on Alberta roadways must be registered.",
+  "quote": "Motor vehicles and trailers travelling on Alberta roadways must be registered.",
+  "topic": "Carry licence, registration, insurance"
+ },
+ {
+  "id": "c01-047",
+  "ch": 1,
+  "sec": "s023",
+  "page": 22,
+  "type": "rule",
+  "img": null,
+  "q": "You sell your car to a friend. What happens to the licence plate?",
+  "choices": [
+   "It stays on the car for your friend",
+   "You must hand it in to the police",
+   "You keep it; plates are not transferable",
+   "Your friend must buy it from you"
+  ],
+  "answer": 2,
+  "hint": "Think about who the plate belongs to.",
+  "explain": "In Alberta, licence plates remain with the owner of the vehicle and are not transferable to another person.",
+  "quote": "In Alberta, licence plates remain with the owner of the vehicle and are not transferable to another person.",
+  "topic": "Carry licence, registration, insurance"
+ },
+ {
+  "id": "c01-048",
+  "ch": 1,
+  "sec": "s023",
+  "page": 22,
+  "type": "rule",
+  "img": null,
+  "q": "Is it legal to drive a motor vehicle in Alberta without insurance?",
+  "choices": [
+   "Yes, but only on rural roads",
+   "No, operating an uninsured vehicle is illegal",
+   "Yes, for 30 days after you buy it",
+   "Yes, for learners with a supervisor"
+  ],
+  "answer": 1,
+  "hint": "Think about who would pay for the damage if you caused a collision.",
+  "explain": "All motor vehicles must be insured with a public liability insurance policy, and it is illegal to operate an uninsured motor vehicle.",
+  "quote": "All motor vehicles must be insured with a public liability insurance policy as outlined in the Alberta Insurance Act. It is illegal to operate an uninsured motor vehicle.",
+  "topic": "Carry licence, registration, insurance; minimum liability insurance"
+ },
+ {
+  "id": "c01-049",
+  "ch": 1,
+  "sec": "s023",
+  "page": 22,
+  "type": "rule",
+  "img": null,
+  "q": "Your insurance company gives you a financial responsibility card (pink card). When must you show it?",
+  "choices": [
+   "When registering a vehicle and when a peace officer asks",
+   "Only when renewing your driver's licence",
+   "Only after you have a collision",
+   "Only when driving into another province"
+  ],
+  "answer": 0,
+  "hint": "Think about the times someone needs proof that your vehicle is insured.",
+  "explain": "The pink card must be presented when you register a vehicle and when a peace officer asks for it.",
+  "quote": "Your insurance company issues a financial responsibility card (pink card) which must be presented when registering a vehicle and when requested by a peace officer.",
+  "topic": "Carry licence, registration, insurance"
+ }
+]

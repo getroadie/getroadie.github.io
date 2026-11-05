@@ -1,0 +1,942 @@
+[
+  {
+    "id": "c08-001",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "You see a yellow flashing pedestrian-activated traffic light. What should you do?",
+    "choices": [
+      "Come to a full stop and wait until the light stops flashing",
+      "Slow to 30 km/h and yield to pedestrians wanting to cross",
+      "Slow to 50 km/h and sound your horn to warn pedestrians",
+      "Keep your speed, since the light is only for pedestrians"
+    ],
+    "answer": 1,
+    "hint": "The light asks you to slow down a lot and be ready to give way.",
+    "explain": "At a yellow flashing pedestrian-activated light, slow to 30 km/h and yield to pedestrians who want to cross the street.",
+    "quote": "When you see a yellow flashing pedestrian-activated traffic light, slow to 30 km/h and yield to pedestrians wanting to cross the street.",
+    "topic": "Pedestrian-activated lights"
+  },
+  {
+    "id": "c08-002",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "In an urban area, how may a pedestrian show they intend to cross the street?",
+    "choices": [
+      "By raising an arm straight up above their head",
+      "By standing at the curb with their back to traffic",
+      "By raising an arm and pointing to the opposite curb",
+      "By pointing down at the painted crosswalk lines"
+    ],
+    "answer": 2,
+    "hint": "The pedestrian's arm shows where they want to go.",
+    "explain": "In urban areas, a pedestrian may raise an arm at a right angle and point to the opposite curb to show they want to cross. You must then stop safely before the crosswalk.",
+    "quote": "In an urban area, pedestrians may indicate their intention to cross a street by raising an arm at a right angle and pointing to the opposite curb.",
+    "topic": "Pedestrians: crossing signal"
+  },
+  {
+    "id": "c08-003",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "A pedestrian at a crosswalk points to the opposite curb to show they want to cross. What must you do?",
+    "choices": [
+      "Stop safely before the crosswalk and let them cross",
+      "Slow down and steer around them",
+      "Sound your horn so they wait for you to pass",
+      "Keep going if no one is in the crosswalk yet"
+    ],
+    "answer": 0,
+    "hint": "The signal is a request you are required to honour.",
+    "explain": "When pedestrians show they intend to cross, you must stop your vehicle safely before the crosswalk and allow them to cross.",
+    "quote": "When pedestrians indicate their intention to cross the street, you must stop your vehicle safely before the crosswalk and allow them to cross.",
+    "topic": "Pedestrians: crosswalks"
+  },
+  {
+    "id": "c08-004",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "A pedestrian has stepped into an unmarked crosswalk at an intersection. What must you do?",
+    "choices": [
+      "Continue, since unmarked crosswalks do not count",
+      "Yield only if there is a pedestrian signal",
+      "Sound your horn and proceed slowly",
+      "Yield the right-of-way to the pedestrian"
+    ],
+    "answer": 3,
+    "hint": "Painted lines are not what gives a pedestrian the right-of-way.",
+    "explain": "Once a pedestrian has entered a marked or unmarked crosswalk, you must yield the right-of-way. Follow pedestrian safety rules at all intersections, even where crosswalks are not marked.",
+    "quote": "When a pedestrian has entered a marked or unmarked crosswalk, you must yield the right-of-way. ... Not all crosswalks are marked, but the rules of pedestrian safety should be followed at all intersections.",
+    "topic": "Pedestrians: crosswalks"
+  },
+  {
+    "id": "c08-005",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "When you stop for a pedestrian at a crosswalk, about how far back should you stop?",
+    "choices": [
+      "About 20 metres",
+      "About two to three car lengths",
+      "As close to the crosswalk line as possible",
+      "About half a car length"
+    ],
+    "answer": 1,
+    "hint": "Stopping well back lets drivers in the other lanes see the pedestrian too.",
+    "explain": "Stop about two to three car lengths back so traffic in other lanes can see the pedestrian and has time to stop.",
+    "quote": "When stopping for a pedestrian at a crosswalk, stop far enough back (about two to three car lengths) so that traffic in other lanes will be able to see the pedestrian and have time to stop.",
+    "topic": "Pedestrians: crosswalks"
+  },
+  {
+    "id": "c08-006",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "You are approaching a crosswalk and the vehicle in the next lane is slowing down. What should you do?",
+    "choices": [
+      "Pass it quickly before it comes to a stop",
+      "Pass it if you cannot see anyone in the crosswalk",
+      "Do not pass it, because it may be stopping for a pedestrian",
+      "Sound your horn to find out why it is slowing"
+    ],
+    "answer": 2,
+    "hint": "The slowing vehicle may be hiding something you cannot see.",
+    "explain": "Never pass another vehicle when you are approaching a crosswalk. The other vehicle may be slowing or stopping for a pedestrian you cannot see.",
+    "quote": "Never pass another vehicle when you are approaching a crosswalk. There is always a chance that the other vehicle is slowing or stopping for a pedestrian.",
+    "topic": "Pedestrians: passing at crosswalks"
+  },
+  {
+    "id": "c08-007",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "While driving through a residential area, why should you glance under the parked vehicles ahead?",
+    "choices": [
+      "To spot children's feet, toys or bicycle wheels",
+      "To check for oil leaks on the road",
+      "To look for an open parking space",
+      "To see whether their parking brakes are on"
+    ],
+    "answer": 0,
+    "hint": "Small people can be hidden by parked cars.",
+    "explain": "Children can be unpredictable. Feet, toys or bicycle wheels under parked vehicles warn you that you may need to stop.",
+    "quote": "Glance under parked vehicles ahead on both sides of the road to check for children’s feet, toys, and bicycle wheels. These provide warning that you may need to stop.",
+    "topic": "Pedestrians: children"
+  },
+  {
+    "id": "c08-008",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "Alberta law requires cyclists and bicycle passengers of what age to wear an approved bicycle safety helmet?",
+    "choices": [
+      "Under 12 years of age",
+      "Under 14 years of age",
+      "Under 16 years of age",
+      "Under 18 years of age"
+    ],
+    "answer": 3,
+    "hint": "It covers more teens than you might expect.",
+    "explain": "The law requires cyclists and passengers on a bicycle who are under 18 to wear an approved bicycle safety helmet.",
+    "quote": "The law requires cyclists or passengers on a bicycle, who are under 18 years of age, to wear an approved bicycle safety helmet.",
+    "topic": "Cyclists: helmets"
+  },
+  {
+    "id": "c08-009",
+    "ch": 8,
+    "sec": "s087",
+    "page": 99,
+    "type": "rule",
+    "img": null,
+    "q": "A person is walking beside a bicycle and pushing it across the street. How should you treat them?",
+    "choices": [
+      "As a cyclist who must yield to you",
+      "As a pedestrian",
+      "As the driver of a vehicle",
+      "As an off-highway vehicle operator"
+    ],
+    "answer": 1,
+    "hint": "What matters is whether they are riding.",
+    "explain": "A cyclist who is walking beside and pushing a bicycle is a pedestrian. A bicycle that is being ridden is a vehicle.",
+    "quote": "A cyclist who is walking beside and pushing a bicycle is a pedestrian.",
+    "topic": "Cyclists: rules"
+  },
+  {
+    "id": "c08-010",
+    "ch": 8,
+    "sec": "s087",
+    "page": 100,
+    "type": "rule",
+    "img": null,
+    "q": "How should you pass a cyclist riding ahead of you in your lane?",
+    "choices": [
+      "Stay in your lane and squeeze past them",
+      "Sound your horn and pass them on the right",
+      "Change lanes as you would to pass any other vehicle",
+      "Follow closely until they pull onto the shoulder"
+    ],
+    "answer": 2,
+    "hint": "A cyclist needs room, not a close shave.",
+    "explain": "When passing a cyclist, change lanes as you would to pass any other vehicle.",
+    "quote": "When passing a cyclist, change lanes such as you would for other vehicles.",
+    "topic": "Cyclists: passing"
+  },
+  {
+    "id": "c08-011",
+    "ch": 8,
+    "sec": "s087",
+    "page": 100,
+    "type": "rule",
+    "img": null,
+    "q": "You are preparing to turn right at an intersection. What should you do about cyclists?",
+    "choices": [
+      "Shoulder check your right blind spot for cyclists beside you",
+      "Check only your left mirror, since cyclists pass on the left",
+      "Nothing, since cyclists must yield to turning vehicles",
+      "Turn quickly so cyclists behind you cannot catch up"
+    ],
+    "answer": 0,
+    "hint": "Cyclists often travel on the curb side of your vehicle.",
+    "explain": "Before a right turn, watch for cyclists who may be riding alongside you and shoulder check your blind spots to the right.",
+    "quote": "When you are preparing to turn right, watch for cyclists who may ride along side your vehicle. Remember to do a shoulder check to your blind spots to the right.",
+    "topic": "Cyclists: right turns"
+  },
+  {
+    "id": "c08-012",
+    "ch": 8,
+    "sec": "s087",
+    "page": 100,
+    "type": "rule",
+    "img": null,
+    "q": "You are parked at the curb and want to open your door. Who is responsible for making sure no cyclist is coming?",
+    "choices": [
+      "The cyclist, who must steer around parked cars",
+      "The city, which must mark bike lanes",
+      "No one, because your vehicle is parked",
+      "You, the driver"
+    ],
+    "answer": 3,
+    "hint": "Think about who is about to put something into the cyclist's path.",
+    "explain": "Always check for cyclists before opening your door. It is the driver's responsibility to wait until it is safe.",
+    "quote": "When parked at the curb, always check for cyclists before you open your vehicle door. It is the driver’s responsibility to wait until it is safe before opening the door.",
+    "topic": "Cyclists: dooring"
+  },
+  {
+    "id": "c08-013",
+    "ch": 8,
+    "sec": "s087",
+    "page": 100,
+    "type": "rule",
+    "img": null,
+    "q": "Why should you not follow too closely behind a cyclist?",
+    "choices": [
+      "You are not allowed to pass a cyclist",
+      "They have no brake lights to warn you when they stop",
+      "Cyclists are not allowed to use hand signals",
+      "Cyclists must ride in the centre of the lane"
+    ],
+    "answer": 1,
+    "hint": "Think about what usually tells you the vehicle ahead is slowing down.",
+    "explain": "Do not follow cyclists too closely. Bicycles do not have brake lights to warn you when they are stopping.",
+    "quote": "Do not follow too closely behind cyclists. They do not have brake lights to warn you when they are stopping.",
+    "topic": "Cyclists: following"
+  },
+  {
+    "id": "c08-014",
+    "ch": 8,
+    "sec": "s087",
+    "page": 100,
+    "type": "rule",
+    "img": null,
+    "q": "A motorcycle ahead is riding in the left part of its lane. What does this usually mean?",
+    "choices": [
+      "The rider is about to turn left",
+      "The rider wants you to pass on the right",
+      "The rider is about to pull over and stop",
+      "The rider is staying visible, not signalling a turn"
+    ],
+    "answer": 3,
+    "hint": "Think about why a small vehicle would want to stand out.",
+    "explain": "Motorcycle riders often ride in the left part of their lane to be more visible. It does not mean they will turn left.",
+    "quote": "Motorcycle riders often travel in the left portion of their lane. This helps make them more visible to other road users. It does not mean they will be turning left.",
+    "topic": "Motorcycles"
+  },
+  {
+    "id": "c08-015",
+    "ch": 8,
+    "sec": "s087",
+    "page": 101,
+    "type": "rule",
+    "img": null,
+    "q": "There seems to be room in the lane beside a motorcycle. May you share the lane with it?",
+    "choices": [
+      "Yes, if the rider is in the left part of the lane",
+      "No, a motorcycle rider needs the whole lane",
+      "Yes, if you are travelling under 50 km/h",
+      "Yes, if you signal before moving beside it"
+    ],
+    "answer": 1,
+    "hint": "Riders often move within their lane to avoid potholes and keep a space cushion.",
+    "explain": "Never share a lane with a motorcycle. The rider needs the whole lane to travel safely and may move within it to avoid hazards.",
+    "quote": "Never share a lane with a motorcycle rider. A motorcycle rider needs the whole lane to travel safely.",
+    "topic": "Motorcycles"
+  },
+  {
+    "id": "c08-016",
+    "ch": 8,
+    "sec": "s087",
+    "page": 101,
+    "type": "rule",
+    "img": null,
+    "q": "You are following a motorcycle. How much space should you leave?",
+    "choices": [
+      "Extra space, because motorcycles can stop very quickly",
+      "Less space than for a car, because motorcycles are small",
+      "The same as for a truck, because motorcycles stop slowly",
+      "Just enough space to read the motorcycle's licence plate"
+    ],
+    "answer": 0,
+    "hint": "Think about how fast a light vehicle can brake.",
+    "explain": "Allow extra space behind a motorcycle because motorcycles can stop very quickly.",
+    "quote": "When you are following someone riding a motorcycle, allow extra space between your vehicle and the motorcycle because motorcycles can stop very quickly.",
+    "topic": "Motorcycles: following"
+  },
+  {
+    "id": "c08-017",
+    "ch": 8,
+    "sec": "s087",
+    "page": 100,
+    "type": "rule",
+    "img": null,
+    "q": "Why should you take extra care for oncoming motorcycles when you are turning left?",
+    "choices": [
+      "They must yield to you once you signal",
+      "They always turn left before other traffic",
+      "They can be hard to see, and their speed is hard to judge",
+      "They are required to stop for left-turning vehicles"
+    ],
+    "answer": 2,
+    "hint": "Think about what makes a small vehicle easy to miss at dusk or in heavy traffic.",
+    "explain": "When turning left, watch for oncoming motorcycles. They can be hard to see, especially in heavy traffic, at night or at dusk, and their speed can be hard to judge.",
+    "quote": "When turning left, watch for oncoming motorcycles. They can be hard to see, especially in heavy traffic, at night, or at dusk. It may also be difficult to judge the speed of the motorcycle.",
+    "topic": "Motorcycles: left turns"
+  },
+  {
+    "id": "c08-018",
+    "ch": 8,
+    "sec": "s088",
+    "page": 101,
+    "type": "rule",
+    "img": null,
+    "q": "You are driving behind a large truck and cannot see both of its side mirrors. What does this mean?",
+    "choices": [
+      "You are at a safe following distance",
+      "You are too close to the truck",
+      "The truck is about to turn right",
+      "You should move closer so the driver notices you"
+    ],
+    "answer": 1,
+    "hint": "Larger vehicles have larger blind spots.",
+    "explain": "If you cannot see both side mirrors of a large vehicle you are following, you are too close. If you can see the driver in a side mirror, the driver can see you.",
+    "quote": "Larger vehicles have larger blind spots. If you are driving behind a large vehicle and cannot see both of its side mirrors, you are too close.",
+    "topic": "Large trucks: blind spots"
+  },
+  {
+    "id": "c08-019",
+    "ch": 8,
+    "sec": "s088",
+    "page": 101,
+    "type": "rule",
+    "img": null,
+    "q": "A large truck is approaching a traffic light. Why should you never move into the space in front of it?",
+    "choices": [
+      "Trucks have the right-of-way at all traffic lights",
+      "Trucks must stay in the left lane at traffic lights",
+      "That space is reserved for emergency vehicles",
+      "The truck needs that space to stop if the light turns red"
+    ],
+    "answer": 3,
+    "hint": "Heavy vehicles take longer to stop.",
+    "explain": "A large vehicle needs extra distance to stop. If the light turns red, the driver needs that space in front, and cutting in may leave too little room to brake.",
+    "quote": "Never move into the space in front of a large vehicle that is approaching a traffic light. If the traffic light changes to red the driver needs that extra space for stopping.",
+    "topic": "Large trucks: stopping distance"
+  },
+  {
+    "id": "c08-020",
+    "ch": 8,
+    "sec": "s088",
+    "page": 101,
+    "type": "rule",
+    "img": null,
+    "q": "You are stopping behind a large truck on a hill. What should you do?",
+    "choices": [
+      "Leave extra space in front of you in case it rolls back",
+      "Stop close behind it so other vehicles cannot cut in",
+      "Leave the usual space, since trucks cannot roll back",
+      "Sound your horn so the driver knows you are there"
+    ],
+    "answer": 0,
+    "hint": "Think about what can happen when the truck driver lets off the brakes.",
+    "explain": "On a hill, leave extra space in front of your vehicle when stopped behind a large vehicle. It may roll back when the driver releases the brakes.",
+    "quote": "If you are on a hill and stopping behind a large vehicle, leave extra space in front of your vehicle. The large vehicle may roll back when the driver releases their brakes.",
+    "topic": "Large trucks: hills"
+  },
+  {
+    "id": "c08-021",
+    "ch": 8,
+    "sec": "s088",
+    "page": 101,
+    "type": "rule",
+    "img": null,
+    "q": "A large truck ahead of you is turning right. What should you do?",
+    "choices": [
+      "Pass it on the right while it swings wide",
+      "Pull up beside it on the right so you are ready to go",
+      "Stay well back and do not drive into the space on its right",
+      "Sound your horn to warn the driver you are there"
+    ],
+    "answer": 2,
+    "hint": "Heavy vehicles need extra room to turn.",
+    "explain": "When a large vehicle is turning right, stay well back and keep out of the space on its right. You could be squeezed between the truck and the curb.",
+    "quote": "When a large vehicle is turning to the right, stay well back and do not drive in the space on the right of the large vehicle. Your vehicle could be squeezed between the large vehicle and the curb or edge of the road.",
+    "topic": "Large trucks: wide turns"
+  },
+  {
+    "id": "c08-022",
+    "ch": 8,
+    "sec": "s088",
+    "page": 102,
+    "type": "rule",
+    "img": null,
+    "q": "You are approaching an intersection where a large truck is turning onto your road. What should you do?",
+    "choices": [
+      "Pull forward so the truck driver can see you",
+      "Stop back from the intersection to give it room to turn",
+      "Stay at the stop line, since the truck must stay in its lane",
+      "Move into the intersection to clear space behind you"
+    ],
+    "answer": 1,
+    "hint": "The truck may need to cut the corner and use part of your lane.",
+    "explain": "A large vehicle may need to cross the centre line, cut a corner or use part of your lane to turn. Stop back from the intersection to give the driver room.",
+    "quote": "If you are on a road that a large vehicle is turning onto, be aware that the operator of the vehicle may need to drive across the centre line, cut a corner, or use part of your lane to complete the turn. Stop back from the intersection to allow the operator the space to complete the turn.",
+    "topic": "Large trucks: wide turns"
+  },
+  {
+    "id": "c08-023",
+    "ch": 8,
+    "sec": "s088",
+    "page": 101,
+    "type": "rule",
+    "img": null,
+    "q": "You have just passed a heavy commercial vehicle. When should you return to your lane in front of it?",
+    "choices": [
+      "As soon as your rear bumper clears its front bumper",
+      "Halfway through the pass, to finish sooner",
+      "Only after leaving extra room in front of it",
+      "Right away, then brake so the driver knows you are there"
+    ],
+    "answer": 2,
+    "hint": "Heavy vehicles cannot slow down as quickly as a car.",
+    "explain": "Heavy commercial vehicles need more distance to slow or stop. After passing one, leave extra room before returning to your lane in front of it.",
+    "quote": "Heavy commercial vehicles will require more distance to slow or stop. After passing one, leave extra room before you return to your lane in front of it.",
+    "topic": "Large trucks: passing"
+  },
+  {
+    "id": "c08-024",
+    "ch": 8,
+    "sec": "s089",
+    "page": 102,
+    "type": "rule",
+    "img": null,
+    "q": "A loaded log hauling truck ahead of you is turning off the highway. What should you do?",
+    "choices": [
+      "Pass it quickly on the left before it slows",
+      "Pass it on the shoulder",
+      "Pass it once its cab has left the highway",
+      "Do not pass it while it is turning"
+    ],
+    "answer": 3,
+    "hint": "The load can stick out a long way behind the cab.",
+    "explain": "Never pass a log hauling truck that is turning off the highway. The logs may extend up to 9 m (30 ft) behind the truck and can block some or all lanes.",
+    "quote": "Never pass a log hauling truck that is turning left or right off the highway. The extension of the logs from the rear of the truck may be as long as nine metres (30 feet).",
+    "topic": "Log-haul trucks"
+  },
+  {
+    "id": "c08-025",
+    "ch": 8,
+    "sec": "s090",
+    "page": 103,
+    "type": "rule",
+    "img": null,
+    "q": "On an undivided highway, you approach a school bus from either direction and its alternating amber lights are flashing. What does this mean?",
+    "choices": [
+      "Be ready to stop, as the bus is about to stop",
+      "The bus has finished loading and is about to pull away",
+      "You must stop at once, 5 metres from the bus",
+      "Pass the bus quickly before the red lights start"
+    ],
+    "answer": 0,
+    "hint": "Amber is a warning about what comes next.",
+    "explain": "Flashing amber lights warn that the red lights are about to start and the bus is stopping for students. You must be ready to stop.",
+    "quote": "When you approach a school bus from either direction (from the front or the rear), and it has the alternating amber lights flashing, you must be ready to stop. This is a warning that the alternating red lights are going to begin flashing and the school bus is stopping to allow students to get on or off.",
+    "topic": "School bus: amber lights"
+  },
+  {
+    "id": "c08-026",
+    "ch": 8,
+    "sec": "s090",
+    "page": 103,
+    "type": "rule",
+    "img": null,
+    "q": "You come up behind a school bus that has stopped with its alternating red lights flashing and its stop sign extended. How far from the bus must you stop?",
+    "choices": [
+      "About 5 metres",
+      "About 20 metres",
+      "About two to three car lengths",
+      "About 100 metres"
+    ],
+    "answer": 1,
+    "hint": "Stopping well back lets drivers behind you see the lights and the students.",
+    "explain": "Come to a full stop about 20 metres (four to five car lengths) from the bus. This lets drivers behind you see the flashing lights and students crossing.",
+    "quote": "You must come to a full stop about 20 metres (about four to five car lengths) away from the school bus. This distance allows drivers of other vehicles behind you to see the flashing lights and students crossing the highway.",
+    "topic": "School bus: red lights"
+  },
+  {
+    "id": "c08-027",
+    "ch": 8,
+    "sec": "s090",
+    "page": 104,
+    "type": "rule",
+    "img": null,
+    "q": "You are stopped for a school bus with flashing red lights. When may you go?",
+    "choices": [
+      "As soon as the last student reaches the sidewalk",
+      "When the red lights stop, even if the stop sign is still out",
+      "After waiting 30 seconds with no students in sight",
+      "When the red lights stop and the stop sign is pulled in"
+    ],
+    "answer": 3,
+    "hint": "Wait for the bus itself to tell you it is done.",
+    "explain": "You must stay stopped until the flashing red lights are turned off and the stop sign on the driver's side is no longer extended.",
+    "quote": "You must remain stopped until the alternating flashing red lights are turned off and the stop sign on the driver’s side is no longer extended.",
+    "topic": "School bus: red lights"
+  },
+  {
+    "id": "c08-028",
+    "ch": 8,
+    "sec": "s090",
+    "page": 103,
+    "type": "rule",
+    "img": null,
+    "q": "On a two-lane undivided highway, a school bus stops with its red lights flashing. Who must stop?",
+    "choices": [
+      "Only traffic behind the bus",
+      "Only traffic coming toward the bus",
+      "Traffic in both directions",
+      "No one, if the bus has pulled onto the shoulder"
+    ],
+    "answer": 2,
+    "hint": "Students may need to cross the whole road.",
+    "explain": "On a two-lane undivided highway, traffic in both lanes must stop for a school bus with its red lights flashing.",
+    "quote": "On a two-lane undivided highway, both lanes must stop for a school bus.",
+    "topic": "School bus: both directions"
+  },
+  {
+    "id": "c08-029",
+    "ch": 8,
+    "sec": "s090",
+    "page": 103,
+    "type": "rule",
+    "img": null,
+    "q": "On a four-lane highway with no median, a school bus stops with its red lights flashing. Which lanes must stop?",
+    "choices": [
+      "All four lanes",
+      "Only the two lanes going the same way as the bus",
+      "Only the lane directly behind the bus",
+      "Only the two lanes going the opposite way"
+    ],
+    "answer": 0,
+    "hint": "With no median, nothing separates the students from any lane.",
+    "explain": "On a four-lane undivided highway, all four lanes must stop for a school bus. Only a median changes the rule for oncoming traffic.",
+    "quote": "On a four-lane undivided highway, all four lanes must stop for a school bus.",
+    "topic": "School bus: both directions"
+  },
+  {
+    "id": "c08-030",
+    "ch": 8,
+    "sec": "s090",
+    "page": 104,
+    "type": "rule",
+    "img": null,
+    "q": "You are on a highway divided by a median. A school bus on the other side of the median is coming toward you with its red lights flashing. What should you do?",
+    "choices": [
+      "Stop about 20 metres from the bus",
+      "Stop and wait until its red lights turn off",
+      "Proceed with caution and watch for pedestrians",
+      "Speed up to get past the bus quickly"
+    ],
+    "answer": 2,
+    "hint": "A median changes the rule for one direction of traffic.",
+    "explain": "On a divided highway, when you approach a school bus from the front with its amber or red lights flashing, you may proceed with caution. Watch for pedestrians.",
+    "quote": "When you approach a school bus from the front and the school bus has its alternating amber or red lights flashing, you may proceed with caution. Watch for pedestrians. Remember, this is only on a divided highway.",
+    "topic": "School bus: divided highway"
+  },
+  {
+    "id": "c08-031",
+    "ch": 8,
+    "sec": "s090",
+    "page": 103,
+    "type": "rule",
+    "img": null,
+    "q": "On a highway divided by a median, you come up behind a school bus that has stopped with its red lights flashing. What must you do?",
+    "choices": [
+      "Proceed with caution, since the highway is divided",
+      "Stop, the same as on an undivided highway",
+      "Pass on the left if no students are visible",
+      "Slow to 30 km/h and pass carefully"
+    ],
+    "answer": 1,
+    "hint": "The median only protects students from traffic on the other side.",
+    "explain": "On a divided highway, vehicles behind the school bus must stop. Only traffic approaching from the front on the other side of the median may proceed with caution.",
+    "quote": "On a highway divided by a median, vehicles to the rear of the school bus must stop.",
+    "topic": "School bus: divided highway"
+  },
+  {
+    "id": "c08-032",
+    "ch": 8,
+    "sec": "s090",
+    "page": 104,
+    "type": "rule",
+    "img": null,
+    "q": "In July, a school bus stops on a quiet country road and turns on its flashing red lights. Do the school bus rules apply?",
+    "choices": [
+      "No, they only apply during the school year",
+      "No, they only apply inside school zones",
+      "Only between 8 a.m. and 4 p.m.",
+      "Yes, they apply whenever and wherever the lights are on"
+    ],
+    "answer": 3,
+    "hint": "What triggers the rule is on the bus itself.",
+    "explain": "The school bus rules apply whenever and wherever the school bus lights are activated, not just in school zones or during the school year.",
+    "quote": "These rules apply whenever and wherever the school bus lights are activated.",
+    "topic": "School bus: when rules apply"
+  },
+  {
+    "id": "c08-033",
+    "ch": 8,
+    "sec": "s091",
+    "page": 104,
+    "type": "rule",
+    "img": null,
+    "q": "According to the guide's memory phrase, what do flashing amber and red lights on a vehicle ahead mean?",
+    "choices": [
+      "Funeral procession ahead",
+      "Snowplow ahead",
+      "Light rail crossing ahead",
+      "Log hauling truck ahead"
+    ],
+    "answer": 1,
+    "hint": "These lights make a slow work vehicle easier to see when visibility is poor.",
+    "explain": "Snowplows use flashing amber and red lights to be more visible. Remember: flashing amber and red means snowplow ahead.",
+    "quote": "Snowplows are equipped with flashing amber and red lights to make them more visible. Remember, “flashing amber and red means snowplow ahead”.",
+    "topic": "Snowplows"
+  },
+  {
+    "id": "c08-034",
+    "ch": 8,
+    "sec": "s091",
+    "page": 104,
+    "type": "rule",
+    "img": null,
+    "q": "When is passing a snowplow strictly prohibited?",
+    "choices": [
+      "Only when the snowplow is spreading sand",
+      "When your view along the side of the snowplow is blocked",
+      "Only at night",
+      "Only on divided highways"
+    ],
+    "answer": 1,
+    "hint": "Think about what you need to see before any pass.",
+    "explain": "Passing a snowplow is strictly prohibited when your view along its side is blocked, when passing gets in the way of its work, or when the pass cannot be done safely.",
+    "quote": "Passing a snowplow is strictly prohibited when: the view along the side of the snowplow is obstructed, passing impedes the operation of the snowplow, or the act of passing cannot be done safely.",
+    "topic": "Snowplows: passing"
+  },
+  {
+    "id": "c08-035",
+    "ch": 8,
+    "sec": "s091",
+    "page": 104,
+    "type": "rule",
+    "img": null,
+    "q": "About how often will snowplow operators move to the side of the road, where it is safe, to let vehicles pass?",
+    "choices": [
+      "Every 500 metres",
+      "Every 20 to 25 kilometres",
+      "Only at the end of their route",
+      "Every 5 to 8 kilometres"
+    ],
+    "answer": 3,
+    "hint": "It is often enough that staying back and waiting is the safer choice.",
+    "explain": "Snowplow operators move over every 5 to 8 km, where safe, to let traffic pass. Even when passing is permitted, it is safer to stay well back until then.",
+    "quote": "Snow plow operators will move to the side of the road, where it is safe, every five to eight kilometres to allow vehicles to pass. Even when passing is permitted, it is safer to stay well back until the snowplow operator can safely move over to allow vehicles to pass.",
+    "topic": "Snowplows: passing"
+  },
+  {
+    "id": "c08-036",
+    "ch": 8,
+    "sec": "s092",
+    "page": 105,
+    "type": "rule",
+    "img": null,
+    "q": "At a railway crossing sign, when must you stop for a train?",
+    "choices": [
+      "When a train is visible or sounding a signal within 500 metres",
+      "Only when a train is within 100 metres of the crossing",
+      "Only when the crossing has gates and they are down",
+      "Only when a flag person signals you to stop"
+    ],
+    "answer": 0,
+    "hint": "A train still several city blocks away counts.",
+    "explain": "A railway crossing sign means you must yield to all trains. Stop when a train is visible or sounding a signal and is within 500 metres (about five city blocks) of the crossing.",
+    "quote": "You must stop when a train is visible or sounding a signal and approaching within 500 metres (about five city blocks) of the crossing.",
+    "topic": "Railway crossings"
+  },
+  {
+    "id": "c08-037",
+    "ch": 8,
+    "sec": "s092",
+    "page": 105,
+    "type": "rule",
+    "img": null,
+    "q": "A railway crossing has a stop sign. Where must you stop?",
+    "choices": [
+      "At least 20 metres from the nearest rail",
+      "Right next to the nearest rail",
+      "Between 5 and 15 metres from the nearest rail",
+      "Between 15 and 30 metres from the nearest rail"
+    ],
+    "answer": 2,
+    "hint": "The required spot is a range, measured from the nearest rail.",
+    "explain": "A stop sign at a railway crossing means a complete stop between 5 m (15 ft) and 15 m (50 ft) from the nearest rail. Do not go until you are sure no train is coming.",
+    "quote": "A stop sign at a railway crossing requires the driver to come to a complete stop between five metres (15 feet) and 15 metres (50 feet) from the nearest rail.",
+    "topic": "Railway crossings: stop distance"
+  },
+  {
+    "id": "c08-038",
+    "ch": 8,
+    "sec": "s092",
+    "page": 106,
+    "type": "rule",
+    "img": null,
+    "q": "The red lights at a railway crossing start flashing and the bells ring. You are the vehicle nearest the crossing. Where must you stop?",
+    "choices": [
+      "At least 20 metres back from the nearest rail",
+      "Right at the edge of the nearest rail",
+      "Anywhere, as long as you are not on the tracks",
+      "At least 5 metres back from the nearest rail"
+    ],
+    "answer": 3,
+    "hint": "The guide gives a minimum distance measured from the nearest rail.",
+    "explain": "When the lights flash and bells ring, the vehicle nearest the crossing must stop at least 5 metres back from the nearest rail.",
+    "quote": "Stop when the lights begin to flash and the bells ring to indicate a train is approaching. The driver of the vehicle nearest the crossing must stop at least five metres back from the nearest rail.",
+    "topic": "Railway crossings: stop distance"
+  },
+  {
+    "id": "c08-039",
+    "ch": 8,
+    "sec": "s092",
+    "page": 106,
+    "type": "rule",
+    "img": null,
+    "q": "At a railway crossing with gates, lights and bells, when may you go after a train passes?",
+    "choices": [
+      "As soon as the last rail car clears the crossing",
+      "When the gates are up, the lights stop and the bells stop",
+      "When the gates start to rise again",
+      "When you can drive around the gates safely"
+    ],
+    "answer": 1,
+    "hint": "Every warning device must be finished before you move.",
+    "explain": "Remain stopped until the gates are raised, the lights stop flashing and the bells stop ringing. Never drive around the gates or cross while they are moving.",
+    "quote": "You must remain stopped until the gates are raised, the lights stop flashing, and the bells stop ringing.",
+    "topic": "Railway crossings: gates"
+  },
+  {
+    "id": "c08-040",
+    "ch": 8,
+    "sec": "s092",
+    "page": 106,
+    "type": "rule",
+    "img": null,
+    "q": "The last car of a train has just passed the crossing. What should you make sure of before moving ahead?",
+    "choices": [
+      "That no second train is coming on another track",
+      "That the gates have started to rise",
+      "That the train's horn has stopped sounding",
+      "Nothing, since only one train can use a crossing at a time"
+    ],
+    "answer": 0,
+    "hint": "Noise from one train can hide the sound of another.",
+    "explain": "A second train can come on another track from a different direction, and you may not hear it over the first one. Check before you move ahead.",
+    "quote": "When the last car of a train passes the crossing, make sure that another train is not coming before you move ahead. A second train can come on another track from a different direction.",
+    "topic": "Railway crossings: second train"
+  },
+  {
+    "id": "c08-041",
+    "ch": 8,
+    "sec": "s092",
+    "page": 106,
+    "type": "rule",
+    "img": null,
+    "q": "Your vehicle stalls on a railway crossing and a train is coming. After everyone gets out, which way should you go?",
+    "choices": [
+      "Away from the tracks, in the same direction the train is travelling",
+      "Stay beside the vehicle and wave at the train",
+      "Away from the tracks, toward the direction the train is coming from",
+      "Back into the vehicle to try restarting it"
+    ],
+    "answer": 2,
+    "hint": "Think about where flying debris would go if the train hits your vehicle.",
+    "explain": "Get everyone out and move well away from the vehicle and the tracks. If possible, go toward the direction the train is coming from so you are not hit by flying debris.",
+    "quote": "If a train is coming, move well away from your vehicle and away from the tracks. If possible, go in the direction where the train is approaching. This will prevent you from being hit with flying debris if the train hits the stalled vehicle.",
+    "topic": "Railway crossings: stalled vehicle"
+  },
+  {
+    "id": "c08-042",
+    "ch": 8,
+    "sec": "s092",
+    "page": 106,
+    "type": "rule",
+    "img": null,
+    "q": "Traffic is backed up on the far side of a railway crossing. What should you do?",
+    "choices": [
+      "Drive onto the tracks and wait there for traffic to move",
+      "Wait on the approach and cross only when you can clear the crossing",
+      "Drive around the line of traffic using the shoulder",
+      "Cross and stop with your rear bumper just over the last rail"
+    ],
+    "answer": 1,
+    "hint": "Never let yourself get trapped where a train runs.",
+    "explain": "Do not get trapped on the tracks. Wait on the approach and cross only when you are sure you can clear the crossing.",
+    "quote": "Do not get trapped on the railway tracks at a railway crossing. Wait on the approach to the crossing and cross only when you are sure you can clear the crossing.",
+    "topic": "Railway crossings"
+  },
+  {
+    "id": "c08-043",
+    "ch": 8,
+    "sec": "s092",
+    "page": 105,
+    "type": "rule",
+    "img": null,
+    "q": "A speed sign is posted below a railway advance warning sign. What does it show?",
+    "choices": [
+      "The speed of approaching trains",
+      "The minimum speed for crossing the tracks",
+      "The new speed limit for the rest of the road",
+      "The recommended speed for the railway crossing"
+    ],
+    "answer": 3,
+    "hint": "It will be lower than the posted speed for the road.",
+    "explain": "The speed sign below an advance warning sign is the recommended speed for the railway crossing. It is lower than the posted speed for the road.",
+    "quote": "The speed sign below the advance warning sign is the recommended speed for the railway crossing. It will be less than the posted speed for the road.",
+    "topic": "Railway signs"
+  },
+  {
+    "id": "c08-044",
+    "ch": 8,
+    "sec": "s093",
+    "page": 107,
+    "type": "rule",
+    "img": null,
+    "q": "You are following a commercial vehicle carrying passengers or dangerous goods toward a railway crossing. What should you expect?",
+    "choices": [
+      "It may be required to stop at the crossing",
+      "It will speed up to clear the tracks quickly",
+      "It is not allowed to cross railway tracks",
+      "It must pull onto the shoulder to let you pass"
+    ],
+    "answer": 0,
+    "hint": "Some vehicles have their own rules at railway crossings.",
+    "explain": "Vehicles carrying passengers or dangerous goods can be required by law or company policy to stop at railway crossings. Be prepared to stop when following one.",
+    "quote": "Commercial vehicles transporting passengers or dangerous goods can be required by law or company policy to stop at railway crossings. Be prepared to stop when you are following a commercial vehicle near a railway crossing.",
+    "topic": "Vehicles that stop at crossings"
+  },
+  {
+    "id": "c08-045",
+    "ch": 8,
+    "sec": "s094",
+    "page": 107,
+    "type": "rule",
+    "img": null,
+    "q": "An LRT train has just passed, but the crossing gates are still down. What should you do?",
+    "choices": [
+      "Drive around the gates, since the train has passed",
+      "Go if you cannot hear another train coming",
+      "Stay stopped, since another train may come the other way",
+      "Cross slowly, since LRT trains can stop within a few metres"
+    ],
+    "answer": 2,
+    "hint": "LRT trains run on electricity, so they are very quiet.",
+    "explain": "Never drive around LRT gates, even right after a train passes. Another may be coming from the other direction, and an LRT train may need up to 100 m to stop.",
+    "quote": "Never drive around the gates, even if an LRT train has just passed. Another one may be coming from the other direction.",
+    "topic": "Light rail transit"
+  },
+  {
+    "id": "c08-046",
+    "ch": 8,
+    "sec": "s096",
+    "page": 107,
+    "type": "rule",
+    "img": null,
+    "q": "You are driving in a funeral procession and reach a red traffic light. What may you do?",
+    "choices": [
+      "You must stop and wait for green, like any other driver",
+      "Continue only if a police officer waves you on",
+      "Continue if it is safe and you are closely following",
+      "Continue even if you have fallen far behind"
+    ],
+    "answer": 2,
+    "hint": "Processions are meant to stay together, with headlights on.",
+    "explain": "In a funeral procession you may go through a stop sign or red light without stopping, with your headlights on, but only if you are closely following the vehicle ahead and it is safe.",
+    "quote": "If you are participating in a funeral procession, you are permitted to continue through an intersection with a stop sign or red traffic light without stopping. Your headlights must be turned on. You may only proceed if you are closely following the vehicle in front of you in the procession and it is safe to do so.",
+    "topic": "Funeral processions"
+  },
+  {
+    "id": "c08-047",
+    "ch": 8,
+    "sec": "s096",
+    "page": 107,
+    "type": "rule",
+    "img": null,
+    "q": "A funeral procession is passing through an intersection in front of you. What should you do?",
+    "choices": [
+      "Drive through a gap in the procession when one appears",
+      "Yield the right-of-way until the whole procession has passed",
+      "Sound your horn so the procession lets you through",
+      "Proceed as soon as your light turns green"
+    ],
+    "answer": 1,
+    "hint": "Do not break the line of vehicles.",
+    "explain": "Do not pass through a funeral procession. Yield the right-of-way until it has passed.",
+    "quote": "Do not pass through a funeral procession. Yield the right-of-way until it has passed before proceeding.",
+    "topic": "Funeral processions"
+  }
+]

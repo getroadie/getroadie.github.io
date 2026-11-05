@@ -1,0 +1,242 @@
+[
+ {
+  "id": "c04-001",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-002",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-003",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-004",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-005",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-006",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-007",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-008",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-009",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-010",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-011",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-012",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-013",
+  "verdict": "ok",
+  "note": "checked against p62 diagram and text: driver on the right (side road) has right-of-way at uncontrolled T; answer follows guide"
+ },
+ {
+  "id": "c04-014",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-015",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-016",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-017",
+  "verdict": "ok",
+  "note": "fixed: correct choice 'Do not pass it' was much shorter than the distractors (length tell); lengthened"
+ },
+ {
+  "id": "c04-018",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-019",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-020",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-021",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-022",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-023",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-024",
+  "verdict": "ok",
+  "note": "fixed: hint 'first exit is served by the outside lane' all but gave the answer away; neutral hint"
+ },
+ {
+  "id": "c04-025",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-026",
+  "verdict": "ok",
+  "note": "fixed: scenario was vague ('would suit your exit better'); reworded to a plain lane-change question, all distractors now involve changing lanes (contradicted), explanation tied to stay-in-lane rule, quote trimmed to the rule"
+ },
+ {
+  "id": "c04-027",
+  "verdict": "ok",
+  "note": "checked against p64 text and diagram: red/outside lane yields to yellow/inside lane; explicitly stated, not the unclear part"
+ },
+ {
+  "id": "c04-028",
+  "verdict": "ok",
+  "note": "fixed: distractor 'Stop in the circle until the exit is clear' is arguable from the guide's own 'If you cannot stop or exit safely' wording; replaced with driving clockwise (contradicted by counterclockwise rule)"
+ },
+ {
+  "id": "c04-029",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-030",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-031",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-032",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-033",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-034",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-035",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-036",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-037",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-038",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-039",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-040",
+  "verdict": "ok",
+  "note": "distractors contradicted by Ch 2 p40: 'the only left turn permitted at a red light is onto a one-way street from a one-way street'"
+ },
+ {
+  "id": "c04-041",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-042",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-043",
+  "verdict": "ok",
+  "note": "fixed: duplicated c02-058 'What is a two-way left turn lane?'; reworded to test the Ch 4 use rules (enter close to the turn, watch for oncoming vehicles), new choices/hint/explain/quote from p69"
+ },
+ {
+  "id": "c04-044",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-045",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-046",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-047",
+  "verdict": "ok",
+  "note": ""
+ },
+ {
+  "id": "c04-048",
+  "verdict": "ok",
+  "note": ""
+ }
+]

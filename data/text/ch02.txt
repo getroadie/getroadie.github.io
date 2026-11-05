@@ -1,0 +1,360 @@
+# Chapter 2: Traffic Control  (pages 23-44)
+
+=== Page 23 ===
+2
+
+=== Page 24 ===
+## Traffic control signals
+Traffic control signals are lights that use the colours green, yellow, and red to control the flow of traffic at intersections or where roadways merge. The colour of the light determines which stream of traffic has the right-of-way. The traffic control signal may be vertical or horizontal.
+The order of lights for a horizontal traffic control signal is red on the left, yellow in the centre, and green on the right.
+The order of lights for a vertical traffic control signal is red at the top, yellow in the centre, and green at the bottom.
+Solid red light:
+Drivers facing a traffic control signal displaying a solid red light must bring their vehicles to a complete stop before the stop line or crosswalk that is directly in front of the vehicle. If there is no stop line or crosswalk, drivers must stop before the intersection. Vehicles must remain stopped at the red light until it turns green, unless safely turning right after stopping.
+A solid double red light has the same meaning as a single red light.
+Turning right at a red light is permitted provided that there is no sign prohibiting the turn. Before making the turn the vehicle must come to a complete stop before the stop line or crosswalk. Complete the turn when it is safe to do so while yielding to any other traffic.
+Unless a sign prohibits the turn, the only left turn permitted at a red light is onto a one-way street from a one-way street. This turn is only permitted after the vehicle is brought to a complete stop before the stop line or crosswalk, and if the turn can be made safely after yielding to other traffic.
+Solid yellow light:
+When a green light changes to yellow, it warns that the light will change to red immediately and drivers must prepare to stop or clear the intersection. Drivers approaching an intersection with a solid (not flashing) yellow traffic control light must bring their vehicles to a complete stop before the stop line or crosswalk, unless a point has been reached at the intersection where stopping cannot be done safely. If there is no stop line or crosswalk, vehicles must stop before the intersection.
+Drivers already in the intersection and facing a yellow light must safely clear the intersection.
+Solid green light:
+Drivers facing a solid green traffic control light are permitted to travel through the intersection without stopping, unless required to yield to oncoming traffic when turning left or to pedestrians in the crosswalk when turning right or left.
+When approaching a green light, anticipate that it will turn yellow. A “stale” green light means the light has been green for a while and will turn yellow soon. A good tip is to check the
+
+=== Page 25 ===
+pedestrian walk light at the intersection. If it shows the “WALK” symbol, the light will stay green. If it shows the “DON’T WALK” symbol, be ready to stop. If the traffic light does change, the driver must stop before the intersection if it can be done safely.
+Green arrow with green light:
+Drivers facing a traffic control light with a green arrow and solid green traffic control light may enter the intersection and proceed without yielding in the direction indicated by the arrow. Drivers facing the green light may also proceed in the other directions when it is safe and legal.
+Green arrow with red light:
+Drivers facing a traffic control light with a green arrow and a red control light may enter the intersection and proceed without stopping only in the direction indicated by the arrow.
+Flashing red light:
+Drivers facing a flashing red traffic control light must stop before the stop line or crosswalk. If there is no stop line or crosswalk, drivers must stop before the intersection. Drivers should proceed only when it is safe and after yielding the right-of way. The flashing red light is treated like a stop sign.
+When the lights in all directions are flashing red the intersection becomes a four-way stop.
+Flashing yellow light:
+Drivers facing a flashing yellow traffic control light may proceed with caution after yielding to pedestrians and other vehicles within the intersection.
+Flashing green light:
+Drivers facing a flashing green traffic control light are permitted to go through, turn left or turn right without stopping. Opposing traffic will be facing a red light; however a driver must still yield to pedestrians or other vehicles lawfully in the intersection.
+## Pedestrian signals and signs
+Drivers must understand pedestrian control lights so they can anticipate the actions of those sharing the road. Pedestrians facing a traffic control signal where a word or symbol indicating “WALK” is displayed, may enter the crosswalk or roadway when it is safe, and proceed in that direction.
+A pedestrian facing a traffic signal where a word or symbol indicates “DON’T WALK” must not enter the crosswalk or roadway. Pedestrians who have begun crossing when the word or symbol appears may continue crossing and clear the crosswalk. Some pedestrian signals include a countdown timer to show how much time remains before the light changes.
+
+=== Page 26 ===
+Pedestrian signal indicating “DON’T WALK” or “WAIT”
+Pedestrian signal indicating “WALK”
+Yellow lights on a sign with a symbol indicate that caution is required because of school zones or areas, playground zones or areas, school crossings, and pedestrian crossings. When the yellow lights are flashing, the driver must reduce speed to a maximum of 30 km/h and yield or stop for pedestrians.
+Pedestrian crossing signs with yellow lights.
+Pedestrian crossing signs without yellow lights.
+Special crosswalk overhead sign.
+At intersections with traffic control signals, but without pedestrian “WALK” and “DON’T WALK” signals, pedestrians must obey the rules for the colour of light they are facing.
+- Solid red light. Do not enter the intersection.
+- Solid yellow light. Clear the intersection if already crossing, or do not enter the intersection.
+- Solid green light. Proceed across the road within any marked or unmarked crosswalk.
+Pedestrians should check for vehicles before starting to cross.
+## Lane reversal signals
+Lane reversal signals are used to control the direction of traffic on specific lanes of a roadway. A common use of this control is reversible lanes that change the flow of traffic during different times of the day. The signal(s) over one or more lanes change between a red X and a green arrow.
+Solid red X:
+When a red X is displayed over a driving lane, the driver does not enter or remain in that lane. This signal indicates that the lane is being used by oncoming traffic. Move safely into a lane with a green arrow.
+Downward pointing green arrow:
+A driver facing the downward pointing green arrow is permitted to travel in that lane.
+
+=== Page 27 ===
+Vehicle moving from red X lane to green arrow lane.
+## Sign shapes and colours
+The word or symbol on traffic regulation signs tell the driver what can or cannot be done at a specific location or time, and provide information. The shape and colour will vary depending on the type of message.
+Traffic regulation signs include those that show right-of-way and road access that is permitted or prohibited. They also show control of speed, turns, direction of travel, passing, traffic lanes, parking, and crosswalks.
+Action or activity within the circle is not permitted.
+Red circle and slash on white background
+Square shape
+Action or activity within circle is permitted.
+Green circle on white background
+Square shape
+Regulatory message such as speed limit.
+Regulatory message on white background
+Rectangle shape
+Indicates school zone/area.
+Fluorescent yellow green background
+Pentagon shape
+Indicates lane control.
+White message on black background
+Square shape
+Provides construction area information.
+Information or picture on orange background Diamond shape
+
+=== Page 28 ===
+Provides information such as distance to destination.
+White message on green background
+Rectangle shape
+Indicates place for fuel, food, lodging, or assistance.
+White message on blue background
+Square shape
+Indicates transportation services such as air port, ferry, etc.
+Information or pictures on green background
+Square shape
+Indicates caution or warning of hazard displayed on sign.
+Information or pictures on yellow background
+Diamond shape
+## Traffic regulatory signs
+Stop:
+Come to a complete stop and do not proceed until safe.
+Yield:
+Yield the right-of-way to traffic not facing the sign and to all pedestrians waiting to cross and within the crosswalk or intersection.
+Wrong way:
+Indicates traffic is moving in an oncoming direction.
+Do not enter:
+Railway crossing:
+Do not stop on tracks:
+
+=== Page 29 ===
+## Traffic direction signs
+Proceed in direction of arrow only:
+Two way traffic:
+Divider ahead – keep right:
+## Speed limit signs
+Speed limits do not indicate the maximum speed drivers should travel. They are the maximum speed permitted when conditions are ideal. Any speed that is unsafe for the current conditions is illegal.
+Speed limit signs are in kilometres per hour (km/h).
+Unless otherwise posted:
+- 100 km/h is the maximum speed limit on a provincial highway located outside an urban area.
+- 80 km/h is the maximum speed limit on a provincial highway located inside a corporate limit of a city.
+- 80 km/h is the maximum speed limit on a roadway that is located outside an urban area.
+A provincial highway is identified by either a single-digit, two-digit or three-digit highway route marker.
+A local road generally would not have a route marker but could be identified by a name, such as Irricana Road, a township road, such as TWP RD 52, or a range road, such as RGE RD 252.
+- 50 km/h is the maximum speed limit on a roadway that is located within an urban area, unless otherwise posted.
+Note: Municipalities may have bylaws on speed limits that place maximum limits different than the information presented here. Be aware of local laws and pay attention to all signage and posted speed limits.
+
+=== Page 30 ===
+## Designated lane signs
+The message or symbol on these signs indicates the direction(s) a vehicle must travel in the lane.
+Right turn: Left turn:
+Straight or Straight or right turn: left turn:
+Straight Left turn only: lane control:
+Single lane roundabout:
+Some intersections allow more than one vehicle travelling in the same direction to turn at the same time. Maintain your lane position during and after the turn.
+Dual right turn: Dual left turn:
+Left lane turn left, right lane straight or turn left:
+Left lane turn left, right lane straight:
+Left lane turn left, centre lane straight, right lane straight or turn right:
+Roundabout dual lane:
+Indicated lanes are reserved for specific vehicles such as buses, taxis, and bicycles. The symbol on the sign will identify the vehicles permitted to travel in this lane. Reserved lanes may operate at all times or only some of the time. Reserved lanes that operate only some of the time will show the hours of the day and the days of the week when the lane is reserved.
+
+=== Page 31 ===
+## Permissive signs
+Permission signs are a green circle on a white square. The action within the green circle is permitted.
+Turn left only:
+Turn right only:
+Straight only:
+Dangerous Motorized goods: snow vehicles:
+Trucks: Bicycles:
+Passing permitted:
+## Prohibitive signs
+The symbol prohibiting an action is a red circle and diagonal red bar on a white square. The action within the red circle is not permitted.
+No left turn: No right turn:
+No U-turn: Do not pass:
+Do not pass bicycles:
+
+=== Page 32 ===
+No No motorized pedestrians: snow vehicles:
+No trucks: No bicycles:
+No dangerous goods:
+Parking and stopping not permitted:
+The arrow under the symbol indicates where the action indicated on the sign is not permitted.
+No parking on the days and times shown:
+No stopping on the days and times shown:
+## School zones and areas
+School zone:
+When you approach a school sign with a maximum speed posted with it, you are entering a school zone. You must not exceed the posted speed when the zone is in effect.
+The times that the school zone is in effect are on school days only and are as follows:
+- 8:00 a.m. – 9:30 a.m.
+- 11:30 a.m. – 1:30 p.m.
+- 3:00 p.m. – 4:30 p.m.
+
+=== Page 33 ===
+These hours may vary for different towns and cities according to municipal bylaws. If a municipality does establish times different from these, the times will be posted beneath the school sign.
+You are not permitted to pass or attempt to pass another vehicle travelling in the same direction within a school zone, when the zone is in effect.
+The speed limit for both urban and rural school zones is 30 km/h unless otherwise posted.
+School zone ends:
+A school zone ends where a traffic sign indicates:
+1. a higher maximum speed, or
+2. the end of the school zone.
+School area:
+When you approach a school sign without a speed sign attached to it, you are entering a school area. This sign is to alert drivers that children may be walking or crossing the road and you must use caution when driving through the school area.
+School crosswalk:
+This sign alerts drivers to watch for pedestrians.
+TO
+## Playground zones and areas
+Playground zone:
+When you approach a playground sign with a maximum speed sign attached to it, you are entering a playground zone. You must not exceed the posted speed, when the zone is in effect.
+Playground restrictions are in effect every day from 8:30 a.m. to one hour after sunset.
+These hours may vary for different towns and cities according to municipal bylaws. If a municipality does establish times different from these, the times will be posted beneath the playground sign.
+You are not permitted to pass or attempt to pass another vehicle travelling in the same direction within a playground zone when the speed restriction is in effect.
+The speed limit for both urban and rural playground zones, when the times are in effect, is 30 km/h unless otherwise posted.
+
+=== Page 34 ===
+Playground zone ends:
+A playground zone ends where a traffic sign indicates:
+1. a higher maximum speed, or
+2. the end of the playground zone.
+Playground area:
+When you approach a playground sign without a speed limit sign attached to it, you are entering a playground area. This sign is to alert drivers that children may be near and you must use caution when driving through the playground area.
+## Parking services for persons with disabilities
+This sign indicates parking for persons with disabilities. These parking spaces ensure that persons with disabilities have safe access to goods and services.
+It is illegal for any vehicle to park or stop in a parking stall reserved for persons with disabilities unless the vehicle has an identifying parking placard or licence plate.
+The application for a parking placard for persons with disabilities can be found at www.alberta.ca/get-parking-placard-people-disabilities.aspx or by contacting a registry agent or family doctor.
+## TTY capabilities
+This sign indicates pay phones that have a TTY (teletypewriter) that assists people who are hearing or speech-impaired to use telephone networks.
+## Warning signs
+Warning signs give drivers advance notice of actions required, or potentially hazardous conditions on or near a road. Some of these signs warn of:
+- a traffic regulation, such as stop or yield
+- features or physical conditions of the road
+- hazards that may require a driver to respond.
+
+=== Page 35 ===
+Traffic regulations:
+Stop ahead Yield ahead
+School bus stop ahead Traffic control signals ahead
+Stop at traffic lights ahead when yellow lights flashing:
+This warning sign is placed in advance of some intersections with traffic control signals. When the yellow lights are flashing, drivers approaching the intersection must prepare to stop because the traffic control signal light will be turning from green to yellow or yellow to red, or is currently red.
+Turn or curve ahead:
+Curves right Sharp turn right
+Road curves left Sharp turn left
+Road turns left/right Winding road
+Recommended maximum speed through this curve under ideal driving conditions
+
+=== Page 36 ===
+Crossings ahead:
+Pedestrian crossing Animal crossing
+Moose crossing Bicycle crossing
+School crosswalk Motorized snow vehicles crossing
+Intersections ahead:
+Hidden road right Hidden road left
+Hidden road Y intersection
+T intersection T intersection
+Railway crossing Trucks entering from right
+Dead end Roundabout
+Roadways ahead that join:
+Merging traffic
+Roadways ahead side-by-side but do not join:
+Free flow (added lane)
+
+=== Page 37 ===
+Narrow roadways ahead:
+Road narrows both sides
+Narrow passage
+Left lane narrows to right
+Right lane narrows to left
+Left lane ends Right lane ends
+Divided highway:
+Divided highway begins
+Divided highway ends
+Changing road conditions:
+Hill Bump
+Pavement ends Slippery when wet
+Hazard marker object on right
+Hazard marker object on left
+Bridge Ices
+Rumble strips Falling rock
+Chevron sign indicates a sharp bend in the road
+Shared-use:
+SINGLE
+LINE
+Warns that cyclists are allowed full use of the lane ahead and that the lane is too narrow for side-by-side driving
+Warns motorists to provide space for cyclists
+
+=== Page 38 ===
+## Information and guide signs
+Information and guide signs provide information about routes, off-road facilities, and geographical features and points of interest.
+Route markers:
+Route markers indicate numbers, names, or other designations of roads.
+Highway route marker Highway route marker
+Trans-Canada highway Yellowhead highway
+Bicycle route marker
+Highway information:
+Destination signs provide direction and distance to a destination.
+Directional
+Distance
+Combination of direction and distance
+Off-road services and facilities:
+Signs for off-road facilities indicate availability and direction to the services or recreational areas.
+Hospital Airport
+Parking Fuel
+Electric vehicle Travel information charging
+Food Trailer campground
+Telephone Accommodation
+RCMP or city police
+
+=== Page 39 ===
+Recreation area ahead
+## Other signs
+Slow moving vehicle:
+A slow-moving vehicle sign is placed on the back of vehicles that travel less than 40 km/h, such as farm tractors, machinery, or construction equipment. This sign warns drivers to be prepared to reduce their speed.
+Oversized loads:
+This sign indicates a wide load is being transported. Use caution when passing vehicles displaying this sign.
+## Construction zones
+The speed limit in construction zones must be obeyed at all times. This applies even when people and equipment are not working, since hazards such as bumps, fresh oil, and loose gravel may be present. If workers are present, the fines in these areas will be doubled.
+- Obey the flag person’s signal.
+- Be prepared to slow down and stop if required.
+The following are some of the warning signs about road construction:
+People working Flag person
+Survey crew ahead Uneven pavement
+Detour next ___ km
+Construction zone ends
+
+=== Page 40 ===
+## Pavement markings
+Markings on the roadway can provide the following information:
+- lane identification separating opposing traffic
+- traffic movement in the same direction
+- traffic movement in the opposite direction
+- passing zones and no passing zones
+- lane use and designation
+- pedestrian crosswalks
+- stop lines
+- parking areas
+- word or symbol messages.
+In some cases, pavement markings are used along with other traffic control signs or signals.
+Lane markings Lane markings can be yellow or white, single or double, solid or broken. These lines provide important information about direction of traffic flow, lane changing, lane restrictions, and passing.
+Solid line markings:
+Solid lines mean that crossing the solid line to pass or change lanes is not permitted.
+Broken line markings:
+Broken lines mean that crossing the broken line to pass or change lanes is permitted.
+Yellow line markings:
+Yellow lines mean that vehicles on each side of the yellow line must travel in opposite directions. A yellow line should always be on the driver’s left side.
+Passing safely is permitted across single solid yellow lines within an urban area. In all other instances, single or double solid yellow lines indicate that passing is not permitted.
+Broken yellow lines indicate that passing is permitted. Be sure that the lane is clear and the pass can be completed safely.
+A solid yellow line and a broken yellow line together indicate that a pass is permitted for the driver who has the broken line on their side of the roadway. Passing is not permitted for the driver with the solid yellow line on their side of the roadway.
+
+=== Page 41 ===
+White line markings:
+White lines mean that vehicles on each side of the white line are travelling in the same direction.
+Solid white lines indicate that lane changing is not permitted.
+Broken white lines indicate that lane changing is permitted.
+Symbols Symbols may be used on the pavement to supplement standard signs or by themselves to warn drivers, or to regulate or guide traffic. These markings include:
+Arrows:
+Arrows indicate the vehicle movements permitted in a lane.
+On a two-way left turn lane, the centre lane of the road is shared and reserved for left turning traffic travelling in either direction.
+Diamond markings:
+Diamond markings indicate that a lane is reserved for specific vehicles. There may also be signs that will indicate time or vehicle restrictions.
+
+=== Page 42 ===
+## Shared-use lanes
+Reserved bicycle lane ahead
+Bicycle lanes are painted in the curb lane of the road with bicycle-shaped stencils and street signage. Bicycle lanes can also be positioned beside a row of parking spots. Vehicles are not allowed to drive in the bicycle lanes, except when needing to turn or enter/exit a parking spot. The bicycle lane paint line is usually dashed near corners to indicate that it is permitted to enter the bicycle lane to turn right. Be very careful and watch for bicycles when entering the bicycle lane when turning.
+Bicycle lane markings
+This lane is reserved for cyclists. It is separated from traffic and parking by solid white lines and is marked with an image of a bicycle and diamond.
+The image of a bicycle capped by a pair of arrows guides cyclists and reminds drivers to expect cyclists in the same travel lane.
+The turning vehicles yield to bicycles sign may appear at conflict zones where drivers are required to cross a bicycle lane.
+X markings:
+X markings on rural highways indicate the approach to a railway crossing. An advanced warning sign will also indicate the approach to a railway crossing.
+Painted island:
+Painted islands indicate that this area is not to be used for travel by any road users. Motorists can cross painted islands for the purpose of entering or leaving a driveway, alleyway, or private drive.
+Do not park or stop in this area.
+
+=== Page 43 ===
+## Other roadway markings
+Crosswalks:
+Crosswalk lines mark pedestrian crosswalks. Crosswalks also exist at intersections even when they are unmarked, unless a sign indicates no crossing. Stop lines indicate where vehicles must stop at intersections or railway crossings.
+Crosswalk lines
+Stop line
+Drivers should not stop in a ‘no stopping zone’ because they may interfere with other vehicles that are turning from one roadway to another. This is usually where large vehicles need extra room to turn.
+No stopping zone
+
+=== Page 44 ===
+NOTES
