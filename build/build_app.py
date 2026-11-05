@@ -82,7 +82,7 @@ for key, fn in (("official", "links_official.json"), ("other", "links_other.json
 
 import re as _re
 JOKE_BANK, _seen = [], set()
-for jf in ("jokes.json", "jokes2.json"):
+for jf in ("jokes.json", "jokes2.json", "jokes3.json"):
     jp = os.path.join(D, jf)
     if os.path.exists(jp):
         for j in json.load(open(jp, encoding="utf-8")):
